@@ -11,7 +11,6 @@ jobs:
   run:
 
     runs-on: ubuntu-latest
-    environment: env
 
     steps:
     - uses: actions/checkout@v2
@@ -24,11 +23,6 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run script
-      env:
-        HDX_READ_ONLY: ${{ secrets.HDX_READ_ONLY }}
-        HDX_SITE: ${{ secrets.HDX_SITE }}
-        PREPREFIX: ${{ secrets.PREPREFIX }}
-        USER_AGENT: ${{ secrets.USER_AGENT }}
       run: |
         python run.py
     - name: Commit updated data bundle
