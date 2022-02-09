@@ -1,7 +1,9 @@
 import csv
 import logging
 import requests
+from os.path import join
 
+from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 from hdx.facades.simple import facade
 from hdx.utilities.easy_logging import setup_logging
@@ -11,10 +13,11 @@ logger = logging.getLogger()
 
 
 def main():
+    configuration = Configuration.read()
     datasets = Dataset.search_in_hdx()
     logger.info(f"Found {len(datasets)} datasets")
 
-    itos_datasets = requests.get("https://apps.itos.uga.edu/CODV2API/api/v1/Locations/all").json()
+    itos_datasets = requests.get(configuration["itos_url"]).json()
     itos_titles = [d["DatasetTitle"] for d in itos_datasets]
 
     with open("datasets_tagged_cods.csv", "w") as c:
@@ -69,4 +72,7 @@ def main():
 
 
 if __name__ == "__main__":
-    facade(main)
+    facade(
+        main,
+        project_config_yaml=join("config", "project_configuration.yml"),
+    )
