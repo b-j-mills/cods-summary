@@ -1,7 +1,7 @@
 import csv
 import logging
 import requests
-from os.path import join
+from os.path import join, expanduser
 
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
@@ -9,10 +9,14 @@ from hdx.facades.simple import facade
 
 logger = logging.getLogger(__name__)
 
+lookup = "cods-summary"
+
 
 def main():
     configuration = Configuration.read()
-    datasets = Dataset.search_in_hdx()
+    datasets = Dataset.search_in_hdx(
+        fq='vocab_Topics:"common operational dataset - cod"'
+    )
     logger.info(f"Found {len(datasets)} datasets")
 
     itos_datasets = requests.get(configuration["itos_url"]).json()
@@ -72,6 +76,9 @@ def main():
 if __name__ == "__main__":
     facade(
         main,
-        project_config_yaml=join("config", "project_configuration.yml"),
+        hdx_site="prod",
         hdx_read_only=True,
+        user_agent_config_yaml=join(expanduser("~"), ".useragents.yml"),
+        user_agent_lookup=lookup,
+        project_config_yaml=join("config", "project_configuration.yml"),
     )
