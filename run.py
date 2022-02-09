@@ -69,4 +69,4 @@ def main():
 
 
 if __name__ == "__main__":
-    facade(main)
+    facade(main, hdx_read_only=True)

@@ -26,7 +26,6 @@ jobs:
       env:
         HDX_SITE: ${{ secrets.HDX_SITE }}
         USER_AGENT: ${{ secrets.USER_AGENT }}
-        HDX_READ_ONLY: ${{ secrets.HDX_READ_ONLY }}
       run: |
         python run.py
     - name: Commit updated data bundle
