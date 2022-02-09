@@ -6,10 +6,8 @@ from os.path import join
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 from hdx.facades.simple import facade
-from hdx.utilities.easy_logging import setup_logging
 
-setup_logging()
-logger = logging.getLogger()
+logger = logging.getLogger(__name__)
 
 
 def main():
