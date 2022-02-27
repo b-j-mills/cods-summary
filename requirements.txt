@@ -1,2 +1,2 @@
 requests~=2.26.0
-hdx-python-api==5.5.3
+hdx-python-api==5.5.5
