@@ -6,7 +6,9 @@ from os.path import join, expanduser
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 from hdx.facades.keyword_arguments import facade
+from hdx.utilities.easy_logging import setup_logging
 
+setup_logging()
 logger = logging.getLogger(__name__)
 
 lookup = "cods-summary"
