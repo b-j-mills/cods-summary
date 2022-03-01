@@ -5,7 +5,7 @@ from os.path import join, expanduser
 
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
-from hdx.facades.simple import facade
+from hdx.facades.keyword_arguments import facade
 
 logger = logging.getLogger(__name__)
 
