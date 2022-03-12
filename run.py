@@ -6,6 +6,7 @@ from os.path import join, expanduser
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 from hdx.facades.simple import facade
+from requests import ConnectTimeout
 
 logger = logging.getLogger(__name__)
 
@@ -19,8 +20,14 @@ def main():
     )
     logger.info(f"Found {len(datasets)} datasets")
 
-    itos_datasets = requests.get(configuration["itos_url"]).json()
-    itos_titles = [d["DatasetTitle"] for d in itos_datasets]
+    itos_datasets = None
+    itos_titles = []
+    try:
+        itos_datasets = requests.get(configuration["itos_url"]).json()
+    except ConnectTimeout:
+        logger.error("Could not connect to ITOS API")
+    if itos_datasets:
+        itos_titles = [d["DatasetTitle"] for d in itos_datasets]
 
     with open("datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
