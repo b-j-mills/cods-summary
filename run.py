@@ -6,7 +6,7 @@ from os.path import join, expanduser
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 from hdx.facades.simple import facade
-from requests import ConnectTimeout
+from requests.exceptions import ConnectTimeout
 
 logger = logging.getLogger(__name__)
 
@@ -31,7 +31,7 @@ def main():
 
     with open("datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
-        writer.writerow(["dataset title", "URL", "in ITOS API", "source", "contributor/organization",
+        writer.writerow(["dataset title", "URL", "Theme", "in ITOS API", "source", "contributor/organization",
                          "date of dataset", "updated", "expected update frequency", "location",
                          "visibility", "license", "methodology", "caveats", "tags", "file formats"])
 
@@ -39,6 +39,11 @@ def main():
             tags = dataset.get_tags()
             if "common operational dataset - cod" not in tags:
                 continue
+
+            theme = None
+            if dataset["name"][:6] in ["cod-ab", "cod-ps", "cod-hp", "cod-em"]:
+                theme = dataset["name"][:6]
+
             in_itos = "No"
             if dataset["title"] in itos_titles:
                 in_itos = "Yes"
@@ -61,6 +66,7 @@ def main():
                 [
                     dataset["title"],
                     dataset.get_hdx_url(),
+                    theme,
                     in_itos,
                     dataset["dataset_source"],
                     dataset.get_organization()['title'],
