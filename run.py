@@ -31,7 +31,7 @@ def main():
 
     with open("datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
-        writer.writerow(["dataset title", "URL", "Theme", "in ITOS API", "source", "contributor/organization",
+        writer.writerow(["COD-UID", "dataset title", "URL", "Theme", "in ITOS API", "source", "contributor/organization",
                          "date of dataset", "updated", "expected update frequency", "location",
                          "visibility", "license", "methodology", "caveats", "tags", "file formats"])
 
@@ -64,6 +64,7 @@ def main():
 
             writer.writerow(
                 [
+                    dataset.get_hdx_url().split("/")[-1],
                     dataset["title"],
                     dataset.get_hdx_url(),
                     theme,
