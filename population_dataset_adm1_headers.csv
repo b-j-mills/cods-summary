@@ -232,7 +232,7 @@ TZA,cod-ps-tza,tza_admpop_adm1_2000.csv,ADM1_PCODE,T
 UGA,cod-ps-uga,Could not find admin1 csv resource,,
 UKR,cod-ps-ukr,ukr_adm1_pop_2020.csv,ADM1_PCODE,T_TL
 UMI,,,,
-URY,cod-ps-ury,ury_adm1_pop.csv,ADM1_PCODE,T
+URY,cod-ps-ury,ury_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 USA,,,,
 UZB,cod-ps-uzb,uzb_admpop_adm1.csv,ADM1_PCODE,Total_pop
 VAT,,,,
