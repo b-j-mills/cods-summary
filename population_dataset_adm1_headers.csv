@@ -34,7 +34,7 @@ BOL,cod-ps-bol,bol_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 BRA,cod-ps-bra,bra_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 BRB,cod-ps-brb,blz_adm1_pop_v2.csv,ADM1_PCODE,T_TL
 BRN,,,,
-BTN,cod-ps-btn,btn_admpop_adm1_unfpa_2022.csv,ADM1_PCODE,T
+BTN,cod-ps-btn,btn_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 BVT,,,,
 BWA,cod-ps-bwa,bwa_admpop_adm1_2021_v2.csv,ADM1_PCODE,T_TL
 CAF,cod-ps-caf,caf_pplp_adm1_160214.csv,Adm1_pcode,Proj_2015
