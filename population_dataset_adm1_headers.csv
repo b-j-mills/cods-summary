@@ -97,7 +97,7 @@ GUM,,,,
 GUY,cod-ps-guy,guy_admpop_adm1_2021.csv,ADM1_PCODE,T_TL
 HKG,,,,
 HMD,,,,
-HND,cod-ps-hnd,hnd_admpop_adm1_2020ine.csv,ADM1_PCODE,T
+HND,cod-ps-hnd,hnd_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 HRV,,,,
 HTI,,,,
 HUN,cod-ps-hun,hun_admpop_adm1_2022_v01.csv,ADM1_PCODE,T_TL
