@@ -32,7 +32,7 @@ BLZ,cod-ps-blz,blz_adm1_pop_v2.csv,ADM1_PCODE,T_TL
 BMU,cod-ps-bmu,blz_adm1_pop_v2.csv,ADM1_PCODE,T_TL
 BOL,cod-ps-bol,bol_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 BRA,cod-ps-bra,bra_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
-BRB,cod-ps-brb,blz_adm1_pop_v2.csv,ADM1_PCODE,T_TL
+BRB,cod-ps-brb,brb_admpop_adm1_2010_v2.csv,ADM1_PCODE,T_TL
 BRN,,,,
 BTN,cod-ps-btn,btn_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
 BVT,,,,
