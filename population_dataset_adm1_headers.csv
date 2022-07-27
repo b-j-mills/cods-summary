@@ -1,7 +1,7 @@
 ISO,COD-UID,resource name,pcode header,total pop header
 ABW,cod-ps-abw,Could not find admin1 csv resource,,
 AFG,cod-ps-afg,afg_admpop_adm1_2021_v2.csv,Admin1_Code,T_TL
-AGO,cod-ps-ago,ago_admpop_adm1_2022.csv,ADM1_PCODE,T_TL
+AGO,cod-ps-ago,ago_admpop_adm1_2022_v2.csv,ADM1_PCODE,T_TL
 AIA,cod-ps-aia,Could not find admin1 csv resource,,
 ALA,,,,
 ALB,cod-ps-alb,alb_admpop_adm1_2021.csv,ADM1_PCODE,T_TL
