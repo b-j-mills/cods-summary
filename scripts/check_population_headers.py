@@ -1,6 +1,7 @@
 import csv
 import logging
 import re
+from frictionless.exception import FrictionlessException
 from tabulator.exceptions import EncodingError
 
 from hdx.data.dataset import Dataset
@@ -79,7 +80,7 @@ def check_population_headers(
                 try:
                     for r in iterator:
                         filled = [filled[i]+1 if r[i] else filled[i] for i in range(len(r))]
-                except EncodingError or UnicodeDecodeError:
+                except EncodingError or UnicodeDecodeError or FrictionlessException:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[2] = "Could not read resource"
                     writer.writerow(row)
