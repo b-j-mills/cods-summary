@@ -79,7 +79,7 @@ def check_population_headers(
                 try:
                     for r in iterator:
                         filled = [filled[i]+1 if r[i] else filled[i] for i in range(len(r))]
-                except EncodingError:
+                except EncodingError or UnicodeDecodeError:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[2] = "Could not read resource"
                     writer.writerow(row)
