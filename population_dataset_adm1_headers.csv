@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ISO,COD-UID,resource name,pcode header,total pop header
 ABW,cod-ps-abw,Could not find admin1 csv resource,,
 AFG,cod-ps-afg,afg_admpop_adm1_2021_v2.csv,Admin1_Code,T_TL
@@ -248,3 +249,13 @@ YEM,,,,
 ZAF,cod-ps-zaf,zaf_admpop_adm1_2020.csv,ADM1_PCODE,T_TL
 ZMB,cod-ps-zmb,zmb_admpop_adm1_2020.csv,ADM1_CODE,Both_7579
 ZWE,cod-ps-zwe,zwe_admpop_adm1_2021.csv,ADM1_PCODE,T_TL
+=======
+ISO,COD-UID,error,resource name,pcode headers,name headers,total pop header,duplicates,blanks
+NGA,cod-ps-nga,,nga_admpop_adm0_2020.csv,ADM0_PCODE,ADM0_NAME,T_TL,,
+NGA,cod-ps-nga,,nga_admpop_adm1_2020.csv,"ADM0_PCODE, ADM1_PCODE","ADM0_NAME, ADM1_NAME",T_TL,,
+NGA,cod-ps-nga,,nga_admpop_adm2_2020.csv,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_NAME, ADM2_NAME, ADM1_NAME",T_TL,,
+NGA,cod-ps-nga,,nga_admpop_SenDist_2020.csv,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_NAME, ADM2_NAME, ADM1_NAME",T_TL,,
+ABW,cod-ps-abw,No csv resources found,,,,,,
+AFG,cod-ps-afg,,afg_admpop_adm1_2021_v2.csv,"Admin1_Code, Admin0_Code","Admin0_Name, Admin1_Name",T_TL,,
+AFG,cod-ps-afg,,afg_popadm_adm0_2021_v2.csv,Admin0_Code,Admin0_Name,T_TL,,
+>>>>>>> Stashed changes
