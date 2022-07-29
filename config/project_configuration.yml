@@ -1,8 +1,8 @@
 itos_url: "https://apps.itos.uga.edu/CODV2API/api/v1/Locations/all"
 
-population:
-  resource_exceptions:
-    EGY: "egypt_population_estimate_compas_2012_v1.1_0_fis"
+boundaries:
+  dataset_exceptions:
+    MMR:
 
 countries:
   - ABW
