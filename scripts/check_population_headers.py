@@ -60,6 +60,11 @@ def check_population_headers(
                     writer.writerow(row)
                     continue
 
+                if not headers:
+                    row[2] = "Could not read resource"
+                    writer.writerow(row)
+                    continue
+
                 # Find fields with duplicate headers
                 header_counts = dict(zip(headers, [headers.count(i) for i in headers]))
                 duplicates = []
