@@ -1,5 +1,9 @@
 itos_url: "https://apps.itos.uga.edu/CODV2API/api/v1/Locations/all"
 
+population:
+  resource_exceptions:
+    SLB: "slb_pplp_adm3_ward.csv"
+
 boundaries:
   dataset_exceptions:
     MMR:

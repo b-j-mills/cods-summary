@@ -17,6 +17,10 @@ def check_population_headers(
 
     countries = configuration["countries"]
 
+    resource_exceptions = configuration["population"].get("resource_exceptions")
+    if not resource_exceptions:
+        resource_exceptions = {}
+
     with open("population_dataset_adm1_headers.csv", "w") as c:
         writer = csv.writer(c)
         writer.writerow(
@@ -26,6 +30,7 @@ def check_population_headers(
 
         for iso in countries:
             logger.info(f"Processing population for {iso}")
+            do_not_process = resource_exceptions.get(iso)
 
             row = [iso, None, None, None, None, None, None, None, None]
 
@@ -41,6 +46,11 @@ def check_population_headers(
             resource_list = []
             for resource in resources:
                 if resource.get_file_type().lower() != "csv":
+                    continue
+                if resource["name"] == do_not_process:
+                    row[2] = "Could not read resource"
+                    row[3] = resource["name"]
+                    writer.writerow(row)
                     continue
                 resource_list.append(resource)
 
