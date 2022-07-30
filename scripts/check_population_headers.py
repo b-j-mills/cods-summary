@@ -1,7 +1,6 @@
 import csv
 import logging
 import re
-from frictionless.exception import FrictionlessException
 from tabulator.exceptions import EncodingError
 
 from hdx.data.dataset import Dataset
@@ -90,7 +89,7 @@ def check_population_headers(
                 try:
                     for r in iterator:
                         filled = [filled[i]+1 if r[i] else filled[i] for i in range(len(r))]
-                except EncodingError or UnicodeDecodeError or FrictionlessException:
+                except EncodingError:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[2] = "Could not read resource"
                     writer.writerow(row)
@@ -112,6 +111,8 @@ def check_population_headers(
                         pcode_header.append(header)
                     if namematch and levelmatch:
                         name_header.append(header)
+                    if len(pop_header) == 1 and pop_header[0].lower() in ["t", "t_tl"]:
+                        continue
                     popmatch = bool(
                         re.search(
                             "(^t_)|population|both|total|totl|proj|pop|ensemble",
@@ -119,9 +120,9 @@ def check_population_headers(
                             re.IGNORECASE,
                         )
                     )
-                    tmatch = False
                     if header.lower() in ["t", "t_tl"]:
-                        tmatch = True
+                        pop_header = [header]
+                        continue
                     sexyearmatch = bool(
                         re.search("_f|_m|m_|f_|year|female|male|trans", header, re.IGNORECASE)
                     )
@@ -131,7 +132,7 @@ def check_population_headers(
                     agewordmatch = bool(re.search("(age|adult|plus)", header, re.IGNORECASE))
                     urmatch = bool(re.search("(urban|rural)", header, re.IGNORECASE))
                     if (
-                        (popmatch or tmatch)
+                        popmatch
                         and not sexyearmatch
                         and not agematch
                         and not agewordmatch
