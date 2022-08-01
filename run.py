@@ -51,6 +51,8 @@ if __name__ == "__main__":
         countries = countries.split(",")
     facade(
         main,
+        scrapers_to_run=scrapers_to_run,
+        countries=countries,
         hdx_site="prod",
         hdx_read_only=True,
         user_agent_config_yaml=join(expanduser("~"), ".useragents.yml"),
