@@ -1,4 +1,6 @@
+import argparse
 import logging
+from os import getenv
 from os.path import join, expanduser
 
 from hdx.api.configuration import Configuration
@@ -12,15 +14,41 @@ logger = logging.getLogger(__name__)
 lookup = "cods-summary"
 
 
-def main():
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-sc", "--scrapers", default=None, help="Scrapers to run")
+    parser.add_argument("-co", "--countries", default=None, help="Which countries to check")
+    args = parser.parse_args()
+    return args
+
+
+def main(
+    scrapers_to_run,
+    countries,
+):
     configuration = Configuration.read()
 
     with Download(rate_limit={"calls": 1, "period": 0.1}) as downloader:
-        metadata_summary(configuration)
-        check_population_headers(configuration, downloader)
+        if scrapers_to_run:
+            logger.info(f"Running only scrapers: {scrapers_to_run}")
+        if countries:
+            logger.info(f"Running only countries: {countries}")
+        if "metadata_summary" in scrapers_to_run:
+            metadata_summary(configuration)
+        if "check_population_headers" in scrapers_to_run:
+            check_population_headers(configuration, downloader, countries)
 
 
 if __name__ == "__main__":
+    args = parse_args()
+    scrapers_to_run = args.scrapers
+    if scrapers_to_run is None:
+        scrapers_to_run = getenv("SCRAPERS_TO_RUN", "metadata_summary,check_population_headers")
+    if scrapers_to_run:
+        scrapers_to_run = scrapers_to_run.split(",")
+    countries = args.countries
+    if countries:
+        countries = countries.split(",")
     facade(
         main,
         hdx_site="prod",
