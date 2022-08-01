@@ -1,17 +1,17 @@
 import csv
 import logging
 import re
-from tabulator.exceptions import EncodingError
 
 from hdx.data.dataset import Dataset
 from hdx.utilities.downloader import DownloadError
+from tabulator.exceptions import EncodingError
 
 logger = logging.getLogger(__name__)
 
 
 def check_population_headers(
-        configuration,
-        downloader,
+    configuration,
+    downloader,
 ):
 
     countries = configuration["countries"]
@@ -23,8 +23,17 @@ def check_population_headers(
     with open("population_dataset_adm1_headers.csv", "w") as c:
         writer = csv.writer(c)
         writer.writerow(
-            ["ISO", "COD-UID", "error", "resource name", "pcode headers", "name headers",
-             "total pop header", "duplicates", "blanks"]
+            [
+                "ISO",
+                "COD-UID",
+                "error",
+                "resource name",
+                "pcode headers",
+                "name headers",
+                "total pop header",
+                "duplicates",
+                "blanks",
+            ]
         )
 
         for iso in countries:
@@ -60,10 +69,12 @@ def check_population_headers(
                 continue
 
             for resource in resource_list:
-                row = row[:2] + [None]*7
+                row = row[:2] + [None] * 7
                 row[3] = resource["name"]
                 try:
-                    headers, iterator = downloader.get_tabular_rows(resource["url"])
+                    headers, iterator = downloader.get_tabular_rows(
+                        resource["url"], ignore_blank_headers=True
+                    )
                 except DownloadError:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[2] = "Could not read resource"
@@ -79,23 +90,25 @@ def check_population_headers(
                 header_counts = dict(zip(headers, [headers.count(i) for i in headers]))
                 duplicates = []
                 for key in header_counts:
-                    if header_counts[key] > 1 and key != '':
+                    if header_counts[key] > 1:
                         duplicates.append(key)
                 if len(duplicates) > 0:
                     row[7] = ", ".join(duplicates)
 
                 # Find fields that are not filled in
-                filled = [0]*len(headers)
+                filled = [0] * len(headers)
                 try:
                     for r in iterator:
-                        filled = [filled[i]+1 if r[i] else filled[i] for i in range(len(r))]
+                        filled = [
+                            filled[i] + 1 if r[i] else filled[i] for i in range(len(r))
+                        ]
                 except EncodingError:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[2] = "Could not read resource"
                     writer.writerow(row)
                     continue
 
-                empties = [headers[i] for i, j in enumerate(filled) if j == 0 and headers[i] != '']
+                empties = [headers[i] for i, j in enumerate(filled) if j == 0]
                 if len(empties) > 0:
                     row[8] = ", ".join(empties)
 
@@ -106,7 +119,9 @@ def check_population_headers(
                 for header in headers:
                     codematch = bool(re.search("p?code", header, re.IGNORECASE))
                     namematch = bool(re.search("name|_en$", header, re.IGNORECASE))
-                    levelmatch = bool(re.search("(^\d\D)|(\D\d\D)|(\D\d$)", header, re.IGNORECASE))
+                    levelmatch = bool(
+                        re.search("(^\d\D)|(\D\d\D)|(\D\d$)", header, re.IGNORECASE)
+                    )
                     if codematch and levelmatch:
                         pcode_header.append(header)
                     if namematch and levelmatch:
@@ -124,12 +139,18 @@ def check_population_headers(
                         pop_header = [header]
                         continue
                     sexyearmatch = bool(
-                        re.search("_f|_m|m_|f_|year|female|male|trans", header, re.IGNORECASE)
+                        re.search(
+                            "_f|_m|m_|f_|year|female|male|trans", header, re.IGNORECASE
+                        )
                     )
                     agematch = bool(
-                        re.search("^\d{1,2}\D|(\D\d{1,2}\D)|(\D\d$)", header, re.IGNORECASE)
+                        re.search(
+                            "^\d{1,2}\D|(\D\d{1,2}\D)|(\D\d$)", header, re.IGNORECASE
+                        )
                     )
-                    agewordmatch = bool(re.search("(age|adult|plus)", header, re.IGNORECASE))
+                    agewordmatch = bool(
+                        re.search("(age|adult|plus)", header, re.IGNORECASE)
+                    )
                     urmatch = bool(re.search("(urban|rural)", header, re.IGNORECASE))
                     if (
                         popmatch
@@ -150,12 +171,18 @@ def check_population_headers(
                     row[6] = pop_header[0]
 
                 if len(pop_header) > 1:
-                    totmatches = [bool(re.search("(total|totl)", header, re.IGNORECASE)) for header in pop_header]
+                    totmatches = [
+                        bool(re.search("(total|totl)", header, re.IGNORECASE))
+                        for header in pop_header
+                    ]
                     if sum(totmatches) == 1:
                         row[6] = pop_header[totmatches.index(True)]
                         writer.writerow(row)
                         continue
-                    yearmatches = [re.findall("(?<!\d)\d{4}(?!\d)", header, re.IGNORECASE) for header in pop_header]
+                    yearmatches = [
+                        re.findall("(?<!\d)\d{4}(?!\d)", header, re.IGNORECASE)
+                        for header in pop_header
+                    ]
                     yearmatches = sum(yearmatches, [])
                     if len(yearmatches) == 0:
                         logger.info(f"Not sure which header to pick: {pop_header}")
