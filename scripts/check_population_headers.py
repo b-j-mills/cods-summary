@@ -22,12 +22,13 @@ def check_population_headers(
     if not resource_exceptions:
         resource_exceptions = {}
 
-    with open("population_dataset_adm1_headers.csv", "w") as c:
+    with open("population_dataset_headers.csv", "w") as c:
         writer = csv.writer(c)
         writer.writerow(
             [
                 "ISO",
                 "COD-UID",
+                "contributor",
                 "error",
                 "resource name",
                 "pcode headers",
@@ -42,7 +43,7 @@ def check_population_headers(
             logger.info(f"Processing population for {iso}")
             do_not_process = resource_exceptions.get(iso)
 
-            row = [iso, None, None, None, None, None, None, None, None]
+            row = [iso, None, None, None, None, None, None, None, None, None]
 
             dataset_name = f"cod-ps-{iso.lower()}"
             dataset = Dataset.read_from_hdx(dataset_name)
@@ -51,6 +52,7 @@ def check_population_headers(
                 continue
 
             row[1] = dataset.get_hdx_url().split("/")[-1]
+            row[2] = dataset.get_organization()["title"]
 
             resources = dataset.get_resources()
             resource_list = []
@@ -58,33 +60,33 @@ def check_population_headers(
                 if resource.get_file_type().lower() != "csv":
                     continue
                 if resource["name"] == do_not_process:
-                    row[2] = "Could not read resource"
-                    row[3] = resource["name"]
+                    row[3] = "Could not read resource"
+                    row[4] = resource["name"]
                     writer.writerow(row)
                     continue
                 resource_list.append(resource)
 
             if len(resource_list) == 0:
                 logger.warning(f"No csv resources found for {iso}")
-                row[2] = "No csv resources found"
+                row[3] = "No csv resources found"
                 writer.writerow(row)
                 continue
 
             for resource in resource_list:
-                row = row[:2] + [None] * 7
-                row[3] = resource["name"]
+                row = row[:3] + [None] * 7
+                row[4] = resource["name"]
                 try:
                     headers, iterator = downloader.get_tabular_rows(
                         resource["url"], ignore_blank_headers=True
                     )
                 except DownloadError:
                     logger.error(f"Could not read resource {resource['name']}")
-                    row[2] = "Could not read resource"
+                    row[3] = "Could not read resource"
                     writer.writerow(row)
                     continue
 
                 if not headers:
-                    row[2] = "Could not read resource"
+                    row[3] = "Could not read resource"
                     writer.writerow(row)
                     continue
 
@@ -95,7 +97,7 @@ def check_population_headers(
                     if header_counts[key] > 1:
                         duplicates.append(key)
                 if len(duplicates) > 0:
-                    row[7] = ", ".join(duplicates)
+                    row[8] = ", ".join(duplicates)
 
                 # Find fields that are not filled in
                 filled = [0] * len(headers)
@@ -106,13 +108,13 @@ def check_population_headers(
                         ]
                 except EncodingError:
                     logger.error(f"Could not read resource {resource['name']}")
-                    row[2] = "Could not read resource"
+                    row[3] = "Could not read resource"
                     writer.writerow(row)
                     continue
 
                 empties = [headers[i] for i, j in enumerate(filled) if j == 0]
                 if len(empties) > 0:
-                    row[8] = ", ".join(empties)
+                    row[9] = ", ".join(empties)
 
                 # Find p-code and population headers
                 pcode_header = []
@@ -164,13 +166,13 @@ def check_population_headers(
                         pop_header.append(header)
 
                 if len(pcode_header) > 0:
-                    row[4] = ", ".join(list(set(pcode_header)))
+                    row[5] = ", ".join(list(set(pcode_header)))
 
                 if len(name_header) > 0:
-                    row[5] = ", ".join(list(set(name_header)))
+                    row[6] = ", ".join(list(set(name_header)))
 
                 if len(pop_header) == 1:
-                    row[6] = pop_header[0]
+                    row[7] = pop_header[0]
 
                 if len(pop_header) > 1:
                     totmatches = [
@@ -178,7 +180,7 @@ def check_population_headers(
                         for header in pop_header
                     ]
                     if sum(totmatches) == 1:
-                        row[6] = pop_header[totmatches.index(True)]
+                        row[7] = pop_header[totmatches.index(True)]
                         writer.writerow(row)
                         continue
                     yearmatches = [
@@ -188,17 +190,17 @@ def check_population_headers(
                     yearmatches = sum(yearmatches, [])
                     if len(yearmatches) == 0:
                         logger.info(f"Not sure which header to pick: {pop_header}")
-                        row[6] = ",".join(pop_header)
+                        row[7] = ",".join(pop_header)
                         writer.writerow(row)
                         continue
                     yearmatches = [int(y) for y in yearmatches]
                     maxyear = [h for h in pop_header if str(max(yearmatches)) in h]
                     if len(maxyear) != 1:
                         logger.info(f"Not sure which header to pick: {pop_header}")
-                        row[6] = ",".join(pop_header)
+                        row[7] = ",".join(pop_header)
                         writer.writerow(row)
                         continue
-                    row[6] = maxyear[0]
+                    row[7] = maxyear[0]
 
                 writer.writerow(row)
 
