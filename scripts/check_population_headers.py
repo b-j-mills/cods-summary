@@ -12,9 +12,11 @@ logger = logging.getLogger(__name__)
 def check_population_headers(
     configuration,
     downloader,
+    countries,
 ):
 
-    countries = configuration["countries"]
+    if not countries:
+        countries = configuration["countries"]
 
     resource_exceptions = configuration["population"].get("resource_exceptions")
     if not resource_exceptions:
