@@ -15,7 +15,7 @@ def check_population_headers(
     countries,
 ):
 
-    if not countries:
+    if not countries or countries == "all":
         countries = configuration["countries"]
 
     resource_exceptions = configuration["population"].get("resource_exceptions")

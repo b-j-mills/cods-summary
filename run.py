@@ -49,6 +49,8 @@ if __name__ == "__main__":
     countries = args.countries
     if countries:
         countries = countries.split(",")
+    if countries is None:
+        countries = "all"
     facade(
         main,
         scrapers_to_run=scrapers_to_run,
