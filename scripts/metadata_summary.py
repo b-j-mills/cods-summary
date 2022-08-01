@@ -11,7 +11,7 @@ lookup = "cods-summary"
 
 
 def metadata_summary(
-        configuration,
+    configuration,
 ):
 
     datasets = Dataset.search_in_hdx(
@@ -30,9 +30,27 @@ def metadata_summary(
 
     with open("../datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
-        writer.writerow(["COD-UID", "dataset title", "URL", "Theme", "in ITOS API", "source",
-                         "contributor/organization", "date of dataset", "updated", "expected update frequency",
-                         "location", "visibility", "license", "methodology", "caveats", "tags", "file formats"])
+        writer.writerow(
+            [
+                "COD-UID",
+                "dataset title",
+                "URL",
+                "Theme",
+                "in ITOS API",
+                "source",
+                "contributor/organization",
+                "date of dataset",
+                "updated",
+                "expected update frequency",
+                "location",
+                "visibility",
+                "license",
+                "methodology",
+                "caveats",
+                "tags",
+                "file formats",
+            ]
+        )
 
         for dataset in datasets:
             tags = dataset.get_tags()
@@ -69,10 +87,12 @@ def metadata_summary(
                     theme,
                     in_itos,
                     dataset["dataset_source"],
-                    dataset.get_organization()['title'],
+                    dataset.get_organization()["title"],
                     dataset["dataset_date"],
                     dataset["last_modified"],
-                    dataset.transform_update_frequency(dataset["data_update_frequency"]),
+                    dataset.transform_update_frequency(
+                        dataset["data_update_frequency"]
+                    ),
                     " | ".join(dataset.get_location_iso3s()),
                     visibility,
                     dataset["license_title"],
