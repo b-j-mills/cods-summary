@@ -4,7 +4,7 @@ from os import getenv
 from os.path import join, expanduser
 
 from hdx.api.configuration import Configuration
-from hdx.facades.simple import facade
+from hdx.facades.keyword_arguments import facade
 from hdx.utilities.downloader import Download
 from scripts.check_population_headers import check_population_headers
 from scripts.metadata_summary import metadata_summary
@@ -25,6 +25,7 @@ def parse_args():
 def main(
     scrapers_to_run,
     countries,
+    **ignore,
 ):
     configuration = Configuration.read()
 
