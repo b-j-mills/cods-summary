@@ -76,9 +76,7 @@ def check_population_headers(
                 row = row[:3] + [None] * 7
                 row[4] = resource["name"]
                 try:
-                    headers, iterator = downloader.get_tabular_rows(
-                        resource["url"], ignore_blank_headers=True
-                    )
+                    headers, iterator = downloader.get_tabular_rows(resource["url"])
                 except DownloadError:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[3] = "Could not read resource"
@@ -94,7 +92,11 @@ def check_population_headers(
                 header_counts = dict(zip(headers, [headers.count(i) for i in headers]))
                 duplicates = []
                 for key in header_counts:
-                    if header_counts[key] > 1:
+                    if (
+                        header_counts[key] > 1
+                        and key != ""
+                        and not bool(re.search("field\d{1,4}", key))
+                    ):
                         duplicates.append(key)
                 if len(duplicates) > 0:
                     row[8] = ", ".join(duplicates)
@@ -112,7 +114,13 @@ def check_population_headers(
                     writer.writerow(row)
                     continue
 
-                empties = [headers[i] for i, j in enumerate(filled) if j == 0]
+                empties = [
+                    headers[i]
+                    for i, j in enumerate(filled)
+                    if j == 0
+                    and headers[i] != ""
+                    and not bool(re.search("field\d{1,4}", headers[i]))
+                ]
                 if len(empties) > 0:
                     row[9] = ", ".join(empties)
 
