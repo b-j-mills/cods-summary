@@ -7,6 +7,10 @@ population:
 boundaries:
   dataset_exceptions:
     MMR:
+      - "mimu-geonode-myanmar-national-boundary-mimu"
+      - "mimu-geonode-myanmar-district-boundaries-mimu"
+      - "mimu-geonode-myanmar-state-and-region-boundaries-mimu"
+      - "mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu"
 
 countries:
   - ABW

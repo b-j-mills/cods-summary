@@ -6,7 +6,9 @@ from os.path import join, expanduser
 from hdx.api.configuration import Configuration
 from hdx.facades.keyword_arguments import facade
 from hdx.utilities.downloader import Download
+from hdx.utilities.path import temp_dir
 from scripts.check_population_headers import check_population_headers
+from scripts.check_boundary_fields import check_boundary_fields
 from scripts.metadata_summary import metadata_summary
 
 logger = logging.getLogger(__name__)
@@ -29,15 +31,18 @@ def main(
 ):
     configuration = Configuration.read()
 
-    with Download(rate_limit={"calls": 1, "period": 0.1}) as downloader:
-        if scrapers_to_run:
-            logger.info(f"Running only scrapers: {scrapers_to_run}")
-        if countries:
-            logger.info(f"Running only countries: {countries}")
-        if "metadata_summary" in scrapers_to_run:
-            metadata_summary(configuration)
-        if "check_population_headers" in scrapers_to_run:
-            check_population_headers(configuration, downloader, countries)
+    with temp_dir() as temp_folder:
+        with Download(rate_limit={"calls": 1, "period": 0.1}) as downloader:
+            if scrapers_to_run:
+                logger.info(f"Running only scrapers: {scrapers_to_run}")
+            if countries:
+                logger.info(f"Running only countries: {countries}")
+            if "metadata_summary" in scrapers_to_run:
+                metadata_summary(configuration)
+            if "check_population_headers" in scrapers_to_run:
+                check_population_headers(configuration, downloader, countries)
+            if "check_boundary_fields" in scrapers_to_run:
+                check_boundary_fields(configuration, downloader, countries, temp_dir)
 
 
 if __name__ == "__main__":
