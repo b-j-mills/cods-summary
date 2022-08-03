@@ -40,7 +40,7 @@ jobs:
       if: always()
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        file_pattern: datasets*.csv population*.csv
+        file_pattern: datasets*.csv population*.csv boundary*.csv
         commit_message: automatic - csv updated
         push_options: '--force'
         skip_dirty_check: false
