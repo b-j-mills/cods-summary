@@ -1,14 +1,14 @@
 import argparse
 import logging
 from os import getenv
-from os.path import join, expanduser
+from os.path import expanduser, join
 
 from hdx.api.configuration import Configuration
 from hdx.facades.keyword_arguments import facade
 from hdx.utilities.downloader import Download
 from hdx.utilities.path import temp_dir
-from scripts.check_population_headers import check_population_headers
 from scripts.check_boundary_fields import check_boundary_fields
+from scripts.check_population_headers import check_population_headers
 from scripts.metadata_summary import metadata_summary
 
 logger = logging.getLogger(__name__)
@@ -42,14 +42,17 @@ def main(
             if "check_population_headers" in scrapers_to_run:
                 check_population_headers(configuration, downloader, countries)
             if "check_boundary_fields" in scrapers_to_run:
-                check_boundary_fields(configuration, downloader, countries, temp_dir)
+                check_boundary_fields(configuration, countries, temp_folder)
 
 
 if __name__ == "__main__":
     args = parse_args()
     scrapers_to_run = args.scrapers
     if scrapers_to_run is None:
-        scrapers_to_run = getenv("SCRAPERS_TO_RUN", "metadata_summary,check_population_headers")
+        scrapers_to_run = getenv(
+            "SCRAPERS_TO_RUN",
+            "metadata_summary,check_population_headers,check_boundary_fields",
+        )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
     countries = args.countries

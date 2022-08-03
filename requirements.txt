@@ -1,3 +1,4 @@
 requests~=2.26.0
 hdx-python-api==5.8.1
 tabulator~=1.53.5
+geopandas~=0.10.2
