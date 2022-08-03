@@ -130,7 +130,7 @@ def check_population_headers(
                 pop_header = []
                 for header in headers:
                     codematch = bool(re.search("p?code", header, re.IGNORECASE))
-                    namematch = bool(re.search("name|_en$", header, re.IGNORECASE))
+                    namematch = bool(re.search("name|_\D\D$", header, re.IGNORECASE))
                     levelmatch = bool(
                         re.search("(^\d\D)|(\D\d\D)|(\D\d$)", header, re.IGNORECASE)
                     )
