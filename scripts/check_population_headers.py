@@ -2,9 +2,9 @@ import csv
 import logging
 import re
 
+from frictionless.exception import FrictionlessException
 from hdx.data.dataset import Dataset
 from hdx.utilities.downloader import DownloadError
-from tabulator.exceptions import EncodingError
 
 logger = logging.getLogger(__name__)
 
@@ -108,7 +108,7 @@ def check_population_headers(
                         filled = [
                             filled[i] + 1 if r[i] else filled[i] for i in range(len(r))
                         ]
-                except EncodingError:
+                except FrictionlessException:
                     logger.error(f"Could not read resource {resource['name']}")
                     row[3] = "Could not read resource"
                     writer.writerow(row)
