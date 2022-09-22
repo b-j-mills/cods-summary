@@ -53,7 +53,6 @@ def check_boundary_fields(
             for dataset_name in dataset_names:
                 dataset = Dataset.read_from_hdx(dataset_name)
                 if not dataset:
-                    logger.warning(f"{iso}: could not find dataset {dataset_name}")
                     continue
 
                 row[1] = dataset.get_hdx_url().split("/")[-1]

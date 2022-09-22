@@ -42,7 +42,6 @@ def check_population_headers(
             dataset_name = f"cod-ps-{iso.lower()}"
             dataset = Dataset.read_from_hdx(dataset_name)
             if not dataset:
-                logger.warning(f"Could not find dataset {dataset_name}")
                 continue
 
             row[1] = dataset.get_hdx_url().split("/")[-1]
