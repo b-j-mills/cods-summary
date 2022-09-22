@@ -19,6 +19,8 @@ def check_boundary_fields(
     countries,
     temp_folder,
 ):
+    logger.info(f"Summarizing boundary fields")
+
     if not countries or countries == "all":
         countries = configuration["countries"]
 
@@ -42,8 +44,6 @@ def check_boundary_fields(
         )
 
         for iso in countries:
-            logger.info(f"Processing boundaries for {iso}")
-
             row = [iso, None, None, None, None, None, None, None]
 
             dataset_names = dataset_exceptions.get(iso)
@@ -53,7 +53,7 @@ def check_boundary_fields(
             for dataset_name in dataset_names:
                 dataset = Dataset.read_from_hdx(dataset_name)
                 if not dataset:
-                    logger.warning(f"Could not find dataset {dataset_name}")
+                    logger.warning(f"{iso}: could not find dataset {dataset_name}")
                     continue
 
                 row[1] = dataset.get_hdx_url().split("/")[-1]
@@ -68,7 +68,7 @@ def check_boundary_fields(
                 if len(resource_list) == 0:
                     row[3] = "Could not find shp or json boundary resource"
                     writer.writerow(row)
-                    logger.error(f"Could not find resources from {dataset_name}")
+                    logger.error(f"{iso}: could not find resources from {dataset_name}")
                     continue
 
                 for resource in resource_list:
@@ -79,7 +79,7 @@ def check_boundary_fields(
                     except DownloadError:
                         row[3] = "Could not download boundary resource"
                         writer.writerow(row)
-                        logger.error(f"Could not download resource")
+                        logger.error(f"{iso}: could not download resource")
                         continue
 
                     if resource.get_file_type() == "shp":
@@ -90,7 +90,7 @@ def check_boundary_fields(
                         except BadZipFile:
                             row[3] = "Could not unzip boundary resource"
                             writer.writerow(row)
-                            logger.error("Could not unzip file!")
+                            logger.error(f"{iso}: could not unzip file!")
                             continue
                         out_files = glob(join(temp_dir, "**", "*.shp"), recursive=True)
                     else:
@@ -99,7 +99,7 @@ def check_boundary_fields(
                     if len(out_files) == 0:
                         row[3] = "Could not find shp in zip"
                         writer.writerow(row)
-                        logger.error("Could not find shp in zip!")
+                        logger.error(f"{iso}: could not find shp in zip!")
                         continue
 
                     for out_file in out_files:
@@ -108,7 +108,7 @@ def check_boundary_fields(
                         try:
                             boundary_lyr = read_file(out_file)
                         except:
-                            logger.error(f"Could not open {out_file}")
+                            logger.error(f"{iso}: could not open {out_file}")
                             row[3] = "Could not read file"
                             writer.writerow(row)
                             continue

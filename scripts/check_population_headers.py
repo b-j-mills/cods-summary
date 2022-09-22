@@ -14,6 +14,7 @@ def check_population_headers(
     downloader,
     countries,
 ):
+    logger.info(f"Summarizing population headers")
 
     if not countries or countries == "all":
         countries = configuration["countries"]
@@ -40,7 +41,6 @@ def check_population_headers(
         )
 
         for iso in countries:
-            logger.info(f"Processing population for {iso}")
             do_not_process = resource_exceptions.get(iso)
 
             row = [iso, None, None, None, None, None, None, None, None, None]
@@ -59,7 +59,7 @@ def check_population_headers(
             for resource in resources:
                 if resource.get_file_type().lower() != "csv":
                     continue
-                if resource["name"] == do_not_process:
+                if resource["name"] in do_not_process:
                     row[3] = "Could not read resource"
                     row[4] = resource["name"]
                     writer.writerow(row)
@@ -67,7 +67,7 @@ def check_population_headers(
                 resource_list.append(resource)
 
             if len(resource_list) == 0:
-                logger.warning(f"No csv resources found for {iso}")
+                logger.warning(f"{iso}: no csv resources found")
                 row[3] = "No csv resources found"
                 writer.writerow(row)
                 continue
@@ -77,8 +77,8 @@ def check_population_headers(
                 row[4] = resource["name"]
                 try:
                     headers, iterator = downloader.get_tabular_rows(resource["url"])
-                except DownloadError:
-                    logger.error(f"Could not read resource {resource['name']}")
+                except DownloadError as ex:
+                    logger.error(f"{iso}: could not read resource {resource['name']}. Error: {ex}")
                     row[3] = "Could not read resource"
                     writer.writerow(row)
                     continue
@@ -108,8 +108,8 @@ def check_population_headers(
                         filled = [
                             filled[i] + 1 if r[i] else filled[i] for i in range(len(r))
                         ]
-                except FrictionlessException:
-                    logger.error(f"Could not read resource {resource['name']}")
+                except FrictionlessException as ex:
+                    logger.error(f"{iso}: could not read resource {resource['name']}. Error: {ex}")
                     row[3] = "Could not read resource"
                     writer.writerow(row)
                     continue
@@ -197,14 +197,14 @@ def check_population_headers(
                     ]
                     yearmatches = sum(yearmatches, [])
                     if len(yearmatches) == 0:
-                        logger.info(f"Not sure which header to pick: {pop_header}")
+                        logger.info(f"{iso}: not sure which header to pick - {pop_header}")
                         row[7] = ",".join(pop_header)
                         writer.writerow(row)
                         continue
                     yearmatches = [int(y) for y in yearmatches]
                     maxyear = [h for h in pop_header if str(max(yearmatches)) in h]
                     if len(maxyear) != 1:
-                        logger.info(f"Not sure which header to pick: {pop_header}")
+                        logger.info(f"{iso}: not sure which header to pick - {pop_header}")
                         row[7] = ",".join(pop_header)
                         writer.writerow(row)
                         continue
