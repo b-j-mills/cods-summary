@@ -36,6 +36,7 @@ def metadata_summary(
                 "dataset title",
                 "URL",
                 "Theme",
+                "Level",
                 "in ITOS API",
                 "number of resource downloads",
                 "source",
@@ -63,15 +64,15 @@ def metadata_summary(
                 theme = dataset["name"][4:6].upper()
 
             in_itos = "No"
-            if dataset["title"] in itos_titles:
+            if dataset.get("title") in itos_titles:
                 in_itos = "Yes"
 
-            methodology = dataset["methodology"]
+            methodology = dataset.get("methodology")
             if methodology == "Other":
-                methodology = dataset["methodology_other"]
+                methodology = dataset.get("methodology_other")
 
             visibility = "Visible"
-            if dataset["is_requestdata_type"]:
+            if dataset.get("is_requestdata_type"):
                 visibility = "Available by request"
 
             formats = []
@@ -83,21 +84,22 @@ def metadata_summary(
             writer.writerow(
                 [
                     dataset.get_hdx_url().split("/")[-1],
-                    dataset["title"],
+                    dataset.get("title"),
                     dataset.get_hdx_url(),
                     theme,
+                    dataset.get("cod_level"),
                     in_itos,
-                    dataset["total_res_downloads"],
-                    dataset["dataset_source"],
+                    dataset.get("total_res_downloads"),
+                    dataset.get("dataset_source"),
                     dataset.get_organization()["title"],
-                    dataset["dataset_date"],
-                    dataset["last_modified"],
+                    dataset.get("dataset_date"),
+                    dataset.get("last_modified"),
                     dataset.transform_update_frequency(
-                        dataset["data_update_frequency"]
+                        dataset.get("data_update_frequency")
                     ),
                     " | ".join(dataset.get_location_iso3s()),
                     visibility,
-                    dataset["license_title"],
+                    dataset.get("license_title"),
                     methodology,
                     dataset.get("caveats"),
                     " | ".join(tags),
