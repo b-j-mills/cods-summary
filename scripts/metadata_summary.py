@@ -28,7 +28,7 @@ def metadata_summary(
     if itos_datasets:
         itos_titles = [d["DatasetTitle"] for d in itos_datasets]
 
-    with open("../datasets_tagged_cods.csv", "w") as c:
+    with open("datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
         writer.writerow(
             [
