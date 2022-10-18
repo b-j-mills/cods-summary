@@ -3,3 +3,4 @@ hdx-python-api==5.8.1
 tabulator~=1.53.5
 geopandas~=0.10.2
 frictionless~=4.40.5
+slugify~=0.0.1

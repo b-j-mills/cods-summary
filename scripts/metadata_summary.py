@@ -2,6 +2,7 @@ import csv
 import logging
 from requests import get
 from requests.exceptions import ConnectTimeout
+from slugify import slugify
 
 from hdx.data.dataset import Dataset
 
@@ -20,13 +21,20 @@ def metadata_summary(
     logger.info(f"Summarizing metadata for {len(datasets)} COD datasets")
 
     itos_datasets = None
-    itos_titles = []
+    itos_names = []
     try:
         itos_datasets = get(configuration["itos_url"]).json()
     except ConnectTimeout:
         logger.error("Could not connect to ITOS API")
     if itos_datasets:
-        itos_titles = [d["DatasetTitle"] for d in itos_datasets]
+        for i in itos_datasets:
+            location = i["Location"]
+            theme = i["Theme"]
+            if theme == "COD_AB" and (location == ["MMR"] or location == ["mmr"]):
+                name = slugify(i["DatasetTitle"])
+            else:
+                name = slugify(f"{theme} {' '.join(location)}")
+            itos_names.append(name)
 
     with open("datasets_tagged_cods.csv", "w") as c:
         writer = csv.writer(c)
@@ -64,7 +72,7 @@ def metadata_summary(
                 theme = dataset["name"][4:6].upper()
 
             in_itos = "No"
-            if dataset.get("title") in itos_titles:
+            if dataset["name"] in itos_names:
                 in_itos = "Yes"
 
             methodology = dataset.get("methodology")
