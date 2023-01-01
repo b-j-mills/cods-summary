@@ -3,442 +3,442 @@ ABW,cod-ab-abw,OCHA Field Information Services Section (FISS),,abw_admbnda_adm0_
 AFG,cod-ab-afg,OCHA Field Information Services Section (FISS),Could not find shp or json boundary resource,,,,
 AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,,
 AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,ADM0_PCODE,ADM0_EN
-AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_adm_gadm_ine_ocha_20180904_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_admbndl_admALL_gadm_ine_ocha_itos_20180904.zip,,,
-AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_admbndp_admALL_gadm_ine_ocha_itos_20180904.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
+AGO,cod-ab-ago,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ago_admbndp_admALL_gadm_ine_ocha_itos_20180904.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 AIA,cod-ab-aia,OCHA Field Information Services Section (FISS),,AIA_adm0.zip,,,
-ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 ALB,cod-ab-alb,OCHA Field Information Services Section (FISS),,alb_adm_2019b_SHP.zip,,ADM0_PCODE,ADM0_EN
 ARE,cod-ab-are,OCHA Middle East and North Africa (ROMENA),,Admin0.zip,,ADM0_CODE,ADM0_NAME
-ARE,cod-ab-are,OCHA Middle East and North Africa (ROMENA),,Admin1.zip,,"ADM0_CODE, ADM1_CODE","ADM1_NAME, ADM0_NAME"
+ARE,cod-ab-are,OCHA Middle East and North Africa (ROMENA),,Admin1.zip,,"ADM1_CODE, ADM0_CODE","ADM0_NAME, ADM1_NAME"
 ARE,cod-ab-are,OCHA Middle East and North Africa (ROMENA),,Capitals,,,
 ARE,cod-ab-are,OCHA Middle East and North Africa (ROMENA),,Populated Places,,,
 ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,ADM0_PCODE,ADM0_ES
-ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,,
-ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
+ARG,cod-ab-arg,OCHA Latin America and the Caribbean (ROLAC),,arg_adm_unhcr2017_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
 ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,,
-ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM0_EN, ADM1_RU"
-ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_RU, ADM1_EN, ADM1_RU"
+ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM0_EN, ADM1_RU, ADM2_RU, ADM1_EN"
+ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM0_RU, ADM1_RU, ADM1_EN"
 ARM,cod-ab-arm,OCHA ROCCA (Closed),,arm_adm_2029_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_RU"
-ATG,cod-ab-atg,OCHA Field Information Services Section (FISS),,atg_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+ATG,cod-ab-atg,OCHA Field Information Services Section (FISS),,atg_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 ATG,cod-ab-atg,OCHA Field Information Services Section (FISS),,atg_adm_2019_SHP.zip,,,
 ATG,cod-ab-atg,OCHA Field Information Services Section (FISS),,atg_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_EN
-AZE,cod-ab-aze,OCHA ROCCA (Closed),,aze_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+AZE,cod-ab-aze,OCHA ROCCA (Closed),,aze_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 AZE,cod-ab-aze,OCHA ROCCA (Closed),,aze_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
 AZE,cod-ab-aze,OCHA ROCCA (Closed),,aze_adm_2020_SHP.zip,,,
-BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,,"admin0Name, admin1Name, admin2Name"
+BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,,"admin2Name, admin1Name, admin0Name"
 BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,,
 BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,ADM0_PCODE,ADM0_FR
-BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,,"admin0Name, admin1Name"
+BDI,cod-ab-bdi,OCHA Field Information Services Section (FISS),,bdi_adm_igebu_ocha_20171103_SHP.zip,,,"admin1Name, admin0Name"
 BEN,cod-ab-ben,OCHA West and Central Africa (ROWCA),,ben_adm_1m_salb_2019_shapes.zip,,,"adm0_name, adm1_name"
-BEN,cod-ab-ben,OCHA West and Central Africa (ROWCA),,ben_adm_1m_salb_2019_shapes.zip,,,"adm0_name, adm2_name, adm1_name"
+BEN,cod-ab-ben,OCHA West and Central Africa (ROWCA),,ben_adm_1m_salb_2019_shapes.zip,,,"adm2_name, adm1_name, adm0_name"
 BEN,cod-ab-ben,OCHA West and Central Africa (ROWCA),,ben_adm_1m_salb_2019_shapes.zip,,,adm0_name
 BEN,cod-ab-ben,OCHA West and Central Africa (ROWCA),,ben_adm_1m_salb_2019_shapes.zip,,adm0_code,adm0_name
 BES,cod-ab-bes,OCHA Field Information Services Section (FISS),,BES_adm0.zip,,adm0code,NAME_0
-BES,cod-ab-bes,OCHA Field Information Services Section (FISS),,bes_adm1.zip,,"adm0code, adm1code","NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
+BES,cod-ab-bes,OCHA Field Information Services Section (FISS),,bes_adm1.zip,,"adm1code, adm0code","NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
 BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,,
 BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,ADM0_PCODE,ADM0_FR
-BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
-BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
-BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM4_PCODE, ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
+BFA,cod-ab-bfa,OCHA Burkina Faso,,bfa_adm_igb_20200323_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,ADM0_PCODE,ADM0_EN
-BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 BGD,cod-ab-bgd,OCHA Regional Office for Asia and the Pacific (ROAP),,bgd_adm_bbs_20201113_SHP.zip,,,
 BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,,
 BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,ADM0_PCODE,ADM0_EN
-BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+BGR,cod-ab-bgr,OCHA Field Information Services Section (FISS),,bgr_adm_unicef_20221012_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 BHR,cod-ab-bhr,OCHA Middle East and North Africa (ROMENA),,Admin 0,,ADM0_CODE,ADM0_NAME
-BHR,cod-ab-bhr,OCHA Middle East and North Africa (ROMENA),,Admin 1,,"ADM0_CODE, ADM1_CODE","ADM1_NAME, ADM0_NAME"
+BHR,cod-ab-bhr,OCHA Middle East and North Africa (ROMENA),,Admin 1,,"ADM1_CODE, ADM0_CODE","ADM0_NAME, ADM1_NAME"
 BHR,cod-ab-bhr,OCHA Middle East and North Africa (ROMENA),,Capitals,,,
 BHR,cod-ab-bhr,OCHA Middle East and North Africa (ROMENA),,Populated Places,,,
 BHS,cod-ab-bhs,OCHA Field Information Services Section (FISS),,BHS_adm0_gdams_2009.zip,,,
-BHS,cod-ab-bhs,OCHA Field Information Services Section (FISS),,BHS_adm1_GDAMS_2009.zip,,,"NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
+BHS,cod-ab-bhs,OCHA Field Information Services Section (FISS),,BHS_adm1_GDAMS_2009.zip,,,"NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
 BLM,cod-ab-blm,OCHA Field Information Services Section (FISS),,BLM_adm0.zip,,,
 BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,,
-BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, Adm2Code, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, Adm1Code","ADM0_EN, ADM1_EN"
+BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE, Adm2Code","ADM0_EN, ADM2_EN, ADM1_EN"
+BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"Adm1Code, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,ADM0_PCODE,ADM0_EN
-BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, Adm2Code, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+BLR,cod-ab-blr,OCHA Field Information Services Section (FISS),,blr_adm_unicef_20220727_AB_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE, Adm2Code","ADM0_EN, ADM2_EN, ADM1_EN"
+BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,,
 BLZ,cod-ab-blz,OCHA Field Information Services Section (FISS),,blz_adm_gadm_20210910_SHP.zip,,ADM0_PCODE,ADM0_EN
-BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_EN
 BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,,
-BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+BMU,cod-ab-bmu,OCHA Field Information Services Section (FISS),,bmu_adm_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,,
-BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
+BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
 BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,ADM0_PCODE,ADM0_ES
-BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM3_ES, ADM0_ES"
-BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
+BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM3_ES, ADM2_ES"
+BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+BOL,cod-ab-bol,OCHA Latin America and the Caribbean (ROLAC),,bol_adm_gb2014_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
 BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
+BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
 BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,,
-BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+BRA,cod-ab-bra,OCHA Latin America and the Caribbean (ROLAC),,bra_adm_ibge_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 BRB,cod-ab-brb,OCHA Field Information Services Section (FISS),,brb_adm_2019_shp.zip,,,
-BRB,cod-ab-brb,OCHA Field Information Services Section (FISS),,brb_adm_2019_shp.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+BRB,cod-ab-brb,OCHA Field Information Services Section (FISS),,brb_adm_2019_shp.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 BRB,cod-ab-brb,OCHA Field Information Services Section (FISS),,brb_adm_2019_shp.zip,,ADM0_PCODE,ADM0_EN
 BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,ADM0_PCODE,ADM0_EN
-BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,,
-BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+BTN,cod-ab-btn,OCHA Regional Office for Asia and the Pacific (ROAP),,btn_admbnda_bnlc_20201026_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,ADM0_PCODE,ADM0_EN
 BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,,
-BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+BWA,cod-ab-bwa,OCHA Field Information Services Section (FISS),,bwa_adm_2011_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm0_200k_sigcaf_reach_itos_v2.zip,,,admin0Name
-CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm1_200k_sigcaf_reach_itos_v2.zip,,,"admin0Name, admin1Name"
-CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm2_200k_sigcaf_reach_itos_v2.zip,,,"admin0Name, admin1Name, admin2Name"
-CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm3_200k_sigcaf_reach_itos_v2.zip,,,"admin0Name, admin1Name, admin3Name, admin2Name"
-CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm4_reach_ocha_v2.zip,,,"admin2Name, admin0Name, admin4Name, admin1Name, admin3Name"
+CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm1_200k_sigcaf_reach_itos_v2.zip,,,"admin1Name, admin0Name"
+CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm2_200k_sigcaf_reach_itos_v2.zip,,,"admin1Name, admin0Name, admin2Name"
+CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm3_200k_sigcaf_reach_itos_v2.zip,,,"admin1Name, admin3Name, admin0Name, admin2Name"
+CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbnda_adm4_reach_ocha_v2.zip,,,"admin4Name, admin1Name, admin2Name, admin0Name, admin3Name"
 CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbndl_admALL_200k_sigcaf_reach_ocha_itos.zip,,,
 CAF,cod-ab-caf,OCHA Central African Republic,,caf_admbndl_admALL_200k_sigcaf_reach_ocha_itos_v2.zip,,,
-CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
-CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
+CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
+CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
 CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,ADM0_PCODE,ADM0_ES
 CHL,cod-ab-chl,OCHA Latin America and the Caribbean (ROLAC),,chl_adm_bcn_20211008_SHP.zip,,,
-CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 CHN,cod-ab-chn,OCHA Regional Office for Asia and the Pacific (ROAP),,chn_adm_ocha_2020_SHP.zip,,,
 CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm0_cntig_20180706.zip,,ADM0_PCODE,ADM0_FR
-CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm1_cntig_ocha_itos_20180706.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
-CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm2_cntig_ocha_itos_20180706.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm3_cntig_ocha_itos_20180706.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm1_cntig_ocha_itos_20180706.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
+CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm2_cntig_ocha_itos_20180706.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbnda_adm3_cntig_ocha_itos_20180706.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
 CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbndl_admALL_cntig_ocha_itos_20180706.zip,,,
-CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbndp_admALL_cntig_ocha_itos_20180706.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+CIV,cod-ab-civ,OCHA West and Central Africa (ROWCA),,civ_admbndp_admALL_cntig_ocha_itos_20180706.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
 CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,,
-CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_FR, ADM1_EN, ADM1_FR"
-CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_FR, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN, ADM2_FR"
+CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_FR, ADM0_FR, ADM1_EN"
+CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM3_EN, ADM0_EN, ADM2_FR, ADM3_FR, ADM1_FR"
 CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_FR"
-CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM1_FR, ADM0_FR, ADM0_EN, ADM2_FR"
-CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_FR, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN, ADM2_FR"
-COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
-COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM2_FR, ADM0_EN, ADM1_FR"
+CMR,cod-ab-cmr,OCHA Cameroon,,cmr_admbnda_inc_20180104_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM1_FR, ADM0_FR, ADM3_EN, ADM2_FR, ADM0_EN, ADM3_FR, ADM1_EN"
+COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
+COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
 COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,ADM0_PCODE,ADM0_FR
 COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,,
-COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-COG,cod-ab-cog,OCHA West and Central Africa (ROWCA),,cog_adm_gaul_20190617_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
+COD,cod-ab-cod,OCHA Democratic Republic of the Congo (DRC),,cod_admbnda_rgc_itos_20190911_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+COG,cod-ab-cog,OCHA West and Central Africa (ROWCA),,cog_adm_gaul_20190617_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
 COG,cod-ab-cog,OCHA West and Central Africa (ROWCA),,cog_adm_gaul_20190617_SHP.zip,,ADM0_PCODE,ADM0_FR
-COG,cod-ab-cog,OCHA West and Central Africa (ROWCA),,cog_adm_gaul_20190617_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+COG,cod-ab-cog,OCHA West and Central Africa (ROWCA),,cog_adm_gaul_20190617_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,,
-COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
+COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
 COL,cod-ab-col,OCHA Latin America and the Caribbean (ROLAC),,COL Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_ES
-COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
+COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,,
 COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,ADM0_PCODE,ADM0_EN
-COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,"Admin1Name, Admin2Name, Admin0Name"
+COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+COM,cod-ab-com,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,com_adm_cosep_ocha_20191205_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,"Admin2Name, Admin0Name, Admin1Name"
 CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,
 CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,
 CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,admin0Name
-CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,"admin0Name, admin1Name"
-CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM3_ES, ADM0_ES"
+CPV,cod-ab-cpv,OCHA West and Central Africa (ROWCA),,cpv_adm_shp.zip,,,"admin1Name, admin0Name"
+CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM3_ES, ADM2_ES"
 CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,,
 CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,ADM0_PCODE,ADM0_ES
-CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+CRI,cod-ab-cri,OCHA Field Information Services Section (FISS),,cri_adm_2021_WGS_84.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,,
-CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM1_ES
+CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM1_ES
 CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,ADM0_PCODE,ADM0_ES
-CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+CUB,cod-ab-cub,OCHA Field Information Services Section (FISS),,cub_adma_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 CUW,cod-ab-cuw,OCHA Field Information Services Section (FISS),,CUW_adm0.zip,,,
 CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,,
-CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+CYM,cod-ab-cym,OCHA Field Information Services Section (FISS),,cym_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,ADM0_PCODE,ADM0_EN
-DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 DJI,cod-ab-dji,OCHA Field Information Services Section (FISS),,dji_adm_gadm_2022_SHP.zip,,,
 DMA,cod-ab-dma,OCHA Field Information Services Section (FISS),,dma_admn_adm0_py_s1_dominode_v2.zip,,ADM0_PCODE,ADM0_EN
 DMA,cod-ab-dma,OCHA Field Information Services Section (FISS),,dma_admn_adm1_py_s1_dominode.zip,,ADM0_PCODE,ADM0_EN
 DMA,cod-ab-dma,OCHA Field Information Services Section (FISS),,dma_admbndl_ALL_py_s1_dominode.zip,,,
-DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_ES, ADM0_ES"
-DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
-DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM4_ES, ADM0_ES, ADM0_EN"
+DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM0_EN"
+DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM3_ES"
+DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM4_ES, ADM3_ES"
 DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_ES"
-DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM4_ES, ADM0_ES, ADM0_EN"
-DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM1_ES, ADM0_ES, ADM2_ES"
+DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM4_ES, ADM3_ES"
+DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN"
 DOM,cod-ab-dom,OCHA Field Information Services Section (FISS),,dom_admbnda_one_20210629_SHP.zip,,,
-DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,,
 DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
-ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM1_ES, ADM0_ES, ADM2_ES"
-ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_ES, ADM0_ES"
+DZA,cod-ab-dza,OCHA Middle East and North Africa (ROMENA),,dza_admbnda_unhcr2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM3_ES"
+ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN"
+ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM0_EN"
 ECU,cod-ab-ecu,OCHA Latin America and the Caribbean (ROLAC),,ecu_adm_inec_20190724_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_ES"
 EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm0_capmas_itos_20170421.zip,,ADM0_PCODE,ADM0_EN
-EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm1_capmas_20170421.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm2_capmas_20170421.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm3_capmas_20170421.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm1_capmas_20170421.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm2_capmas_20170421.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbnda_adm3_capmas_20170421.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbndl_admALL_capmas_itos_20170421.zip,,,
-EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbndp_admALL_capmas_itos_20170421.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+EGY,cod-ab-egy,OCHA Middle East and North Africa (ROMENA),,egy_admbndp_admALL_capmas_itos_20170421.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,,
 ERI,cod-ab-eri,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,eri_adm_gov_20200427_SHP.zip,,ADM0_PCODE,ADM0_EN
 ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,ADM0_PCODE,ADM0_EN
-ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 ESH,cod-ab-esh,OCHA Middle East and North Africa (ROMENA),,esh_admbnda_gadm_20210405_SHP.zip,,,
-ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,ADM0_PCODE,ADM0_EN
-ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,,
-ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+ETH,cod-ab-eth,OCHA Ethiopia,,eth_adm_csa_bofedb_2021_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm0_country.zip,,ADM0_PCODE,ADM0_NAME
-FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm3_tikina.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM3_NAME, ADM0_NAME, ADM1_NAME, ADM2_NAME"
-FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm2_province.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_NAME, ADM0_NAME, ADM2_NAME"
-FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm1_district.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_NAME, ADM0_NAME"
-FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,ADM0_PCODE,"adm0Name, ADM0_NAME"
+FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm3_tikina.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_NAME, ADM1_NAME, ADM3_NAME, ADM2_NAME"
+FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm2_province.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_NAME, ADM1_NAME, ADM2_NAME"
+FJI,cod-ab-fji,OCHA Regional Office for Asia and the Pacific (ROAP),,fji_polbnda_adm1_district.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_NAME, ADM1_NAME"
+FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,ADM0_PCODE,"ADM0_NAME, adm0Name"
 FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,ADM0_PCODE,ADM0_NAME
-FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_NAME, ADM1NAME"
-FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_NAME, ADM1NAME, ADM2_NAME"
+FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_NAME, ADM1NAME"
+FSM,cod-ab-fsm,OCHA Office of the Pacific Islands,,fsm_admbnda_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_NAME, ADM1NAME, ADM2_NAME"
 GAB,cod-ab-gab,OCHA West and Central Africa (ROWCA),,gab_admbndp0_1m_salb.zip,,,
 GAB,cod-ab-gab,OCHA West and Central Africa (ROWCA),,gab_admbndp1_1m_salb.zip,,"ADM1_CODE, RowcaCode1",ADM1_NAME
-GAB,cod-ab-gab,OCHA West and Central Africa (ROWCA),,gab_admbndp2_1m_salb.shp_.zip,,"RowcaCode2, ADM2_CODE, ADM1_CODE, RowcaCode1","ADM1_NAME, ADM2_NAME"
-GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+GAB,cod-ab-gab,OCHA West and Central Africa (ROWCA),,gab_admbndp2_1m_salb.shp_.zip,,"ADM1_CODE, RowcaCode2, RowcaCode1, ADM2_CODE","ADM1_NAME, ADM2_NAME"
+GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,,
-GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GEO,cod-ab-geo,OCHA ROCCA (Closed),,geo_adm_geostat_20191018_SHP.zip,,ADM0_PCODE,ADM0_EN
-GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,ADM0_PCODE,ADM0_EN
-GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,,
-GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin2Name, admin1Name, admin3Name, admin0Name"
+GHA,cod-ab-gha,OCHA West and Central Africa (ROWCA),,gha_admbnda_gss_20210308_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin2Name, admin1Name, admin0Name, admin3Name"
 GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,admin0Name
-GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin0Name, admin1Name, admin2Name"
+GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin2Name, admin1Name, admin0Name"
 GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,
-GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin0Name, admin1Name"
-GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_adm4_2021_ocha.zip,,"ADM3_CODE, ADM4_CODE, ADM2_CODE, ADM1_CODE, ADM0_CODE","admin2Name, admin0Name, admin1Name, ADM4_FR, admin3Name"
+GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_ocha_FIS.zip,,,"admin1Name, admin0Name"
+GIN,cod-ab-gin,OCHA West and Central Africa (ROWCA),,gin_admbnda_adm4_2021_ocha.zip,,"ADM1_CODE, ADM0_CODE, ADM2_CODE, ADM3_CODE, ADM4_CODE","ADM4_FR, admin2Name, admin1Name, admin0Name, admin3Name"
 GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,,
 GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_FR
-GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
-GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
+GLP,cod-ab-glp,OCHA Field Information Services Section (FISS),,glp_adm_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,ADM0_PCODE,ADM0_EN
-GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,,
-GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GMB,cod-ab-gmb,OCHA Field Information Services Section (FISS),,gmb_adm_ndma_20220901_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,ADM0_PCODE,ADM0_EN
 GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_admbnda_1m_salb_20210609_SHP.zip,,,
-GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,ADM0_PCODE,ADM0_EN
-GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 GNB,cod-ab-gnb,OCHA Field Information Services Section (FISS),,gnb_adm_1m_salb_20210609_em_SHP.zip,,,
-GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,,
-GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 GNQ,cod-ab-gnq,OCHA West and Central Africa (ROWCA),,gnq_admbnda_gadm_20210715_SHP.zip,,ADM0_PCODE,ADM0_EN
 GRC,cod-ab-grc,Regional IM Working Group - Europe,,GR_bsm_admn_adm_py_EuroGeoGraphics_2015_pp.zip,,,
 GRC,cod-ab-grc,Regional IM Working Group - Europe,,GR_bsm_admn_adm_py_EuroGeoGraphics_2015_pp.zip,,,
 GRC,cod-ab-grc,Regional IM Working Group - Europe,,GR_bsm_admn_adm_py_EuroGeoGraphics_2015_pp.zip,,,
 GRC,cod-ab-grc,Regional IM Working Group - Europe,,GR_bsm_admn_adm_py_EuroGeoGraphics_2015_pp.zip,,,
 GRD,cod-ab-grd,OCHA Field Information Services Section (FISS),,GRD_adm0.zip,,,
-GRD,cod-ab-grd,OCHA Field Information Services Section (FISS),,GRD_adm1.zip,,,"NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
+GRD,cod-ab-grd,OCHA Field Information Services Section (FISS),,GRD_adm1.zip,,,"NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
 GRD,cod-ab-grd,OCHA Field Information Services Section (FISS),,grd_admbndl_ALL.zip,,,
 GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,ADM0_PCODE,ADM0_ES
-GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,,
-GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_FR, ADM0_FR, ADM1_FR"
-GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_FR, ADM1_FR"
+GTM,cod-ab-gtm,OCHA Field Information Services Section (FISS),,gtm_adm_ocha_conred_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM0_FR, ADM2_FR, ADM1_FR"
+GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM0_FR, ADM1_FR"
 GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,,
 GUF,cod-ab-guf,OCHA Field Information Services Section (FISS),,guf_adm_ign_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_FR"
 GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,,
-GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 GUY,cod-ab-guy,OCHA Field Information Services Section (FISS),,guy_admbnd_2021_SHP.zip,,ADM0_PCODE,ADM0_EN
-HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_adm_sinit_20161005_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_adm_sinit_20161005_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
+HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_adm_sinit_20161005_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_adm_sinit_20161005_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
 HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_adm_sinit_20161005_SHP.zip,,ADM0_PCODE,ADM0_ES
-HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_pplp_sinit_20160125.zip,,,"admin0Name, admin1Name, admin2Name"
-HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_admbnda_adm3_sinit_20161005.zip,,,"admin2Name, admin1Name, admin3Name, admin0Name"
+HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_pplp_sinit_20160125.zip,,,"admin2Name, admin1Name, admin0Name"
+HND,cod-ab-hnd,OCHA Latin America and the Caribbean (ROLAC),,hnd_admbnda_adm3_sinit_20161005.zip,,,"admin2Name, admin1Name, admin0Name, admin3Name"
 HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,ADM0_PCODE,"ADM0_EN, ADM0_FR"
-HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM1_FR, ADM0_FR, ADM0_EN, ADM2_FR"
+HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM2_FR, ADM0_EN, ADM1_FR"
 HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,,
-HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_FR, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN, ADM2_FR"
-HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_FR, ADM1_EN, ADM1_FR"
-HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_FR, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN, ADM2_FR"
-HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
+HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM1_FR, ADM0_FR, ADM3_EN, ADM2_FR, ADM0_EN, ADM3_FR, ADM1_EN"
+HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_FR, ADM0_FR, ADM1_EN"
+HTI,cod-ab-hti,OCHA Haiti,,hti_adm_cnigs_20181129.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM3_EN, ADM0_EN, ADM2_FR, ADM3_FR, ADM1_FR"
+HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
 HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,ADM0_PCODE,ADM0_EN
-HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
-HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
+HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 HUN,cod-ab-hun,OCHA Field Information Services Section (FISS),,hun_admbnda_osm_20220720_SHP.zip,,,
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM4_PCODE, ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,ADM0_PCODE,ADM0_EN
 IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_20200401_SHP.zip,,,
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IDN,cod-ab-idn,OCHA Regional Office for Asia and the Pacific (ROAP),,idn_adm_bps_adm4_20200401_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,,
 IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,ADM0_PCODE,ADM0_EN
-IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+IRN,cod-ab-irn,OCHA Middle East and North Africa (ROMENA),,irn_adm_unhcr_20190514_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
-IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 IRQ,cod-ab-irq,OCHA Iraq,,IRQ Administrative Divisions Shapefiles.zip,,,
 JAM,cod-ab-jam,OCHA Field Information Services Section (FISS),,jam_adm_SHP.zip,,adm0code,NAME_0
 JAM,cod-ab-jam,OCHA Field Information Services Section (FISS),,jam_adm_SHP.zip,,,
-JAM,cod-ab-jam,OCHA Field Information Services Section (FISS),,jam_adm_SHP.zip,,"adm0code, adm1code","NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
-JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+JAM,cod-ab-jam,OCHA Field Information Services Section (FISS),,jam_adm_SHP.zip,,"adm0code, adm1code","NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
+JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_EN
-JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 JPN,cod-ab-jpn,OCHA Regional Office for Asia and the Pacific (ROAP),,jpn_adm_2019_SHP.zip,,,
-KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_RU, ADM1_EN, ADM1_RU"
+KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM0_RU, ADM1_RU, ADM1_EN"
 KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,,
-KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM0_EN, ADM1_RU"
+KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM0_EN, ADM1_RU, ADM2_RU, ADM1_EN"
 KAZ,cod-ab-kaz,OCHA ROCCA (Closed),,kaz_adm_2019_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_RU"
-KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,,
 KEN,cod-ab-ken,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,ken_adm_iebc_20191031_SHP.zip,,ADM0_PCODE,ADM0_EN
 KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,,
-KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM3TYP_RU, ADM3_RU, ADM3_EN, ADM0_EN, ADM1_RU, ADM3TYP_EN"
-KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2TYP_RU, ADM2_RU, ADM0_RU, ADM1_EN, ADM2TYP_EN, ADM0_EN, ADM1_RU"
-KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM3TYP_RU, ADM3_RU, ADM3_EN, ADM0_EN, ADM1_RU, ADM3TYP_EN"
-KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_RU, ADM1_EN, ADM1TYP_EN, ADM1TYP_RU, ADM0_EN, ADM1_RU"
+KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM3TYP_EN, ADM3TYP_RU, ADM3_EN, ADM1_RU, ADM0_EN, ADM3_RU, ADM2_RU, ADM1_EN"
+KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM2TYP_EN, ADM0_EN, ADM1_RU, ADM2TYP_RU, ADM2_RU, ADM1_EN"
+KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM3TYP_EN, ADM3TYP_RU, ADM3_EN, ADM0_EN, ADM1_RU, ADM3_RU, ADM2_RU, ADM1_EN"
+KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_RU, ADM1_RU, ADM0_EN, ADM1TYP_EN, ADM1TYP_RU, ADM1_EN"
 KGZ,cod-ab-kgz,OCHA ROCCA (Closed),,KGZ Administrative Divisions Shapefiles.zip,,ADM0_PCODE,"ADM0_EN, ADM0_RU"
 KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm0_gov_20181004.zip,,ADM0_PCODE,ADM0_EN
-KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm1_gov_20181004.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm2_gov_20181004.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm3_gov_20181004.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm1_gov_20181004.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm2_gov_20181004.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbnda_adm3_gov_20181004.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbndl_admALL_gov_itos_20181004.zip,,,
-KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbndp_admALL_gov_itos_20181004.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+KHM,cod-ab-khm,OCHA Regional Office for Asia and the Pacific (ROAP),,khm_admbndp_admALL_gov_itos_20181004.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,,
 KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+KIR,cod-ab-kir,OCHA Office of the Pacific Islands,,kir_adm_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 KNA,cod-ab-kna,OCHA Field Information Services Section (FISS),,kna_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
 KNA,cod-ab-kna,OCHA Field Information Services Section (FISS),,kna_adm_2020_SHP.zip,,,
-KNA,cod-ab-kna,OCHA Field Information Services Section (FISS),,kna_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+KNA,cod-ab-kna,OCHA Field Information Services Section (FISS),,kna_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,ADM0_PCODE,ADM0_EN
 KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,,
-KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,kwt_adm_gadm_20220201_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 KWT,cod-ab-kwt,OCHA Middle East and North Africa (ROMENA),,pplp_15m_esri.zip,,,
 LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,,
-LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,ADM0_PCODE,ADM0_EN
-LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin0Name, admin1Name, admin2Name"
-LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin0Name, admin1Name"
-LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin2Name, admin1Name, admin3Name, admin0Name"
+LAO,cod-ab-lao,OCHA Regional Office for Asia and the Pacific (ROAP),,lao_adm_ngd_20191112_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin2Name, admin1Name, admin0Name"
+LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin1Name, admin0Name"
+LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,"admin2Name, admin1Name, admin0Name, admin3Name"
 LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_adm_cdr_20200810.zip,,,admin0Name
-LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_beirut_adm4_mapaction_pcoded.zip,,"ADM4_PCODE, ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE",
-LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+LBN,cod-ab-lbn,OCHA Middle East and North Africa (ROMENA),,lbn_beirut_adm4_mapaction_pcoded.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE",
+LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
 LBR,cod-ab-lbr,OCHA West and Central Africa (ROWCA),,LBR Administrative Divisions Shapefiles.zip,,,
 LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,,
 LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,ADM0_PCODE,ADM0_EN
-LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+LBY,cod-ab-lby,OCHA Middle East and North Africa (ROMENA),,lby_adm_unosat_lbsc_20180507_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,ADM0_PCODE,ADM0_EN
-LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 LCA,cod-ab-lca,OCHA Field Information Services Section (FISS),,lca_admbnda_gov_2019_SHP.zip,,,
-LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,,
-LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,ADM0_PCODE,ADM0_EN
-LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+LKA,cod-ab-lka,OCHA Regional Office for Asia and the Pacific (ROAP),,lka_adm_20220816_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 LSO,cod-ab-lso,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,lso_adm_FAO_MLGCA_2019.zip,,,
 LSO,cod-ab-lso,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,lso_adm_FAO_MLGCA_2019.zip,,ADM1_PCODE,ADM1_EN
 LSO,cod-ab-lso,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,lso_adm_FAO_MLGCA_2019.zip,,ADM0_PCODE,
-LSO,cod-ab-lso,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,lso_adm_FAO_MLGCA_2019.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+LSO,cod-ab-lso,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,lso_adm_FAO_MLGCA_2019.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MAF,cod-ab-maf,OCHA Field Information Services Section (FISS),,MAF_adm0.zip,,,
 MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,,
-MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MAR,cod-ab-mar,OCHA Middle East and North Africa (ROMENA),,mar_adm_unhcr2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,ADM0_PCODE,ADM0_EN
-MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MDA,cod-ab-mda,OCHA Field Information Services Section (FISS),,mda_admbnda_unhcr_20220510_SHP.zip,,,
-MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,,
-MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM4_PCODE, ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 MDG,cod-ab-mdg,OCHA Field Information Services Section (FISS),,mdg_adm_BNGRC_OCHA_20181031_SHP.zip,,ADM0_PCODE,ADM0_EN
-MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,ADM0_PCODE,ADM0_EN
-MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,,
-MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 MDV,cod-ab-mdv,OCHA Regional Office for Asia and the Pacific (ROAP),,mdv_admbnd_gov_20210329_SHP.zip,,,
-MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
+MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
 MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,,
 MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,ADM0_PCODE,ADM0_ES
-MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
+MEX,cod-ab-mex,OCHA Latin America and the Caribbean (ROLAC),,mex_admbnda_govmex_20210618_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
 MHL,cod-ab-mhl,OCHA Regional Office for Asia and the Pacific (ROAP),,mhl_admbnda_adm0.zip,,ADM0_PCODE,ADM0_EN
-MHL,cod-ab-mhl,OCHA Regional Office for Asia and the Pacific (ROAP),,mhl_admbnda_adm1_atolls.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-MHL,cod-ab-mhl,OCHA Regional Office for Asia and the Pacific (ROAP),,mhl_admbnda_adm2_EA.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MHL,cod-ab-mhl,OCHA Regional Office for Asia and the Pacific (ROAP),,mhl_admbnda_adm1_atolls.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+MHL,cod-ab-mhl,OCHA Regional Office for Asia and the Pacific (ROAP),,mhl_admbnda_adm2_EA.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MKD,cod-ab-mkd,Regional IM Working Group - Europe,,MKD_admn_adm_py_EuroGeographics-NTES_pp.zip,,,"Name3_L, Name4_E, Name3_E, Name4_L"
 MKD,cod-ab-mkd,Regional IM Working Group - Europe,,MKD_admn_adm_py_EuroGeographics-NTES_pp.zip,,,
 MKD,cod-ab-mkd,Regional IM Working Group - Europe,,MKD_admn_adm_py_EuroGeographics-NTES_pp.zip,,,"Name3_L, Name3_E"
-MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
-MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
-MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
+MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
 MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,,
 MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,ADM0_PCODE,ADM0_FR
-MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+MLI,cod-ab-mli,OCHA Mali,,mli_admb_1m_gov_20211220_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
 MMR,mimu-geonode-myanmar-national-boundary-mimu,Myanmar Information Management Unit (MIMU),Could not download boundary resource,Myanmar National Boundary MIMU v9.3 shapefile,,,
 MMR,mimu-geonode-myanmar-national-boundary-mimu,Myanmar Information Management Unit (MIMU),Could not download boundary resource,Myanmar National Boundary MIMU v9.3 geojson,,,
 MMR,mimu-geonode-myanmar-district-boundaries-mimu,Myanmar Information Management Unit (MIMU),Could not download boundary resource,Myanmar District Boundaries MIMU v9.3 shapefile,,,
@@ -449,360 +449,360 @@ MMR,mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu,Myanm
 MMR,mimu-geonode-myanmar-state-and-region-boundaries-with-sub-regions-mimu,Myanmar Information Management Unit (MIMU),Could not download boundary resource,Myanmar State and Region Boundaries with Sub-regions MIMU  v9.3 geojson,,,
 MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
 MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,,
-MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,,
 MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
-MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+MNG,cod-ab-mng,OCHA Regional Office for Asia and the Pacific (ROAP),,MNG Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,ADM0_PCODE,ADM0_EN
 MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,,
-MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
-MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE",ADM0_EN
-MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
-MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_admbnda_adm3_ine_20190910_km2.zip,,,"admin2Name, admin1Name, admin3Name, admin0Name"
+MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
+MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
+MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_adm_20190607b_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
+MOZ,cod-ab-moz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,moz_admbnda_adm3_ine_20190910_km2.zip,,,"admin2Name, admin1Name, admin0Name, admin3Name"
 MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,ADM0_PCODE,ADM0_EN
-MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,,
-MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MRT,cod-ab-mrt,OCHA West and Central Africa (ROWCA),,mrt_adm_gov_itos_20200801_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MSR,cod-ab-msr,OCHA Field Information Services Section (FISS),,msr_adm_gadm_SHP.zip,,,
 MSR,cod-ab-msr,OCHA Field Information Services Section (FISS),,msr_adm_gadm_SHP.zip,,ADM0_PCODE,ADM0_EN
-MSR,cod-ab-msr,OCHA Field Information Services Section (FISS),,msr_adm_gadm_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+MSR,cod-ab-msr,OCHA Field Information Services Section (FISS),,msr_adm_gadm_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
 MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,,
-MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
+MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
 MTQ,cod-ab-mtq,OCHA Field Information Services Section (FISS),,mtq_adm_2016_ignf_SHP.zip,,ADM0_PCODE,ADM0_FR
 MUS,cod-ab-mus,OCHA Latin America and the Caribbean (ROLAC),,mus_adm_2020_v2_SHP.zip,,ADM0_PCODE,ADM0_EN
-MUS,cod-ab-mus,OCHA Latin America and the Caribbean (ROLAC),,mus_adm_2020_v2_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN, ADM1_FR"
-MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+MUS,cod-ab-mus,OCHA Latin America and the Caribbean (ROLAC),,mus_adm_2020_v2_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN, ADM1_FR"
+MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,,
-MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,ADM0_PCODE,ADM0_EN
-MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MWI,cod-ab-mwi,UNFPA,,mwi_adm_nso_20181016_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,ADM0_PCODE,ADM0_EN
-MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,,
-MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+MYS,cod-ab-mys,OCHA Regional Office for Asia and the Pacific (ROAP),,mys_admb_unhcr_20210211_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,ADM0_PCODE,ADM0_EN
 NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,,
-NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NAM,cod-ab-nam,OCHA Field Information Services Section (FISS),,nam_adm_nsa_ocha_20200109_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 NER,cod-ab-ner,OCHA Niger,,NER_adm00_feb2018.zip,,,
 NER,cod-ab-ner,OCHA Niger,,NER_adm01_feb2018.zip,,rowcacode1,
-NER,cod-ab-ner,OCHA Niger,,NER_adm02_feb2018.zip,,"rowcacode1, rowcacode2",
-NER,cod-ab-ner,OCHA Niger,,NER_adm03_feb2018.zip,,"rowcacode1, rowcacode3, rowcacode2",
+NER,cod-ab-ner,OCHA Niger,,NER_adm02_feb2018.zip,,"rowcacode2, rowcacode1",
+NER,cod-ab-ner,OCHA Niger,,NER_adm03_feb2018.zip,,"rowcacode3, rowcacode2, rowcacode1",
 NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,,
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,,
 NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,ADM0_PCODE,ADM0_EN
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NGA,cod-ab-nga,OCHA Nigeria,,nga_adm_osgof_20190417.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
 NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,ADM0_PCODE,ADM0_ES
 NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,,
-NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
+NIC,cod-ab-nic,OCHA Field Information Services Section (FISS),,nic_admbnda_inide_itos_20210826_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
 NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,ADM0_PCODE,ADM0_EN
-NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,,
-NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 NPL,cod-ab-npl,OCHA Field Information Services Section (FISS),,npl_admbnda_nd_20201117_SHP.zip,,,
-OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,ADM0_PCODE,ADM0_EN
-OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,,
-OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+OMN,cod-ab-omn,OCHA Middle East and North Africa (ROMENA),,omn_adm_gadm_20210603_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,ADM0_PCODE,ADM0_EN
-PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,,
-PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_adm_wfp_20220909_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 PAK,cod-ab-pak,OCHA Field Information Services Section (FISS),,pak_admbndl_adm_LOC_wfp_itos_20220909.zip,,,
 PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,,
 PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,ADM0_PCODE,ADM0_ES
-PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
-PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
-PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_ES, ADM0_ES"
-PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
+PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
+PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+PAN,cod-ab-pan,OCHA Field Information Services Section (FISS),,pan_adm_gadm_20211020_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM3_ES"
+PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM0_EN"
+PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM3_ES"
 PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_ES"
-PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
+PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES, ADM0_EN, ADM3_ES"
 PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,,
-PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM1_ES, ADM0_ES, ADM2_ES"
-PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_adm3.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+PER,cod-ab-per,OCHA Latin America and the Caribbean (ROLAC),,per_adm_ign_20200714_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN"
+PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_adm3.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,,
-PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,ADM0_PCODE,ADM0_EN
-PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,ADM0_PCODE,ADM0_EN
 PHL,cod-ab-phl,OCHA Philippines,,phl_adminboundaries_candidate_exclude_adm3.zip,,ADM0_PCODE,ADM0_EN
-PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,ADM0_PCODE,ADM0_EN
 PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,,
-PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
-POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
-POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+PNG,cod-ab-png,OCHA Regional Office for Asia and the Pacific (ROAP),,png_adm_nso_20190508_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
+POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
+POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,ADM0_PCODE,ADM0_EN
 POL,cod-ab-pol,OCHA Field Information Services Section (FISS),,pol_adm_gov_v02_20220414_SHP.zip,,,
-PRI,cod-ab-pri,OCHA Field Information Services Section (FISS),,pri_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
+PRI,cod-ab-pri,OCHA Field Information Services Section (FISS),,pri_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
 PRI,cod-ab-pri,OCHA Field Information Services Section (FISS),,pri_adm_2019_SHP.zip,,,
 PRI,cod-ab-pri,OCHA Field Information Services Section (FISS),,pri_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_ES
-PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,,
-PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 PRK,cod-ab-prk,OCHA Regional Office for Asia and the Pacific (ROAP),,prk_adm_wfp_20190624_SHP.zip,,ADM0_PCODE,ADM0_EN
-PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,ADM0_PCODE,ADM0_ES
 PRY,cod-ab-pry,OCHA Latin America and the Caribbean (ROLAC),,pry_adm_DGEEC_2020_SHP.zip,,,
 PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,,
-PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,ADM0_PCODE,ADM0_EN
-PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+PSE,cod-ab-pse,OCHA occupied Palestinian territory (oPt),,pse_adm_pamop_20210806_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 QAT,cod-ab-qat,OCHA Middle East and North Africa (ROMENA),,Admin 0,,,
-QAT,cod-ab-qat,OCHA Middle East and North Africa (ROMENA),,Admin 1,,,"NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
+QAT,cod-ab-qat,OCHA Middle East and North Africa (ROMENA),,Admin 1,,,"NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
 QAT,cod-ab-qat,OCHA Middle East and North Africa (ROMENA),,Capitals,,,
 QAT,cod-ab-qat,OCHA Middle East and North Africa (ROMENA),,Populated Places,,,
 ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,ADM0_PCODE,ADM0_EN
-ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,,
-ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
-ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
+ROU,cod-ab-rou,OCHA Field Information Services Section (FISS),,rou_adm_ancpi_v02_20220427_AB_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,,
 RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,ADM0_PCODE,ADM0_EN
-RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM4_PCODE, ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN, ADM4_EN"
-RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM1_FR, ADM0_FR, ADM0_EN"
-RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM1_FR, ADM3_EN, ADM0_FR, ADM0_EN"
+RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+RUS,cod-ab-rus,OCHA Field Information Services Section (FISS),,rus_adm_gadm_2022_v03.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_FR"
+RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM0_EN, ADM1_FR"
+RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_FR, ADM1_EN, ADM3_EN, ADM0_EN, ADM1_FR"
 RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_FR"
-RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_FR, ADM1_EN, ADM1_FR"
-SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+RWA,cod-ab-rwa,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_FR, ADM0_FR, ADM1_EN"
+SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,,
 SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,ADM0_PCODE,ADM0_EN
-SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,sau_adm_gadm_20210525_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,Capitals,,,
 SAU,cod-ab-sau,OCHA Middle East and North Africa (ROMENA),,SAU_Places.zip,,,
 SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,,
-SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 SDN,cod-ab-sdn,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,,ADM0_PCODE,ADM0_EN
-SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
 SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,ADM0_PCODE,ADM0_FR
-SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
+SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
 SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,,
-SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
-SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+SEN,cod-ab-sen,OCHA West and Central Africa (ROWCA),,Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
 SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm0.zip,,ADM0_PCODE,
-SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm1.zip,,"ADM0_PCODE, ADM1_PCODE",ADM1_NAME
-SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm2.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_NAME, ADM2_NAME"
-SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm3.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM3_NAME, ADM1_NAME, ADM2_NAME"
-SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm1_1m_gov_ocha_20161017.shp.zip,,,"admin0Name, admin1Name"
-SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm2_1m_gov_ocha.zip,,,"admin0Name, admin1Name, admin2Name"
-SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm3_1m_gov_ocha_20161017.zip,,"Rowcacode1, Rowcacode0, Rowcacode3, Rowcacode2","admin2Name, admin1Name, admin3Name, admin0Name"
-SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,Admin 4   Counties,,"Rowcacode3, Rowcacode4, Rowcacode0, Rowcacode1, Rowcacode2","admin2Name, admin0Name, admin4Name, admin1Name, admin3Name"
+SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm1.zip,,"ADM1_PCODE, ADM0_PCODE",ADM1_NAME
+SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm2.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_NAME, ADM2_NAME"
+SLB,cod-ab-slb,OCHA Regional Office for Asia and the Pacific (ROAP),,slb_admbnda_adm3.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_NAME, ADM3_NAME, ADM2_NAME"
+SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm1_1m_gov_ocha_20161017.shp.zip,,,"admin1Name, admin0Name"
+SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm2_1m_gov_ocha.zip,,,"admin2Name, admin1Name, admin0Name"
+SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm3_1m_gov_ocha_20161017.zip,,"Rowcacode1, Rowcacode3, Rowcacode2, Rowcacode0","admin2Name, admin1Name, admin0Name, admin3Name"
+SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,Admin 4   Counties,,"Rowcacode1, Rowcacode0, Rowcacode2, Rowcacode3, Rowcacode4","admin4Name, admin2Name, admin1Name, admin0Name, admin3Name"
 SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbnda_adm0_1m_gov_ocha_20161017.zip,,,admin0Name
 SLE,cod-ab-sle,OCHA West and Central Africa (ROWCA),,sle_admbndl_admAll_1m_ocha.zip,,,
 SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,,
-SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
-SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
+SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
 SLV,cod-ab-slv,OCHA Latin America and the Caribbean (ROLAC),,slv_adm_gadm_2021_SHP.zip,,ADM0_PCODE,ADM0_ES
-SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin0Name, admin1Name"
-SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin0Name, admin1Name, admin2Name"
-SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,ADM0_PCODE,"ADM0_EN, admin1Name, admin2Name"
-SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin0Name, admin1Name, admin2Name"
+SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin1Name, admin0Name"
+SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin2Name, admin1Name, admin0Name"
+SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,ADM0_PCODE,"admin2Name, ADM0_EN, admin1Name"
+SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,"admin2Name, admin1Name, admin0Name"
 SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,,
 SOM,cod-ab-som,OCHA Field Information Services Section (FISS),,som_adm_2022_v2.zip,,ADM0_PCODE,ADM0_EN
-SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,,
 SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,ADM0_PCODE,ADM0_EN
-SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SSD,cod-ab-ssd,OCHA South Sudan,,ssd_admbnda_imwg_nbs_20221219_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
+STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
 STP,cod-ab-stp,OCHA West and Central Africa (ROWCA),,stp_adm_gadm_2020_SHP.zip,,,
 SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,,
 SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,ADM0_PCODE,
-SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",
-SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",
-SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
+SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",
+SUR,cod-ab-sur,OCHA Field Information Services Section (FISS),,sur_adm_2017_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",
+SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
 SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,ADM0_PCODE,ADM0_EN
-SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
-SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE",ADM0_EN
+SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
+SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE",ADM0_EN
 SVK,cod-ab-svk,OCHA Field Information Services Section (FISS),,svk_admbndp_geoportalsk_itos_20220707_SHP.zip,,,
 SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,,
-SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,ADM0_PCODE,ADM0_EN
-SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+SWZ,cod-ab-swz,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,swz_admbnda_cso2007_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 SXM,cod-ab-sxm,OCHA Field Information Services Section (FISS),,sxm_admbnda_adm0.zip,,ADM0_PCODE,ADM0_EN
-SXM,cod-ab-sxm,OCHA Field Information Services Section (FISS),,sxm_admbnda_adm1.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+SXM,cod-ab-sxm,OCHA Field Information Services Section (FISS),,sxm_admbnda_adm1.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 SXM,cod-ab-sxm,OCHA Field Information Services Section (FISS),,sxm_admbndl_all.zip,,,
-SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,,
 SYC,cod-ab-syc,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,syc_adm_nbs2010_SHP.zip,,ADM0_PCODE,ADM0_EN
-SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, NAME_ALT2A, ADM1_EN, NAME_ALT1A, ADM3_EN, NAME_ALT2E, NAME_ALT1E, ADM4_EN"
-SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, NAME_ALT2A, ADM3_EN, ADM0_EN, NAME_ALT2E, NAME_ALT1E, NAME_ALT1A, ADM4_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,,
 SYR,cod-ab-syr,OCHA Syria,,SYR Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
 SYR,cod-ab-syr,OCHA Syria,Could not read file,syr_pplp_adm4_unocha_20210113.zip,,,
-SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, NAME_ALT2A, ADM1_EN, NAME_ALT1A, ADM3_EN, NAME_ALT2E, NAME_ALT1E, ADM4_EN"
-SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, NAME_ALT2A, ADM3_EN, ADM0_EN, NAME_ALT2E, NAME_ALT1E, NAME_ALT1A, ADM4_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,,
 SYR,cod-ab-syr,OCHA Syria,,syr_admbnda_uncs_unocha_20201217.zip,,ADM0_PCODE,ADM0_EN
-SYR,cod-ab-syr,OCHA Syria,,syr_pplp_adm4_unocha_20210113.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, PP_ALT2_EN, ADM3_EN, PP_ALT1_EN, ADM0_EN, ADM4_EN"
+SYR,cod-ab-syr,OCHA Syria,,syr_pplp_adm4_unocha_20210113.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","PP_ALT2_EN, ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN, PP_ALT1_EN"
 TCA,cod-ab-tca,OCHA Field Information Services Section (FISS),,tca_admbnda_gadm_SHP.zip,,ADM0_PCODE,ADM0_EN
-TCA,cod-ab-tca,OCHA Field Information Services Section (FISS),,tca_admbnda_gadm_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+TCA,cod-ab-tca,OCHA Field Information Services Section (FISS),,tca_admbnda_gadm_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 TCD,cod-ab-tcd,OCHA Chad,,tcd_admbnda_adm0_ocha.zip,,,admin0Name
-TCD,cod-ab-tcd,OCHA Chad,,tcd_admbnda_adm1_ocha.zip,,,"admin0Name, admin1Name"
-TCD,cod-ab-tcd,OCHA Chad,,tcd_admbnda_adm2_ocha_20170615.zip,,,"admin0Name, admin1Name, admin2Name"
-TCD,cod-ab-tcd,OCHA Chad,,tcd_a_admbnd_adm3_ocha.zip,,,"admin2Name, admin1Name, admin3Name, admin0Name"
+TCD,cod-ab-tcd,OCHA Chad,,tcd_admbnda_adm1_ocha.zip,,,"admin1Name, admin0Name"
+TCD,cod-ab-tcd,OCHA Chad,,tcd_admbnda_adm2_ocha_20170615.zip,,,"admin2Name, admin1Name, admin0Name"
+TCD,cod-ab-tcd,OCHA Chad,,tcd_a_admbnd_adm3_ocha.zip,,,"admin2Name, admin1Name, admin0Name, admin3Name"
 TCD,cod-ab-tcd,OCHA Chad,,tcd_admbndl_admALL_ocha_itos_20160714.zip,,,
-TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
+TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM1_FR"
 TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,,
-TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
 TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,ADM0_PCODE,ADM0_FR
-TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
-TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_FR, ADM1_FR"
-THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_FR, ADM0_FR, ADM3_FR, ADM1_FR"
+TGO,cod-ab-tgo,OCHA West and Central Africa (ROWCA),,tgo_adm_inseed_itos_20210107_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_FR, ADM1_FR"
+THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,ADM0_PCODE,ADM0_EN
 THA,cod-ab-tha,OCHA Regional Office for Asia and the Pacific (ROAP),,tha_adm_rtsd_itos_20210121_SHP.zip,,,
 TJK,cod-ab-tjk,OCHA ROCCA (Closed),Could not find shp or json boundary resource,,,,
 TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,ADM0_PCODE,ADM0_EN
 TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,,
-TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
-TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_admbnda_adm1_2022_v2.zip,,"ADM0_PCODE, ADM1_PCODE",ADM0_EN
+TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+TLS,cod-ab-tls,OCHA Regional Office for Asia and the Pacific (ROAP),,tls_adm_who_ocha_20200911_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_admbnda_adm1_2022_v2.zip,,"ADM1_PCODE, ADM0_PCODE",ADM0_EN
 TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_admbnda_adm0_2022_v2.zip,,ADM0_PCODE,ADM0_EN
 TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm0_country.zip,,PCODE_ADM0,ADM0_NAME
-TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm1_division.zip,,"ADM1_PCODE, PCODE_ADM0","ADM1_NAME, ADM0_NAME"
-TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm2_district.zip,,"ADM1_PCODE, PCODE_ADM0, ADM2_PCODE","ADM1_NAME, ADM0_NAME, ADM2_NAME"
-TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm3_village.zip,,"ADM3_PCODE, ADM1_PCODE, PCODE_ADM0, ADM2_PCODE","ADM3_NAME, ADM0_NAME, ADM1_NAME, ADM2_NAME"
+TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm1_division.zip,,"PCODE_ADM0, ADM1_PCODE","ADM0_NAME, ADM1_NAME"
+TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm2_district.zip,,"PCODE_ADM0, ADM2_PCODE, ADM1_PCODE","ADM0_NAME, ADM1_NAME, ADM2_NAME"
+TON,cod-ab-ton,OCHA Office of the Pacific Islands,,ton_polbnda_adm3_village.zip,,"PCODE_ADM0, ADM2_PCODE, ADM3_PCODE, ADM1_PCODE","ADM0_NAME, ADM1_NAME, ADM3_NAME, ADM2_NAME"
 TTO,cod-ab-tto,OCHA Field Information Services Section (FISS),,TTO_adm0.zip,,ADM0_PCODE,
-TTO,cod-ab-tto,OCHA Field Information Services Section (FISS),,tto_adm1_v2.zip,,"ADM0_PCODE, ADM1_PCODE","NL_NAME_1, NAME_0, VARNAME_1, NAME_1"
+TTO,cod-ab-tto,OCHA Field Information Services Section (FISS),,tto_adm1_v2.zip,,"ADM1_PCODE, ADM0_PCODE","NAME_0, NL_NAME_1, VARNAME_1, NAME_1"
 TTO,cod-ab-tto,OCHA Field Information Services Section (FISS),,tto_adm_lines_v2.zip,,,
 TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,ADM0_PCODE,ADM0_EN
-TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,,
-TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,"adm1_en, adm0_en"
+TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+TUN,cod-ab-tun,OCHA Field Information Services Section (FISS),,tun_adm_ins_20221115_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,"adm0_en, adm1_en"
 TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,adm0_en
 TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,adm0_en
-TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,"adm1_en, adm2_en"
-TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_centeralpoints_1_2.zip,,adm1_code,"adm1_en, adm0_en, adm2_en"
-TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_centeralpoints_1_2.zip,,,"adm1_en, adm0_en"
+TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_administrativelevels0_1_2.zip,,,"adm2_en, adm1_en"
+TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_centeralpoints_1_2.zip,,adm1_code,"adm2_en, adm0_en, adm1_en"
+TUR,cod-ab-tur,Regional IM Working Group - Europe,,turkey_centeralpoints_1_2.zip,,,"adm0_en, adm1_en"
 TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm0_20181019.zip,,ADM0_PCODE,ADM0_EN
-TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm1_20181019.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm2_20181019.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm3_20181019.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
+TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm1_20181019.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm2_20181019.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbnda_adm3_20181019.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 TZA,cod-ab-tza,OCHA ROSA (Closed),,tza_admbndl_ALL_20181019.zip,,,
-UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,ADM0_PCODE,ADM0_EN
-UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,,
-UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM3_RU, ADM3_EN, ADM0_EN, ADM1_RU"
-UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM0_EN, ADM1_RU"
-UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM3_RU, ADM3_EN, ADM0_EN, ADM1_RU"
+UGA,cod-ab-uga,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,uga_admbnda_ubos_20200824_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM3_EN, ADM1_RU, ADM0_EN, ADM3_RU, ADM2_RU, ADM1_EN"
+UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM0_EN, ADM1_RU, ADM2_RU, ADM1_EN"
+UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM3_EN, ADM1_RU, ADM0_EN, ADM3_RU, ADM2_RU, ADM1_EN"
 UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,,
-UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM1_RU, ADM3_RU, ADM3_EN, ADM4_RU, ADM0_EN, ADM4_EN"
+UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM3_EN, ADM1_RU, ADM0_EN, ADM3_RU, ADM4_EN, ADM2_RU, ADM4_RU, ADM1_EN"
 UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,ADM0_PCODE,"ADM0_EN, ADM0_RU"
-UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_RU, ADM1_EN, ADM1_RU"
+UKR,cod-ab-ukr,OCHA Field Information Services Section (FISS),,ukr_adm_sspe_20221005.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_RU, ADM0_EN, ADM0_RU, ADM1_EN"
 URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_ES
-URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM1_ES, ADM0_ES"
-URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM1_ES, ADM2_ES, ADM0_ES"
+URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES"
+URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM2_ES"
 URY,cod-ab-ury,OCHA Field Information Services Section (FISS),,ury_adm_2020_SHP.zip,,,
 UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbnda_adm0_2018b.zip,,ADM0_PCODE,"ADM0_EN, ADM0_RU"
-UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbnda_adm1_2018b.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM0_RU, ADM1_EN, ADM1_RU"
-UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbnda_adm2_2018b.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM2_RU, ADM0_RU, ADM1_EN, ADM0_EN, ADM1_RU"
+UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbnda_adm1_2018b.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM0_RU, ADM1_RU, ADM1_EN"
+UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbnda_adm2_2018b.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM0_RU, ADM0_EN, ADM1_RU, ADM2_RU, ADM1_EN"
 UZB,cod-ab-uzb,OCHA ROCCA (Closed),,uzb_admbndl_ALL_gov.zip,,,
 VCT,cod-ab-vct,OCHA Field Information Services Section (FISS),,vct_admbnda_2021_shp.zip,,,
-VCT,cod-ab-vct,OCHA Field Information Services Section (FISS),,vct_admbnda_2021_shp.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+VCT,cod-ab-vct,OCHA Field Information Services Section (FISS),,vct_admbnda_2021_shp.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 VCT,cod-ab-vct,OCHA Field Information Services Section (FISS),,vct_admbnda_2021_shp.zip,,ADM0_PCODE,ADM0_EN
-VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_ES, ADM0_ES"
-VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
-VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_ES, ADM1_ES, ADM3_ES, ADM0_ES, ADM0_EN"
+VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM0_ES, ADM0_EN"
+VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM3_ES"
+VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN, ADM3_ES"
 VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,ADM0_PCODE,"ADM0_EN, ADM0_ES"
 VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,,
-VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM1_ES, ADM0_ES, ADM2_ES"
+VEN,cod-ab-ven,OCHA Venezuela,,ven_adm_ine_20210223_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM1_ES, ADM2_ES, ADM0_ES, ADM0_EN"
 VGB,cod-ab-vgb,OCHA Field Information Services Section (FISS),,vgb_adm_2020_SHP.zip,,,
 VGB,cod-ab-vgb,OCHA Field Information Services Section (FISS),,vgb_adm_2020_SHP.zip,,ADM0_PCODE,ADM0_EN
-VGB,cod-ab-vgb,OCHA Field Information Services Section (FISS),,vgb_adm_2020_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+VGB,cod-ab-vgb,OCHA Field Information Services Section (FISS),,vgb_adm_2020_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,ADM0_PCODE,ADM0_EN
 VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,,
-VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+VIR,cod-ab-vir,OCHA Field Information Services Section (FISS),,vir_adm_2019_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,,
-VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
+VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
 VNM,cod-ab-vnm,OCHA Regional Office for Asia and the Pacific (ROAP),,vnm_adm_gov_20201027.zip,,ADM0_PCODE,ADM0_EN
 VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbnda_adm0_spc_20180824.zip,,ADM0_PCODE,ADM0_EN
-VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbnda_adm1_spc_20180824.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbnda_adm2_spc_20180824.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbnda_adm1_spc_20180824.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbnda_adm2_spc_20180824.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbndl_admALL_spc_itos_20180824.zip,,,
-VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbndp_admALL_spc_itos_20180824.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE, AD2OLDCODE","ADM0_EN, ADM2REF_EN, ADM2_EN, ADM1_EN"
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3REF_EN, ADM3_EN, ADM0_EN"
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3REF_EN, ADM3_EN, ADM0_EN"
+VUT,cod-ab-vut,OCHA Office of the Pacific Islands,,vut_admbndp_admALL_spc_itos_20180824.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE, AD2OLDCODE","ADM0_EN, ADM2_EN, ADM2REF_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM3REF_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM3REF_EN, ADM1_EN"
 YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,,
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN, ADM1REF_EN"
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN, ADM1REF_EN"
-YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE, AD2OLDCODE","ADM0_EN, ADM2REF_EN, ADM2_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1REF_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1REF_EN, ADM1_EN"
+YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE, AD2OLDCODE","ADM0_EN, ADM2_EN, ADM2REF_EN, ADM1_EN"
 YEM,cod-ab-yem,OCHA Yemen,,YEM Administrative Divisions Shapefiles.zip,,ADM0_PCODE,ADM0_EN
 ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,ADM0_PCODE,ADM0_EN
-ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
-ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
-ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM4_PCODE, ADM3_PCODE, ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM1_EN, ADM3_EN, ADM0_EN, ADM4_EN"
+ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
+ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
+ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,"ADM3_PCODE, ADM4_PCODE, ADM1_PCODE, ADM2_PCODE, ADM0_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM4_EN, ADM1_EN"
 ZAF,cod-ab-zaf,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zaf_adm_sadb_ocha_20201109_SHP.zip,,,
 ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,,
-ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
+ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
 ZMB,cod-ab-zmb,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zmb_adm_dmmu_20201124_SHP.zip,,ADM0_PCODE,ADM0_EN
 ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm0_zimstat_ocha_20180911.zip,,ADM0_PCODE,ADM0_EN
-ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm1_zimstat_ocha_20180911.zip,,"ADM0_PCODE, ADM1_PCODE","ADM0_EN, ADM1_EN"
-ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm2_zimstat_ocha_20180911.zip,,"ADM0_PCODE, ADM1_PCODE, ADM2_PCODE","ADM2_EN, ADM0_EN, ADM1_EN"
-ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm3_zimstat_ocha_20180911.zip,,"ADM3_PCODE, ADM1_PCODE, ADM0_PCODE, ADM2_PCODE","ADM2_EN, ADM3_EN, ADM0_EN, ADM1_EN"
+ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm1_zimstat_ocha_20180911.zip,,"ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM1_EN"
+ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm2_zimstat_ocha_20180911.zip,,"ADM2_PCODE, ADM1_PCODE, ADM0_PCODE","ADM0_EN, ADM2_EN, ADM1_EN"
+ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbnda_adm3_zimstat_ocha_20180911.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
 ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbndl_admALL_zimstat_ocha_itos_20180911.zip,,,
-ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbndp_admALL_zimstat_ocha_itos_20180911.zip,,"ADM0_PCODE, ADM3_PCODE, ADM1_PCODE, ADM2_PCODE","ADM0_EN, ADM3_EN, ADM2_EN, ADM1_EN"
+ZWE,cod-ab-zwe,OCHA Regional Office for Southern and Eastern Africa (ROSEA),,zwe_admbndp_admALL_zimstat_ocha_itos_20180911.zip,,"ADM2_PCODE, ADM3_PCODE, ADM1_PCODE, ADM0_PCODE","ADM3_EN, ADM0_EN, ADM2_EN, ADM1_EN"
