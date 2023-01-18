@@ -64,9 +64,6 @@ def metadata_summary(
         )
 
         for dataset in datasets:
-            tags = dataset.get_tags()
-            if "common operational dataset - cod" not in tags:
-                continue
 
             theme = None
             if dataset["name"][:6] in ["cod-ab", "cod-ps", "cod-hp", "cod-em"]:
@@ -83,12 +80,6 @@ def metadata_summary(
             visibility = "Visible"
             if dataset.get("is_requestdata_type"):
                 visibility = "Available by request"
-
-            formats = []
-            resources = dataset.get_resources()
-            for r in resources:
-                formats.append(r.get_file_type())
-            formats = list(set(formats))
 
             writer.writerow(
                 [
@@ -111,8 +102,8 @@ def metadata_summary(
                     dataset.get("license_title"),
                     methodology,
                     dataset.get("caveats"),
-                    " | ".join(tags),
-                    " | ".join(formats),
+                    " | ".join(dataset.get_tags()),
+                    " | ".join(dataset.get_filetypes()),
                 ]
             )
 
