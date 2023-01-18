@@ -16,8 +16,9 @@ def metadata_summary(
 ):
 
     datasets = Dataset.search_in_hdx(
-        fq='vocab_Topics:"common operational dataset - cod"'
-    )
+        fq='cod_level:"cod-standard"'
+    ) + Dataset.search_in_hdx(fq='cod_level:"cod-enhanced"')
+
     logger.info(f"Summarizing metadata for {len(datasets)} COD datasets")
 
     itos_datasets = None
