@@ -1,10 +1,10 @@
-import csv
 import logging
 from requests import get
 from requests.exceptions import ConnectTimeout
 from slugify import slugify
 
 from hdx.data.dataset import Dataset
+from hdx.utilities.dictandlist import write_list_to_csv
 
 logger = logging.getLogger(__name__)
 
@@ -39,10 +39,7 @@ def metadata_summary(
                 name = slugify(f"{theme} {' '.join(location)}")
             itos_names.append(name)
 
-    with open("datasets_tagged_cods.csv", "w") as c:
-        writer = csv.writer(c)
-        writer.writerow(
-            [
+    results = [[
                 "COD-UID",
                 "dataset title",
                 "URL",
@@ -62,52 +59,52 @@ def metadata_summary(
                 "caveats",
                 "tags",
                 "file formats",
+            ]]
+
+    for dataset in datasets:
+        theme = None
+        if dataset["name"][:6] in ["cod-ab", "cod-ps", "cod-hp", "cod-em"]:
+            theme = dataset["name"][4:6].upper()
+
+        in_itos = "No"
+        if dataset["name"] in itos_names:
+            in_itos = "Yes"
+
+        methodology = dataset.get("methodology")
+        if methodology == "Other":
+            methodology = dataset.get("methodology_other")
+
+        visibility = "Visible"
+        if dataset.get("is_requestdata_type"):
+            visibility = "Available by request"
+
+        results.append(
+            [
+                dataset.get_hdx_url().split("/")[-1],
+                dataset.get("title"),
+                dataset.get_hdx_url(),
+                theme,
+                dataset.get("cod_level"),
+                in_itos,
+                dataset.get("total_res_downloads"),
+                dataset.get("dataset_source"),
+                dataset.get_organization()["title"],
+                dataset.get("dataset_date"),
+                dataset.get("last_modified"),
+                dataset.transform_update_frequency(
+                    dataset.get("data_update_frequency")
+                ),
+                " | ".join(dataset.get_location_iso3s()),
+                visibility,
+                dataset.get("license_title"),
+                methodology,
+                dataset.get("caveats"),
+                " | ".join(dataset.get_tags()),
+                " | ".join(dataset.get_filetypes()),
             ]
         )
 
-        for dataset in datasets:
-
-            theme = None
-            if dataset["name"][:6] in ["cod-ab", "cod-ps", "cod-hp", "cod-em"]:
-                theme = dataset["name"][4:6].upper()
-
-            in_itos = "No"
-            if dataset["name"] in itos_names:
-                in_itos = "Yes"
-
-            methodology = dataset.get("methodology")
-            if methodology == "Other":
-                methodology = dataset.get("methodology_other")
-
-            visibility = "Visible"
-            if dataset.get("is_requestdata_type"):
-                visibility = "Available by request"
-
-            writer.writerow(
-                [
-                    dataset.get_hdx_url().split("/")[-1],
-                    dataset.get("title"),
-                    dataset.get_hdx_url(),
-                    theme,
-                    dataset.get("cod_level"),
-                    in_itos,
-                    dataset.get("total_res_downloads"),
-                    dataset.get("dataset_source"),
-                    dataset.get_organization()["title"],
-                    dataset.get("dataset_date"),
-                    dataset.get("last_modified"),
-                    dataset.transform_update_frequency(
-                        dataset.get("data_update_frequency")
-                    ),
-                    " | ".join(dataset.get_location_iso3s()),
-                    visibility,
-                    dataset.get("license_title"),
-                    methodology,
-                    dataset.get("caveats"),
-                    " | ".join(dataset.get_tags()),
-                    " | ".join(dataset.get_filetypes()),
-                ]
-            )
+    write_list_to_csv("datasets_tagged_cods.csv", results)
 
     logger.info("Wrote out metadata")
     return
