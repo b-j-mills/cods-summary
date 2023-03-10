@@ -1,6 +1,5 @@
-requests~=2.26.0
-hdx-python-api==5.8.1
-tabulator~=1.53.5
-geopandas~=0.10.2
-frictionless~=4.40.5
+requests~=2.28.2
+hdx-python-api~=5.9.9
+frictionless~=5.5.6
+geopandas~=0.12.2
 slugify~=0.0.1
