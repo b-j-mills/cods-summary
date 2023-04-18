@@ -36,6 +36,8 @@ def main(
     with ErrorsOnExit() as errors_on_exit:
         with temp_dir() as temp_folder:
             with Download(rate_limit={"calls": 1, "period": 0.1}) as downloader:
+                open("errors.txt", "w").close()
+
                 if scrapers_to_run:
                     logger.info(f"Running only scrapers: {scrapers_to_run}")
                 if countries:
