@@ -1,3 +1,9 @@
 ### Summary tool for CODs on HDX
 
-This script summarizes the dataset metadata of all of the CODs, population resource headers, and boundary resource field names and outputs into three csvs. It runs daily and takes 10-20 minutes to run.
+This script summarizes the dataset metadata of all of the CODs on HDX into a csv and checks for "cowboy CODs", which are tagged as CODs but not designated as such in their metadata.
+
+It emails out the list of "cowboy CODs" that is written in the errors text file.
+
+It runs daily and takes 5 minutes to run.
+
+It can additionally summarize population resource headers and boundary resource field names and outputs into two additional csvs. This is not enabled by default because it takes around 45 minutes to run.
