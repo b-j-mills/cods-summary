@@ -40,7 +40,20 @@ jobs:
       if: always()
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        file_pattern: datasets*.csv population*.csv boundary*.csv
+        file_pattern: datasets*.csv population*.csv boundary*.csv errors*.txt
         commit_message: automatic - csv updated
         push_options: '--force'
         skip_dirty_check: false
+    - name: Send mail
+      if: failure()
+      uses: dawidd6/action-send-mail@v3
+      with:
+        server_address: ${{secrets.EMAIL_SERVER}}
+        server_port: ${{secrets.EMAIL_PORT}}
+        username: ${{secrets.EMAIL_USERNAME}}
+        password: ${{secrets.EMAIL_PASSWORD}}
+        subject: "FAILED: ${{github.repository}} run job"
+        body: file://errors.txt
+        to: ${{secrets.EMAIL_LIST}}
+        from: ${{secrets.EMAIL_FROM}}
+        content_type: text/html
