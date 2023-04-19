@@ -10,6 +10,7 @@ from hdx.utilities.errors_onexit import ErrorsOnExit
 from hdx.utilities.path import temp_dir
 from scripts.check_boundary_fields import check_boundary_fields
 from scripts.check_population_headers import check_population_headers
+from scripts.country_summary import country_summary
 from scripts.cowboy_cods import cowboy_cods
 from scripts.metadata_summary import metadata_summary
 
@@ -50,6 +51,8 @@ def main(
                     check_boundary_fields(configuration, countries, temp_folder)
                 if "cowboy_cods" in scrapers_to_run:
                     cowboy_cods(errors_on_exit)
+                if "country_summary" in scrapers_to_run:
+                    country_summary(configuration, temp_folder,)
 
             if len(errors_on_exit.errors) > 0:
                 with open("errors.txt", "w") as fp:
@@ -65,7 +68,7 @@ if __name__ == "__main__":
     if scrapers_to_run is None:
         scrapers_to_run = getenv(
             "SCRAPERS_TO_RUN",
-            "metadata_summary,cowboy_cods",
+            "metadata_summary,country_summary,cowboy_cods",
         )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
