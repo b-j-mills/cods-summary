@@ -1,5 +1,6 @@
 import argparse
 import logging
+import warnings
 from os import getenv
 from os.path import expanduser, join
 
@@ -13,6 +14,8 @@ from scripts.check_population_headers import check_population_headers
 from scripts.country_summary import country_summary
 from scripts.cowboy_cods import cowboy_cods
 from scripts.metadata_summary import metadata_summary
+
+warnings.filterwarnings('ignore', category=UserWarning, module='openpyxl')
 
 logger = logging.getLogger(__name__)
 
