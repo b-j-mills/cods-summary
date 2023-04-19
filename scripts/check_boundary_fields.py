@@ -24,9 +24,7 @@ def check_boundary_fields(
     if not countries or countries == "all":
         countries = configuration["countries"]
 
-    dataset_exceptions = configuration["boundaries"].get("dataset_exceptions")
-    if not dataset_exceptions:
-        dataset_exceptions = {}
+    dataset_exceptions = configuration["boundaries"].get("dataset_exceptions", {})
 
     results = [
         [
@@ -44,9 +42,7 @@ def check_boundary_fields(
     for iso in countries:
         row = [iso, None, None, None, None, None, None, None]
 
-        dataset_names = dataset_exceptions.get(iso)
-        if not dataset_names:
-            dataset_names = [f"cod-ab-{iso.lower()}"]
+        dataset_names = dataset_exceptions.get(iso, [f"cod-ab-{iso.lower()}"])
 
         for dataset_name in dataset_names:
             dataset = Dataset.read_from_hdx(dataset_name)
