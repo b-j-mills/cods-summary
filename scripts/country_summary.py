@@ -66,7 +66,7 @@ def country_summary(
             contributors = [d.get_organization()["title"] for d in datasets]
             country_info[f"{cod_type} contributor"] = " | ".join(contributors)
 
-            services = ["True" if "Geoservice" in d.get_filetypes() else "False" for d in datasets]
+            services = ["True" if "geoservice" in d.get_filetypes() else "False" for d in datasets]
             if cod_type == "COD-PS":
                 itos_presence = get(configuration["itos_ps_url"] + iso).status_code
                 if itos_presence == 200:
