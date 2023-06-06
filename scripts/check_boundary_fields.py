@@ -21,9 +21,6 @@ def check_boundary_fields(
 ):
     logger.info(f"Summarizing boundary fields")
 
-    if not countries or countries == "all":
-        countries = configuration["countries"]
-
     dataset_exceptions = configuration["boundaries"].get("dataset_exceptions", {})
 
     results = [

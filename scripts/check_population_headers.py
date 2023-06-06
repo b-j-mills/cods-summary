@@ -16,9 +16,6 @@ def check_population_headers(
 ):
     logger.info(f"Summarizing population headers")
 
-    if not countries or countries == "all":
-        countries = configuration["countries"]
-
     results = [
         [
             "ISO",

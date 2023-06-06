@@ -6,6 +6,7 @@ from os.path import expanduser, join
 
 from hdx.api.configuration import Configuration
 from hdx.facades.keyword_arguments import facade
+from hdx.location.country import Country
 from hdx.utilities.downloader import Download
 from hdx.utilities.errors_onexit import ErrorsOnExit
 from hdx.utilities.path import temp_dir
@@ -36,6 +37,9 @@ def main(
     countries,
     **ignore,
 ):
+    if not countries or countries == "all":
+        countries = [key for key in Country.countriesdata()["countries"]]
+
     configuration = Configuration.read()
     with ErrorsOnExit() as errors_on_exit:
         with temp_dir() as temp_folder:
@@ -44,8 +48,6 @@ def main(
 
                 if scrapers_to_run:
                     logger.info(f"Running only scrapers: {scrapers_to_run}")
-                if countries:
-                    logger.info(f"Running countries: {countries}")
                 if "metadata_summary" in scrapers_to_run:
                     metadata_summary(configuration)
                 if "check_population_headers" in scrapers_to_run:
@@ -55,7 +57,7 @@ def main(
                 if "cowboy_cods" in scrapers_to_run:
                     cowboy_cods(errors_on_exit)
                 if "country_summary" in scrapers_to_run:
-                    country_summary(configuration, temp_folder,)
+                    country_summary(configuration, countries, temp_folder,)
 
             if len(errors_on_exit.errors) > 0:
                 with open("errors.txt", "w") as fp:

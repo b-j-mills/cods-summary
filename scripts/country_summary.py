@@ -13,11 +13,10 @@ logger = logging.getLogger(__name__)
 
 def country_summary(
         configuration,
+        countries,
         temp_folder,
 ):
     logger.info(f"Summarizing CODs by country")
-
-    countries = configuration["countries"]
 
     dataset_exceptions = configuration["boundaries"].get("dataset_exceptions", {})
 
