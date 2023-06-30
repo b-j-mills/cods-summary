@@ -65,7 +65,7 @@ GNB,https://data.humdata.org/dataset/cod-ab-gnb,cod-enhanced,OCHA Field Informat
 GUY,https://data.humdata.org/dataset/cod-ab-guy,cod-standard,OCHA Field Information Services Section (FISS),10,27,,,False,https://data.humdata.org/dataset/cod-ps-guy,cod-standard,UNFPA,False,,,
 HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,10,140,570,,True,https://data.humdata.org/dataset/cod-ps-hti,cod-standard,OCHA Field Information Services Section (FISS),False,,,
 HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),18,298,,,True,https://data.humdata.org/dataset/cod-ps-hnd,cod-standard,UNFPA,False,,,
-HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),20,197,,,True,https://data.humdata.org/dataset/cod-ps-hun,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-hun,cod-enhanced,False
+HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),20,197,,,True,https://data.humdata.org/dataset/cod-ps-hun,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-hun,cod-enhanced,True
 IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),34,522,7069,,True,https://data.humdata.org/dataset/cod-ps-idn,cod-enhanced,UNFPA,True,,,
 IRN,https://data.humdata.org/dataset/cod-ab-irn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),31,429,,,True,https://data.humdata.org/dataset/cod-ps-irn,cod-standard,OCHA Middle East and North Africa (ROMENA),True,,,
 IRQ,https://data.humdata.org/dataset/cod-ab-irq,cod-enhanced,OCHA Iraq,18,101,294,,True,,,,,,,
@@ -78,7 +78,7 @@ PRK,https://data.humdata.org/dataset/cod-ab-prk,cod-enhanced,OCHA Regional Offic
 KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Middle East and North Africa (ROMENA),6,,,,True,,,,,https://data.humdata.org/dataset/cod-em-kwt,cod-enhanced,True
 KGZ,https://data.humdata.org/dataset/cod-ab-kgz,cod-enhanced,OCHA Middle East and North Africa (ROMENA),9,53,737,,True,https://data.humdata.org/dataset/cod-ps-kgz,cod-standard,OCHA Middle East and North Africa (ROMENA),False,,,
 LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),18,148,,,True,https://data.humdata.org/dataset/cod-ps-lao,cod-enhanced,UNFPA,True,,,
-LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),8,26,0,,False,,,,,,,
+LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),8,26,0,,True,,,,,,,
 LSO,https://data.humdata.org/dataset/cod-ab-lso,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),10,78,,,False,https://data.humdata.org/dataset/cod-ps-lso,cod-enhanced,UNFPA,True,,,
 LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA West and Central Africa (ROWCA),15,136,,,True,https://data.humdata.org/dataset/cod-ps-lbr,cod-standard,OCHA West and Central Africa (ROWCA),False,https://data.humdata.org/dataset/cod-em-lbr,cod-enhanced,True
 LBY,https://data.humdata.org/dataset/cod-ab-lby,cod-enhanced,OCHA Middle East and North Africa (ROMENA),3,22,,,True,,,,,,,
@@ -106,7 +106,7 @@ NIC,https://data.humdata.org/dataset/cod-ab-nic,cod-enhanced,OCHA Field Informat
 NER,https://data.humdata.org/dataset/cod-ab-ner,cod-enhanced,OCHA Niger,67,67,266,,False,https://data.humdata.org/dataset/cod-ps-ner,cod-standard,UNFPA,False,https://data.humdata.org/dataset/cod-em-ner,cod-enhanced,False
 NGA,https://data.humdata.org/dataset/cod-ab-nga,cod-enhanced,OCHA Nigeria,37,774,714,,True,https://data.humdata.org/dataset/cod-ps-nga,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-nga,cod-enhanced,True
 OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),11,49,,,True,,,,,,,
-PAK,https://data.humdata.org/dataset/cod-ab-pak,cod-enhanced,OCHA Field Information Services Section (FISS),7,160,577,,True,https://data.humdata.org/dataset/cod-ps-pak,cod-standard,OCHA Field Information Services Section (FISS),True,https://data.humdata.org/dataset/cod-em-pak,cod-enhanced,False
+PAK,https://data.humdata.org/dataset/cod-ab-pak,cod-enhanced,OCHA Field Information Services Section (FISS),7,160,577,,True,https://data.humdata.org/dataset/cod-ps-pak,cod-standard,OCHA Field Information Services Section (FISS),True,https://data.humdata.org/dataset/cod-em-pak,cod-enhanced,True
 PSE,https://data.humdata.org/dataset/cod-ab-pse,cod-enhanced,OCHA occupied Palestinian territory (oPt),2,,,,True,https://data.humdata.org/dataset/cod-ps-pse,cod-enhanced,UNFPA,True,,,
 PAN,https://data.humdata.org/dataset/cod-ab-pan,cod-enhanced,OCHA Field Information Services Section (FISS),13,76,594,,True,https://data.humdata.org/dataset/cod-ps-pan,cod-enhanced,UNFPA,True,,,
 PNG,https://data.humdata.org/dataset/cod-ab-png,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),22,87,326,,True,https://data.humdata.org/dataset/cod-ps-png,cod-standard,OCHA Field Information Services Section (FISS),True,,,
@@ -142,17 +142,17 @@ SWZ,https://data.humdata.org/dataset/cod-ab-swz,cod-enhanced,OCHA Regional Offic
 SYR,https://data.humdata.org/dataset/cod-ab-syr,cod-enhanced,OCHA Syria,14,62,272,,True,,,,,,,
 TJK,https://data.humdata.org/dataset/cod-ab-tjk,cod-standard,OCHA Middle East and North Africa (ROMENA),5,76,,,False,https://data.humdata.org/dataset/cod-ps-tjk,cod-standard,UNFPA,False,,,
 TZA,https://data.humdata.org/dataset/cod-ab-tza,cod-standard,OCHA ROSA (closed),,,,,False,https://data.humdata.org/dataset/cod-ps-tza,cod-enhanced,UNFPA,True,,,
-THA,https://data.humdata.org/dataset/cod-ab-tha,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),77,928,7425,,False,https://data.humdata.org/dataset/cod-ps-tha,cod-enhanced,UNFPA,True,,,
+THA,https://data.humdata.org/dataset/cod-ab-tha,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),77,928,7425,,True,https://data.humdata.org/dataset/cod-ps-tha,cod-enhanced,UNFPA,True,,,
 TLS,https://data.humdata.org/dataset/cod-ab-tls,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),13,65,442,,True,https://data.humdata.org/dataset/cod-ps-tls,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),True,,,
 TGO,https://data.humdata.org/dataset/cod-ab-tgo,cod-enhanced,OCHA West and Central Africa (ROWCA),5,40,373,,True,https://data.humdata.org/dataset/cod-ps-tgo,cod-standard,UNFPA,False,https://data.humdata.org/dataset/cod-em-tgo,cod-enhanced,True
 TON,https://data.humdata.org/dataset/cod-ab-ton,cod-standard,OCHA Office of the Pacific Islands,5,23,166,,False,https://data.humdata.org/dataset/cod-ps-ton,cod-enhanced,UNFPA,True,,,
 TTO,https://data.humdata.org/dataset/cod-ab-tto,cod-standard,OCHA Field Information Services Section (FISS),15,,,,False,https://data.humdata.org/dataset/cod-ps-tto,cod-standard,OCHA Latin America and the Caribbean (ROLAC),True,,,
 TUN,https://data.humdata.org/dataset/cod-ab-tun,cod-enhanced,OCHA Field Information Services Section (FISS),6,24,264,2084,True,https://data.humdata.org/dataset/cod-ps-tun,cod-standard,UNFPA,False,https://data.humdata.org/dataset/cod-em-tun,cod-enhanced,True
-TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,Regional IM Working Group - Europe,,,,,False,https://data.humdata.org/dataset/cod-ps-tur,cod-enhanced,UNFPA,True,,,
+TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,Regional IM Working Group - Europe,,,,,True,https://data.humdata.org/dataset/cod-ps-tur,cod-enhanced,UNFPA,True,,,
 TCA,https://data.humdata.org/dataset/cod-ab-tca,cod-standard,OCHA Field Information Services Section (FISS),6,30,,,False,https://data.humdata.org/dataset/cod-ps-tca,cod-enhanced,UNFPA,True,,,
 UGA,https://data.humdata.org/dataset/cod-ab-uga,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),4,135,208,1520,True,https://data.humdata.org/dataset/cod-ps-uga,cod-enhanced,UNFPA,True,,,
 UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),27,139,1769,29708,True,https://data.humdata.org/dataset/cod-ps-ukr,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-ukr,cod-enhanced,True
-ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),7,,,,True,,,,,https://data.humdata.org/dataset/cod-em-are,cod-enhanced,True
+ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),7,,,,False,,,,,https://data.humdata.org/dataset/cod-em-are,cod-enhanced,False
 URY,https://data.humdata.org/dataset/cod-ab-ury,cod-standard,OCHA Field Information Services Section (FISS),19,204,,,False,https://data.humdata.org/dataset/cod-ps-ury,cod-enhanced,UNFPA,True,,,
 UZB,https://data.humdata.org/dataset/cod-ab-uzb,cod-standard,OCHA Middle East and North Africa (ROMENA),14,199,,,False,https://data.humdata.org/dataset/cod-ps-uzb,cod-standard,OCHA Field Information Services Section (FISS),True,,,
 VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Office of the Pacific Islands,6,66,,,True,https://data.humdata.org/dataset/cod-ps-vut,cod-enhanced,UNFPA,True,,,
