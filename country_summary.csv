@@ -36,7 +36,7 @@ CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Offic
 COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),33,1122,,,True,https://data.humdata.org/dataset/cod-ps-col,cod-enhanced,UNFPA,True,,,
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),3,17,55,,True,https://data.humdata.org/dataset/cod-ps-com,cod-enhanced,UNFPA,True,,,
 COG,https://data.humdata.org/dataset/cod-ab-cog,cod-enhanced,OCHA West and Central Africa (ROWCA),12,89,,,True,,,,,,,
-COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Democratic Republic of the Congo (DRC),26,189,,,True,https://data.humdata.org/dataset/cod-ps-cod,cod-standard,OCHA Democratic Republic of the Congo (DRC),False,,,
+COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Democratic Republic of the Congo (DRC),519,,,,True,https://data.humdata.org/dataset/cod-ps-cod,cod-standard,OCHA Democratic Republic of the Congo (DRC),False,,,
 CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-standard,OCHA Field Information Services Section (FISS),7,81,478,,False,https://data.humdata.org/dataset/cod-ps-cri,cod-enhanced,UNFPA,True,,,
 CIV,https://data.humdata.org/dataset/cod-ab-civ,cod-enhanced,OCHA West and Central Africa (ROWCA),33,108,510,,True,https://data.humdata.org/dataset/cod-ps-civ,cod-standard,OCHA West and Central Africa (ROWCA),False,https://data.humdata.org/dataset/cod-em-civ,cod-enhanced,True
 CUB,https://data.humdata.org/dataset/cod-ab-cub,cod-standard,OCHA Field Information Services Section (FISS),16,168,,,False,https://data.humdata.org/dataset/cod-ps-cub,cod-enhanced,UNFPA,True,,,
