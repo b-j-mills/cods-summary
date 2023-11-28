@@ -62,6 +62,9 @@ def metadata_summary(
             ]]
 
     for dataset in datasets:
+        if dataset["name"][:3] != "cod":
+            continue
+
         theme = None
         if dataset["name"][:6] in ["cod-ab", "cod-ps", "cod-hp", "cod-em"]:
             theme = dataset["name"][4:6].upper()
