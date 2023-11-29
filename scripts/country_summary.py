@@ -53,14 +53,17 @@ def country_summary(
             datasets = [Dataset.read_from_hdx(d) for d in dataset_names if Dataset.read_from_hdx(d) is not None]
             if len(datasets) == 0:
                 continue
-            urls = [d.get_hdx_url() for d in datasets]
-            country_info[f"{cod_type} URL"] = " | ".join(urls)
 
             levels = [d.get("cod_level") for d in datasets]
             if None in levels:
                 logger.error(f"Dataset missing level {cod_type.lower()}-{iso.lower()}")
                 levels = [l for l in levels if l]
+            if len(levels) == 0:
+                continue
             country_info[f"{cod_type} level"] = " | ".join(levels)
+
+            urls = [d.get_hdx_url() for d in datasets]
+            country_info[f"{cod_type} URL"] = " | ".join(urls)
 
             contributors = [d.get_organization()["title"] for d in datasets]
             country_info[f"{cod_type} contributor"] = " | ".join(contributors)
