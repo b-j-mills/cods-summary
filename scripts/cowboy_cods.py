@@ -4,8 +4,6 @@ from hdx.data.dataset import Dataset
 
 logger = logging.getLogger(__name__)
 
-lookup = "cods-summary"
-
 
 def cowboy_cods(errors_on_exit):
     logger.info("Finding cowboy CODs")
