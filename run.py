@@ -14,6 +14,7 @@ from scripts.check_boundary_fields import check_boundary_fields
 from scripts.check_population_headers import check_population_headers
 from scripts.country_summary import country_summary
 from scripts.cowboy_cods import cowboy_cods
+from scripts.dataset_resource_descriptions import dataset_resource_descriptions
 from scripts.metadata_summary import metadata_summary
 
 warnings.filterwarnings('ignore', category=UserWarning, module='openpyxl')
@@ -58,6 +59,8 @@ def main(
                     cowboy_cods(errors_on_exit)
                 if "country_summary" in scrapers_to_run:
                     country_summary(configuration, countries, temp_folder,)
+                if "dataset_resource_descriptions" in scrapers_to_run:
+                    dataset_resource_descriptions()
 
             if len(errors_on_exit.errors) > 0:
                 with open("errors.txt", "w") as fp:
@@ -73,7 +76,7 @@ if __name__ == "__main__":
     if scrapers_to_run is None:
         scrapers_to_run = getenv(
             "SCRAPERS_TO_RUN",
-            "metadata_summary,country_summary,cowboy_cods",
+            "metadata_summary,country_summary,cowboy_cods,dataset_resource_descriptions",
         )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
