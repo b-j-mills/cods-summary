@@ -10,7 +10,6 @@ logger = logging.getLogger(__name__)
 
 
 def check_population_headers(
-    configuration,
     downloader,
     countries,
 ):

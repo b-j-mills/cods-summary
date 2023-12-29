@@ -51,7 +51,7 @@ def main(
                 if "metadata_summary" in scrapers_to_run:
                     metadata_summary(configuration)
                 if "check_population_headers" in scrapers_to_run:
-                    check_population_headers(configuration, downloader, countries)
+                    check_population_headers(downloader, countries)
                 if "check_boundary_fields" in scrapers_to_run:
                     check_boundary_fields(configuration, countries, temp_folder)
                 if "cowboy_cods" in scrapers_to_run:
