@@ -76,12 +76,14 @@ def country_summary(
             country_info[f"{cod_type} services"] = " | ".join(services)
 
             if cod_type == "COD-AB" and len(datasets) == 1:
-                resources = [
-                    r for r in datasets[0].get_resources() if r.get_file_type() in ["xls", "xlsx"] and bool(re.match(
-                        "(.*adm(in)?.?boundaries.?tabular.?data.*)|(.*adm_?ga?z.*)|(.*gazetteer.*)|(.*adm.*)",
-                        r["name"], re.IGNORECASE
-                    ))
-                ]
+                resources = [r for r in datasets[0].get_resources() if r.get_format() in ["xls", "xlsx"]]
+                if len(resources) > 1:
+                    resources = [
+                        r for r in resources if bool(re.match(
+                            "(.*adm(in)?.?boundaries.?tabular.?data.*)|(.*adm_?ga?z.*)|(.*gazetteer.*)|(.*adm.*)",
+                            r["name"], re.IGNORECASE
+                        ))
+                    ]
                 if len(resources) == 0:
                     logger.warning(f"Cannot find gazetteer for {iso}")
                     continue
