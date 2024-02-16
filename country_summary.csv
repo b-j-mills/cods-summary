@@ -27,10 +27,10 @@ BFA,https://data.humdata.org/dataset/cod-ab-bfa,cod-enhanced,OCHA Burkina Faso,1
 BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),18,119,,,True,https://data.humdata.org/dataset/cod-ps-bdi,cod-enhanced,UNFPA,True,,,
 KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),25,197,1633,,True,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,True,,,
 CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,10,58,360,,True,https://data.humdata.org/dataset/cod-ps-cmr,cod-standard,UNFPA,True,https://data.humdata.org/dataset/cod-em-cmr,cod-enhanced,True
-CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-standard,OCHA West and Central Africa (ROWCA),22,32,3548,3548,False,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,False,,,
-CYM,https://data.humdata.org/dataset/cod-ab-cym,cod-standard,OCHA Field Information Services Section (FISS),6,,,,False,https://data.humdata.org/dataset/cod-ps-cym,cod-enhanced,UNFPA,False,,,
+CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-standard,OCHA West and Central Africa (ROWCA),22,32,3548,3548,False,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,True,,,
+CYM,https://data.humdata.org/dataset/cod-ab-cym,cod-standard,OCHA Field Information Services Section (FISS),6,,,,False,https://data.humdata.org/dataset/cod-ps-cym,cod-enhanced,UNFPA,True,,,
 CAF,https://data.humdata.org/dataset/cod-ab-caf,cod-enhanced,OCHA Central African Republic,17,72,175,860,True,https://data.humdata.org/dataset/cod-ps-caf,cod-standard,OCHA Central African Republic,False,https://data.humdata.org/dataset/cod-em-caf,cod-enhanced,True
-TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Chad,23,70,10,,True,https://data.humdata.org/dataset/cod-ps-tcd,cod-enhanced,UNFPA,False,https://data.humdata.org/dataset/cod-em-tcd,cod-enhanced,True
+TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Chad,23,70,10,,True,https://data.humdata.org/dataset/cod-ps-tcd,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-tcd,cod-enhanced,True
 CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),16,56,345,,True,https://data.humdata.org/dataset/cod-ps-chl,cod-enhanced,UNFPA,True,,,
 CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),34,361,,,False,,,,,,,
 COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),33,1122,,,True,https://data.humdata.org/dataset/cod-ps-col,cod-enhanced,UNFPA,True,,,
