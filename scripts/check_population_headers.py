@@ -44,7 +44,7 @@ def check_population_headers(
         resources = dataset.get_resources()
         resource_list = []
         for resource in resources:
-            if resource.get_file_type().lower() != "csv":
+            if resource.get_format().lower() != "csv":
                 continue
             resource_list.append(resource)
 

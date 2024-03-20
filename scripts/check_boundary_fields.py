@@ -21,8 +21,6 @@ def check_boundary_fields(
 ):
     logger.info(f"Summarizing boundary fields")
 
-    dataset_exceptions = configuration["boundaries"].get("dataset_exceptions", {})
-
     results = [
         [
             "ISO",
@@ -39,91 +37,89 @@ def check_boundary_fields(
     for iso in countries:
         row = [iso, None, None, None, None, None, None, None]
 
-        dataset_names = dataset_exceptions.get(iso, [f"cod-ab-{iso.lower()}"])
+        dataset_name = f"cod-ab-{iso.lower()}"
+        dataset = Dataset.read_from_hdx(dataset_name)
+        if not dataset:
+            continue
 
-        for dataset_name in dataset_names:
-            dataset = Dataset.read_from_hdx(dataset_name)
-            if not dataset:
-                continue
+        row[1] = dataset.get_hdx_url().split("/")[-1]
+        row[2] = dataset.get_organization()["title"]
 
-            row[1] = dataset.get_hdx_url().split("/")[-1]
-            row[2] = dataset.get_organization()["title"]
+        resources = dataset.get_resources()
+        resource_list = []
+        for r in resources:
+            if r.get_format().lower() in ["shp", "geojson"]:
+                resource_list.append(r)
 
-            resources = dataset.get_resources()
-            resource_list = []
-            for r in resources:
-                if r.get_file_type().lower() in ["shp", "geojson"]:
-                    resource_list.append(r)
+        if len(resource_list) == 0:
+            row[3] = "Could not find shp or json boundary resource"
+            results.append(row)
+            logger.error(f"{iso}: could not find resources from {dataset_name}")
+            continue
 
-            if len(resource_list) == 0:
-                row[3] = "Could not find shp or json boundary resource"
+        for resource in resource_list:
+            row = row[:3] + [None] * 5
+            row[4] = resource["name"]
+            try:
+                _, resource_file = resource.download(folder=temp_folder)
+            except DownloadError:
+                row[3] = "Could not download boundary resource"
                 results.append(row)
-                logger.error(f"{iso}: could not find resources from {dataset_name}")
+                logger.error(f"{iso}: could not download resource")
                 continue
 
-            for resource in resource_list:
-                row = row[:3] + [None] * 5
-                row[4] = resource["name"]
+            if resource.get_file_type() == "shp":
+                temp_dir = join(temp_folder, get_uuid())
                 try:
-                    _, resource_file = resource.download(folder=temp_folder)
-                except DownloadError:
-                    row[3] = "Could not download boundary resource"
+                    with ZipFile(resource_file, "r") as z:
+                        z.extractall(temp_dir)
+                except BadZipFile:
+                    row[3] = "Could not unzip boundary resource"
                     results.append(row)
-                    logger.error(f"{iso}: could not download resource")
+                    logger.error(f"{iso}: could not unzip file!")
+                    continue
+                out_files = glob(join(temp_dir, "**", "*.shp"), recursive=True)
+            else:
+                out_files = [resource_file]
+
+            if len(out_files) == 0:
+                row[3] = "Could not find shp in zip"
+                results.append(row)
+                logger.error(f"{iso}: could not find shp in zip!")
+                continue
+
+            for out_file in out_files:
+                row = row[:5] + [None] * 3
+
+                try:
+                    boundary_lyr = read_file(out_file)
+                except:
+                    logger.error(f"{iso}: could not open {out_file}")
+                    row[3] = "Could not read file"
+                    results.append(row)
                     continue
 
-                if resource.get_file_type() == "shp":
-                    temp_dir = join(temp_folder, get_uuid())
-                    try:
-                        with ZipFile(resource_file, "r") as z:
-                            z.extractall(temp_dir)
-                    except BadZipFile:
-                        row[3] = "Could not unzip boundary resource"
-                        results.append(row)
-                        logger.error(f"{iso}: could not unzip file!")
-                        continue
-                    out_files = glob(join(temp_dir, "**", "*.shp"), recursive=True)
-                else:
-                    out_files = [resource_file]
+                fields = boundary_lyr.columns
+                pcode_fields = []
+                name_fields = []
+                for field in fields:
+                    codematch = bool(re.search("p?code", field, re.IGNORECASE))
+                    namematch = bool(re.search("name|_(en|fr|es|ru)$", field, re.IGNORECASE))
+                    levelmatch = bool(
+                        re.search("(^\d\D)|(\D\d\D)|(\D\d$)", field, re.IGNORECASE)
+                    )
+                    if codematch and levelmatch:
+                        pcode_fields.append(field)
+                    if namematch and levelmatch:
+                        name_fields.append(field)
 
-                if len(out_files) == 0:
-                    row[3] = "Could not find shp in zip"
-                    results.append(row)
-                    logger.error(f"{iso}: could not find shp in zip!")
-                    continue
+                if len(pcode_fields) > 0:
+                    row[6] = ", ".join(list(set(pcode_fields)))
 
-                for out_file in out_files:
-                    row = row[:5] + [None] * 3
+                if len(name_fields) > 0:
+                    row[7] = ", ".join(list(set(name_fields)))
 
-                    try:
-                        boundary_lyr = read_file(out_file)
-                    except:
-                        logger.error(f"{iso}: could not open {out_file}")
-                        row[3] = "Could not read file"
-                        results.append(row)
-                        continue
-
-                    fields = boundary_lyr.columns
-                    pcode_fields = []
-                    name_fields = []
-                    for field in fields:
-                        codematch = bool(re.search("p?code", field, re.IGNORECASE))
-                        namematch = bool(re.search("name|_(en|fr|es|ru)$", field, re.IGNORECASE))
-                        levelmatch = bool(
-                            re.search("(^\d\D)|(\D\d\D)|(\D\d$)", field, re.IGNORECASE)
-                        )
-                        if codematch and levelmatch:
-                            pcode_fields.append(field)
-                        if namematch and levelmatch:
-                            name_fields.append(field)
-
-                    if len(pcode_fields) > 0:
-                        row[6] = ", ".join(list(set(pcode_fields)))
-
-                    if len(name_fields) > 0:
-                        row[7] = ", ".join(list(set(name_fields)))
-
-                    results.append(row)
+                results.append(row)
 
     write_list_to_csv("boundary_dataset_headers.csv", results)
 

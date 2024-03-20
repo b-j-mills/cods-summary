@@ -18,8 +18,6 @@ def country_summary(
 ):
     logger.info(f"Summarizing CODs by country")
 
-    dataset_exceptions = configuration["boundaries"].get("dataset_exceptions", {})
-
     results = list()
     headers = [
         "ISO",
@@ -45,38 +43,35 @@ def country_summary(
         country_info["ISO"] = iso
 
         country_datasets = dict()
-        country_datasets["COD-AB"] = dataset_exceptions.get(iso, [f"cod-ab-{iso.lower()}"])
-        country_datasets["COD-PS"] = [f"cod-ps-{iso.lower()}"]
-        country_datasets["COD-EM"] = [f"cod-em-{iso.lower()}"]
+        country_datasets["COD-AB"] = f"cod-ab-{iso.lower()}"
+        country_datasets["COD-PS"] = f"cod-ps-{iso.lower()}"
+        country_datasets["COD-EM"] = f"cod-em-{iso.lower()}"
 
-        for cod_type, dataset_names in country_datasets.items():
-            datasets = [Dataset.read_from_hdx(d) for d in dataset_names if Dataset.read_from_hdx(d) is not None]
-            if len(datasets) == 0:
+        for cod_type, dataset_name in country_datasets.items():
+            dataset = Dataset.read_from_hdx(dataset_name)
+            if not dataset:
                 continue
 
-            levels = [d.get("cod_level") for d in datasets]
-            if None in levels:
-                logger.error(f"Dataset missing level {cod_type.lower()}-{iso.lower()}")
-                levels = [l for l in levels if l]
-            if len(levels) == 0:
-                continue
-            country_info[f"{cod_type} level"] = " | ".join(levels)
+            level = dataset.get("cod_level")
+            if not level:
+                logger.error(f"Dataset missing level {dataset['name']}")
 
-            urls = [d.get_hdx_url() for d in datasets]
-            country_info[f"{cod_type} URL"] = " | ".join(urls)
+            country_info[f"{cod_type} level"] = level
 
-            contributors = [d.get_organization()["title"] for d in datasets]
-            country_info[f"{cod_type} contributor"] = " | ".join(contributors)
+            country_info[f"{cod_type} URL"] = dataset.get_hdx_url()
+            country_info[f"{cod_type} contributor"] = dataset.get_organization()["title"]
 
-            services = ["True" if "geoservice" in d.get_filetypes() else "False" for d in datasets]
+            services = "False"
+            if "geoservice" in dataset.get_filetypes():
+                services = "True"
             if cod_type == "COD-PS":
                 itos_presence = get(configuration["itos_ps_url"] + iso).status_code
                 if itos_presence == 200:
-                    services = ["True"]
-            country_info[f"{cod_type} services"] = " | ".join(services)
+                    services = "True"
+            country_info[f"{cod_type} services"] = services
 
-            if cod_type == "COD-AB" and len(datasets) == 1:
-                resources = [r for r in datasets[0].get_resources() if r.get_format() in ["xls", "xlsx"]]
+            if cod_type == "COD-AB":
+                resources = [r for r in dataset.get_resources() if r.get_format() in ["xls", "xlsx"]]
                 if len(resources) > 1:
                     resources = [
                         r for r in resources if bool(re.match(
