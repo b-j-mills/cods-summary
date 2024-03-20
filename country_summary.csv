@@ -70,6 +70,7 @@ IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Offic
 IRN,https://data.humdata.org/dataset/cod-ab-irn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),31,429,,,True,https://data.humdata.org/dataset/cod-ps-irn,cod-standard,OCHA Middle East and North Africa (ROMENA),True,,,
 IRQ,https://data.humdata.org/dataset/cod-ab-irq,cod-enhanced,OCHA Iraq,18,101,294,,True,https://data.humdata.org/dataset/cod-ps-irq,cod-enhanced,UNFPA,True,,,
 JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-standard,OCHA Field Information Services Section (FISS),14,,,,False,https://data.humdata.org/dataset/cod-ps-jam,cod-standard,OCHA Latin America and the Caribbean (ROLAC),True,,,
+JPN,https://data.humdata.org/dataset/cod-ab-jpn,,OCHA Regional Office for Asia and the Pacific (ROAP),47,1892,,,False,,,,,,,
 KAZ,https://data.humdata.org/dataset/cod-ab-kaz,cod-standard,OCHA Field Information Services Section (FISS),20,218,,,False,https://data.humdata.org/dataset/cod-ps-kaz,cod-enhanced,UNFPA,True,,,
 KEN,https://data.humdata.org/dataset/cod-ab-ken,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),47,290,,,True,https://data.humdata.org/dataset/cod-ps-ken,cod-standard,UNFPA,False,,,
 KIR,https://data.humdata.org/dataset/cod-ab-kir,cod-standard,OCHA Office of the Pacific Islands,3,36,,,False,https://data.humdata.org/dataset/cod-ps-kir,cod-standard,UNFPA,False,,,
@@ -98,7 +99,7 @@ MNG,https://data.humdata.org/dataset/cod-ab-mng,cod-enhanced,OCHA Regional Offic
 MSR,https://data.humdata.org/dataset/cod-ab-msr,cod-standard,OCHA Field Information Services Section (FISS),3,,,,False,https://data.humdata.org/dataset/cod-ps-msr,cod-standard,OCHA Latin America and the Caribbean (ROLAC),True,,,
 MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-standard,OCHA Field Information Services Section (FISS),10,69,1507,1656,True,https://data.humdata.org/dataset/cod-ps-mar,cod-standard,OCHA Field Information Services Section (FISS),False,,,
 MOZ,https://data.humdata.org/dataset/cod-ab-moz,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),11,159,411,,True,https://data.humdata.org/dataset/cod-ps-moz,cod-enhanced,UNFPA,True,,,
-MMR,,,,,,,,,https://data.humdata.org/dataset/cod-ps-mmr,cod-standard,UNFPA,True,https://data.humdata.org/dataset/cod-em-mmr,cod-standard,True
+MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-standard,OCHA Field Information Services Section (FISS),18,80,330,14174,True,https://data.humdata.org/dataset/cod-ps-mmr,cod-standard,UNFPA,True,https://data.humdata.org/dataset/cod-em-mmr,cod-standard,True
 NAM,https://data.humdata.org/dataset/cod-ab-nam,cod-enhanced,OCHA Field Information Services Section (FISS),14,107,,,True,https://data.humdata.org/dataset/cod-ps-nam,cod-enhanced,UNFPA,True,,,
 NPL,https://data.humdata.org/dataset/cod-ab-npl,cod-enhanced,OCHA Field Information Services Section (FISS),,,,,True,https://data.humdata.org/dataset/cod-ps-npl,cod-enhanced,UNFPA,True,,,
 NIC,https://data.humdata.org/dataset/cod-ab-nic,cod-enhanced,OCHA Field Information Services Section (FISS),17,153,,,True,https://data.humdata.org/dataset/cod-ps-nic,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-nic,cod-enhanced,True
