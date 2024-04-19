@@ -78,7 +78,7 @@ PRK,https://data.humdata.org/dataset/cod-ab-prk,cod-enhanced,OCHA Regional Offic
 KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Middle East and North Africa (ROMENA),6,,,,True,,,,,https://data.humdata.org/dataset/cod-em-kwt,cod-enhanced,True
 KGZ,https://data.humdata.org/dataset/cod-ab-kgz,cod-enhanced,OCHA Middle East and North Africa (ROMENA),9,53,737,,True,https://data.humdata.org/dataset/cod-ps-kgz,cod-standard,OCHA Middle East and North Africa (ROMENA),False,,,
 LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),18,148,,,True,https://data.humdata.org/dataset/cod-ps-lao,cod-enhanced,UNFPA,True,,,
-LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),8,26,0,,True,,,,,,,
+LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),8,26,1610,,True,,,,,,,
 LSO,https://data.humdata.org/dataset/cod-ab-lso,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),10,78,,,False,https://data.humdata.org/dataset/cod-ps-lso,cod-enhanced,UNFPA,True,,,
 LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA West and Central Africa (ROWCA),15,136,,,True,https://data.humdata.org/dataset/cod-ps-lbr,cod-standard,OCHA West and Central Africa (ROWCA),False,https://data.humdata.org/dataset/cod-em-lbr,cod-enhanced,True
 LBY,https://data.humdata.org/dataset/cod-ab-lby,cod-enhanced,OCHA Middle East and North Africa (ROMENA),3,22,,,True,,,,,,,
