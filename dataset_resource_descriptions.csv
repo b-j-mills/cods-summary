@@ -6,7 +6,7 @@ REFERENCE YEAR:  2009
 
 
 "
-DJI,PS,cod-standard,cod-ps-dji,resource,dji_admpop_2022.xlsx,Djibouti administrative level 0-1 2009 population statistics
+DJI,PS,cod-standard,cod-ps-dji,resource,dji_admpop_2009.xlsx,Djibouti administrative level 0-1 2009 population statistics
 DJI,PS,cod-standard,cod-ps-dji,resource,dji_admpop_adm0_2009.csv,Djibouti administrative level 0 2009 population statistics
 DJI,PS,cod-standard,cod-ps-dji,resource,dji_admpop_adm1_2009.csv,Djibouti administrative level 1 2009 population statistics
 GAB,AB,cod-standard,cod-ab-gab,dataset,Gabon - Subnational Administrative Boundaries,"Provinces and Departments of Gabon
@@ -83,8 +83,8 @@ MDG,AB,cod-standard,cod-ab-mdg,resource,BNGRC_codes_LUT_pcodes_2018.xlsx,"Excel 
 The BNGRC (Madagascar National Disaster Management Agency) is currently using different Region (Admin 1) and District (Admin 2) codes from the P-codes in the COD Administrative Boundary GIS shapefiles. The P-codes were built from the Fokontany (Admin 4) codes in order to meet COD code hierarchy standards. Over time a move should be made to use the official P-codes and lower case names where possible."
 TJK,PS,cod-standard,cod-ps-tjk,dataset,Tajikistan - Subnational Population Statistics,Tajikistan administrative level 0-1 sex and age disaggregated 2019 projected population statistics.  See caveat.
 TJK,PS,cod-standard,cod-ps-tjk,resource,tjk_admpop_2019.xlsx,Tajikistan administrative level 0-1 sex and age disaggregated 2019 projected population statistics.  See caveats.
-TJK,PS,cod-standard,cod-ps-tjk,resource,tjk_admpop_adm1_2022.csv,Tajikistan administrative level 1 sex and age disaggregated 2019 projected population statistics.  See caveats.
-TJK,PS,cod-standard,cod-ps-tjk,resource,tjk_admpop_adm0_2022.csv,Tajikistan administrative level 0 sex and age disaggregated 2019 projected population statistics.  See caveats.
+TJK,PS,cod-standard,cod-ps-tjk,resource,tjk_admpop_adm1_2019.csv,Tajikistan administrative level 1 sex and age disaggregated 2019 projected population statistics.  See caveats.
+TJK,PS,cod-standard,cod-ps-tjk,resource,tjk_admpop_adm0_2019.csv,Tajikistan administrative level 0 sex and age disaggregated 2019 projected population statistics.  See caveats.
 TUN,PS,cod-standard,cod-ps-tun,dataset,Tunisia - Subnational Population Statistics,"Tunisia administrative level 0-2 sex and age disaggregated 2020 projected population statistics
 
 These tables are suitable for database or GIS linkage to the [Tunisia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tun) administrative level 0-2 layers using the ADM0, ADM1, and ADM2_PCODE fields.
@@ -145,13 +145,12 @@ MMR,PS,cod-standard,cod-ps-mmr,dataset,Myanmar - Subnational Population Statisti
 
 REFERENCE YEAR:  2022
 
-Myanmar does not have a standard COD-AB.  Administrative boundaries are instead available from the [Myanmar Information Management Unit (MIMU) geonode](https://geonode.themimu.info/layers/?limit=100&offset=0).  These population statistics are suitable for database or GIS linkage to the MIMU administrative shapefiles found there using the following fields:
 
-Administrative level 1:  MIMU 'ST_PCODE' field - COD-PS ADM1_PCODE field**
-Administrative level 2:  MIMU 'DT_PCODE' field - COD-PS ADM2_PCODE field
-Administrative level 3:  MIMU 'TS-PCODE' field - COD-PS ADM3_PCODE field
+These population statistics are suitable for database or GIS linkage to the [Myanmar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mmr) or the [Myanamar - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-mmr) administrative level 0-3 layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
-*MIMU manages both 15-feature and 18-feature administrative level 1 systems.  These COD-PS tables conform to the 18-feature system.
+
+
+The COD-AB and COD-EM layers manages both 15-feature and 18-feature administrative level 1 systems.  These COD-PS tables conform to the 18-feature system.
 
 See caveats for further information.
 
@@ -249,25 +248,14 @@ SOM,PS,cod-standard,cod-ps-som,resource,Somalia population sex and age disaggreg
 SOM,PS,cod-standard,cod-ps-som,resource,Somalia population gender disaggregated 2019,
 SOM,PS,cod-standard,cod-ps-som,resource,somalia-population-statistics 2014,
 SOM,PS,cod-standard,cod-ps-som,resource,som_pplp_adm0_v2.csv,"Somalia Admin Level 0 (Country) population statistics including 2005 Rural, Urban, and total populations (source UNDP) and 2014 Rural, Urban, IDP, and Total populations (source UNFPA)."
-GEO,PS,cod-standard,cod-ps-geo,dataset,Georgia - Subnational Population Statistics,"REFERENCE YEAR:  2019
+GEO,PS,cod-standard,cod-ps-geo,dataset,Georgia - Subnational Population Statistics,"REFERENCE YEAR:  2014
 
-This dataset contains population estimates for Georgia as of 1 January 2019 at country-level, including a breakdown by sex, age groups and urban and rural areas. It also contains population statistics from the 2014 census at first administrative level (mkhare/regions, Tbilisi independent city and autonomous republics), second administrative level (municipalities and independent cities), third administrative level (communities, boroughs, cities and villages) and for all populated places in the country.
-
-All population numbers are disaggregated by sex. The population numbers are also disaggregated by age, except for the population numbers for the districts in Tbilisi (admin2), the population numbers at admin3 and the population numbers of the populated places.
-
-Please note that these datasets do not include population numbers for the Georgian breakeaway regions of Abkhazia and South Ossetia.
-
-The files each include a sheet with metadata.
-
-The administrative level 0, 1, and 2 tables are suitable for database or GIS linkage to the [Georgia administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-geo)."
-GEO,PS,cod-standard,cod-ps-geo,resource,GEO_AdminBoundaries_TabularData.xlsx,"Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), and 2 (district or self-governing city) gazetteer"
-GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop.xlsx,"Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), and 2 (district or self-governing city) population statistics"
-GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm0_v2.csv,"Georgia administrative level 0 population statistics (disaggregated by the gender, age groups and urban/rural)."
-GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm1_v4.csv,Georgia administrative level 1 population statistics (disaggregated by urban/rural).
-GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm2_v3.csv,Georgia administrative level 2 population statistics (total pop figures).
-GEO,PS,cod-standard,cod-ps-geo,resource,GEO admin 0 population,Georgia administrative level 0 2019 population statistics
-GEO,PS,cod-standard,cod-ps-geo,resource,GEO admin 1 population,Georgia administrative level 1 2019 population statistics
-GEO,PS,cod-standard,cod-ps-geo,resource,GEO admin 2 population,Georgia administrative level 2 2019 population statistics
+These tables are suitable for database or GIS linkage to the [Georgia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-geo).  However the administrative level 1 and 2 boundaries  do not include the Georgian breakaway regions of Abkhazia and South Ossetia."
+GEO,PS,cod-standard,cod-ps-geo,resource,GEO_AdminBoundaries_TabularData.xlsx,Georgia administrative level 0-2 gazetteer
+GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_GeoStat_2014.xlsx,Georgia administrative level 0 sex and age disaggregated 2014 population statistics
+GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm0_GeoStat_2014.csv,Georgia administrative level 1 sex and age disaggregated 2014 population statistics
+GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm1_GeoStat_2014.csv,Georgia administrative level 1 population statistics (disaggregated by urban/rural).
+GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm2_GeoStat_2014.csv,Georgia administrative level 2 sex and age disaggregated 2014 population statistics
 AZE,AB,cod-standard,cod-ab-aze,dataset,Azerbaijan - Subnational Administrative Boundaries,"Azerbaijan administrative level 0-1 boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
@@ -358,10 +346,10 @@ REFERENCE YEAR:  2001
 
 These tables are suitable for database or GIS linkage to the [Eritrea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-eri)."
 ERI,PS,cod-standard,cod-ps-eri,resource,ERI_AdminBoundaries_TabularData.xlsx,"Eritrea level 0 (national), level 1 (region), and level 2 (district)  gazetteer"
-ERI,PS,cod-standard,cod-ps-eri,resource,ERI_ADM_20170818.xlsx,"Eritrea level 0 (national), level 1 (region), and level 2 (district)  2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
-ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm0_pop_20170818_v1.csv,"Eritrea level 0 (national) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
-ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm1_pop_20170818_v2.csv,"Eritrea level 1 (region) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
-ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm2_pop_20170818_v2.csv,"Eritrea level 2 (dostrict) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
+ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm_2001.xlsx,"Eritrea level 0 (national), level 1 (region), and level 2 (district)  2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
+ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm0_pop_2001_v1.csv,"Eritrea level 0 (national) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
+ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm1_pop_2001_v2.csv,"Eritrea level 1 (region) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
+ERI,PS,cod-standard,cod-ps-eri,resource,eri_adm2_pop_2001_v2.csv,"Eritrea level 2 (dostrict) 2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages."
 SLE,PS,cod-standard,cod-ps-sle,dataset,Sierra Leone - Subnational Population Statistics,"Sierra Leone administrative levels 0 (country), 1 (province), 2 (district), and 3 (chiefdom) sex-disaggregated population statistics
 
 REFERENCE YEAR:  2020 projections
@@ -439,11 +427,20 @@ GLP,AB,cod-standard,cod-ab-glp,resource,glp_adm_2019.xlsx,"Guadeloupe administra
 GLP,AB,cod-standard,cod-ab-glp,resource,glp_adm_2019_SHP.zip,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) shapefiles"
 GLP,AB,cod-standard,cod-ab-glp,resource,glp_adm_2019_EMF.zip,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) EMF files"
 GLP,AB,cod-standard,cod-ab-glp,resource,glp_adm_2019.gdb.zip,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) geodatabase"
-ABW,AB,cod-standard,cod-ab-abw,dataset,Aruba - Subnational Administrative Boundaries,"downloaded from GADM
+ABW,AB,cod-standard,cod-ab-abw,dataset,Aruba - Subnational Administrative Boundaries,"""Aruba administrative level 0 boundaries (COD-AB) dataset.
 
-14 April 2020 - P-code added
+This COD-AB was most recently reviewed for accuracy and necessary changes 3 month(s) ago.  The determination was:  The COD-AB does not require any update.
 
-8 September 2017 - initial upload "
+Sourced from www.gadm.org.
+
+Live geoservices are not yet available for this COD-AB.
+
+This COD-AB is suitable for database or GIS linkage to the Aruba COD-PS table(s) using the XX_PCODE, field(s).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+These boundaries are suitable for database or GIS linkage to the [Aruba - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-abw) tables.
+Please see COD Portal:  https://cod.unocha.org/"""
 ABW,AB,cod-standard,cod-ab-abw,resource,abw_admbnda_adm0_2020.zip,Aruba administrative level 0 boundary shapefile
 ABW,AB,cod-standard,cod-ab-abw,resource,abw_admbnda_adm0_2020.emf,Aruba administrative level 0 boundary EMF file
 AIA,AB,cod-standard,cod-ab-aia,dataset,Anguilla - Subnational Administrative Boundaries,"Anguilla administrative level 0 (national) boundary.
@@ -576,9 +573,6 @@ MTQ,AB,cod-standard,cod-ab-mtq,resource,mtq_adm_gz_2016_ignf.xlsx,"Martinique ad
 MTQ,AB,cod-standard,cod-ab-mtq,resource,mtq_adm_2016_ignf_SHP.zip,"Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundary shapefiles"
 MTQ,AB,cod-standard,cod-ab-mtq,resource,mtq_adm_2016_ignf_EMF.zip,"Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundary EMF files"
 MTQ,AB,cod-standard,cod-ab-mtq,resource,mtq_adm_2016_ignf_GDB.gdb.zip,"Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundary geodatabase"
-MAF,AB,cod-standard,cod-ab-maf,dataset,Saint Martin (French part) - Subnational Administrative Boundaries,Saint Martin administrative level 0 (nation) boundaries
-MAF,AB,cod-standard,cod-ab-maf,resource,MAF_adm0.zip,Saint Martin administrative level 0 (nation) boundary shapefile
-MAF,AB,cod-standard,cod-ab-maf,resource,MAF_adm0.emf,Saint Martin administrative level 0 (nation) boundary EMF file
 BMU,AB,cod-standard,cod-ab-bmu,dataset,Bermuda - Subnational Administrative Boundaries,"Bermuda administrative level 0 (country), 1 (parish) and 2 (municipality) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Bermuda administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-bmu) tables.
@@ -663,7 +657,9 @@ MRT,PS,cod-standard,cod-ps-mrt,dataset,Mauritania - Subnational Population Stati
 
 REFERENCE YEAR:  2022
 
-These tables are suitable for database or GIS linkage to the level 0-1 [Mauritania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mrt) layers using the ADM0 and ADM1_PCODE fields."
+This dataset has NOT been updated to link to the new [Mali - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mli).  The administrative level 1 boundaries and P-codes no longer match.
+
+"
 MRT,PS,cod-standard,cod-ps-mrt,resource,MRT_AdminBoundaries_TabularData.xlsx,"Mauritania administrative level 0 (country), 1 (region / wilaya or région), 2 (department / moughataa) gazetteer"
 MRT,PS,cod-standard,cod-ps-mrt,resource,mrt_admpop_2022.xlsx,Mauritania administrative level 0-1 sex and age disaggregated 2022 projected population statistics
 MRT,PS,cod-standard,cod-ps-mrt,resource,mrt_admpop_adm0_2022.csv,Mauritania administrative level 0 sex and age disaggregated 2022 projected population statistics
@@ -872,14 +868,14 @@ CSV file uploads
 5 April 2018
 Initial upload
 "
-LBR,PS,cod-standard,cod-ps-lbr,resource,lib_population_statistic_Liberia_2020.xlsx,Liberia - Population statistics  projection 2018
+LBR,PS,cod-standard,cod-ps-lbr,resource,lib_population_statistic_Liberia_2020.xlsx,Liberia - Population statistics  projection 2020
 LBR,PS,cod-standard,cod-ps-lbr,resource,lbr_admpop_adm0_2020_v2.csv,Administrative level 0 population statistics
 LBR,PS,cod-standard,cod-ps-lbr,resource,lbr_admpop_adm1_2020_v2.csv,Administrative level 1 population statistics
 LBR,PS,cod-standard,cod-ps-lbr,resource,lbr_admpop_adm2_2020_v2.csv,Administrative level 2 population statistics
 LBR,PS,cod-standard,cod-ps-lbr,resource,LBR_AdminBoundaries_TabularData.xlsx,Liberia gazetteer
 GUY,PS,cod-standard,cod-ps-guy,dataset,Guyana - Subnational Population Statistics,"Guyana administrative level 0 (country), 1 (region) population statistics
 
-REFERENCE YEAR:  2012
+REFERENCE YEAR:  2021
 
 These (administrative levels 0 and 1) tables are suitable for database or GIS joins to the [Guyana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-guy)"
 GUY,PS,cod-standard,cod-ps-guy,resource,guy_admgz_2021.xlsx,Guyana administrative level 0-2 gazetteer
@@ -899,9 +895,9 @@ VEN,PS,cod-standard,cod-ps-ven,resource,ven_admpop_2011_v2.xlsx,Venezuela admini
 VEN,PS,cod-standard,cod-ps-ven,resource,ven_admpop_adm0_2011_v2.csv,Venezuela administrative level 0 2011 sex and age disaggregated population statistics
 VEN,PS,cod-standard,cod-ps-ven,resource,ven_admpop_adm1_2011_v2.csv,Venezuela administrative level 1 2011 sex and age disaggregated population statistics
 VEN,PS,cod-standard,cod-ps-ven,resource,ven_admpop_adm2_2011_v3.csv,Venezuela administrative level 2 2011 sex and age disaggregated population statistics
-VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 0 population,Venezuela (Bolivarian Republic of) administrative level 0 2022 population statistics
-VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 1 population,Venezuela (Bolivarian Republic of) administrative level 1 2022 population statistics
-VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 2 population,Venezuela (Bolivarian Republic of) administrative level 2 2022 population statistics
+VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 0 population,Venezuela (Bolivarian Republic of) administrative level 0 2011 population statistics
+VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 1 population,Venezuela (Bolivarian Republic of) administrative level 1 2011 population statistics
+VEN,PS,cod-standard,cod-ps-ven,resource,VEN admin 2 population,Venezuela (Bolivarian Republic of) administrative level 2 2011 population statistics
 UZB,AB,cod-standard,cod-ab-uzb,dataset,Uzbekistan - Subnational Administrative Boundaries,"Uzbekistan administrative level 0 (country), 1 (province / viloyat, autonomous republic / respublika, or independent city / shahar), and 2 (district / tuman) boundary polygon and line shapefiles, and gazetteer.
 
 27 May 2020 update:
@@ -989,22 +985,6 @@ Administrative level 4 P-coded
 RWA,AB,cod-standard,cod-ab-rwa,resource,rwa_gazetteer_rphc2012_v2.xlsx,"Rwanda administrative level 0 (country), 1 (province), 2 (district), 3 (sector), and 4 (cell [incomplete]) gazetteer CORRECTED 2022_06_09"
 RWA,AB,cod-standard,cod-ab-rwa,resource,rwa_adm_2006_NISR_WGS1984_20181002_SHP.zip,"Rwanda administrative level 0 (country), 1 (province), 2 (district), 3 (sector), and 4 (cell [incomplete]) gazetteer"
 RWA,AB,cod-standard,cod-ab-rwa,resource,rwa_2006_NISR_WGS1984_20181002_EMF.zip,Rwanda administrative level 0-3 and 4 (incomplete) boundary EMF files
-SXM,AB,cod-standard,cod-ab-sxm,dataset,Sint Maarten (Dutch part) - Subnational Administrative Boundaries,"Sint Maarten administrative level 0 (constituent country) and 1 (district) boundary polygon and line shapefiles, and geodatabase, and gazetteer
-
-The administrative level 0 and 1 shapefiles and geodatabase layers are suitable for database or GIS linkage to the [Sint Maarten administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-sxm) CSV population statistics tables."
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_gazetteer.xlsx,"Sint Maarten administrative level 0 (constituent country), 1 (district), and 2 (sub-district) gazetteer"
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_admbnda_adm0.zip,Sint Maarten administrative level 0 (constituent country) boundary polygon shapefile
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_admbnda_adm1.zip,Sint Maarten administrative level 1 (district) boundary polygon shapefile
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_admbndl_all.zip,"Sint Maarten administrative level 0 (constituent country) and 1 (district) boundary line shapefile
-
-Admin_level 99 = shoreline
-Admin_level 1 = administrative level 1 (district) boundary line"
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_adm.zip,"Sint Maarten administrative level 0 (constituent country) and 1 (district) boundary polygon and line geodatabase
-
-Boundary line coding:
-Admin_level 99 = shoreline
-Admin_level 1 = administrative level 1 (district) boundary line"
-SXM,AB,cod-standard,cod-ab-sxm,resource,sxm_adm_EMF.zip,Sint Maarten administrative level 0-1 boundary EMF files
 SXM,PS,cod-standard,cod-ps-sxm,dataset,Sint Maarten (Dutch part) - Subnational Population Statistics,"Sint Maarten administrative level 0 (constituent country), 1 (district), and 2 (sub-district) disaggregated population statistics and gazetteer
 
 These administrative level 0 and 1 CSV tables are suitable for database or GIS linkage to the [Sint Maarten administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-sxm) shapefiles."
@@ -1058,12 +1038,12 @@ REFERENCE YEAR:  2011
 INTERIM version combining Tobago parishes into one municipality (P-code TT90) for compatibility with the COD-AB.
 
 These CSV tables are suitable for database or GIS linkage to the [Trinidad and Tobago administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-tto) shapefiles."
-TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_2020.xlsx,Trinidad and Tobago administrative levels 0 (country) and 1 (regional corporation or municipality) population statistics
+TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_2011.xlsx,Trinidad and Tobago administrative levels 0 (country) and 1 (regional corporation or municipality) population statistics
 TTO,PS,cod-standard,cod-ps-tto,resource,tto_adm_gazetteer_v2.xls,Trinidad and Tobago administrative level 0 (country) and 1 (regional corporation or municipality) gazetteer
-TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_adm0_2020­_v2.csv,Trinidad and Tobago administrative level 0 (country) population statistics
-TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_adm1_2020_v2.csv,Trinidad and Tobago administrative level 1 (regional corporation or municipality) population statistics - see caveats
-TTO,PS,cod-standard,cod-ps-tto,resource,TTO admin 0 population,Trinidad and Tobago administrative level 0 2020 population statistics
-TTO,PS,cod-standard,cod-ps-tto,resource,TTO admin 1 population,Trinidad and Tobago administrative level 1 2020 population statistics
+TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_adm0_2011_v2.csv,Trinidad and Tobago administrative level 0 (country) population statistics
+TTO,PS,cod-standard,cod-ps-tto,resource,tto_admpop_adm1_2011_v2.csv,Trinidad and Tobago administrative level 1 (regional corporation or municipality) population statistics - see caveats
+TTO,PS,cod-standard,cod-ps-tto,resource,TTO admin 0 population,Trinidad and Tobago administrative level 0 2011 population statistics
+TTO,PS,cod-standard,cod-ps-tto,resource,TTO admin 1 population,Trinidad and Tobago administrative level 1 2011 population statistics
 IRN,PS,cod-standard,cod-ps-irn,dataset,Iran (Islamic Republic of) - Subnational Population Statistics,"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) 2016 population statistics
 
 REFERENCE YEAR:  2016
@@ -1071,19 +1051,19 @@ REFERENCE YEAR:  2016
 These tables are suitable for database or GIS linkage to the [Iran (Islamic Republic of) administrative levels 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-irn) layers."
 IRN,PS,cod-standard,cod-ps-irn,resource,IRN_AdminBoundaries_TabularData.xlsx,"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) gazetteer"
 IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop.xlsx,"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) population statistics"
-IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm0_2019_v2.csv,Iran (Islamic Republic of) administrative level 0 (country) integrated sex and age disaggregated population statistics
-IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm1_2019_v2.csv,"Iran (Islamic Republic of) administrative level 1 (province, ostān) integrated sex and age disaggregated population statistics"
-IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm2_2019_v2.csv,"Iran (Islamic Republic of) administrative level 2 (district, baxš) sex disaggregated population statistics"
-IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 0 population,Iran (Islamic Republic of) administrative level 0 2019 population statistics
-IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 1 population,Iran (Islamic Republic of) administrative level 1 2019 population statistics
-IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 2 population,Iran (Islamic Republic of) administrative level 2 2019 population statistics
+IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm0_2016_v2.csv,Iran (Islamic Republic of) administrative level 0 (country) integrated sex and age disaggregated population statistics
+IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm1_2016_v2.csv,"Iran (Islamic Republic of) administrative level 1 (province, ostān) integrated sex and age disaggregated population statistics"
+IRN,PS,cod-standard,cod-ps-irn,resource,irn_admpop_adm2_2016_v2.csv,"Iran (Islamic Republic of) administrative level 2 (district, baxš) sex disaggregated population statistics"
+IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 0 population,Iran (Islamic Republic of) administrative level 0 2016 population statistics
+IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 1 population,Iran (Islamic Republic of) administrative level 1 2016 population statistics
+IRN,PS,cod-standard,cod-ps-irn,resource,IRN admin 2 population,Iran (Islamic Republic of) administrative level 2 2016 population statistics
 LCA,PS,cod-standard,cod-ps-lca,dataset,Saint Lucia - Subnational Population Statistics,"St. Lucia administrative level 0 (country) and 1 (quarter) 2010 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2010
 
 These tables are suitable for database or GIS linkage to the [Saint Lucia administrative levels 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-lca) layers."
 LCA,PS,cod-standard,cod-ps-lca,resource,lca_adm_gazetteer.xlsx,St. Lucia administrative level 0 (country) and 1 (quarter) gazetteer
-LCA,PS,cod-standard,cod-ps-lca,resource,lca_admpop_2019.xlsx,St. Lucia administrative level 0 (country) and 1 (quarter) sex and age disaggregated population statistics
+LCA,PS,cod-standard,cod-ps-lca,resource,lca_admpop_2010.xlsx,St. Lucia administrative level 0 (country) and 1 (quarter) sex and age disaggregated population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm0_v2.csv,St. Lucia administrative level 0 (country) sex and age disaggregated population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm1_v2.csv,St. Lucia administrative level 1 (quarter) sex and age disaggregated population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 0 population,Saint Lucia administrative level 0 2010 population statistics
@@ -1155,7 +1135,7 @@ Version history:
 22 July 2019
 Initial upload"
 BLZ,PS,cod-standard,cod-ps-blz,resource,BLZ_AdminBoundaries_TabularData.xlsx,Belize administrative level 0-1 gazetteer
-BLZ,PS,cod-standard,cod-ps-blz,resource,cuw_admpop_v3.xlsx,"Belize administrative level 0 (country), 1 (district), and 2 (local government) population statistics"
+BLZ,PS,cod-standard,cod-ps-blz,resource,blz_admpop_v2.xlsx,"Belize administrative level 0 (country), 1 (district), and 2 (local government) population statistics"
 BLZ,PS,cod-standard,cod-ps-blz,resource,blz_adm0_pop_v2.csv,Belize administrative level 0 (country) age and sex disaggregated population statistics
 BLZ,PS,cod-standard,cod-ps-blz,resource,blz_adm1_pop_v2.csv,Belize administrative level 1 (district) age and sex disaggregated population statistics
 BLZ,PS,cod-standard,cod-ps-blz,resource,blz_adm2_pop_v2.csv,Belize administrative level 2 (local government) sex disaggregated population statistics
@@ -1165,9 +1145,9 @@ REFERENCE YEAR 2022"
 BHS,PS,cod-standard,cod-ps-bhs,resource,bhs_gazetteer.xls,Bahamas administrative level 0-1 gazetteer
 BHS,PS,cod-standard,cod-ps-bhs,resource,bhs_admpop_2022.xlsx,Bahamas administrative level 0 age and sex disaggregated 2022 projected population statistics
 BHS,PS,cod-standard,cod-ps-bhs,resource,bhs_admpop_adm0_2022.csv,Bahamas administrative level 0 age and sex disaggregated 2022 projected population statistics
-COD,PS,cod-standard,cod-ps-cod,dataset,Democratic Republic of the Congo - Subnational Population Statistics,"Democratic Republic of the Congo administrative level 0 (country), 1 (province), 2 (district) sex and age disaggregated 2019 and 2010 population statistics
+COD,PS,cod-standard,cod-ps-cod,dataset,Democratic Republic of the Congo - Subnational Population Statistics,"Democratic Republic of the Congo administrative level 0 (country), 1 (province), 2 (district) sex and age disaggregated 2019 and 2020 population statistics
 
-REFERENCE YEAR:  2010
+REFERENCE YEAR:  2020
 
 See caveats
 
@@ -1197,7 +1177,7 @@ REFERENCE YEAR:  2012
 
 These tables are suitable for database or GIS linkage to the [Suriname administrative level 0, 1, and 2 boundaries](https://data.humdata.org/dataset/cod-ab-sur)."
 SUR,PS,cod-standard,cod-ps-sur,resource,sur_gz_adm_2017.xls,"Suriname administrative level 0 (country), 1 (district), and 2 (resort) gazetteer"
-SUR,PS,cod-standard,cod-ps-sur,resource,sur_admpop_2017.xls,"Suriname administrative level 0 (country), 1 (district), and 2 (resort) integrated sex and age disaggregated population statistics"
+SUR,PS,cod-standard,cod-ps-sur,resource,sur_admpop_2012.xls,"Suriname administrative level 0 (country), 1 (district), and 2 (resort) integrated sex and age disaggregated population statistics"
 SUR,PS,cod-standard,cod-ps-sur,resource,sur_admpop_adm0_v2.csv,Suriname administrative level 0 (country) integrated sex and age disaggregated population statistics
 SUR,PS,cod-standard,cod-ps-sur,resource,sur_admpop_adm1_v2.csv,Suriname administrative level 1 (district) integrated sex and age disaggregated population statistics
 SUR,PS,cod-standard,cod-ps-sur,resource,sur_admpop_adm2_v2.csv,Suriname administrative level 2 (resort) integrated sex and age disaggregated population statistics
@@ -1210,7 +1190,7 @@ REFERENCE YEAR:  2010
 
 These tables are suitable for database or GIS linkage to the [United States Virgin Islands administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-vir)."
 VIR,PS,cod-standard,cod-ps-vir,resource,vir_adm_2020.xls,United States Virgin Islands administrative level 0-2 gazetteer
-VIR,PS,cod-standard,cod-ps-vir,resource,vir_admpop_2020.xls,United States Virgin Islands administrative level 0-2 population statistics
+VIR,PS,cod-standard,cod-ps-vir,resource,vir_admpop_2010.xls,United States Virgin Islands administrative level 0-2 population statistics
 VIR,PS,cod-standard,cod-ps-vir,resource,vir_admpop_adm0_v2.csv,United States Virgin Islands administrative level 0 (territory) sex and age disaggregated population statistics
 VIR,PS,cod-standard,cod-ps-vir,resource,vir_admpop_adm1_v2.csv,United States Virgin Islands administrative level 1 (district) sex and age disaggregated population statistics
 VIR,PS,cod-standard,cod-ps-vir,resource,vir_admpop_adm2_v2.csv,United States Virgin Islands administrative level 2 (sub-district) sex and age disaggregated population statistics
@@ -1223,7 +1203,7 @@ REFERENCE YEAR:  2010
 
 These tables are suitable for database or GIS linkage to the [Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries](https://data.humdata.org/dataset/cod-ab-pri)"
 PRI,PS,cod-standard,cod-ps-pri,resource,pri_adm.xls,Puerto Rico administrative level 0 (territory) and 1 (municipal) gazetteer
-PRI,PS,cod-standard,cod-ps-pri,resource,pri_admpop_2019.xlsx,Puerto Rico administrative level 0 (territory) and 1 (municipal) 2010 age and sex disaggregated population statistics
+PRI,PS,cod-standard,cod-ps-pri,resource,pri_admpop_2010.xlsx,Puerto Rico administrative level 0 (territory) and 1 (municipal) 2010 age and sex disaggregated population statistics
 PRI,PS,cod-standard,cod-ps-pri,resource,pri_adm0_pop_v2.csv,Puerto Rico administrative level 0 (territory) sex and age 2010 disaggregated population statistics
 PRI,PS,cod-standard,cod-ps-pri,resource,pri_adm1_pop_v2.csv,Puerto Rico administrative level 1 (municipal) sex and age 2010 disaggregated population statistics
 PRI,PS,cod-standard,cod-ps-pri,resource,PRI admin 0 population,Puerto Rico administrative level 0 2010 population statistics
@@ -1256,14 +1236,14 @@ REFERENCE YEAR:  2022
 
 This table is suitable for database or GIS linkage to the [Barbados administrative level 0 (national) and 1 (parish) boundary polygons and lines](https://data.humdata.org/dataset/cod-ab-brb) using the ADM0_PCODE field."
 BRB,PS,cod-standard,cod-ps-brb,resource,brb_adm_gz.xlsx,Barbados administrative level 0 (national) and 1 (parish) gazetteer
-BRB,PS,cod-standard,cod-ps-brb,resource,brb_admpop_2022.xlsx,Barbados administrative level 0 (country) and 1 (parish) 2010 sex and age disaggregated population statistics
+BRB,PS,cod-standard,cod-ps-brb,resource,brb_admpop_2022.xlsx,Barbados administrative level 0 (country) and 1 (parish) 2022 sex and age disaggregated population statistics
 BRB,PS,cod-standard,cod-ps-brb,resource,brb_admpop_adm0_2010_v2.csv,Barbados administrative level 0 sex and age disaggregated 2022 projected population statistics
 BRB,PS,cod-standard,cod-ps-brb,resource,BRB admin 0 population,Barbados administrative level 0 2022 population statistics
 BRB,PS,cod-standard,cod-ps-brb,resource,BRB admin 1 population,Barbados administrative level 1 2010 population statistics
 GLP,PS,cod-standard,cod-ps-glp,dataset,Guadeloupe - Subnational Population Statistics,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) sex and age disaggregated 2016 population statistics
 
 REFERENCE YEAR:  2016"
-GLP,PS,cod-standard,cod-ps-glp,resource,glp_admpop_2019.xlsx,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) sex and age disaggregated 2016 population statistics"
+GLP,PS,cod-standard,cod-ps-glp,resource,glp_admpop_2016.xlsx,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) sex and age disaggregated 2016 population statistics"
 GLP,PS,cod-standard,cod-ps-glp,resource,glp_adm_2019.xlsx,"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) gazetteer"
 GLP,PS,cod-standard,cod-ps-glp,resource,glp_admpop_adm0_v2.csv,Guadeloupe administrative level 0 (department) sex and age disaggregated 2016 population statistics
 GLP,PS,cod-standard,cod-ps-glp,resource,glp_admpop_adm1_v2.csv,Guadeloupe administrative level 1 (arrondissement) sex and age disaggregated 2016 population statistics
@@ -1306,10 +1286,10 @@ These tables are suitable for database or GIS linkage to the [Ethiopia - Subnati
 ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_2023.xlsx,"Ethiopia administrative level 0-3 gazetteer corresponding to administrative boundaries. Tigray region population estimation is based on 2012 (Ethiopian calendar) population breakdown at kebele level from the Tigray Statistical Authority and Population Sizy by Sex, Area and Density by Region, Zone and Woreda, July 2022 from federal Central Statistics Agency. See caveats."
 ETH,PS,cod-standard,cod-ps-eth,resource,ETH_AdminBoundaries_TabularData.xlsx,Ethiopia administrative level 0-3 gazetteer corresponding to administrative boundaries.  See caveats.
 ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_2022.xlsx,Ethiopia administrative level 0-3 projected 2022 sex and age disaggregated projected population statistics
-ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm0_2022_v2.csv,Ethiopia administrative level 0 2021 projected population statistics
-ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm1_2022_v2.csv,Ethiopia administrative level 1 2021 projected population statistics
-ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm2_2022_v2.csv,Ethiopia administrative level 2 2021 projected population statistics
-ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm3_2022_v2.csv,Ethiopia administrative level 3 2021 projected population statistics
+ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm0_2022_v2.csv,Ethiopia administrative level 0 2022 projected population statistics
+ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm1_2022_v2.csv,Ethiopia administrative level 1 2022 projected population statistics
+ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm2_2022_v2.csv,Ethiopia administrative level 2 2022 projected population statistics
+ETH,PS,cod-standard,cod-ps-eth,resource,eth_admpop_adm3_2022_v2.csv,Ethiopia administrative level 3 2022 projected population statistics
 ETH,PS,cod-standard,cod-ps-eth,resource,ETH admin 0 population,Ethiopia administrative level 0 2022 population statistics
 ETH,PS,cod-standard,cod-ps-eth,resource,ETH admin 1 population,Ethiopia administrative level 1 2022 population statistics
 ETH,PS,cod-standard,cod-ps-eth,resource,ETH admin 2 population,Ethiopia administrative level 2 2022 population statistics
@@ -1417,7 +1397,7 @@ CRI,AB,cod-standard,cod-ab-cri,resource,cri_adm_2021_WGS_84.zip,Costa Rica admin
 CRI,AB,cod-standard,cod-ab-cri,resource,cri_adm_2021_WGS_84.gdb.zip,Costa Rica administrative level 0-3 2021 boundaries
 MUS,PS,cod-standard,cod-ps-mus,dataset,Mauritius - Subnational Population Statistics,"Mauritius administrative level 0-1 2018 projected population with gender and Census 2011 population with age. 
 
-REFERENCE YEAR:  2011
+REFERENCE YEAR:  2018
 
 ***
 Users should note that a correction has been made to the Mauritius COD-PS posted early on 9 August.  The 2018 population data were correct but the Census 2011 population data tables have been updated to amend an error in the 2011 population figures.  This note will be removed after one week.
@@ -1426,8 +1406,8 @@ Users should note that a correction has been made to the Mauritius COD-PS posted
 These tables are suitable for database or GIS linkage to the [Mauritius - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mus)."
 MUS,PS,cod-standard,cod-ps-mus,resource,mus_admgaz_2020.xls,Mauritius administrative level 0-1 gazetteer
 MUS,PS,cod-standard,cod-ps-mus,resource,mus_admpop_2018_2011_.xlsx,"Mauritius administrative level 0-1,  2018 projected population with gender and  Census 2011 population with age and gender. "
-MUS,PS,cod-standard,cod-ps-mus,resource,mus_admpop_adm0_2022_v2.csv,"Mauritius administrative level 0 , 2018 projected population  with gender and  Census 2011 population with age and gender. "
-MUS,PS,cod-standard,cod-ps-mus,resource,mus_admpop_adm1_2022_v2.csv,"Mauritius administrative level 1,  2018 projected population with gender and  Census 2011 population with age and gender.  "
+MUS,PS,cod-standard,cod-ps-mus,resource,mus_admpop_adm0_2018_2011_v2.csv,"Mauritius administrative level 0 , 2018 projected population  with gender and  Census 2011 population with age and gender. "
+MUS,PS,cod-standard,cod-ps-mus,resource,mus_admpop_adm1_2018_2011_v2.csv,"Mauritius administrative level 1,  2018 projected population with gender and  Census 2011 population with age and gender.  "
 GUF,PS,cod-standard,cod-ps-guf,dataset,French Guiana - Subnational Population Statistics,"French Guiana administrative level 0-2 2016 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2016
@@ -1466,6 +1446,7 @@ REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Haiti - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hti) layers using the ADM1 and ADM2_PCODE fields."
 HTI,PS,cod-standard,cod-ps-hti,resource,hti-pop-statistics.xlsx,Haiti administrative level 0-2 sex and age disaggregated 2022 population statistics.
+HTI,PS,cod-standard,cod-ps-hti,resource,hti_admpop_adm0_2022.csv,Haiti administrative level 0 sex and age disaggregated 2022 population statistics
 HTI,PS,cod-standard,cod-ps-hti,resource,hti_admpop_adm1_2022.csv,Haiti administrative level 1 sex and age disaggregated 2022 population statistics
 HTI,PS,cod-standard,cod-ps-hti,resource,hti_admpop_adm2_2022.csv,Haiti administrative level 2 sex and age disaggregated 2022 population statistics
 RUS,AB,cod-standard,cod-ab-rus,dataset,Russian Federation - Subnational Administrative Boundaries,Russian Federation administrative level 0-2 boundaries and gazetteer
@@ -1483,10 +1464,10 @@ REFERENCE YEAR: 2020
 These tables are suitable for database or GIS linkage to the [Poland - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pol) tables using the ADM0, and ADM1_PCODE fields."
 POL,PS,cod-standard,cod-ps-pol,resource,POL_AdminBoundaries_TabularData.xlsx,Poland administrative level 0-2 gazetteer
 POL,PS,cod-standard,cod-ps-pol,resource,pol_admpop_2020.xlsx,Poland administrative level 1-2 sex disaggregated 2020 population statistics
-POL,PS,cod-standard,cod-ps-pol,resource,pol_admpop_adm1_2020.csv,Poland administrative level 1 sex disaggregated 2022 population statistics
-POL,PS,cod-standard,cod-ps-pol,resource,pol_admpop_adm2_2020.csv,Poland administrative level 2 sex disaggregated 2022 population statistics
-POL,PS,cod-standard,cod-ps-pol,resource,POL admin 0 population,Poland administrative level 0 2022 population statistics
-POL,PS,cod-standard,cod-ps-pol,resource,POL admin 1 population,Poland administrative level 1 2022 population statistics
+POL,PS,cod-standard,cod-ps-pol,resource,pol_admpop_adm1_2020.csv,Poland administrative level 1 sex disaggregated 2020 population statistics
+POL,PS,cod-standard,cod-ps-pol,resource,pol_admpop_adm2_2020.csv,Poland administrative level 2 sex disaggregated 2020 population statistics
+POL,PS,cod-standard,cod-ps-pol,resource,POL admin 0 population,Poland administrative level 0 2020 population statistics
+POL,PS,cod-standard,cod-ps-pol,resource,POL admin 1 population,Poland administrative level 1 2020 population statistics
 GAB,PS,cod-standard,cod-ps-gab,dataset,Gabon - Subnational Population Statistics,"Gabon administrative level 0-2 sex and age disaggregated projected 2022 population statistics
 
 REFERENCE YEAR:  2022
@@ -1505,7 +1486,7 @@ CMR,PS,cod-standard,cod-ps-cmr,resource,CMR_CODPS_QA_2023.pdf,Cameroon administr
 CMR,PS,cod-standard,cod-ps-cmr,resource,CMR_AdminBoundaries_TabularData.xlsx,Cameroon administrative level 0-3 gazetteer
 CMR,PS,cod-standard,cod-ps-cmr,resource,cmr_admpop_2023.xlsx,Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2023 population statistics
 CMR,PS,cod-standard,cod-ps-cmr,resource,cmr_admpop_adm0_2023.csv,Cameroon administrative level 0 sex and age disaggregated projected 2023 population statistics
-CMR,PS,cod-standard,cod-ps-cmr,resource,cmr_admpop_adm1_2023.csv,Cameroon administrative level 1 and major metropolises sex and age disaggregated projected 2022 population statistics explanatory technical note
+CMR,PS,cod-standard,cod-ps-cmr,resource,cmr_admpop_adm1_2023.csv,Cameroon administrative level 1 and major metropolises sex and age disaggregated projected 2023 population statistics explanatory technical note
 CMR,PS,cod-standard,cod-ps-cmr,resource,CMR admin 0 population,Cameroon administrative level 0 2023 population statistics
 CMR,PS,cod-standard,cod-ps-cmr,resource,CMR admin 1 population,Cameroon administrative level 1 2023 population statistics
 TUR,AB,cod-standard,cod-ab-tur-geoservices,dataset,Türkiye - Subnational Administrative Boundaries GEOSERVICES,"Türkiye - Administrative LEVEL 0-2 boundaries and lines geoservices
@@ -1530,21 +1511,80 @@ REFERENCE YEAR:  2014
 This administrative level 2 dataset is suitable for database or GIS linkage to the [Morocco - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mar) boundary layer using the ADM2_PCODE field.
 
 "
-MAR,PS,cod-standard,cod-ps-mar,resource,mar_admpop_adm2EQ_20230910.csv,Morocco administrative level 2 (only) sex and age disaggregated 2014 population statistics
+MAR,PS,cod-standard,cod-ps-mar,resource,mar_admpop_adm2eq_2014.csv,Morocco administrative level 2 (only) sex and age disaggregated 2014 population statistics
 MAR,PS,cod-standard,cod-ps-mar,resource,MAR_AdminBoundaries_TabularData.xlsx,Morocco administrative level 0-2 gazetteer
-MLI,AB,cod-enhanced,cod-ab-mli,dataset,Mali - Subnational Administrative Boundaries,"Mali administrative level 0-3 shapefiles, geodatabase, and geoservices.
+MMR,AB,cod-standard,cod-ab-mmr,dataset,Myanmar - Subnational Administrative Boundaries,"Myanmar administrative level 0-5 boundaries (COD-AB) dataset.
 
-Updated 2021_11_16 to reflect the creation of administrative level 1 feature 'Menaka' [ML10].  (For clarification, the four ADM2 features in 'Menaka' [ML10] each contain only one ADM3 feature.)
+NOTE:  THIS COD-AB was specially developed from the various existing Myanmar Information Management Unit (MIMU) 'v9.4' HDX datasets that are understood to be the last or final MIMU versions expected.  These have been assembled into this COD-AB dataset without corrections to existing errors.  Existing errors are documented in the 'MMR COD-AB ITOS error documentation.pdf' document ncluded with this dataset.  Administrative level 5 covers urban areas only, and is not represented in the 'mmr_polbndl_adm01234_250k_mimu_itos_20240215' lines layer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.  ITOS processing updated 2021_12_22.
+This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was:  The COD-AB does not require any update.
 
-These layers are suitable for database and GIS linkage to the [Mali - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mli) tables."
+Sourced from MIMU.
+
+Live geoservices are available.  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Myanmar COD-PS table(s) using the XX_PCODE, field(s).
+
+An edge-matched (COD-EM) version of this COD-AB is available.
+Please see COD Portal:  https://cod.unocha.org/
+
+Administrative level 1 contains 18 features.
+
+Administrative level 2 contains 80 features.
+
+Administrative level 3 contains 330 features.
+
+Administrative level 4 contains 14174 features."
+MMR,AB,cod-standard,cod-ab-mmr,resource,mmr_admgz_20250215.xlsx,Myanmar administrative level 0-5 gazetteer
+MMR,AB,cod-standard,cod-ab-mmr,resource,MMR COD-AB ITOS error documentation.pdf,Myanmar COD-AB and COD-EM error documentation
+MMR,AB,cod-standard,cod-ab-mmr,resource,mmr_adm_250k_mimu_20240215_AB_SHP.zip,Myanmar administrative level 0-5 boundary shapefiles
+MMR,AB,cod-standard,cod-ab-mmr,resource,mmr_adm_250k_mimu_20240215_AB_EMF.zip,Myanmar administrative level 0-5 boundary EMF files
+MMR,AB,cod-standard,cod-ab-mmr,resource,mmr_adm_250k_mimu_20240215_AB_GDB.gdb.zip,Myanmar administrative level 0-5 boundary geodatabase
+MMR,AB,cod-standard,cod-ab-mmr,resource,COD_NO_GEOM_CHECK/MMR_MY (MapServer),"This map service contains OCHA Common Operational Datasets for Myanmar: Administrative Boundaries, in Burmese. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MMR,AB,cod-standard,cod-ab-mmr,resource,COD_NO_GEOM_CHECK/MMR_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Myanmar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_NO_GEOM_CHECK/MMR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+MMR,AB,cod-standard,cod-ab-mmr,resource,COD_NO_GEOM_CHECK/MMR_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Myanmar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_NO_GEOM_CHECK/MMR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+MMR,EM,cod-standard,cod-em-mmr,dataset,Myanmar - Subnational Edge-matched Administrative Boundaries,"Myanmar administrative level 0-5 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+These layers are suitable for database or GIS linkage to the [Myanmar - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-mmr).
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This edge-matched product is based on the [Myanmar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mmr) (COD-AB).
+"
+MMR,EM,cod-standard,cod-em-mmr,resource,mmr_admgz_20250215.xlsx,Myanmar administrative level 0-5 gazetteer
+MMR,EM,cod-standard,cod-em-mmr,resource,mmr_adm_250k_mimu_20240215_EM_SHP.zip,Myanmar administrative level 0-5 edge-matched shapefiles
+MMR,EM,cod-standard,cod-em-mmr,resource,mmr_adm_250k_mimu_20240215_EM_GDB.gdb.zip,Myanmar  administrative level 0-5 edge-matched geodatabasee
+MMR,EM,cod-standard,cod-em-mmr,resource,mmr_adm_250k_mimu_20240215_EM_EMF.zip,Myanmar administrative level 0-5 edge-matched shapefiles
+MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Myanmar: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.
+"
+MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Myanmar: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_MY_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Myanmar: Administrative Boundaries, in Burmese. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MLI,AB,cod-enhanced,cod-ab-mli,dataset,Mali - Subnational Administrative Boundaries,"Mali administrative level 0-3 boundaries (COD-AB) dataset.
+
+NOTE:  Two COD-PS records are not represented in the COD-AB.  The OCHA Regional Office is consulting with the DoDMA about new boundaries.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 5 month(s) ago.  The determination was:  The COD-AB requires updates due to changes in the location (country) administrative structure.
+
+Sourced from DNCT - Direction Nationale des Collectivités Territoriales.
+
+Live geoservices are available.  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Mali COD-PS table(s) using the XX_PCODE, field(s).
+
+An edge-matched (COD-EM) version of this COD-AB is available.
+Please see COD Portal:  https://cod.unocha.org/
+
+Administrative level 1 contains 10 features.
+
+Administrative level 2 contains 53 features.
+
+Administrative level 3 contains 701 features."
 MLI,AB,cod-enhanced,cod-ab-mli,resource,MLI_AdminBoundaries_TabularData.xlsx,Mali administrative level 0-3 gazetteer
-MLI,AB,cod-enhanced,cod-ab-mli,resource,mli_admb_1m_gov_20211220_SHP.zip,Mali administrative level 0-3 shapefiles
-MLI,AB,cod-enhanced,cod-ab-mli,resource,mli_adm_1m_gov_20211220.gdb.zip,Mali administrative level 0-3 geodatabase
-MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_FR (MapServer),"This map service contains OCHA Common Operational Datasets for Mali in French: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+MLI,AB,cod-enhanced,cod-ab-mli,resource,mli_adm_AB_SHP.zip,Mali administrative level 0-3 shapefiles
+MLI,AB,cod-enhanced,cod-ab-mli,resource,MLI_AdminBoundaries_candidate.gdb.zip,Mali administrative level 0-3 geodatabase
+MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_FR (MapServer),"NOT UPDATED.  This map service contains OCHA Common Operational Datasets for Mali in French: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_pcode (FeatureServer),"NOT UPDATED.  This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+MLI,AB,cod-enhanced,cod-ab-mli,resource,COD_External/MLI_pcode (MapServer),"NOT UPDATED.  This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mali. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MLI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 NPL,PS,cod-enhanced,cod-ps-npl,dataset,Nepal - Subnational Population Statistics,"Nepal administrative levels 0-2 sex and age disaggregated projected 2022 population statistics
 
 REFERENCE YEAR:  2022
@@ -1553,7 +1593,7 @@ These CSV tables are suitable for database or GIS linkage to the [Nepal - Subnat
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL_AdminBoundaries_TabularData.xlsx,Nepal administrative level 0-3 gazetteer
 NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_2022.xlsx,Nepal administrative levels 0-2 sex and age disaggregated projected 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_adm0_2022.csv,Nepal administrative levels 0 sex and age disaggregated projected 2022 population statistics
-NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_adm1_2022.csv,Nepal administrative levels 1 sex and age disaggregated projected 2002 population statistics
+NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_adm1_2022.csv,Nepal administrative levels 1 sex and age disaggregated projected 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_adm2_2022.csv,Nepal administrative levels 2 sex and age disaggregated projected 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL admin 0 population,Nepal administrative level 0 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL admin 1 population,Nepal administrative level 1 2022 population statistics
@@ -1612,9 +1652,28 @@ LBR,AB,cod-enhanced,cod-ab-lbr,resource,LBR Administrative Divisions EMF.zip,A z
 LBR,AB,cod-enhanced,cod-ab-lbr,resource,COD_External/LBR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Liberia: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 LBR,AB,cod-enhanced,cod-ab-lbr,resource,COD_External/LBR_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Liberia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 LBR,AB,cod-enhanced,cod-ab-lbr,resource,COD_External/LBR_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Liberia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/LBR_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-SOM,AB,cod-enhanced,cod-ab-som,dataset,Somalia - Subnational Administrative Boundaries,"Somali administrative level 0-2, state, and operational zone level 1 and 2 boundaries and gazetteer
+SOM,AB,cod-enhanced,cod-ab-som,dataset,Somalia - Subnational Administrative Boundaries,"""Somalia administrative level 0-2 boundaries (COD-AB) dataset.
 
-Operational zones are not official administrative features.  Operational zones level 2 are only found in certain urban areas."
+NOTE:  The special 'State' layer approximately represents the extra boundary level above the main administrative structure.  These boundaries are not all respected by Administrative level 1.
+
+NOTE ADM4 contains 331 features.  There is an ADM5 layer - only for Mogadishu - that contains 24 features.  
+
+NOTE The AdmLines geoservice layer and the som_admbndl_admALL_ocha_itos_20230308 lines shapefile  ADMLEVEL code 88 represents the limit between de facto Somalia and Ethiopia.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 10 month(s) ago.  The determination was:  The COD-AB does not require any update.
+
+Sourced from OCHA Somalia.
+
+Vetting and live geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Somalia COD-PS table(s) using the XX_PCODE, field(s).
+
+An edge-matched (COD-EM) version of this COD-AB is available.
+Please see COD Portal:  https://cod.unocha.org/
+
+Administrative level 1 contains 18 features.
+
+Administrative level 2 contains 74 features."""
 SOM,AB,cod-enhanced,cod-ab-som,resource,SOM_AdminBoundaries_TabularData.xlsx,"Somali administrative level 0-2, state, and operational zone level 1 and 2 gazetteer"
 SOM,AB,cod-enhanced,cod-ab-som,resource,som_adm_ocha_itos_20230308_SHP.zip,"Somali administrative level 0-2, state, and operational zone level 1 and 2 boundary shapefiles"
 SOM,AB,cod-enhanced,cod-ab-som,resource,som_adm_ocha_itos_20230308.gdb.zip,Somali administrative level 0-2 and operational zones level 1 and 2 boundary geodatabase
@@ -1758,9 +1817,6 @@ GIN,PS,cod-enhanced,cod-ps-gin,resource,gin_admpop_2023.xlsx,Guinea administrati
 GIN,PS,cod-enhanced,cod-ps-gin,resource,gin_admpop_adm0_2023.csv,Guinea administrative level 0 sex and age disaggregated 2023 projected population statistics
 GIN,PS,cod-enhanced,cod-ps-gin,resource,gin_admpop_adm1_2023.csv,Guinea administrative level 1 sex and age disaggregated 2023 projected population statistics
 GIN,PS,cod-enhanced,cod-ps-gin,resource,gin_admpop_adm2_2023.csv,Guinea administrative level 2 sex and age disaggregated 2023 projected population statistics
-GIN,PS,cod-enhanced,cod-ps-gin,resource,GIN admin 0 population,Guinea administrative level 0 2022 population statistics
-GIN,PS,cod-enhanced,cod-ps-gin,resource,GIN admin 1 population,Guinea administrative level 1 2022 population statistics
-GIN,PS,cod-enhanced,cod-ps-gin,resource,GIN admin 2 population,Guinea administrative level 2 2022 population statistics
 GMB,AB,cod-enhanced,cod-ab-gmb,dataset,Gambia - Subnational Administrative Boundaries,"Gambia administrative level 0-3 boundaries.
 
 This dataset was updated on 25 August 2022 to correct a duplicate administrative level 2 P-code.  (The ADM2 feature ""Wuli East"" P-code was changed from [GM0205], which it incorrectly shared with ""Tumana"", to [GM0207].)
@@ -1802,21 +1858,18 @@ GNQ,AB,cod-enhanced,cod-ab-gnq,resource,COD_External/GNQ_pcode (FeatureServer),"
 GNQ,AB,cod-enhanced,cod-ab-gnq,resource,COD_External/GNQ_pcode (MapServer),"GNQ_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Equatorial Guinea. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/GNQ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 GNQ,AB,cod-enhanced,cod-ab-gnq,resource,gnq_ppt_map.pptx,Powerpoint maps included COD admin for simplified use
 GNQ,AB,cod-enhanced,cod-ab-gnq,resource,COD_External/GNQ_EN (MapServer),
-MRT,AB,cod-enhanced,cod-ab-mrt,dataset,Mauritania - Subnational Administrative Boundaries,"Mauritania administrative level 0 (country), 1 (region / wilaya or région), 2 (department / moughataa), 3 (commune) boundaries endorsed  by Dakar IMWG on August 2017 (only Pcodes); see metadata for description of cleaning and processing performed by ITOS.
+MRT,AB,cod-enhanced,cod-ab-mrt,dataset,Mauritania - Subnational Administrative Boundaries,"Mauritania administrative level 0-3 shapefiles
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Live administrative boundary geoservices for all COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Live administrative boundary geoservices of the previous version of this COD-AB are available in [this ""V00_0"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0).  Older live administrative boundary geoservices are available in [this ""V1_00"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00).
 
-These shapefiles are suitable for database or GIS linkage to the level 0-2 [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt#)."
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,MRT_AdminBoundaries_TabularData.xlsx,Mauritania administrative level 0-2 gazetteer
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_gov_itos_20200801_SHP.zip,Mauritania administrative level 0-2 shapefiles
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_gov_itos_20200801_EMF.zip,Mauritania administrative level 0-2 EMF files
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,MRT_AdminBoundaries_candidate.gdb.zip,Mauritania administrative level 0-2 geodatabase
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,COD_External/MRT_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Mauritania: Administrative Boundaries. The service is available as ESRI Map, WMS, and KML Services."
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,COD_External/MRT_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mauritania. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.  "
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,COD_External/MRT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Mauritania. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.  "
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,V00_0/MRT_EN (MapServer),"This map service contains a previous version of OCHA Common Operational Datasets for Mauritania: Administrative Boundaries and Populated Places. The service is available as ESRI Map, WMS, and KML Services."
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,V00_0/MRT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Mauritania. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MRT_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_ppt_map.pptx,Mauritania administrative level 0-2 Powerpoint
+The associated [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt) dataset has NOT been updated and is no longer suitable for linkage.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.  ITOS processing updated 2021_12_22.  The ITOS live geoservices have not yet been updated to reflect the new boundary updates.
+"
+MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_admgz_2024.xls,Mauritania administrative level 0-3 gazetteer
+MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_ansade_20240327_AB_SHP.zip,Mauritania administrative level 0-3 boundary shapefiles
+MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_ansade_20240327_AB_GDB.gdb.zip,NOT UPDATED Mauritania administrative level 0-3 boundary geodatabase
+MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_ansade_20240327_AB_EMF.zip,Mauritania administrative level 0-3 boundary EMF files
 SEN,AB,cod-enhanced,cod-ab-sen,dataset,Senegal - Subnational Administrative Boundaries,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) boundary polygons and lines.
 
 The administrative level 0 and 1 layers are suitable for database or GIS linkage to the [Senegal - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sen) tables using the ADM0 and ADM1_PCODE tables.
@@ -1900,11 +1953,11 @@ REFERENCE YEAR:  2023
 
 The CSV tables are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lao) COD-AB shapefiles using the ADM0, ADM1, and ADM2_PCODE fields."
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO_AdminBoundaries_TabularData.xlsx,Lao People's Democratic Republic level 0-2 gazetteer
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_2023.xlsx,Lao People's Democratic Republic level 0-2 sex and age disaggregated 2022 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_2023.xlsx,Lao People's Democratic Republic level 0-2 sex and age disaggregated 2023 projected population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO_CODPS_QA_2023.pdf,Lao People's Democratic Republic COD-PS Explanatory Technical Note
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm0_2023.csv,Lao People's Democratic Republic level 0 sex and age disaggregated 2022 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm1_2023.csv,Lao People's Democratic Republic level 1 sex and age disaggregated 2022 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm2_2023.csv,Lao People's Democratic Republic level 2 sex and age disaggregated 2022 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm0_2023.csv,Lao People's Democratic Republic level 0 sex and age disaggregated 2023 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm1_2023.csv,Lao People's Democratic Republic level 1 sex and age disaggregated 2023 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm2_2023.csv,Lao People's Democratic Republic level 2 sex and age disaggregated 2023 projected population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 0 population,Lao People's Democratic Republic administrative level 0 2023 population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 1 population,Lao People's Democratic Republic administrative level 1 2023 population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 2 population,Lao People's Democratic Republic administrative level 2 2023 population statistics
@@ -1940,8 +1993,6 @@ KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm0_2023.csv,Cambodia admini
 KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm1_2023.csv,Cambodia administrative level 1 projected 2023 sex and age disaggregated population statistics
 KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 0 population,Cambodia administrative level 0  2023 population statistics
 KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 1 population,Cambodia administrative level 1  2023 population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 2 population,Cambodia administrative level 2 2022 population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 3 population,Cambodia administrative level 3 2022 population statistics
 PNG,AB,cod-enhanced,cod-ab-png,dataset,Papua New Guinea - Subnational Administrative Boundaries,"Papua New Guinea administrative level 0 (country), 1 (province, autonomous region, and National Capital District), 2 (district), and 3 (local level government area) boundary shapefiles, EMF files, geodatabase, and gazetteer
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
@@ -2015,14 +2066,16 @@ Vetting  by [Information Technology Outreach Services (ITOS)](https://cviog.uga.
 
 This COD-AB is suitable for database or GIS linkage to the Niger COD-PS using the ADM0_PCODE, ADM1_PCODE, etc. fields.
 
-An edge-matched (COD-EM) version of this COD-AB is available.  HOWEVER it has not been updated to this COD-AB version.  It will be updated in 2024 Q1.
+An edge-matched (COD-EM) version of this COD-AB is available. 
 
 Administrative level 1 contains 8 features.
 
 Administrative level 2 contains 67 features.
 
-Administrative level 3 contains 266 features."
-NER,AB,cod-enhanced,cod-ab-ner,resource,NER_AdminBoundaries_TabularData.xlsx,Niger administrative level 0-3 gazetteer
+Administrative level 3 contains 266 features.
+
+Live administrative boundary geoservices for Mauritania and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External)."
+NER,AB,cod-enhanced,cod-ab-ner,resource,ner_admgz_IGNN_20230720.xlsx,Niger administrative level 0-3 gazetteer
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_adm_IGNN_20230720_AB_SHP.zip,Niger administrative level 0-3 boundary shapefiles
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_adm_IGNN_20230720_AB_GDB.gdb.zip,Niger administrative level 0-3 boundary geodatabase
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_adm_IGNN_20230720_AB_EMF.zip,Niger administrative level 0-3 boundary EMF files
@@ -2594,10 +2647,10 @@ These tables are suitable for database or GIS linkage to the [Nigeria - Subnatio
 See caveat."
 NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA_AdminBoundaries_TabularData.xlsx,"Nigeria administrative level 0 (country), 1 (state), senatorial districts, 2 (local government area), and 3 (ward - in northeast Nigeria) gazetteer"
 NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_2020.xlsx,"Nigeria administrative level 0 (country), 1 (state), senatorial districts, and 2 (local government area) projected population statistics"
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm0_2020.csv,Nigeria administrative level 0 (country) 2016 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm1_2020.csv,Nigeria administrative level 1 (state) 2016 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm2_2020.csv,Nigeria administrative level 2 (local government area) 2016 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_SenDist_2020.csv,Nigeria Senatorial District 2016 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm0_2020.csv,Nigeria administrative level 0 (country) 2020 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm1_2020.csv,Nigeria administrative level 1 (state) 2020 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm2_2020.csv,Nigeria administrative level 2 (local government area) 2020 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_SenDist_2020.csv,Nigeria Senatorial District 2020 projected population statistics
 NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 0 population,Nigeria administrative level 0 2020 population statistics
 NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 1 population,Nigeria administrative level 1 2020 population statistics
 NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 2 population,Nigeria administrative level 2 2020 population statistics
@@ -2609,7 +2662,8 @@ Dataset updated 2022.
 
 These table are suitable for database or GIS linkage to the [Chad - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tcd).
 "
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2022.xlsx,
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,Tchad_PopulationDuTchad_20240102.xlsx,Chad 2024 Population Projections
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2022.xlsx,Chad Admin Population 2022
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2021.xlsx,Chad administrative level 0-2 2021 projected sex and age disaggregated population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2021.csv,Chad administrative level 0 (country) sex and age disaggregated population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm1_2021.csv,Chad administrative level 1 2021 projected sex and age disaggregated population statistics
@@ -2710,6 +2764,8 @@ EGY,AB,cod-enhanced,cod-ab-egy,resource,COD_External/EGY_pcode (FeatureServer),"
 EGY,AB,cod-enhanced,cod-ab-egy,resource,COD_External/EGY_pcode (MapServer),"EGY_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Egypt. As a map service it is intended to be used in conjunction with the basemaps located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/EGY_EN/MapServer and https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/EGY_AR/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 NPL,AB,cod-enhanced,cod-ab-npl,dataset,Nepal - Subnational Administrative Boundaries,"Nepal administrative level 0-3 boundaries and gazetteer
 
+Live administrative boundary geoservices for Nepal and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Live administrative boundary geoservices of the previous version of this COD-AB are available in [this ""V00_0"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0).
+
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
 
 These administrative level 0-2 layers are suitable for database or GIS linkage to the [Nepal - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-npl) tables using the ADM0, ADM1, and ADM2_PCODE fields.
@@ -2717,12 +2773,9 @@ These administrative level 0-2 layers are suitable for database or GIS linkage t
 
 Official site for Nepali boundary information:   Ministry of Land Management, Cooperatives and Poverty Alleviation, Survey Department [http://dos.gov.np/downloads/nepal-map] (Unsecure link.)"
 NPL,AB,cod-enhanced,cod-ab-npl,resource,NPL_AdminBoundaries_TabularData.xlsx,Nepal administrative level 0-3 gazetteer
-NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20190430_SHP.zip,Nepal administrative level 0-3 boundary shapefiles
-NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20190430_GDB.gdb.zip,Nepal administrative level 0-3 boundary geodatabase
-NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20190430_EMF.zip,Nepal administrative level 0-3 boundary EMF files
-NPL,AB,cod-enhanced,cod-ab-npl,resource,COD_External/NPL_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Nepal: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-NPL,AB,cod-enhanced,cod-ab-npl,resource,COD_External/NPL_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Nepal. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-NPL,AB,cod-enhanced,cod-ab-npl,resource,COD_External/NPL_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Nepal. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/NPL_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20240314_AB_SHP.zip,Nepal administrative level 0-3 boundary shapefiles
+NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20240314_AB_GDB.zip,Nepal administrative level 0-3 boundary geodatabase
+NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20240314_AB_EMF.zip,Nepal administrative level 0-3 boundary EMF files
 DOM,AB,cod-enhanced,cod-ab-dom,dataset,Dominican Republic - Subnational Administrative Boundaries,"Dominican Republic boundary files.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
@@ -2772,6 +2825,13 @@ BLZ,AB,cod-enhanced,cod-ab-blz,resource,COD_External/BLZ_pcode (FeatureServer),"
 "
 BLZ,AB,cod-enhanced,cod-ab-blz,resource,COD_External/BLZ_pcode (MapServer),"BLZ_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Belize. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.
 "
+MAF,AB,cod-enhanced,cod-ab-maf,dataset,Saint Martin (French part) - Subnational Administrative Boundaries,Saint Martin administrative level 0 (nation) boundaries
+MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_SHP.zip,Saint Martin administrative level 0 boundary shape files
+MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_GDB.gdb.zip,Saint Martin administrative level 0 boundary geodatabase
+MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_EMF.zip,Saint Martin administrative level 0 boundary EMF file
+MAF,AB,cod-enhanced,cod-ab-maf,resource,COD_External/MAF_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Saint-Martin. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/MAF_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+MAF,AB,cod-enhanced,cod-ab-maf,resource,COD_External/MAF_FR (MapServer),"This map service contains OCHA Common Operational Datasets for Saint-Martin: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MAF,AB,cod-enhanced,cod-ab-maf,resource,COD_External/SXM_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Sint Maarten. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SXM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 BGD,AB,cod-enhanced,cod-ab-bgd,dataset,Bangladesh - Subnational Administrative Boundaries,"17 November 2020 update: P-codes prefixed with 'BD'
 
 This is the full Administrative dataset for Bangladesh.  
@@ -2794,16 +2854,16 @@ REFERENCE YEAR:  2022"
 DMA,PS,cod-enhanced,cod-ps-dma,resource,dma_admgz_2019.xls,Dominica administrative level 0-1 gazetteer
 DMA,PS,cod-enhanced,cod-ps-dma,resource,dma_admpop_2022.xlsx,Dominica administrative level 0 sex and age disaggregated 2022 population statistics
 DMA,PS,cod-enhanced,cod-ps-dma,resource,DMA admin 0 population,Dominica administrative level 0 2022 population statistics
-DMA,PS,cod-enhanced,cod-ps-dma,resource,DMA admin 1 population,Dominica administrative level 1 2011 population statistics
 SEN,PS,cod-enhanced,cod-ps-sen,dataset,Senegal - Subnational Population Statistics,"Senegal administrative level 0-1 sex and age disaggregated 2021 projected population statistics
 
 REFERENCE YEAR:  2021
 
 These tables are suitable for database or GIS linkage to the [Senegal - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sen) layers using the ADM0 and ADM1_PCODE fields."
 SEN,PS,cod-enhanced,cod-ps-sen,resource,SEN_AdminBoundaries_TabularData.xlsx,Senegal administrative level 0-3 gazetteer
-SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_2022.xlsx,Senegal administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_2021.xlsx,Senegal administrative level 0-1 sex and age disaggregated 2021 projected population statistics
 SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_adm0_2021.csv,Senegal administrative level 0 sex and age disaggregated 2021 projected population statistics
-SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_adm0_2020_v2.csv,Senegal administrative level 0 sex and age disaggregated 2021 projected population statistics
+SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_adm1_2021.csv,Senegal administrative level 1 sex and age disaggregated 2021 projected population statistics
+SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_adm0_2020_v2.csv,Senegal administrative level 0 sex and age disaggregated 2020 projected population statistics
 SEN,PS,cod-enhanced,cod-ps-sen,resource,sen_admpop_adm1_2020_v2.csv,Senegal administrative level 1 (région) 2020 projection population statistics
 SEN,PS,cod-enhanced,cod-ps-sen,resource,SEN admin 0 population,Senegal administrative level 0 2020 population statistics
 SEN,PS,cod-enhanced,cod-ps-sen,resource,SEN admin 1 population,Senegal administrative level 1 2020 population statistics
@@ -3047,9 +3107,9 @@ MEX,PS,cod-enhanced,cod-ps-mex,resource,mex_admpop_2021_v2.xlsx,Mexico administr
 MEX,PS,cod-enhanced,cod-ps-mex,resource,mex_admpop_adm0_2021_v2.csv,Mexico administrative level 0 sex and age disaggregated 2021 projected population statistics
 MEX,PS,cod-enhanced,cod-ps-mex,resource,mex_admpop_adm1_2021_v2.csv,Mexico administrative level 1 sex and age disaggregated 2021 projected population statistics
 MEX,PS,cod-enhanced,cod-ps-mex,resource,mex_admpop_adm2_2021_v2.csv,Mexico administrative level 2 sex and age disaggregated 2021 projected population statistics
-MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 0 population,Mexico administrative level 0 2022 population statistics
-MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 1 population,Mexico administrative level 1 2022 population statistics
-MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 2 population,Mexico administrative level 2 2022 population statistics
+MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 0 population,Mexico administrative level 0 2021 population statistics
+MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 1 population,Mexico administrative level 1 2021 population statistics
+MEX,PS,cod-enhanced,cod-ps-mex,resource,MEX admin 2 population,Mexico administrative level 2 2021 population statistics
 CPV,PS,cod-enhanced,cod-ps-cpv,dataset,Cabo Verde - Subnational Population Statistics,"Cabo Verde  administrative level 0-1 and island sex and age disaggregated 2021 projected population statistics
 
 UPDATED 24 January 2023 to correctly assign ADM1 feature ""São Salvador do Mundo"" [CV19] to island ""Santiago"" [CV6].
@@ -3070,6 +3130,8 @@ CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_admpop_island_2022B.csv,Cabo Verde  
 CPV,PS,cod-enhanced,cod-ps-cpv,resource,CPV admin 0 population,Cabo Verde administrative level 0 2022 population statistics
 CPV,PS,cod-enhanced,cod-ps-cpv,resource,CPV admin 1 population,Cabo Verde administrative level 1 2022 population statistics
 MEX,AB,cod-enhanced,cod-ab-mex,dataset,Mexico - Subnational Administrative Boundaries,"Mexican administrative level 0 (country), 1 (estado), and 2 (municipio) boundary polygons
+
+The OCHA Regional Office for Latin America and the Caribbean determined in December 2023 that this COD-AB is up to date.
 
 These administrative population statistics tables are suitable for database or GIS linkage to the [Mexico - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mex)."
 MEX,AB,cod-enhanced,cod-ab-mex,resource,MEX_AdminBoundaries_TabularData.xlsx,Mexico administrative level 0-2 gazetteer
@@ -3110,7 +3172,7 @@ NOTE  The COD-AB live geoservices will be updated to be compatible in January 20
 
 The 2022 reference year version is provided for reference."
 NER,PS,cod-enhanced,cod-ps-ner,resource,NER_CODPS_QA_2023.pdf,Niger administrative level 0-2 sex and age disaggregated 2023 population statistics explanatory technical note
-NER,PS,cod-enhanced,cod-ps-ner,resource,NER_AdminBoundaries_TabularData.xlsx,Niger administrative level 0-3 gazetteer
+NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admgz_IGNN_20230720.xlsx,Niger administrative level 0-3 gazetteer
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_2023.xlsx,Niger administrative level 0-2 sex and age disaggregated 2023 population statistics
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm0_2023.csv,Niger administrative level 0 sex and age disaggregated 2023 population statistics
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm1_2023.csv,Niger administrative level 1 sex and age disaggregated 2023 population statistics
@@ -3216,18 +3278,18 @@ ZWE,AB,cod-enhanced,cod-ab-zwe,resource,zwe_adm_zimstat_ocha_20180911_EMF.zip,Zi
 ZWE,AB,cod-enhanced,cod-ab-zwe,resource,COD_External/ZWE_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Zimbabwe: Administrative Boundaries.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 ZWE,AB,cod-enhanced,cod-ab-zwe,resource,COD_External/ZWE_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zimbabwe. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 ZWE,AB,cod-enhanced,cod-ab-zwe,resource,COD_External/ZWE_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Zimbabwe. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/ZWE_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-ZWE,PS,cod-enhanced,cod-ps-zwe,dataset,Zimbabwe - Subnational Population Statistics,"Zimbabwe administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,dataset,Zimbabwe - Subnational Population Statistics,"Zimbabwe administrative level 0-2 sex and age disaggregated 2023 projected population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
 These CSV tables are suitable for linkage by P-code to the [Zimbabwe - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-zwe) shapefiles using the ADM0, ADM1, and ADM2_PCODE fields."
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,ZWE_CODPS_QA_2023.pdf,Zimbabwe administrative level 0-2 sex and age disaggregated 2023 projected population statistics Explanatory Technical Note
 ZWE,PS,cod-enhanced,cod-ps-zwe,resource,ZWE_AdminBoundaries_TabularData.xlsx,Zimbabwe administrative level 0-3 gazetteer
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_2022.xlsx,Zimbabwe administrative level 0-1 sex and age disaggregated 2021 projected population statistics
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm0_2022.csv,Zimbabwe administrative level 0 sex and age disaggregated 2022 projected population statistics
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm1_2022.csv,Zimbabwe administrative level 1 sex and age disaggregated 2022 projected population statistics
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm2_2022.csv,Zimbabwe administrative level 2 sex and age disaggregated 2022 projected population statistics
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,ZWE admin 0 population,Zimbabwe administrative level 0 2021 population statistics
-ZWE,PS,cod-enhanced,cod-ps-zwe,resource,ZWE admin 1 population,Zimbabwe administrative level 1 2021 population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_2023.xlsx,Zimbabwe administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm0_2023.csv,Zimbabwe administrative level 0 sex and age disaggregated 2023 projected population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm1_2023.csv,Zimbabwe administrative level 1 sex and age disaggregated 2023 projected population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_adm2_2023.csv,Zimbabwe administrative level 2 sex and age disaggregated 2023 projected population statistics
+ZWE,PS,cod-enhanced,cod-ps-zwe,resource,zwe_admpop_2022.xlsx,Zimbabwe administrative level 0-2 sex and age disaggregated 2022 projected population statistics
 MWI,AB,cod-enhanced,cod-ab-mwi,dataset,Malawi - Subnational Administrative Boundaries,"Malawi administrative level 0-3 shapefiles, geodatabase, gazetteer, and geoservices
 
 P-codes are based on the NSO Admin 3 code system.
@@ -3283,7 +3345,27 @@ UGA,PS,cod-enhanced,cod-ps-uga,resource,uga_admpop_2023.xlsx,Uganda level 0-2 se
 UGA,PS,cod-enhanced,cod-ps-uga,resource,uga_admpop_adm0_2023.csv,Uganda level 0 sex and age disaggregated 2023 projected population statistics
 UGA,PS,cod-enhanced,cod-ps-uga,resource,uga_admpop_adm1_2023.csv,Uganda level 1 sex and age disaggregated 2023 projected population statistics
 UGA,PS,cod-enhanced,cod-ps-uga,resource,uga_admpop_adm2_2023.csv,Uganda level 2 sex and age disaggregated 2023 projected population statistics
-TZA,PS,cod-enhanced,cod-ps-tza,dataset,United Republic of Tanzania - Subnational Population Statistics,"United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2000 population projections
+SXM,AB,cod-enhanced,cod-ab-sxm,dataset,Sint Maarten (Dutch part) - Subnational Administrative Boundaries,"""Sint Maarten (Dutch part) administrative level 0-1 boundaries (COD-AB) dataset.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 1 month(s) ago.  The determination was:  The COD-AB does not require any update.
+
+Sourced from Sint Maarten Ministry of Public Housing, Spatial Planning, Environment and Infrastructure (VROMI).
+
+Vetting and live geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Sint Maarten (Dutch part) COD-PS table(s) using the XX_PCODE, field(s).
+
+An edge-matched (COD-EM) version of this COD-AB is available.
+
+Administrative level 1 contains 8 features."""
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,SXM_AdminBoundaries_TabularData.xlsx,Sint Maarten administrative level 0-1 gazetteer
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,sxm_adm_vromi_20240122_AB_SHP.zip,Sint Maarten administrative level 0-1 boundary shapefiles
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,sxm_adm_vromi_20240122_AB_GDB.gdb.zip,Sint Maarten administrative level 0-1 boundary geodatabase
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,sxm_adm_vromi_20240122_AB_EMF.zip,Sint Maarten administrative level 0-1 boundary EMF files
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,COD_External/SXM_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Sint Maarten: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,COD_External/SXM_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Sint Maarten. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SXM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+SXM,AB,cod-enhanced,cod-ab-sxm,resource,COD_External/SXM_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Sint Maarten. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SXM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+TZA,PS,cod-enhanced,cod-ps-tza,dataset,United Republic of Tanzania - Subnational Population Statistics,"United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2020 population projections
 
 REFERENCE YEAR:  2020
 
@@ -3291,13 +3373,13 @@ These population statistics tables are are suitable for database or GIS linkage 
 
 These data DO NOT reflect the creation of Songwe region in January 2016 from the western half of Mbeya Region.  See caveats."
 TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_gazetteer.xlsx,United Republic of Tanzania administrative level 0-2 gazetteer
-TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm0_2000_v2.csv,United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2000 population projections
-TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm0_2000_v2.csv,United Republic of Tanzania administrative level 0 sex and age disaggregated 2000 population projections
-TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm1_2000_v2.csv,United Republic of Tanzania administrative level 1 sex and age disaggregated 2000 population projections
-TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm2_2000_v2.csv,United Republic of Tanzania administrative level 2 sex and age disaggregated 2000 population projections
-TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 0 population,United Republic of Tanzania administrative level 0 2000 population statistics
-TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 1 population,United Republic of Tanzania administrative level 1 2000 population statistics
-TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 2 population,United Republic of Tanzania administrative level 2 2000 population statistics
+TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_2020_v2.xlsx,United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2020 population projections
+TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm0_2020_v2.csv,United Republic of Tanzania administrative level 0 sex and age disaggregated 2020 population projections
+TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm1_2020_v2.csv,United Republic of Tanzania administrative level 1 sex and age disaggregated 2020 population projections
+TZA,PS,cod-enhanced,cod-ps-tza,resource,tza_admpop_adm2_2020_v2.csv,United Republic of Tanzania administrative level 2 sex and age disaggregated 2020 population projections
+TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 0 population,United Republic of Tanzania administrative level 0 2020 population statistics
+TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 1 population,United Republic of Tanzania administrative level 1 2020 population statistics
+TZA,PS,cod-enhanced,cod-ps-tza,resource,TZA admin 2 population,United Republic of Tanzania administrative level 2 2020 population statistics
 ECU,PS,cod-enhanced,cod-ps-ecu,dataset,Ecuador - Subnational Population Statistics,"Ecuador administrative level 0-1 sex and age disaggregated 2020 projected population statistics
 
 REFERENCE YEAR:  2020
@@ -3309,19 +3391,16 @@ ECU,PS,cod-enhanced,cod-ps-ecu,resource,ecu_admpop_adm1_2020.csv,Ecuador adminis
 ECU,PS,cod-enhanced,cod-ps-ecu,resource,ECU_AdminBoundaries_TabularData.xlsx,"Ecuador administrative level 0 (country), 1 (province),  2 (canton) and 3 (parroquia) population statistics and level 2 (canton) gazetteer"
 ECU,PS,cod-enhanced,cod-ps-ecu,resource,ECU admin 0 population,Ecuador administrative level 0 2020 population statistics
 ECU,PS,cod-enhanced,cod-ps-ecu,resource,ECU admin 1 population,Ecuador administrative level 1 2020 population statistics
-NAM,PS,cod-enhanced,cod-ps-nam,dataset,Namibia - Subnational Population Statistics,"Namibia administrative level 0-2 sex and age disaggregated 2020 population statistic projections
+NAM,PS,cod-enhanced,cod-ps-nam,dataset,Namibia - Subnational Population Statistics,"Namibia administrative level 0-2 sex and age disaggregated 2023 population statistic projections
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
-The CSV files are suitable for database or GIS linkage to the [Namibia administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-nam) shapefiles using the ADM0, ADM1, and ADM2_PCODE fields."
+The CSV files are suitable for database or GIS linkage to the [Namibia administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-nam) layers using the ADM0, ADM1, and ADM2_PCODE fields."
 NAM,PS,cod-enhanced,cod-ps-nam,resource,NAM_AdminBoundaries_TabularData.xlsx,Namibia administrative level 0-2 gazetteer
-NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_2022.xlsx,Namibia administrative level 0-2 sex and age disaggregated 2022 population statistic projections
-NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm0_2022.csv,Namibia administrative level 0 sex and age disaggregated 2022 population statistic projections
-NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm1_2022.csv,Namibia administrative level 1 sex and age disaggregated 2022 population statistic projections
-NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm2_2022.csv,Namibia administrative level 2 sex and age disaggregated 2022 population statistic projections
-NAM,PS,cod-enhanced,cod-ps-nam,resource,NAM admin 0 population,Namibia administrative level 0 2020 population statistics
-NAM,PS,cod-enhanced,cod-ps-nam,resource,NAM admin 1 population,Namibia administrative level 1 2020 population statistics
-NAM,PS,cod-enhanced,cod-ps-nam,resource,NAM admin 2 population,Namibia administrative level 2 2020 population statistics
+NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_2023.xlsx,Namibia administrative level 0-2 sex and age disaggregated 2023 population statistic projections
+NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm0_2023.csv,Namibia administrative level 0 sex and age disaggregated 2023 population statistic projections
+NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm1_2023.csv,Namibia administrative level 1 sex and age disaggregated 2023 population statistic projections
+NAM,PS,cod-enhanced,cod-ps-nam,resource,nam_admpop_adm2_2023.csv,Namibia administrative level 2 sex and age disaggregated 2022 population statistic projections
 ZAF,PS,cod-enhanced,cod-ps-zaf,dataset,South Africa - Subnational Population Statistics,"South Africa administrative levels 0 (country), 1 (province), 2 (district), and 3 (local municipality) population statistics.
 
 REFERENCE YEAR:  2016
@@ -3371,8 +3450,6 @@ BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_2023.xlsx,Bhutan administrati
 BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN_AdminBoundaries_TabularData.xlsx,Bhutan administrative level 0-2 gazetteer
 BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm0_2023.csv,Bhutan administrative level 0 sex and age disaggregated 2022 projected population statistics
 BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm1_2023.csv,Bhutan administrative level 1 sex and age disaggregated 2022 projected population statistics
-BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN admin 0 population,Bhutan administrative level 0 2022 population statistics
-BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN admin 1 population,Bhutan administrative level 1 2022 population statistics
 BGD,PS,cod-enhanced,cod-ps-bgd,dataset,Bangladesh - Subnational Population Statistics,"Bangladesh administrative level 0-3 sex and age disaggregated 2022 population statistics
 
 REFERENCE YEAR:  2022
@@ -3393,12 +3470,12 @@ THA,PS,cod-enhanced,cod-ps-tha,dataset,Thailand - Subnational Population Statist
 REFERENCE YEAR:  2023
 
 These tables are suitable for database or GIS linkage to the administrative level 0 and 1 [Thailand - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tha) shapefiles and geodatabase features using the ADM0, ADM1, and ADM2_PCODE items."
-THA,PS,cod-enhanced,cod-ps-tha,resource,THA_CODPS_QA_2023.pdf,Thailand administrative level 0 projected sex and age disaggregated 2022 population statistics explanatory technical document
-THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_2023.xlsx,Thailand administrative level 0-2 projected sex and age disaggregated 2022 population statistics
+THA,PS,cod-enhanced,cod-ps-tha,resource,THA_CODPS_QA_2023.pdf,Thailand administrative level 0 projected sex and age disaggregated 2023 population statistics explanatory technical document
+THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_2023.xlsx,Thailand administrative level 0-2 projected sex and age disaggregated 2023 population statistics
 THA,PS,cod-enhanced,cod-ps-tha,resource,THA_AdminBoundaries_TabularData.xlsx,Thailand administrative level 0-2 2020 gazetteer
-THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm0_2023.csv,Thailand administrative level 0 projected sex and age disaggregated 2022 population statistics
-THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm1_2023.csv,Thailand administrative level 1 projected sex and age disaggregated 2022 population statistics
-THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm2_2022.csv,Thailand administrative level 2 projected sex and age disaggregated 2022 population statistics
+THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm0_2023.csv,Thailand administrative level 0 projected sex and age disaggregated 2023 population statistics
+THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm1_2023.csv,Thailand administrative level 1 projected sex and age disaggregated 2023 population statistics
+THA,PS,cod-enhanced,cod-ps-tha,resource,tha_admpop_adm2_2023.csv,Thailand administrative level 2 projected sex and age disaggregated 2023 population statistics
 LKA,AB,cod-enhanced,cod-ab-lka,dataset,Sri Lanka - Subnational Administrative Boundaries,"Sri Lanka administrative levels 0-4 shapefiles and gazetteer
 
 This dataset was updated on 2 August 2022, replacing the April 2019 version.
@@ -3437,8 +3514,6 @@ TCA,PS,cod-enhanced,cod-ps-tca,dataset,Turks and Caicos Islands - Subnational Po
 REFERENCE YEAR:   2022"
 TCA,PS,cod-enhanced,cod-ps-tca,resource,tca_gazetteer.xlsx,Turks and Caicos Islands administrative level 0-2 gazetteer
 TCA,PS,cod-enhanced,cod-ps-tca,resource,tci_admpop_2022.xlsx,Turks and Caicos administrative level 0 sex and age disaggregated 2022 projected population statistics
-TCA,PS,cod-enhanced,cod-ps-tca,resource,TCA admin 0 population,Turks and Caicos Islands administrative level 0 2019 population statistics
-TCA,PS,cod-enhanced,cod-ps-tca,resource,TCA admin 1 population,Turks and Caicos Islands administrative level 1 2019 population statistics
 AIA,PS,cod-enhanced,cod-ps-aia,dataset,Anguilla - Subnational Population Statistics,Anguilla administrative level 0 sex and age disaggregated 2022 projected population statistics
 AIA,PS,cod-enhanced,cod-ps-aia,resource,aia_admpop_2022.xlsx,Anguilla administrative level 0 sex and age disaggregated 2022 projected population statistics
 AIA,PS,cod-enhanced,cod-ps-aia,resource,AIA admin 0 population,Anguilla administrative level 0 2022 population statistics
@@ -3490,10 +3565,10 @@ PSE,PS,cod-enhanced,cod-ps-pse,dataset,State of Palestine - Subnational Populati
 REFERENCE YEAR: 2023
 
 These tables are suitable for database or GIS linkage to the [State of Palestine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pse)."
-PSE,PS,cod-enhanced,cod-ps-pse,resource,PSE_CODPS_QA_2023.pdf,State of Palestine administrative level 0-1 sex and age disaggregated 2022 population statistics explanatory technical note
+PSE,PS,cod-enhanced,cod-ps-pse,resource,PSE_CODPS_QA_2023.pdf,State of Palestine administrative level 0-1 sex and age disaggregated 2023 population statistics explanatory technical note
 PSE,PS,cod-enhanced,cod-ps-pse,resource,PSE_AdminBoundaries_TabularData.xlsx,State of Palestine administrative level 0-2 gazetteer
-PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_2023.xlsx,State of Palestine administrative level 0-1 sex and age disaggregated 2022 population statistics
-PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_adm0_2023.csv,State of Palestine administrative level 0 sex and age disaggregated 2022 population statistics
+PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_2023.xlsx,State of Palestine administrative level 0-1 sex and age disaggregated 2023 population statistics
+PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_adm0_2023.csv,State of Palestine administrative level 0 sex and age disaggregated 2023 population statistics
 PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_adm1_2023.csv,State of Palestine administrative level 0 sex and age disaggregated 2023 population statistics
 GEO,AB,cod-enhanced,cod-ab-geo,dataset,Georgia - Subnational Administrative Boundaries,"Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), 2 (district or self-governing city), and 3 (community, etc.) boundaries
 
@@ -3611,7 +3686,6 @@ CUW,PS,cod-enhanced,cod-ps-cuw,dataset,Curaçao - Subnational Population Statist
 
 REFERENCE  YEAR:  2022"
 CUW,PS,cod-enhanced,cod-ps-cuw,resource,cuw_admpop_2022.xlsx,Curaçao administrative level 0 sex and age disaggregated 2022 projected population statistics
-CUW,PS,cod-enhanced,cod-ps-cuw,resource,CUW admin 0 population,Curaçao administrative level 0 2020 population statistics
 IDN,AB,cod-enhanced,cod-ab-idn,dataset,Indonesia - Subnational Administrative Boundaries,"Indonesia administrative level 0 (country - negara), 1 (province - provinsi), 2 (city, district, regency - kota, kabupaten), 3 (sub-district - kecamatan, distrik), and 4 (village - desa, kelurahan, kampung, nagari, pekon or gampong) boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
@@ -3631,20 +3705,18 @@ IDN,AB,cod-enhanced,cod-ab-idn,resource,COD_External/IDN_pcode (FeatureServer),"
 IDN,AB,cod-enhanced,cod-ab-idn,resource,COD_External/IDN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Indonesia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/IDN_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 IDN,AB,cod-enhanced,cod-ab-idn,resource,IDN_EN (MapServer),"This map service contains a previous version of OCHA Common Operational Datasets for Indonesia: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 IDN,AB,cod-enhanced,cod-ab-idn,resource,IDN_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Indonesia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/IDN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-DOM,PS,cod-enhanced,cod-ps-dom,dataset,Dominican Republic - Subnational Population Statistics,"Dominican Republic administrative level 0-2 projected 2022 sex and age disaggregated population statistics
+DOM,PS,cod-enhanced,cod-ps-dom,dataset,Dominican Republic - Subnational Population Statistics,"Dominican Republic administrative level 0-2 projected 2023 sex and age disaggregated population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
-These tables are suitable for database or GIS linkage to the [Dominican Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-dom) using the ADM0, ADM1, and ADM2_PCODE fields."
-DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM_AdminBoundaries_TabularData.xlsx,"Dominican Republic administrative level 0 (country), 1 (regional), 2 (provincial), 3 (municipal) and 4 (DM) gazetteer"
-DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_2022.xlsx,Dominican Republic administrative level 0-3 projected 2020 sex and age disaggregated population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm0_2022.csv,Dominican Republic administrative level 0 projected 2020 sex and age disaggregated population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm1_2022.csv,Dominican Republic administrative level 1 projected 2020 sex and age disaggregated population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm2_2022.csv,Dominican Republic administrative level 3 projected 2020 sex and age disaggregated population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM admin 0 population,Dominican Republic administrative level 0 2020 population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM admin 1 population,Dominican Republic administrative level 1 2020 population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM admin 2 population,Dominican Republic administrative level 2 2020 population statistics
-DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM admin 3 population,Dominican Republic administrative level 3 2020 population statistics
+These tables are suitable for database or GIS linkage to the [Dominican Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-dom) or [Dominican Republic - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-dom) layers using the ADM0, ADM1, and ADM2_PCODE fields."
+DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM_CODPS_QA_2023.pdf,Dominican Republic administrative level 0-3 projected 2023 sex and age disaggregated explanatory technical note
+DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_2023.xlsx,Dominican Republic administrative level 0-3 projected 2023 sex and age disaggregated population statistics
+DOM,PS,cod-enhanced,cod-ps-dom,resource,DOM_AdminBoundaries_TabularData.xlsx,Dominican Republic administrative level 0-4 gazetteer
+DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm0_2023.csv,Dominican Republic administrative level 0 projected 2023 sex and age disaggregated population statistics
+DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm1_2023.csv,Dominican Republic administrative level 1 projected 2023 sex and age disaggregated population statistics
+DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_adm2_2023.csv,Dominican Republic administrative level 3 projected 2023 sex and age disaggregated population statistics
+DOM,PS,cod-enhanced,cod-ps-dom,resource,dom_admpop_2022.xlsx,Dominican Republic administrative level 0-3 projected 2022 sex and age disaggregated population statistics
 KNA,PS,cod-enhanced,cod-ps-kna,dataset,Saint Kitts and Nevis - Subnational Population Statistics,"Saint Kitts and Nevis administrative level 0 sex and age disaggregated 2022 projected population statistics
 
 REFERENCE YEAR:  2022"
@@ -3660,18 +3732,14 @@ REFERENCE YEAR:  2021
 This table is suitable for database or GIS linkage to the [Cayman Islands administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-cym) using the ADM0_PCODE field."
 CYM,PS,cod-enhanced,cod-ps-cym,resource,cym_admgz_2020.xlsx,Cayman Islands administrative level 0 (country) and 1 (district) gazetteer
 CYM,PS,cod-enhanced,cod-ps-cym,resource,cym_admpop_2021.xlsx,Cayman Islands administrative level 0 (country) and 1 (district) 2010 Sex and Age  Disaggregated Data (SADD) population statistics
-CYM,PS,cod-enhanced,cod-ps-cym,resource,CYM admin 0 population,Cayman Islands administrative level 0 2010 population statistics
-CYM,PS,cod-enhanced,cod-ps-cym,resource,CYM admin 1 population,Cayman Islands administrative level 1 2010 population statistics
 VGB,PS,cod-enhanced,cod-ps-vgb,dataset,British Virgin Islands - Subnational Population Statistics,"British Virgin Islands administrative level 0 sex and age disaggregated 2022 projected population statistics
 
 REFERENCE YEAR:  2022"
 VGB,PS,cod-enhanced,cod-ps-vgb,resource,vgb_admpop_2022.xlsx,British Virgin Islands administrative level 0 sex and age disaggregated 2022 projected population statistics
 VGB,PS,cod-enhanced,cod-ps-vgb,resource,vgb_admgz_2020.xlsx,British Virgin Islands administrative level 0 (territory) and 1 (district) 2020 gazetteer
-VGB,PS,cod-enhanced,cod-ps-vgb,resource,VGB admin 0 population,British Virgin Islands administrative level 0 2010 population statistics
-VGB,PS,cod-enhanced,cod-ps-vgb,resource,VGB admin 1 population,British Virgin Islands administrative level 1 2010 population statistics
 VUT,PS,cod-enhanced,cod-ps-vut,dataset,Vanuatu - Subnational Population Statistics,"These tables are suitable database or GIS links to the [Vanuatu - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vut) layers.
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2020
 
 Each administrative level 2 feature is designated entirely 'urban' or 'rural'.  (""Port Vila"" [VU05002] and ""Luganville' [VU02001] are the only 'urban' features.)  Additional administrative level 0 and 1 tables in the spreadsheet disaggregate the urban and rural data.  "
 VUT,PS,cod-enhanced,cod-ps-vut,resource,VUT_AdminBoundaries_TabularData.xlsx,Vanuatu administrative level 0-2 gazetteer
@@ -3744,7 +3812,7 @@ GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2023.xlsx,"Guatemala administ
 
 Please see caveat about administrative level 2"
 GTM,PS,cod-enhanced,cod-ps-gtm,resource,GTM_AdminBoundaries_TabularData.xlsx,Guatemala administrative level 0-2 gazetteer
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm0_2023.csv,Guatemala administrative level 0 sex and age disaggregated 2021 projected population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm0_2023.csv,Guatemala administrative level 0 sex and age disaggregated 2023 projected population statistics
 GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm1_2023.csv,Guatemala administrative level 1 sex and age disaggregated 2023 projected population statistics
 GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm2_2023.csv,"Guatemala administrative level 2 sex and age disaggregated 2023 projected population statistics
 
@@ -3775,7 +3843,7 @@ These tables are suitable for database or GIS linkage to the [Bolivia (Plurinati
 BOL,PS,cod-enhanced,cod-ps-bol,resource,BOL_AdminBoundaries_TabularData.xlsx,Bolivia (Plurinational State of) administrative level 0-3 gazetteer
 BOL,PS,cod-enhanced,cod-ps-bol,resource,bol_admpop_2022B.xlsx,Bolivia (Plurinational State of) administrative level 0-1 sex and age disaggregated 2022 projected population statistics
 BOL,PS,cod-enhanced,cod-ps-bol,resource,bol_admpop_adm0_2022B.csv,Bolivia (Plurinational State of) administrative level 0 sex and age disaggregated 2022 projected population statistics
-BOL,PS,cod-enhanced,cod-ps-bol,resource,bol_admpop_adm1_2022B.csv,Bolivia (Plurinational State of) administrative level 1 sex and age disaggregated 2021 projected population statistics
+BOL,PS,cod-enhanced,cod-ps-bol,resource,bol_admpop_adm1_2022B.csv,Bolivia (Plurinational State of) administrative level 1 sex and age disaggregated 2022 projected population statistics
 NIC,PS,cod-enhanced,cod-ps-nic,dataset,Nicaragua - Subnational Population Statistics,"Nicaragua administrative level 0-2 sex and age disaggregated 2020 projected population statistics
 
 REFERENCE YEAR:  2020
@@ -3822,9 +3890,6 @@ STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_2022.xlsx,Sao Tome and Princi
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm0_2022.csv,Sao Tome and Principe administrative level 0 sex and age disaggregated 2021 projected population statistics
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm1_2022.csv,Sao Tome and Principe administrative level 1 sex and age disaggregated 2021 projected population statistics
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm2_2022.csv,Sao Tome and Principe administrative level 0-2 sex and age disaggregated 2021 projected population statistics
-STP,PS,cod-enhanced,cod-ps-stp,resource,STP admin 0 population,Sao Tome and Principe administrative level 0 2021 population statistics
-STP,PS,cod-enhanced,cod-ps-stp,resource,STP admin 1 population,Sao Tome and Principe administrative level 1 2021 population statistics
-STP,PS,cod-enhanced,cod-ps-stp,resource,STP admin 2 population,Sao Tome and Principe administrative level 2 2021 population statistics
 LKA,PS,cod-enhanced,cod-ps-lka,dataset,Sri Lanka - Subnational Population Statistics,"Sri Lanka administrative level 0-2 projected sex and age disaggregated  2022  population statistics with standard five-year age groups and special age 15-17 and 18-24 variants
 
 REFERENCE YEAR:  2022
@@ -3871,14 +3936,11 @@ MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_adm1_2017_v2.csv,Mozambique a
 MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_adm2_2017_v2.csv,Mozambique administrative level 2 2017 sex and age disaggregated population statistics
 VCT,PS,cod-enhanced,cod-ps-vct,dataset,Saint Vincent and The Grenadines - Subnational Population Statistics,"Saint Vincent and The Grenadines administrative level 0-2 sex and age disaggregated population statistics
 
-REFERENCE YEAR:  2012
+REFERENCE YEAR:  2022
 
 These tables (at administrative level 0-1) are suitable for database or GIS linkage to the [Saint Vincent and The Grenadines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vct)."
 VCT,PS,cod-enhanced,cod-ps-vct,resource,vct_admgz_2021.xlsx,Saint Vincent and The Grenadines administrative level 0-2 gazetteer
 VCT,PS,cod-enhanced,cod-ps-vct,resource,vct_admpop_2022.xlsx,Saint Vincent and The Grenadines administrative level 0 sex and age disaggregated population statistics
-VCT,PS,cod-enhanced,cod-ps-vct,resource,VCT admin 0 population,Saint Vincent and The Grenadines administrative level 0 2012 population statistics
-VCT,PS,cod-enhanced,cod-ps-vct,resource,VCT admin 1 population,Saint Vincent and The Grenadines administrative level 1 2012 population statistics
-VCT,PS,cod-enhanced,cod-ps-vct,resource,VCT admin 2 population,Saint Vincent and The Grenadines administrative level 2 2012 population statistics
 ZMB,PS,cod-enhanced,cod-ps-zmb,dataset,Zambia - Subnational Population Statistics,"Zambia administrative level 0-3 2020 projection sex and age disaggregated population statistics.
 
 These tables (at administrative level 0-1) are suitable for GIS or database linkage to the [Zambia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-zmb) boundaries."
@@ -3900,30 +3962,29 @@ BWA,PS,cod-enhanced,cod-ps-bwa,resource,bwa_admpop_adm0_2023.csv,Botswana admini
 BWA,PS,cod-enhanced,cod-ps-bwa,resource,bwa_admpop_adm1_2023.csv,Botswana administrative level 1sex and age disaggregated 2023 population projections
 BWA,PS,cod-enhanced,cod-ps-bwa,resource,bwa_admpop_adm2_2023.csv,Botswana administrative level 2 sex and age disaggregated 2023 population projections
 BWA,PS,cod-enhanced,cod-ps-bwa,resource,bwa_admpop_adm3_2023.csv,Botswana administrative level 3 sex and age disaggregated 2023 population projections
-BWA,PS,cod-enhanced,cod-ps-bwa,resource,BWA admin 1 population,Botswana administrative level 1 2022 population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,dataset,Ghana - Subnational Population Statistics,"Ghana administrative level 0-2 age and sex disaggregated 2022 projected population statistics
+BWA,PS,cod-enhanced,cod-ps-bwa,resource,BWA admin 1 population,Botswana administrative level 1 2023 population statistics
+BWA,PS,cod-enhanced,cod-ps-bwa,resource,BWA admin 2 population,Botswana administrative level 2 2023 population statistics
+BWA,PS,cod-enhanced,cod-ps-bwa,resource,BWA admin 3 population,Botswana administrative level 3 2023 population statistics
+GHA,PS,cod-enhanced,cod-ps-gha,dataset,Ghana - Subnational Population Statistics,"Ghana administrative level 0-2 age and sex disaggregated 2021 population statistics
 
 See caveats
 
 These tables are suitable for database and GIS linkage to the [Ghana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gha)."
 GHA,PS,cod-enhanced,cod-ps-gha,resource,GHA_AdminBoundaries_TabularData.xlsx,Ghana administrative level 0-2 gazetteer
-GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_2022.xlsx,Ghana administrative level 0-2 age and sex disaggregated 2022 projected population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm0_2022.csv,Ghana administrative level 0 age and sex disaggregated 2022 projected population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm1_2022.csv,Ghana administrative level 1 age and sex disaggregated 2021 projected population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm2_2022.csv,Ghana administrative level 2 age and sex disaggregated 2021 projected population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,GHA admin 0 population,Ghana administrative level 0 2020 population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,GHA admin 1 population,Ghana administrative level 1 2020 population statistics
-GHA,PS,cod-enhanced,cod-ps-gha,resource,GHA admin 2 population,Ghana administrative level 2 2020 population statistics
+GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_2021.xlsx,Ghana administrative level 0-2 age and sex disaggregated 2021 population statistics
+GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm0_2021.csv,Ghana administrative level 0 age and sex disaggregated 2021 population statistics
+GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm1_2021.csv,Ghana administrative level 1 age and sex disaggregated 2021 population statistics
+GHA,PS,cod-enhanced,cod-ps-gha,resource,gha_admpop_adm2_2021.csv,Ghana administrative level 2 age and sex disaggregated 2021 population statistics
 TUR,PS,cod-enhanced,cod-ps-tur,dataset,Türkiye - Subnational Population Statistics,"Türkiye administrative level 0-2 sex and age disaggregated 2021 projected population statistics, including a table of ""Syrians under temporary protection"" for administrative level 2.
 
 REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Turkey - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tur) using the ADM0, ADM1, and ADM2_PCODE fields."
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR_CODPS_QA_2023.pdf,Türkiye population statistics Explanatory Technical Note
-TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_2022.xlsx,Türkiye administrative level 0-2 sex and age disaggregated 2020 projected population statistics
-TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm0_2022.csv,Türkiye administrative level 0 sex and age disaggregated 2021 projected population statistics
-TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm1_2022.csv,Türkiye administrative level 1 sex and age disaggregated 2021 projected population statistics
-TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm2_2022.csv,Türkiye administrative level 2 sex and age disaggregated 2021 projected population statistics
+TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_2022.xlsx,Türkiye administrative level 0-2 sex and age disaggregated 2022 projected population statistics
+TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm0_2022.csv,Türkiye administrative level 0 sex and age disaggregated 2022 projected population statistics
+TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm1_2022.csv,Türkiye administrative level 1 sex and age disaggregated 2022 projected population statistics
+TUR,PS,cod-enhanced,cod-ps-tur,resource,tur_admpop_adm2_2022.csv,Türkiye administrative level 2 sex and age disaggregated 2022 projected population statistics
 TUR,PS,cod-enhanced,cod-ps-tur,resource,common-operational-dataset.xlsx,Türkiye administrative level 0-4 and camps gazetteer
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR admin 0 population,Türkiye administrative level 0 2022 population statistics
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR admin 1 population,Türkiye administrative level 1 2022 population statistics
@@ -4137,7 +4198,7 @@ BEN,EM,cod-enhanced,cod-em-ben,resource,ben_admbnda_1m_salb_20190816_em_v2_SHP.z
 BEN,EM,cod-enhanced,cod-em-ben,resource,ben_adm_1m_salb_20190816_em_v2.gdb.zip,Benin administrative level 0-2 edge-matched boundary geodatabase
 SLE,EM,cod-enhanced,cod-em-sle,dataset,Sierra Leone - Subnational Edge-matched Administrative Boundaries,"Sierra Leone administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
-NOTE this dataset will be updated shortly to correspond to the COD-AB with the newer five-regions administrative structure.
+This dataset was updated in January 2024 to correspond to the COD-AB with the newer five-regions administrative structure.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sle); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
@@ -4148,7 +4209,9 @@ Vetting and live service provision by Information Technology Outreach Services (
 "
 SLE,EM,cod-enhanced,cod-em-sle,resource,SLE_AdminBoundaries_TabularData.xlsx,Sierra Leone administrative level 0-4 gazetteer
 SLE,EM,cod-enhanced,cod-em-sle,resource,sle_adm_gov_ocha_20231215_EM_SHP.zip,Sierra Leone administrative level 0-4 edge-matched boundary shapefiles
-SLE,EM,cod-enhanced,cod-em-sle,resource,sle-adm_gov_ocha_20231215_EM_GDB.zip,Sierra Leone administrative level 0-4 edge-matched geodatabase
+SLE,EM,cod-enhanced,cod-em-sle,resource,sle_adm_gov_ocha_20231215_EM_GDB.gdb.zip,Sierra Leone administrative level 0-4 edge-matched geodatabase
+SLE,EM,cod-enhanced,cod-em-sle,resource,sle_adm_gov_ocha_20231215_EM_EMF.zip,"Sierra Leone administrative level 0-4 edge-matched boundary EMF files
+"
 SLE,EM,cod-enhanced,cod-em-sle,resource,COD_External_Edgematch/SLE_EN_Edgematch (MapServer),"This map service contains an edgematched version of OCHA Common Operational Datasets for Sierra Leone: Administrative Boundaries. The service is available as ESRI Map, WMS, and KML Services."
 GHA,EM,cod-enhanced,cod-em-gha,dataset,Ghana - Subnational Edge-matched Administrative Boundaries,"Ghana administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
@@ -4163,17 +4226,18 @@ GHA,EM,cod-enhanced,cod-em-gha,resource,gha_admbnda_gss_20210308_em_v2.gdb.zip,G
 GHA,EM,cod-enhanced,cod-em-gha,resource,COD_External_Edgematch/GHA_EN_Edgematch (MapServer),
 NER,EM,cod-enhanced,cod-em-ner,dataset,Niger - Subnational Edge-matched Administrative Boundaries,"Niger administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
-NOTE this COD-EM has not been updated with the changes to the COD-AB in December 2023.  This COD-EM will be updated in 2024 Q1.
-
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-ner); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
 
 These layers are suitable for database or GIS linkage to the [Niger - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ner) tables.
 
-Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
-NER,EM,cod-enhanced,cod-em-ner,resource,ner_admgz_2022.xls,Niger administrative level 0-2 gazetteer
-NER,EM,cod-enhanced,cod-em-ner,resource,ner_admbnda_ignn_ocha_em_v2.zip,Niger administrative level 0-2 edge-matched shapefiles
-NER,EM,cod-enhanced,cod-em-ner,resource,ner_admbnda_ignn_ocha_em_v2.gdb.zip,Niger administrative level 0-2 edge-matched geodatabase
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+
+Live edge-matched boundary geoservices for Niger and other edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch)."
+NER,EM,cod-enhanced,cod-em-ner,resource,ner_admgz_IGNN_20230720.xlsx,Niger administrative level 0-3 gazetteer
+NER,EM,cod-enhanced,cod-em-ner,resource,ner_adm_IGNN_20230720_EM_SHP.zip,Niger administrative level 0-3 edge-matched shapefiles
+NER,EM,cod-enhanced,cod-em-ner,resource,ner_adm_IGNN_20230720_EM_GDB.gdb.zip,Niger administrative level 0-3 edge-matched geodatabase
+NER,EM,cod-enhanced,cod-em-ner,resource,ner_adm_IGNN_20230720_EM_EMF.zip,Niger administrative level 0-3 edge-matched EMF files
 NGA,EM,cod-enhanced,cod-em-nga,dataset,Nigeria - Subnational Edge-matched Administrative Boundaries,"Nigeria administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 These layers are suitable for database or GIS linkage to the [Nigeria - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-nga).
@@ -4472,6 +4536,15 @@ ARE,EM,cod-enhanced,cod-em-are,resource,ARE_AdminBoundaries_TabularData.xlsx,Uni
 ARE,EM,cod-enhanced,cod-em-are,resource,are_adm_fcsc_20230515_SHP_EM.zip,United Arab Emirates administrative level 0-1 shapefiles
 ARE,EM,cod-enhanced,cod-em-are,resource,are_adm_fcsc_20230515_GDB_EM.gdb.zip,United Arab Emirates administrative level 0-1 geodatabase
 ARE,EM,cod-enhanced,cod-em-are,resource,are_adm_fcsc_20230515_EMF_EM.zip,United Arab Emirates administrative level 0-1 EMF files
+ZMB,EM,cod-enhanced,cod-em-zmb,dataset,Zambia - Subnational Edge-matched Administrative Boundaries,"Zambia administrative level 0-4 shapefiles, geodatabase, gazetteer and geoservices
+
+COD-EM datasets do not replace the authoritative COD-AB available [https://data.humdata.org/dataset/cod-ab-zmb](here); however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+ZMB,EM,cod-enhanced,cod-em-zmb,resource,ZMB_AdminBoundaries_TabularData.xlsx,Zambia administrative level 0-4 gazetteer
+ZMB,EM,cod-enhanced,cod-em-zmb,resource,zmb_adm_ecz_20230629_EM_SHP.zip,Zambia administrative level 0-4 edge-matched shapefiles
+ZMB,EM,cod-enhanced,cod-em-zmb,resource,zmb_adm_ecz_2023-629_EM_GDB.gdb.zip,Zambia administrative level 0-4 edge-matched geodatabase
+ZMB,EM,cod-enhanced,cod-em-zmb,resource,COD_External_Edgematch/ZMB_EN_Edgematch (MapServer),"This map service contains a global edgematched version of OCHA Common Operational Datasets for Zambia: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 AZE,EM,cod-enhanced,cod-em-aze,dataset,Azerbaijan - Subnational Edge-matched Administrative Boundaries,"Azerbaijan administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 These boundaries are suitable for database or GIS linkage to the [Azerbaijan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-aze) tables using the ADM0, and ADM1_PCODE fields.
@@ -4486,7 +4559,7 @@ AZE,EM,cod-enhanced,cod-em-aze,resource,AZE_Edgematch_EMF.zip,"Azerbaijan admini
 AZE,EM,cod-enhanced,cod-em-aze,resource,COD_External_Edgematch/AZE_AZ_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Azerbaijan: Administrative Boundaries, in Azerbaijani. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.
 "
 AZE,EM,cod-enhanced,cod-em-aze,resource,COD_External_Edgematch/AZE_EN_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Azerbaijan: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-ARM,EM,cod-enhanced,cod-em-arm,dataset,Armenia - Subnational Edge-matched Administrative Boundaries,"Azerbaijan administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+ARM,EM,cod-enhanced,cod-em-arm,dataset,Armenia - Subnational Edge-matched Administrative Boundaries,"Armenia administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 These boundaries are suitable for database or GIS linkage to the [Armenia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arm) tables using the ADM0, ADM1, and ADM2_PCODE fields.
 
@@ -4510,3 +4583,96 @@ IRQ,PS,cod-enhanced,cod-ps-irq,resource,IRQ_CODPS_QA_2023.pdf,Iraq administrativ
 IRQ,PS,cod-enhanced,cod-ps-irq,resource,IRQ_admpop_2021.xlsx,Iraq administrative level 0-1 sex and age disaggregated 2021 projected population statistics
 IRQ,PS,cod-enhanced,cod-ps-irq,resource,IRQ_admpop_adm1_2021.csv,Iraq administrative level 1 sex and age disaggregated 2021 projected population statistics
 IRQ,PS,cod-enhanced,cod-ps-irq,resource,IRQ_admpop_adm0_2021.csv,Iraq administrative level 0 sex and age disaggregated 2021 projected population statistics
+NIC,EM,cod-enhanced,cod-em-nic,dataset,Nicaragua - Subnational Edge-matched Administrative Boundaries,"Nicaragua administrative level 0-2 boundaries, gazetteer, and geoservices.
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These boundaries are NOT suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nic) tables, which do not have compatible P-coding.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+NIC,EM,cod-enhanced,cod-em-nic,resource,nic_gz_inide_itos_2023_11_27.xlsx,Nicaragua administrative level 0-2 gazetteer
+NIC,EM,cod-enhanced,cod-em-nic,resource,nic_adm_inide_itos_2023_12_07_SHP_EM.zip,Nicaragua administrative level 0-2 edge-matched administrative boundary shapefiles
+NIC,EM,cod-enhanced,cod-em-nic,resource,nic_adm_inide_itos_2023_12_07_GDB_EM.gdb.zip,Nicaragua administrative level 0-2 edge-matched administrative boundary geodatabase
+NIC,EM,cod-enhanced,cod-em-nic,resource,nic_admbnda_inide_itos_2023_12_07_EMF_EM.zip,Nicaragua administrative level 0-2 edge-matched administrative boundary EMF files
+NIC,EM,cod-enhanced,cod-em-nic,resource,COD_External_Edgematch/NIC_ES_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Nicaragua: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+HTI,EM,cod-enhanced,cod-em-hti,dataset,Haiti - Subnational Edge-matched Administrative Boundaries,"Haiti administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-hti); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Haiti - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-hti) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+HTI,EM,cod-enhanced,cod-em-hti,resource,HTI_AdminBoundaries_TabularData.xlsx,Haiti administrative level 0-3 gazetteer
+HTI,EM,cod-enhanced,cod-em-hti,resource,hti_adm_cnigs_20181129_EM_SHP.zip,Haiti administrative level 0-3 shapefiles
+HTI,EM,cod-enhanced,cod-em-hti,resource,hti_adm_cnigs_20181129_EM_GDB.gdb.zip,Haiti administrative level 0-3 geodatabase
+HTI,EM,cod-enhanced,cod-em-hti,resource,hti_adm_cnigs_20181129_EM_EMF.zip,Haiti administrative level 0-3 EMF files
+HTI,EM,cod-enhanced,cod-em-hti,resource,COD_External_Edgematch/HTI_FR_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Haiti in French: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.
+"
+DOM,EM,cod-enhanced,cod-em-dom,dataset,Dominican Republic - Subnational Edge-matched Administrative Boundaries,"Dominican Republic administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-dom); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Dominican Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-dom) administrative level 0-2 tables using the ADM0, ADM1, and ADM2_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+DOM,EM,cod-enhanced,cod-em-dom,resource,DOM_AdminBoundaries_TabularData.xlsx,Dominican Republic administrative level 0-4 gazetteer
+DOM,EM,cod-enhanced,cod-em-dom,resource,dom_adm_one_itos_20210629_EM_SHP.zip,Dominican Republic administrative level 0-4 boundary shapefiles
+DOM,EM,cod-enhanced,cod-em-dom,resource,dom_adm_one_itos_20210629_EM_GDB.zip,Dominican Republic administrative level 0-4 boundary geodatabase
+DOM,EM,cod-enhanced,cod-em-dom,resource,dom_adm_one_itos_20210629_EM_EMF.zip,Dominican Republic administrative level 0-4 EMF files
+DOM,EM,cod-enhanced,cod-em-dom,resource,COD_External_Edgematch/DOM_ES_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for the Dominican Republic: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services."
+MAF,EM,cod-enhanced,cod-em-maf,dataset,Saint Martin - Subnational Edge-matched Administrative Boundaries,"Saint Martin administrative level 0 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-maf); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Saint Martin- Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-maf) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+MAF,EM,cod-enhanced,cod-em-maf,resource,MAF_AdminBoundaries_TabularData.xlsx,Saint Martin administrative level 0 gazetteer
+MAF,EM,cod-enhanced,cod-em-maf,resource,maf_adm_gadm_20240116_EM_SHP.zip,Saint Martin administrative level 0 edge-matched boundary shapefiles
+MAF,EM,cod-enhanced,cod-em-maf,resource,maf_adm_gadm_ITOS_20240126_EM_GDB.gdb.zip,Saint Martin administrative level 0 edge-matched boundary geodatabase
+MAF,EM,cod-enhanced,cod-em-maf,resource,maf_adm_gadm_20240116_EM_EMF.zip,Saint Martin administrative level 0 edge-matched boundary EMF files
+MAF,EM,cod-enhanced,cod-em-maf,resource,COD_External_Edgematch/MAF_FR_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Saint-Martin: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+SXM,EM,cod-enhanced,cod-em-sxm,dataset,Sint Maartin - Subnational Edge-matched Administrative Boundaries,"Sint Maartin administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+This dataset was updated in January 2024 to correspond to the COD-AB with the newer five-regions administrative structure.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sxm); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Sint Maarten - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sxm) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+"
+SXM,EM,cod-enhanced,cod-em-sxm,resource,SXM_AdminBoundaries_TabularData.xlsx,Sint Maarten administrative level 0-1 gazetteer
+SXM,EM,cod-enhanced,cod-em-sxm,resource,sxm_adm_vromi_20240122_AB_SHP.zip,Sint Maarten administrative level 0-1 boundary shapefiles
+SXM,EM,cod-enhanced,cod-em-sxm,resource,sxm_adm_vromi_20240122_AB_GDB.gdb.zip,Sint Maarten administrative level 0-1 boundary geodatabase
+SXM,EM,cod-enhanced,cod-em-sxm,resource,sxm_adm_vromi_20240122_AB_EMF.zip,Sint Maarten administrative level 0-1 boundary EMF files
+SXM,EM,cod-enhanced,cod-em-sxm,resource,COD_External_Edgematch/SXM_EN_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Sint Maarten: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+MRT,EM,cod-enhanced,cod-em-mrt,dataset,Mauritania - Subnational Edge-matched Administrative Boundaries,"Mauritania administrative level 0-3 edge-matched gazetteer and boundary files.
+
+Live edge-matched boundary geoservices for all  edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch).
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mrt); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+"
+MRT,EM,cod-enhanced,cod-em-mrt,resource,mrt_admgz_ansade_20240327.xlsx,Mauritania administrative level 0-3 boundary gazetteer
+MRT,EM,cod-enhanced,cod-em-mrt,resource,mrt_adm_ansade_20240327_EM_SHP.zip,Mauritania administrative level 0-3 edge-matched boundary EMF files
+MRT,EM,cod-enhanced,cod-em-mrt,resource,mrt_adm_ansade_20240327_EM_GDB.gdb.zip,Mauritania administrative level 0-3 edge-matched boundary geodatabase
+MRT,EM,cod-enhanced,cod-em-mrt,resource,mrt_adm_ansade_20240327_EM_EMF.zip,Mauritania administrative level 0-3 edge-matched boundary EMF files
+NPL,EM,cod-enhanced,cod-em-npl,dataset,Nepal - Subnational Edge-matched Administrative Boundaries,"Nepal administrative level 0-3 edge-matched gazetteer and boundary files.
+
+Live edge-matched boundary geoservices for Nepal and other edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These layers are suitable for database or GIS linkage to the Mauritania - Subnational Population Statistics tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+NPL,EM,cod-enhanced,cod-em-npl,resource,NPL_AdminBoundaries_TabularData.xlsx,Nepal administrative level 0-3 boundary gazetteer
+NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_SHP.zip,Nepal administrative level 0-3 boundary shapefiles
+NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_GDB.gdb.zip,Nepal administrative level 0-3 boundary geodatabase
+NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_EMF.zip,Nepal administrative level 0-3 boundary EMF files
