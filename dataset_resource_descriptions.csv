@@ -4002,33 +4002,38 @@ ALB,PS,cod-enhanced,cod-ps-alb,resource,alb_admpop_adm0_2021.csv,Albania adminis
 ALB,PS,cod-enhanced,cod-ps-alb,resource,alb_admpop_adm1_2021.csv,Albania administrative level 0-1 2021 sex and age disaggregated population statistics
 ALB,PS,cod-enhanced,cod-ps-alb,resource,ALB admin 0 population,Albania administrative level 0 2021 population statistics
 ALB,PS,cod-enhanced,cod-ps-alb,resource,ALB admin 1 population,Albania administrative level 1 2021 population statistics
-UKR,AB,cod-enhanced,cod-ab-ukr,dataset,Ukraine - Subnational Administrative Boundaries,"Ukraine  administrative level 0-4 boundaries.  See caveats.
+UKR,AB,cod-enhanced,cod-ab-ukr,dataset,Ukraine - Subnational Administrative Boundaries,"""Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
 
-The administrative level 0 and 1 layers are suitable for database or GIS linkage to the [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr) tables.
+NOTE:  See the COD-AB caveats about incomplete information in the Autonomous Republic of Crimea and Sevastopol, and about certain limitations in the transliteration of place names.
 
-Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was:  The COD-AB does not require any update.
 
-An edge-matched version of this COD-AB is available as [Ukraine - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-ukr).
+Sourced from State Scientific Production Enterprise “Kartographia”.
 
+Live geoservices are available for this COD-AB.  Please see [Folder: COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Unfamiliar users may wish to be informed that administrative level 1 feature [UA80] is Kyiv city.  Feature [UA32] is Kyivska ('Kyiv') oblast."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,UKR_gazetteer_v01.xlsx,"Ukraine administrative level 0-4 alternate gazetteer, containing official Minrehion (Ministry of Communities and Territories Development) codes which are currently in use in Ukraine and KOATUU codes which were in use in Ukraine before 2020."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,UKR_AdminBoundaries_TabularData.xlsx,"Ukraine administrative level 0-4 gazetteer 
+This COD-AB is suitable for database or GIS linkage to the Ukraine COD-PS table(s) using the XX_PCODE, field(s).
+
+An edge-matched (COD-EM) version of this COD-AB is available at:   [https://data.humdata.org/dataset/cod-em-ukr](https://data.humdata.org/dataset/cod-em-ukr).
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 27 feature(s).
+
+Administrative level 2 contains 139 feature(s).
+
+Administrative level 3 contains 1769 feature(s).
+
+Administrative level 4 contains 29708 feature(s).""
+"
+UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admgz_sspe_20240415.xlsx,"Ukraine administrative level 0-4 gazetteer 
 See caveats"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admbnda_sspe_20230201_SHP.zip,"Ukraine administrative level 0-4 boundary shapefiles
+UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admbnd_sspe_20240416_AB_SHP.zip,"Ukraine administrative level 0-4 boundary shapefiles
 See caveats"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,UKR_AdminBoundaries_candidate.gdb.zip,"Ukraine administrative level 0-4 boundary geodatabase
+UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admbnd_sspe_20240416_AB_GDB.gdb.zip,"Ukraine administrative level 0-4 boundary geodatabase
 See caveats"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admbnda_sspe_20230201_EMF.zip,"Ukraine administrative level 0-4 boundary EMF files
+UKR,AB,cod-enhanced,cod-ab-ukr,resource,ukr_admbnd_sspe_20240416_AB_EMF.zip,"Ukraine administrative level 0-4 boundary EMF files
 See caveats"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in English. Russian and Ukranian services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_EN_All_Scales (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in English. Russian and Ukranian services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_pcode (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries.  As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/UKR_EN/MapServer (also available in RU and UA). The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_pcode (FeatureServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries.  As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/UKR_EN/MapServer (also available in RU and UA). The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_RU (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Russian. English and Ukranian services are also available. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_RU_All_Scales (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Russian. English and Ukrainian services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_UA (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Ukrainian. Russian and English services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,AB,cod-enhanced,cod-ab-ukr,resource,COD_External/UKR_UA_All_Scales (MapServer),"This map service contains OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Ukrainian. English and Russian services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 CRI,PS,cod-enhanced,cod-ps-cri,dataset,Costa Rica - Subnational Population Statistics,"Costa Rica administrative level 0-3 sex and age disaggregated 2021 projected population statistics
 
 These tables are suitable for database or GIS linkage to the [Costa Rica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cri) layers."
@@ -4282,13 +4287,11 @@ Vetting and live service provision by Information Technology Outreach Services (
 
 This edge-matched product is based on the [Ukraine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr) (COD-AB).
 "
-UKR,EM,cod-enhanced,cod-em-ukr,resource,UKR_gazetteer_v01.xlsx,"Ukraine administrative level 0-4 alternate gazetteer, containing official Minrehion (Ministry of Communities and Territories Development) codes which are currently in use in Ukraine and KOATUU codes which were in use in Ukraine before 2020."
-UKR,EM,cod-enhanced,cod-em-ukr,resource,UKR_AdminBoundaries_TabularData.xlsx,Ukraine administrative level 0-4 gazetteer.  See caveat #1.
-UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admbnda_sspe_20230201_EM.zip,Ukraine administrative level 0-4 edge-matched shapefiles
-UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admbnda_sspe_20230201_EM_GDB.zip,Ukraine administrative level 0-4 edge-matched geodatabase
-UKR,EM,cod-enhanced,cod-em-ukr,resource,COD_External_Edgematch/UKR_EN_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in English. Russian and Ukranian services are also available.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,EM,cod-enhanced,cod-em-ukr,resource,COD_External_Edgematch/UKR_RU_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Russian. Ukrainian and English services are also available. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-UKR,EM,cod-enhanced,cod-em-ukr,resource,COD_External_Edgematch/UKR_UA_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Ukraine: Administrative Boundaries, in Ukrainian. Russian and English services are also available. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admgz_sspe_20240415.xlsx,"Ukraine administrative level 0-4 gazetteer
+See caveats"
+UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admbnd_sspe_20240416_EM_SHP.zip,Ukraine administrative level 0-4 edge-matched shapefiles
+UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admbnd_sspe_20240416_EM_EMF.zip,Ukraine administrative level 0-4 edge-matched EMF files
+UKR,EM,cod-enhanced,cod-em-ukr,resource,ukr_admbnd_sspe_20240416_EM_GDB.gdb.zip,Ukraine administrative level 0-4 edge-matched geodatabase
 ROU,EM,cod-enhanced,cod-em-rou,dataset,Romania - Subnational Edge-matched Administrative Boundaries,"Romania administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-rou); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
