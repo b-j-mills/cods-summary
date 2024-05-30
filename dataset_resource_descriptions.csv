@@ -1874,23 +1874,24 @@ MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_admgz_2024.xls,Mauritania administra
 MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_ansade_20240327_AB_SHP.zip,Mauritania administrative level 0-3 boundary shapefiles
 MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_ansade_20240327_AB_GDB.gdb.zip,NOT UPDATED Mauritania administrative level 0-3 boundary geodatabase
 MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_ansade_20240327_AB_EMF.zip,Mauritania administrative level 0-3 boundary EMF files
-SEN,AB,cod-enhanced,cod-ab-sen,dataset,Senegal - Subnational Administrative Boundaries,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) boundary polygons and lines.
+SEN,AB,cod-enhanced,cod-ab-sen,dataset,Senegal - Subnational Administrative Boundaries,"""Senegal administrative level 0-3 boundaries (COD-AB) dataset.
 
-The administrative level 0 and 1 layers are suitable for database or GIS linkage to the [Senegal - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sen) tables using the ADM0 and ADM1_PCODE tables.
+This COD-AB was most recently reviewed for accuracy and necessary changes 1 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Sourced from Government of Senegal, 2009  (updated by OCHA/ROWCA) 04 august 2018.
 
-Updated November 2018
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Updated August 2017 (harmonization of codes following the IMWG meeting eg SN010101) according to the COD databases approved by the RO in January 2016; See metadata for description of ITOS cleaning and processing.
-The dataset represents Admin level 0 (International), Admin Level 1 (Region), Admin Level 2 (Departement), Admin Level 3 (Arrondissement)."
-SEN,AB,cod-enhanced,cod-ab-sen,resource,SEN_AdminBoundaries_TabularData.xlsx,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) gazetteer"
-SEN,AB,cod-enhanced,cod-ab-sen,resource,Shapefiles.zip,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) boundary polygon, line, and point shapefiles"
-SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_adm_gov_ocha_20190426_EMF.zip,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) boundary EMF files"
-SEN,AB,cod-enhanced,cod-ab-sen,resource,SEN_AdminBoundaries_candidate.gdb.zip,"Senegal administrative level 0 (country), 1 (region, région), 2 (department, département), and 3 (arrondissement) boundary polygon, line, and point geodatabase"
-SEN,AB,cod-enhanced,cod-ab-sen,resource,COD_External/SEN_FR (MapServer),"This map service contains OCHA Common Operational Datasets for Senegal: Administrative Boundaries. The service is available as ESRI Map, WMS, and KML Services."
-SEN,AB,cod-enhanced,cod-ab-sen,resource,COD_External/SEN_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Senegal. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.  "
-SEN,AB,cod-enhanced,cod-ab-sen,resource,COD_External/SEN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Senegal. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SEN_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.  "
+This COD-AB is suitable for database or GIS linkage to the Senegal [COD-PS](https://data.humdata.org/dataset/cod-ps-sen).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-sen)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 14 feature(s).
+Administrative level 2 contains 45 feature(s).
+Administrative level 3 contains 121 feature(s)."""
+SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admgz_anat_20240520.xlsx,Senegal administrative level 0-3 gazetteer
+SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnd_anat_20240520_AB_SHP.zip,Senegal administrative level 0-3 shapefiles
+SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnda_anat_20240520_AB_EMF.zip,Senegal administrative level 0-3 EMF files
+SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnd_anat_20240520_AB_GDB.gdb.zip,Senegal administrative level 0 -3 geodatabase
 COL,PS,cod-enhanced,cod-ps-col,dataset,Colombia - Subnational Population Statistics,"Colombia administrative level 0-2 projected 2023 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2023
