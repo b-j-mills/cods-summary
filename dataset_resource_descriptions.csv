@@ -4684,3 +4684,14 @@ NPL,EM,cod-enhanced,cod-em-npl,resource,NPL_AdminBoundaries_TabularData.xlsx,Nep
 NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_SHP.zip,Nepal administrative level 0-3 boundary shapefiles
 NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_GDB.gdb.zip,Nepal administrative level 0-3 boundary geodatabase
 NPL,EM,cod-enhanced,cod-em-npl,resource,npl_adm_nd_20240314_EM_EMF.zip,Nepal administrative level 0-3 boundary EMF files
+SEN,EM,cod-enhanced,cod-em-sen,dataset,Senegal - Subnational Edge-matched Administrative Boundaries,"Senegal administrative level 0 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sen); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Senegal- Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sen) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admgz_anat_20240520.xlsx,Senegal administrative level 0-3 gazetteer
+SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_SHP.zip,Senegal administrative level 0-3 shapefiles
+SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_GDB.gdb.zip,Senegal administrative level 0-3 geodatabase
+SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_EMF.zip,Senegal administrative level 0-3 EMF files
