@@ -385,9 +385,21 @@ ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_gazetteer_2019.xlsx,"Antigua and
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019_SHP.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) boundary shapefiles"
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019_EMF.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) EMF files"
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019.gdb.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) geodatabase"
-BRB,AB,cod-standard,cod-ab-brb,dataset,Barbados - Subnational Administrative Boundaries,"Barbados administrative level 0 (national) and 1 (parish) boundary polygons and lines from www.gadm.org
+BRB,AB,cod-standard,cod-ab-brb,dataset,Barbados - Subnational Administrative Boundaries,"""Barbados administrative level 0-1 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [Barbados administrative level 0-1 2010 sex and age disaggregated population statistics](https://data.humdata.org/dataset/cod-ps-brb) tables."
+NOTE:  COD-AB P-codes created by OCHA and are not official.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from GADM database of Global Administrative Areas (www.gadm.org).
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Barbados [COD-PS](https://data.humdata.org/dataset/cod-ps-brb).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 11 feature(s)."""
 BRB,AB,cod-standard,cod-ab-brb,resource,brb_adm_gz.xlsx,Barbados administrative level 0 (national) and 1 (parish) gazetteer
 BRB,AB,cod-standard,cod-ab-brb,resource,brb_adm_2019_shp.zip,"Barbados administrative level 0 (national) and 1 (parish) boundary shapefiles
 Projected to WGS84"
@@ -452,13 +464,21 @@ AIA,AB,cod-standard,cod-ab-aia,dataset,Anguilla - Subnational Administrative Bou
 "
 AIA,AB,cod-standard,cod-ab-aia,resource,AIA_adm0.zip,Anguilla administrative level 0 boundary shapefile
 AIA,AB,cod-standard,cod-ab-aia,resource,gadm36_AIA_0.emf,Anguilla administrative level 0 boundary EMF file
-TTO,AB,cod-standard,cod-ab-tto,dataset,Trinidad and Tobago - Subnational Administrative Boundaries,"Trinidad and Tobago administrative level 0 (national) and 1 (region and municipality) boundary polygons and lines
+TTO,AB,cod-standard,cod-ab-tto,dataset,Trinidad and Tobago - Subnational Administrative Boundaries,"""Trinidad and Tobago administrative level 0-1 boundaries (COD-AB) dataset.
 
-Downloaded from www.gadm.org
+NOTE:  See COD-PS caveats about Tobago parish treatment.
 
-REFERENCE YEAR:  2017
+This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
-These shapefiles are suitable for database or GIS linkage to the [Trinidad and Tobago administrative levels 0-1 population statistics](https://data.humdata.org/dataset/cod-ps-tto) tables."
+Sourced from www.gadm.org.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Trinidad and Tobago [COD-PS](https://data.humdata.org/dataset/cod-ps-tto).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 15 feature(s)."""
 TTO,AB,cod-standard,cod-ab-tto,resource,tto_adm_gazetteer_v2.xls,Trinidad and Tobago administrative level 0 (national) and 1 (region and municipality) gazetteer
 TTO,AB,cod-standard,cod-ab-tto,resource,TTO_adm0.zip,Trinidad and Tobago administrative level 0 (national) boundaries polygon SHAPEFILE - see caveats
 TTO,AB,cod-standard,cod-ab-tto,resource,tto_adm1_v2.zip,Trinidad and Tobago administrative level 1 (region and municipality) boundary polygon SHAPEFILE
@@ -493,11 +513,19 @@ CYM,AB,cod-standard,cod-ab-cym,resource,cym_admgz_2020.xlsx,Cayman Islands admin
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020_SHP.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary shapefiles
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020_EMF.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary EMF files
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020.gdb.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary geodatabase
-GRD,AB,cod-standard,cod-ab-grd,dataset,Grenada - Subnational Administrative Boundaries,"Grenada administrative level 0 (nation) and 1 (parish) boundaries
+GRD,AB,cod-standard,cod-ab-grd,dataset,Grenada - Subnational Administrative Boundaries,"""Grenada administrative level 0-1 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [Grenada - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-grd) tables.
+This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Sourced from www.gadm.org.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Grenada [COD-PS](https://data.humdata.org/dataset/cod-ps-grd).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 7 feature(s)."""
 GRD,AB,cod-standard,cod-ab-grd,resource,GRD_adm0.zip,Grenada administrative level 0 (nation) boundaries
 GRD,AB,cod-standard,cod-ab-grd,resource,GRD_adm1.zip,Grenada administrative level 1 (parish) boundaries
 GRD,AB,cod-standard,cod-ab-grd,resource,grd_admbndl_ALL.zip,Grenada lines shapefile - admlevel coded '99' for shoreline and '1' for administrative level 1 (district) boundaries
@@ -510,16 +538,39 @@ KNA,AB,cod-standard,cod-ab-kna,resource,kna_admgz_2020.xlsx,Saint Kitts and Nevi
 KNA,AB,cod-standard,cod-ab-kna,resource,kna_adm_2020_SHP.zip,Saint Kitts and Nevis administrative level 0 (country) and 1 (parish) boundary zipped shapefiles
 KNA,AB,cod-standard,cod-ab-kna,resource,kna_adm_2020_EMF.zip,Saint Kitts and Nevis administrative level 0 (country) and 1 (parish) boundary EMF files
 KNA,AB,cod-standard,cod-ab-kna,resource,kna_adm_2020.gdb.zip,Saint Kitts and Nevis administrative level 0 (country) and 1 (parish) boundary zipped geodatabase
-LCA,AB,cod-standard,cod-ab-lca,dataset,Saint Lucia - Subnational Administrative Boundaries,"Saint Lucia administrative level 0 (nation), 1 (quarter) and 2 boundaries
+LCA,AB,cod-standard,cod-ab-lca,dataset,Saint Lucia - Subnational Administrative Boundaries,"""Saint Lucia administrative level 0-2 boundaries (COD-AB) dataset.
 
-The administrative level 0 and 1 boundaries are suitable for database or GIS linkage to the [Saint Lucia administrative levels 0-1 sex and age disaggregated population statistics](https://data.humdata.org/dataset/cod-ps-lca) tables."
+This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from Department of Physical Planning.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Saint Lucia [COD-PS](https://data.humdata.org/dataset/cod-ps-lca).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 10 feature(s).
+Administrative level 2 contains 547 feature(s)."""
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gazetteer.xlsx,St. Lucia administrative level 0 (country) and 1 (quarter) gazetteer
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_admbnda_gov_2019_SHP.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon and line shapefiles"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019_EMF.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon EMF files"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019.gdb.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon geodatabase"
-JAM,AB,cod-standard,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"Jamaica administrative level 0 (nation) and 1 (parish) boundary polygons and lines.
+JAM,AB,cod-standard,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"""Jamaica administrative level 0-1 boundaries (COD-AB) dataset.
 
-These shapefiles are suitable for database or GIS joins to the [Jamaica administrative level 0 and 1 population statistics](https://data.humdata.org/dataset/cod-ps-jam) tables."
+NOTE:  See COD-PS caveat about minor data 
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 2 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from Boundaries:  GADM database of Global Administrative Areas (www.gadm.org).  P-codes:  Ministry of Foreign Affairs and Foreign Trade.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 14 feature(s)."""
 JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm.xlsx,Jamaica administrative level  0 (country) and 1 (parish) gazetteer
 JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm_SHP.zip,Jamaica administrative level  0 (country) and 1 (parish) shapefiles
 JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm.gdb.zip,Jamaica administrative level  0 (country) and 1 (parish) geodatabase
@@ -585,9 +636,22 @@ See description of administrative level 2."
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_gazetteer.xlsx,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* gazetteer"
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_adm_2019_SHP.zip,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary polygon and line shapefiles"
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_adm_2019_EMF.zip,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary EMF files"
-VCT,AB,cod-standard,cod-ab-vct,dataset,Saint Vincent and The Grenadines - Subnational Administrative Boundaries,"Saint Vincent and the Grenadines administrative level 0 (country) and 1 (parish) boundaries.
+VCT,AB,cod-standard,cod-ab-vct,dataset,Saint Vincent and The Grenadines - Subnational Administrative Boundaries,"""Saint Vincent and The Grenadines administrative level 0-2 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [Saint Vincent and The Grenadines - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-vct) administrative level 0-1 tables."
+NOTE:  COD-PS extends to ADM2.  COD-AB exends only to ADM1.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from www.gadm.org.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Saint Vincent and The Grenadines [COD-PS](https://data.humdata.org/dataset/cod-ps-vct).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 6 feature(s).
+Administrative level 2 contains 13 feature(s)."""
 VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnda_2021_shp.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary shapefiles
 VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnda_2021_EMF.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary EMF files
 VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnda_2021.gdb.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary geodatabase
@@ -2816,11 +2880,18 @@ GTM,AB,cod-enhanced,cod-ab-gtm,resource,GTM_AdminBoundaries_TabularData.xlsx,"Gu
 GTM,AB,cod-enhanced,cod-ab-gtm,resource,COD_External/GTM_ES (MapServer),
 GTM,AB,cod-enhanced,cod-ab-gtm,resource,COD_External/GTM_pcode (FeatureServer),"GTM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guatemala. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 GTM,AB,cod-enhanced,cod-ab-gtm,resource,COD_External/GTM_pcode (MapServer),"GTM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guatemala. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/GTM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-BLZ,AB,cod-enhanced,cod-ab-blz,dataset,Belize - Subnational Administrative Boundaries,"Belize administrative level 0-1 boundaries
+BLZ,AB,cod-enhanced,cod-ab-blz,dataset,Belize - Subnational Administrative Boundaries,"""Belize administrative level 0-1 boundaries (COD-AB) dataset.
+This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
 
-These boundaries are suitable for database or GIS linkage to the level 0 and 1 [Belize - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-blz).
+Sourced from www.gadm.org.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Belize [COD-PS](https://data.humdata.org/dataset/cod-ps-blz).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.)
+Please see the [COD Portal](https://cod.unocha.org/).
+Administrative level 1 contains 6 feature(s)."""
 BLZ,AB,cod-enhanced,cod-ab-blz,resource,BLZ_AdminBoundaries_TabularData.xlsx,Belize administrative level 0-1 gazetteer
 BLZ,AB,cod-enhanced,cod-ab-blz,resource,blz_adm_gadm_20210910_SHP.zip,Belize administrative level 0-1 boundaries
 BLZ,AB,cod-enhanced,cod-ab-blz,resource,blz_adm_gadm_20210910_EMF.zip,Belize administrative level 1 (district) EMF files
