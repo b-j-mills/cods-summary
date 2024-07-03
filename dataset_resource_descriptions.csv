@@ -41,18 +41,28 @@ STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020_SHP.zip,Sao Tome and P
 STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020_EMF.zip,Sao Tome and Principe administrative level 0-2 boundary EMF files
 STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020.gdb.zip,Sao Tome and Principe administrative level 0-2 boundary geodatabase
 STP,AB,cod-standard,cod-ab-stp,resource,stp_ppt_map.pptx,Powerpoint maps that include the COD admin for simplified use
-CPV,AB,cod-standard,cod-ab-cpv,dataset,Cabo Verde - Subnational Administrative Boundaries,"Cabo Verde - administrative level 0-2 and island boundaries with level 0-4 and islands gazetteer.
+CPV,AB,cod-standard,cod-ab-cpv,dataset,Cabo Verde - Subnational Administrative Boundaries,"Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
 
-APRIL 2024 UPDATE:  The ADM2 P-code in the shapefiles and geodatabase for feature ""Sao Joao Baptista"" in ADM1 feature ""Ribeira Grande de Santiago"" [CV10] (""Santiago"" island) has been corrected from [CV1003] to [CV1002].  It was already correct in the gazetteer spreadsheet.  This update will be made shortly in the live geoservice.
+NOTE:  Island P-code system is unofficial.
 
+This COD-AB was most recently reviewed for accuracy and necessary changes 6 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
+Sourced from Second Administrative Level Boundaries (SALB) Project.
 
-The administrative level 0, 1, and island shapefiles are suitable for database or GIS linkage to the [Cabo Verde - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-cpv) using the ADM0, ADM1, and ISL_PCODE items.
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Note that island feature ""SANTA LUZIA"" [CV0] is uninhabited and does not have a corresponding COD-PS record.   Santa Luiza does not belong to any administrative level 1-4 features and is excluded from the attached gazetteer."
-CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adminboundaries_tabulardata_v4.xlsx,Cabo Verde - administrative level 0-4 and island gazetteer
-CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_2024.zip,Cabo Verde - administrative level 0-2 and islands boundary shapefiles
-CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_gdb.gdb.zip,Cabo Verde - administrative level 0-2 and islands boundary geodatabase
+This COD-AB is suitable for database or GIS linkage to the Cabo Verde [COD-PS](https://data.humdata.org/dataset/cod-ps-cpv).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 22 feature(s).
+
+Administrative level 2 contains 32 feature(s)."
+CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_admgz_20240611.xlsx,Cabo Verde - administrative level 0-2 and island gazetteer
+CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_20240607_AB_SHP.zip,Cabo Verde - administrative level 0-2 and islands boundary shapefiles
+CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_20240607_AB_GDB.zip,Cabo Verde - administrative level 0-2 and islands boundary geodatabase
+CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_20240607_AB_EMF.zip,Cabo Verde - administrative level 0-2 and island EMF files
 FJI,AB,cod-standard,cod-ab-fji,dataset,Fiji - Subnational Administrative Boundaries,"This geodatabase contains Province Boundaries (Admin 3) and Tikina (Admin 4) with population from 2007 Census and projected population for 2010 
 
 30 December 2019 update:
