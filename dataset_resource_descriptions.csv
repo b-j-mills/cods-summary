@@ -41,7 +41,7 @@ STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020_SHP.zip,Sao Tome and P
 STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020_EMF.zip,Sao Tome and Principe administrative level 0-2 boundary EMF files
 STP,AB,cod-standard,cod-ab-stp,resource,stp_adm_gadm_2020.gdb.zip,Sao Tome and Principe administrative level 0-2 boundary geodatabase
 STP,AB,cod-standard,cod-ab-stp,resource,stp_ppt_map.pptx,Powerpoint maps that include the COD admin for simplified use
-CPV,AB,cod-standard,cod-ab-cpv,dataset,Cabo Verde - Subnational Administrative Boundaries,"Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
+CPV,AB,cod-standard,cod-ab-cpv,dataset,Cabo Verde - Subnational Administrative Boundaries,"""Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  Island P-code system is unofficial.
 
@@ -58,7 +58,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 22 feature(s).
 
-Administrative level 2 contains 32 feature(s)."
+Administrative level 2 contains 32 feature(s)."""
 CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_admgz_20240611.xlsx,Cabo Verde - administrative level 0-2 and island gazetteer
 CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_20240607_AB_SHP.zip,Cabo Verde - administrative level 0-2 and islands boundary shapefiles
 CPV,AB,cod-standard,cod-ab-cpv,resource,cpv_adm_20240607_AB_GDB.zip,Cabo Verde - administrative level 0-2 and islands boundary geodatabase
@@ -3208,7 +3208,7 @@ REFERENCE YEAR:  2022
 Gazetteer available to administrative level 4
 
 The administrative level 0, 1, and island tables are suitable for database or GIS linkage to the [Cabo Verde - Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cpv) administrative level 0, 1, and 2 shapefiles using the ADM0, ADM1, and ISL_PCODE items."
-CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_adminboundaries_tabulardata_v4.xlsx,Cabo Verde administrative level 0-4 and island  gazetteer
+CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_admgz_20240611.xlsx,Cabo Verde administrative level 0-4 and island  gazetteer
 CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_admpop_2022B.xlsx,Cabo Verde  administrative level 0-1 and island sex and age disaggregated 2022 projected population statistics
 CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_admpop_adm0_2022.csv,Cabo Verde  administrative level 0 sex and age disaggregated 2022 projected population statistics
 CPV,PS,cod-enhanced,cod-ps-cpv,resource,cpv_admpop_adm1_2022B.csv,Cabo Verde  administrative level 1 sex and age disaggregated 2022 projected population statistics
