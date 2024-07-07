@@ -525,22 +525,20 @@ CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020_EMF.zip,Cayman Islands admi
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020.gdb.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary geodatabase
 GRD,AB,cod-standard,cod-ab-grd,dataset,Grenada - Subnational Administrative Boundaries,"""Grenada administrative level 0-1 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
-Sourced from www.gadm.org.
+Sourced by MapAction from CEDEMA GeoCris boundaries.  Topology corrections by ITOS
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices are CURRENTLY not up to date for this COD-AB.  They will be updated and re-launched shortly.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Grenada [COD-PS](https://data.humdata.org/dataset/cod-ps-grd).
 
 As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
 Please see the [COD Portal](https://cod.unocha.org/).
+
 Administrative level 1 contains 7 feature(s)."""
-GRD,AB,cod-standard,cod-ab-grd,resource,GRD_adm0.zip,Grenada administrative level 0 (nation) boundaries
-GRD,AB,cod-standard,cod-ab-grd,resource,GRD_adm1.zip,Grenada administrative level 1 (parish) boundaries
-GRD,AB,cod-standard,cod-ab-grd,resource,grd_admbndl_ALL.zip,Grenada lines shapefile - admlevel coded '99' for shoreline and '1' for administrative level 1 (district) boundaries
-GRD,AB,cod-standard,cod-ab-grd,resource,GRD_adm_EMF.zip,Grenada administrative level 0-1 EMF boundary files
-GRD,AB,cod-standard,cod-ab-grd,resource,grd_admgz_2020.xlsx,Grenada administrative level 0-1 gazetteer
+GRD,AB,cod-standard,cod-ab-grd,resource,grd_adm_geocris_2024.zip,Grenada administrative level 0-1 (parish) administrative shapefiles
+GRD,AB,cod-standard,cod-ab-grd,resource,grd_admgz_geocris_2024.xls,Grenada administrative level 0-1 administrative gazetteer
 KNA,AB,cod-standard,cod-ab-kna,dataset,Saint Kitts and Nevis - Subnational Administrative Boundaries,"Saint Kitts and Nevis administrative level 0 (nation) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Saint Kitts and Nevis administrative level 0-1 population statistics](https://data.humdata.org/dataset/cod-ps-kna) tables."
