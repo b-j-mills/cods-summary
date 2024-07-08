@@ -564,25 +564,27 @@ LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gazetteer.xlsx,St. Lucia adminis
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_admbnda_gov_2019_SHP.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon and line shapefiles"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019_EMF.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon EMF files"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019.gdb.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon geodatabase"
-JAM,AB,cod-standard,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"""Jamaica administrative level 0-1 boundaries (COD-AB) dataset.
+JAM,AB,cod-standard,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"Jamaica administrative level 0-2 boundaries (COD-AB) dataset.
 
-NOTE:  See COD-PS caveat about minor data 
+Gratefully derived from the geoBoundaries [Jamaica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-jamaica) dataset.  Please consult that dataset for source metadata.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 2 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+(That dataset contains almost identical ""ADM2"" and ""ADM3"" layers.  The geoBoundaries ""ADM3"" layer forms the ADM2 layer in this COD dataset.)
 
-Sourced from Boundaries:  GADM database of Global Administrative Areas (www.gadm.org).  P-codes:  Ministry of Foreign Affairs and Foreign Trade.
+This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was that:   The COD-AB does not require any update.
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam).
+This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam) administrative level 0-1 tables using the ADM0 and ADM1_PCODE fields.
 
 As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
 Please see the [COD Portal](https://cod.unocha.org/).
-Administrative level 1 contains 14 feature(s)."""
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm.xlsx,Jamaica administrative level  0 (country) and 1 (parish) gazetteer
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm_SHP.zip,Jamaica administrative level  0 (country) and 1 (parish) shapefiles
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm.gdb.zip,Jamaica administrative level  0 (country) and 1 (parish) geodatabase
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_adm_EMF.zip,Jamaica administrative level  0 (country) and 1 (parish) EMF files
+
+Administrative level 1 contains 14 features.
+
+Administrative level 2 contains 829 features."
+JAM,AB,cod-standard,cod-ab-jam,resource,jam_admgz_geoboundaries_2004.xls,Jamaica administrative level  0-2 administrative gazetteer
+JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm0_geoboundaries_2024_v01.zip,Jamaica administrative level 0 boundary shapefile
+JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm1_geoboundaries_2024_v01.zip,Jamaica administrative level 1 boundary shapefile
+JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm2_geoboundaries_2024_v04.zip,Jamaica administrative level 2 boundary shapefile
+JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbndl_ALL_geoboundaries_2024_v01.zip,Jamaica administrative level 0-2 lines shapefile
 MSR,AB,cod-standard,cod-ab-msr,dataset,Montserrat - Subnational Administrative Boundaries,"Montserrat administrative level 0 (territory) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Montserrat administrative level 0-1 SADD 2011 population statistics](Montserrat administrative level 0-1 SADD 2011 population statistics) tables."
