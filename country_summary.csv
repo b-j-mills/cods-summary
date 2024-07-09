@@ -4,7 +4,7 @@ ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Informat
 DZA,https://data.humdata.org/dataset/cod-ab-dza,cod-enhanced,OCHA Middle East and North Africa (ROMENA),48,1541,,,True,,,,,,,
 AGO,https://data.humdata.org/dataset/cod-ab-ago,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),18,161,539,,True,https://data.humdata.org/dataset/cod-ps-ago,cod-standard,UNFPA,True,,,
 AIA,https://data.humdata.org/dataset/cod-ab-aia,cod-standard,OCHA Field Information Services Section (FISS),,,,,False,https://data.humdata.org/dataset/cod-ps-aia,cod-enhanced,UNFPA,True,,,
-ATG,https://data.humdata.org/dataset/cod-ab-atg,cod-standard,OCHA Field Information Services Section (FISS),8,,,,False,https://data.humdata.org/dataset/cod-ps-atg,cod-standard,UNFPA,False,,,
+ATG,https://data.humdata.org/dataset/cod-ab-atg,cod-standard,OCHA Field Information Services Section (FISS),,,,,False,https://data.humdata.org/dataset/cod-ps-atg,cod-standard,UNFPA,True,,,
 ARG,https://data.humdata.org/dataset/cod-ab-arg,cod-standard,OCHA Latin America and the Caribbean (ROLAC),24,525,,,False,https://data.humdata.org/dataset/cod-ps-arg,cod-enhanced,UNFPA,True,,,
 ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-standard,OCHA Field Information Services Section (FISS),11,38,805,,True,https://data.humdata.org/dataset/cod-ps-arm,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-arm,cod-enhanced,True
 ABW,https://data.humdata.org/dataset/cod-ab-abw,cod-standard,OCHA Field Information Services Section (FISS),,,,,False,https://data.humdata.org/dataset/cod-ps-abw,cod-enhanced,UNFPA,True,,,

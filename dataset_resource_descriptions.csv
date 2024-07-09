@@ -391,7 +391,7 @@ PRI,AB,cod-standard,cod-ab-pri,resource,pri_adm_2019_EMF.zip,Puerto Rico adminis
 PRI,AB,cod-standard,cod-ab-pri,resource,pri_adm_gdb.zip,Puerto Rico administrative level 0 (territory) and 1 (municipal) geodatabase
 ATG,AB,cod-standard,cod-ab-atg,dataset,Antigua and Barbuda - Subnational Administrative Boundaries,"www.gadm.org
 "
-ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_gazetteer_2019.xlsx,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) gazetteer"
+ATG,AB,cod-standard,cod-ab-atg,resource,atg_admpop_2023.xlsx,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) gazetteer"
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019_SHP.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) boundary shapefiles"
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019_EMF.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) EMF files"
 ATG,AB,cod-standard,cod-ab-atg,resource,atg_adm_2019.gdb.zip,"Antigua and Barbuda administrative level 0 (country) and 1 (parish, dependency) geodatabase"
@@ -1146,9 +1146,12 @@ LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm0_v2.csv,St. Lucia administra
 LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm1_v2.csv,St. Lucia administrative level 1 (quarter) sex and age disaggregated population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 0 population,Saint Lucia administrative level 0 2010 population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 1 population,Saint Lucia administrative level 1 2010 population statistics
-ATG,PS,cod-standard,cod-ps-atg,dataset,Antigua and Barbuda - Subnational Population Statistics,"Antigua and Barbuda administrative level 0 projected 2022 population statistics
+ATG,PS,cod-standard,cod-ps-atg,dataset,Antigua and Barbuda - Subnational Population Statistics,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
 
-REFERENCE YEAR:  2022"
+REFERENCE YEAR:  2023"
+ATG,PS,cod-standard,cod-ps-atg,resource,atg_codps_qa_2023.pdf,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics explanatory technical note
+ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2023.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
+ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_adm0_2023.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_adm_gazetteer_2019.xlsx,Antigua and Barbuda administrative level 0-1 gazetteer
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2022.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_adm0_2022.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
@@ -3622,6 +3625,9 @@ BMU,PS,cod-enhanced,cod-ps-bmu,dataset,Bermuda - Subnational Population Statisti
 REFERENCE YEAR:  2022
 
 This dataset replaces the 2016 reference  year dataset which extended to administrative level 2."
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2024.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu-cod-ps-2024-explanatory-note.pdf,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics  explanatory technical note
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_adm0_2024.csv,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
 BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2022.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
 BMU,PS,cod-enhanced,cod-ps-bmu,resource,BMU admin 0 population,Bermuda administrative level 0 2022 population statistics
 CUB,PS,cod-enhanced,cod-ps-cub,dataset,Cuba - Subnational Population Statistics,"Cuba administrative level 0-2 sex and age disaggregated 2020 projected population statistics
