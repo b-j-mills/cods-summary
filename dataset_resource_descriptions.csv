@@ -1506,8 +1506,9 @@ REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA
 Dataset updated by OCHA in 2021.
 
 The gazetteer is compatible with the [Afghanistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-afg) gazetteer.  (COD-AB boundaries are unavailable.)"
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpopgz_2024.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
 AFG,PS,cod-standard,cod-ps-afg,resource,afg_popadm_adm0_2021_v2.csv,2021 population estimates for Afghanistan administrative level 0 (country).
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
 AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm0_1_2021_v2.xlsx,2021 population estimates for Afghanistan administrative level 0 (country) and 1 (province).
 AFG,PS,cod-standard,cod-ps-afg,resource,AFG_AdminBoundaries_TabularData.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
 AFG,PS,cod-standard,cod-ps-afg,resource,AFG admin 0 population,Afghanistan administrative level 0 2021 population statistics
