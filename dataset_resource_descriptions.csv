@@ -523,22 +523,6 @@ CYM,AB,cod-standard,cod-ab-cym,resource,cym_admgz_2020.xlsx,Cayman Islands admin
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020_SHP.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary shapefiles
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020_EMF.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary EMF files
 CYM,AB,cod-standard,cod-ab-cym,resource,cym_adm_2020.gdb.zip,Cayman Islands administrative level 0 (nation) and 1 (district) boundary geodatabase
-GRD,AB,cod-standard,cod-ab-grd,dataset,Grenada - Subnational Administrative Boundaries,"""Grenada administrative level 0-1 boundaries (COD-AB) dataset.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was that:   The COD-AB does not require any update.
-
-Sourced by MapAction from CEDEMA GeoCris boundaries.  Topology corrections by ITOS
-
-Live geoservices are CURRENTLY not up to date for this COD-AB.  They will be updated and re-launched shortly.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Grenada [COD-PS](https://data.humdata.org/dataset/cod-ps-grd).
-
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 7 feature(s)."""
-GRD,AB,cod-standard,cod-ab-grd,resource,grd_adm_geocris_2024.zip,Grenada administrative level 0-1 (parish) administrative shapefiles
-GRD,AB,cod-standard,cod-ab-grd,resource,grd_admgz_geocris_2024.xls,Grenada administrative level 0-1 administrative gazetteer
 KNA,AB,cod-standard,cod-ab-kna,dataset,Saint Kitts and Nevis - Subnational Administrative Boundaries,"Saint Kitts and Nevis administrative level 0 (nation) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Saint Kitts and Nevis administrative level 0-1 population statistics](https://data.humdata.org/dataset/cod-ps-kna) tables."
@@ -1506,11 +1490,10 @@ REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA
 Dataset updated by OCHA in 2021.
 
 The gazetteer is compatible with the [Afghanistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-afg) gazetteer.  (COD-AB boundaries are unavailable.)"
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpopgz_2024.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm0_1_2021_v2.xlsx,2021 population estimates for Afghanistan administrative level 0 (country) and 1 (province).
+AFG,PS,cod-standard,cod-ps-afg,resource,grd_admgz_PS.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
 AFG,PS,cod-standard,cod-ps-afg,resource,afg_popadm_adm0_2021_v2.csv,2021 population estimates for Afghanistan administrative level 0 (country).
 AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm0_1_2021_v2.xlsx,2021 population estimates for Afghanistan administrative level 0 (country) and 1 (province).
-AFG,PS,cod-standard,cod-ps-afg,resource,AFG_AdminBoundaries_TabularData.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
 AFG,PS,cod-standard,cod-ps-afg,resource,AFG admin 0 population,Afghanistan administrative level 0 2021 population statistics
 AFG,PS,cod-standard,cod-ps-afg,resource,AFG admin 1 population,Afghanistan administrative level 1 2021 population statistics
 BWA,AB,cod-standard,cod-ab-bwa,dataset,Botswana - Subnational Administrative Boundaries,"Botswana administrative level 0-3 boundaries
@@ -2264,7 +2247,17 @@ Populated places (also known as ""Admin Level 4"") = City or Village
 Dataset organization:   Administrative boundary resources (shapefiles, geodatabases. and gazetteer) are separate from the populated places shapefiles resources except the live geoservices, which provide both administrative boundaries and populated places.
 
 **Most Recent Changes:** 
+**11 July 2024** added ** 257 New community. added **3 Columns**: **Admin 1 Capital**: Indicates whether the community is an Admin 1 capital (Yes/No). 
+**Admin 3 Capital**: Indicates whether the community is an Admin 3 capital (Yes/No).
+**Hosting Individuals**: Contains a list of communities that host populations displaced from Quneitra in 1967. Although these populations reside in Dara, Damascus, and Rural Damascus governorates, many of them receive services from Quneitra Governorate. Therefore, it’s important for humanitarian partners to know which Governorate they need to coordinate with to reach these individuals.
 
+**24 January 2023** added **100** Communities.
+
+Glide: EQ-2023-000015-TUR
+
+**12 January 2021** ITOS GeoServices, shapefiles, and geodatabase added. EMF files added. ITOS gazetteer added.
+
+**18-August-2020** added **327** Communities.
 
 15 January 2021
 ITOS geoservices, shapefile, and geodatabase for populated places (""administrative level 4"") added.  
@@ -2320,6 +2313,9 @@ added **1528** Communities and some localities moved to their accurate locations
 
 **Languages:** EN AR
 "
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_humanitarian_locations_20240711.xlsx,Excel file shows the different admin boundaries and humanitarian location in different sheets
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_20240711.gdb.zip,Geodatabase file contains the whole new humanitarian location with the newly added communities
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_shp_utf8_20240711.zip,A zip file containing one shapefile for each level in the administrative division hierarchy. Suitable for use in most GIS desktop software.
 SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_adm_unocha.zip,"GeoJSON files containing the administrative divisions 0, 1, 2 and 3. Suitable for use in many GIS desktop softwares and web-based GIS applications."
 SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_shp_utf8_20230124.zip,Shapefile ontains the  whole new humanitarian location with the newly added communities
 SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_20230124.gdb.zip,Geodatabase file contains the  whole new humanitarian location with the newly added communities
@@ -2336,6 +2332,9 @@ SYR,AB,cod-enhanced,cod-ab-syr,resource,COD_External/SYR_AR (MapServer),"This ma
 SYR,AB,cod-enhanced,cod-ab-syr,resource,COD_External/SYR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Syria: Administrative Boundaries, Populated Places and Urban Areas.  The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 SYR,AB,cod-enhanced,cod-ab-syr,resource,COD_External/SYR_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Syria. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 SYR,AB,cod-enhanced,cod-ab-syr,resource,COD_External/SYR_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Syria. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SYR_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_humanitarian_locations_20240711.xlsx,Excel file shows the different admin boundaries and humanitarian location in different sheets
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_20240711.gdb.zip,Geodatabase file contains the whole new humanitarian location with the newly added communities
+SYR,AB,cod-enhanced,cod-ab-syr,resource,syr_admin_shp_utf8_20240711.zip,Shapefile contains the whole new humanitarian location with the newly added communities
 SSD,AB,cod-enhanced,cod-ab-ssd,dataset,South Sudan - Subnational Administrative Boundaries,"South Sudan administrative level 0-3 boundaries
 
 This dataset was updated in August 2023 to reflect the adjustment of the ""Namutina"" (formerly [SS100902]) ADM3 feature from the ""Tambura' [SS1009] ADM2 feature to the ""Nagero"" [SS1007] ADM2 feature.  The ""Namutina"" P-code is changed from [SS100902] (which has been retired) to [SS100702].  The ADM2 layer is therefore also changed.  All affected changes are in the ""Western Equatoria"" [SS10] ADM1 feature and so the ADM0 and ADM0 layers remain unaltered although the lines layer has been updated.
@@ -2612,9 +2611,21 @@ OMN,AB,cod-enhanced,cod-ab-omn,resource,omn_adm_gadm_20210603.gdb.zip,Oman admin
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Oman: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-QAT,AB,cod-enhanced,cod-ab-qat,dataset,Qatar - Subnational Administrative Boundaries,"Qatar administrative level 0-2 boundary layers and gazetteer
+QAT,AB,cod-enhanced,cod-ab-qat,dataset,Qatar - Subnational Administrative Boundaries,"""Qatar administrative level 0-2 boundaries (COD-AB) dataset.
 
-These administrative level 0-1 layers are suitable for database or GIS linkage to the [Qatar - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-qat) tables using the ADM0 and ADM1_PCODE fields."
+This COD-AB was most recently reviewed for accuracy and necessary changes 2 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from Qatar planning and statistics authority.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Qatar [COD-PS](https://data.humdata.org/dataset/cod-ps-qat).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-sen)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 8 feature(s).
+
+Administrative level 2 contains 90 feature(s)."""
 QAT,AB,cod-enhanced,cod-ab-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 gazetteer
 QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20221207_AB_GDB.gdb.zip,Qatar administrative level 0-2 boundary geodatabase
 QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20221207_AB_EMF.zip,Qatar administrative level 0-2 boundary EMF files
@@ -2915,6 +2926,24 @@ BLZ,AB,cod-enhanced,cod-ab-blz,resource,COD_External/BLZ_pcode (FeatureServer),"
 "
 BLZ,AB,cod-enhanced,cod-ab-blz,resource,COD_External/BLZ_pcode (MapServer),"BLZ_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Belize. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BLZ_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.
 "
+GRD,AB,cod-enhanced,cod-ab-grd,dataset,Grenada - Subnational Administrative Boundaries,"""Grenada administrative level 0-1 boundaries (COD-AB) dataset.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+
+Sourced from Caribbean Disaster Emergency Management Agency  (CDEMA).
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Grenada [COD-PS](https://data.humdata.org/dataset/cod-ps-grd).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 7 feature(s)."""
+GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admgz_AB.xlsx,Grenada administrative level 0-1 administrative gazetteer
+GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admbnd_cdema_20240709_AB_SHP.zip,Grenada administrative level 0-1 (parish) administrative shapefiles
+GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_adm_cdema_itos_20240709_AB.gdb.zip,Grenada administrative level 0-1 (parish) administrative geodatabase
+GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admbnd_cdema_20240709_AB_EMF.zip,Grenada administrative level 0-1 (parish) administrative EMF files
 MAF,AB,cod-enhanced,cod-ab-maf,dataset,Saint Martin (French part) - Subnational Administrative Boundaries,Saint Martin administrative level 0 (nation) boundaries
 MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_SHP.zip,Saint Martin administrative level 0 boundary shape files
 MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_GDB.gdb.zip,Saint Martin administrative level 0 boundary geodatabase
@@ -3621,16 +3650,6 @@ BEN,PS,cod-enhanced,cod-ps-ben,resource,ben_admpop_adm2_2023.csv,Benin administr
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 0 population,Benin administrative level 0 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 1 population,Benin administrative level 1 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 2 population,Benin administrative level 2 2023 population statistics
-BMU,PS,cod-enhanced,cod-ps-bmu,dataset,Bermuda - Subnational Population Statistics,"Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
-
-REFERENCE YEAR:  2022
-
-This dataset replaces the 2016 reference  year dataset which extended to administrative level 2."
-BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2024.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
-BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu-cod-ps-2024-explanatory-note.pdf,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics  explanatory technical note
-BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_adm0_2024.csv,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
-BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2022.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
-BMU,PS,cod-enhanced,cod-ps-bmu,resource,BMU admin 0 population,Bermuda administrative level 0 2022 population statistics
 CUB,PS,cod-enhanced,cod-ps-cub,dataset,Cuba - Subnational Population Statistics,"Cuba administrative level 0-2 sex and age disaggregated 2020 projected population statistics
 
 REFERENCE YEAR:  2020
