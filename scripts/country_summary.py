@@ -5,6 +5,7 @@ from pandas import read_excel
 from requests import get
 
 from hdx.data.dataset import Dataset
+from hdx.data.hdxobject import HDXError
 from hdx.utilities.dictandlist import write_list_to_csv
 from hdx.utilities.downloader import DownloadError
 
@@ -48,7 +49,10 @@ def country_summary(
         country_datasets["COD-EM"] = f"cod-em-{iso.lower()}"
 
         for cod_type, dataset_name in country_datasets.items():
-            dataset = Dataset.read_from_hdx(dataset_name)
+            try:
+                dataset = Dataset.read_from_hdx(dataset_name)
+            except HDXError:
+                continue
             if not dataset:
                 continue
 

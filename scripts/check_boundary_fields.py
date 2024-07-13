@@ -7,6 +7,7 @@ from os.path import join
 from zipfile import BadZipFile, ZipFile
 
 from hdx.data.dataset import Dataset
+from hdx.data.hdxobject import HDXError
 from hdx.utilities.dictandlist import write_list_to_csv
 from hdx.utilities.downloader import DownloadError
 from hdx.utilities.uuid import get_uuid
@@ -38,7 +39,10 @@ def check_boundary_fields(
         row = [iso, None, None, None, None, None, None, None]
 
         dataset_name = f"cod-ab-{iso.lower()}"
-        dataset = Dataset.read_from_hdx(dataset_name)
+        try:
+            dataset = Dataset.read_from_hdx(dataset_name)
+        except HDXError:
+            continue
         if not dataset:
             continue
 
