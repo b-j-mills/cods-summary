@@ -130,14 +130,15 @@ MKD,AB,cod-standard,cod-ab-mkd,resource,MKD_admn.xls,Spreadsheet of administrati
 MKD,AB,cod-standard,cod-ab-mkd,resource,MKD_admn_adm_py_EuroGeographics-NTES_pp.zip,Shapefiles of administrative levels 1-4 from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)
 HND,PS,cod-standard,cod-ps-hnd,dataset,Honduras - Subnational Population Statistics,"Proyecciones de Población del Instituto Nacional de Estadística - INE - por edad y sexo según Departamento y Municipio 2020
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Honduras - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hnd) using the ADM0, ADM1, or ADM2_PCODE fields."
-HND,PS,cod-standard,cod-ps-hnd,resource,HND_AdminBoundaries_TabularData.xlsx,Honduras administrative level 0-2 gazetteer
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_2022.xlsx,Honduras administrative level 0-2 sex and age disaggregated projected 2022 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm0_2022.csv,Honduras administrative level 0 sex and age disaggregated projected 2022 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm1_2022.csv,Honduras administrative level 1 sex and age disaggregated projected 2022 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm2_2022.csv,Honduras administrative level 2 sex and age disaggregated projected 2022 population statistics
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_2024.xlsx,Honduras administrative level 0-2 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admgz_2020.xlsx,Honduras administrative level 0-2 gazetteer
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm0_2024.csv,Honduras administrative level 0 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm1_2024.csv,Honduras administrative level 1 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm2_2024.csv,Honduras administrative level 2 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_2022.xlsx,Honduras LEGACY administrative level 0-2 sex and age disaggregated projected 2022 population statistics
 BHS,AB,cod-standard,cod-ab-bhs,dataset,Bahamas - Subnational Administrative Boundaries,"These files were extracted from www.gadm.org
 
 Version history:
