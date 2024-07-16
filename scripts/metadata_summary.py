@@ -49,7 +49,8 @@ def metadata_summary(
                 "number of resource downloads",
                 "source",
                 "contributor/organization",
-                "date of dataset",
+                "start date of dataset",
+                "end date of dataset",
                 "updated",
                 "expected update frequency",
                 "location",
@@ -92,7 +93,8 @@ def metadata_summary(
                 dataset.get("total_res_downloads"),
                 dataset.get("dataset_source"),
                 dataset.get_organization()["title"],
-                dataset.get("dataset_date"),
+                dataset.get_time_period("%d-%m-%Y")["startdate_str"],
+                dataset.get_time_period("%d-%m-%Y")["enddate_str"],
                 dataset.get("last_modified"),
                 dataset.transform_update_frequency(
                     dataset.get("data_update_frequency")
