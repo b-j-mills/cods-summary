@@ -3651,6 +3651,16 @@ BEN,PS,cod-enhanced,cod-ps-ben,resource,ben_admpop_adm2_2023.csv,Benin administr
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 0 population,Benin administrative level 0 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 1 population,Benin administrative level 1 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 2 population,Benin administrative level 2 2023 population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,dataset,Bermuda - Subnational Population Statistics,"Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+This dataset replaces the 2016 reference  year dataset which extended to administrative level 2."
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2024.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu-cod-ps-2024-explanatory-note.pdf,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics  explanatory technical note
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_adm0_2024.csv,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2022.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,resource,BMU admin 0 population,Bermuda administrative level 0 2022 population statistics
 CUB,PS,cod-enhanced,cod-ps-cub,dataset,Cuba - Subnational Population Statistics,"Cuba administrative level 0-2 sex and age disaggregated 2020 projected population statistics
 
 REFERENCE YEAR:  2020
