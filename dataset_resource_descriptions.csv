@@ -631,26 +631,6 @@ See description of administrative level 2."
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_gazetteer.xlsx,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* gazetteer"
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_adm_2019_SHP.zip,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary polygon and line shapefiles"
 BMU,AB,cod-standard,cod-ab-bmu,resource,bmu_adm_2019_EMF.zip,"Bermuda administrative level 0 (country), 1 (parish), and 2 (municipality)* boundary EMF files"
-VCT,AB,cod-standard,cod-ab-vct,dataset,Saint Vincent and The Grenadines - Subnational Administrative Boundaries,"""Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset.
-
-The date of administrative boundary establishment is unknown, but is assumed to be the 1969 Independence.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
-
-Sourced from www.gadm.org.
-
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Saint Vincent and the Grenadines [COD-PS](https://data.humdata.org/dataset/cod-ps-vct).
-
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 6 feature(s)."""
-VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnd_gadm_20240717_AB_SHP.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary shapefiles
-VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnda-gadm_20240717_AB_EMF.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary EMF files
-VCT,AB,cod-standard,cod-ab-vct,resource,vct_admbnda_gadm_20240717_AB_GDB.gdb.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary geodatabase
-VCT,AB,cod-standard,cod-ab-vct,resource,vct_admgz_2021.xlsx,Saint Vincent and the Grenadines administrative level 0-2 gazetteer
 EGY,PS,cod-standard,cod-ps-egy,dataset,Egypt - Subnational Population Statistics,"Egypt administrative level 1 (governorate) 2016 population statistics.
 
 REFERENCE YEAR:  2016"
@@ -2974,6 +2954,26 @@ REFERENCE YEAR:  2022"
 DMA,PS,cod-enhanced,cod-ps-dma,resource,dma_admgz_2019.xls,Dominica administrative level 0-1 gazetteer
 DMA,PS,cod-enhanced,cod-ps-dma,resource,dma_admpop_2022.xlsx,Dominica administrative level 0 sex and age disaggregated 2022 population statistics
 DMA,PS,cod-enhanced,cod-ps-dma,resource,DMA admin 0 population,Dominica administrative level 0 2022 population statistics
+VCT,AB,cod-enhanced,cod-ab-vct,dataset,Saint Vincent and The Grenadines - Subnational Administrative Boundaries,"""Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset.
+
+The date of administrative boundary establishment is unknown, but is assumed to be the 1969 Independence.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Saint Vincent and the Grenadines [COD-PS](https://data.humdata.org/dataset/cod-ps-vct).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 6 feature(s)."""
+VCT,AB,cod-enhanced,cod-ab-vct,resource,vct_admbnd_gadm_20240717_AB_SHP.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary shapefiles
+VCT,AB,cod-enhanced,cod-ab-vct,resource,vct_admbnda-gadm_20240717_AB_EMF.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary EMF files
+VCT,AB,cod-enhanced,cod-ab-vct,resource,vct_admbnda_gadm_20240717_AB_GDB.gdb.zip,Saint Vincent and the Grenadines administrative level 0-1 boundary geodatabase
+VCT,AB,cod-enhanced,cod-ab-vct,resource,vct_admgz_2021.xlsx,Saint Vincent and the Grenadines administrative level 0-2 gazetteer
 SEN,PS,cod-enhanced,cod-ps-sen,dataset,Senegal - Subnational Population Statistics,"Senegal administrative level 0-1 sex and age disaggregated 2021 projected population statistics
 
 REFERENCE YEAR:  2021
@@ -4057,11 +4057,11 @@ MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_2017.xlsx,Mozambique administ
 MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_adm0_2017_v2.csv,Mozambique administrative level 0 2017 sex and age disaggregated population statistics
 MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_adm1_2017_v2.csv,Mozambique administrative level 1 2017 sex and age disaggregated population statistics
 MOZ,PS,cod-enhanced,cod-ps-moz,resource,moz_admpop_adm2_2017_v2.csv,Mozambique administrative level 2 2017 sex and age disaggregated population statistics
-VCT,PS,cod-enhanced,cod-ps-vct,dataset,Saint Vincent and The Grenadines - Subnational Population Statistics,"Saint Vincent and The Grenadines administrative level 0-2 sex and age disaggregated population statistics
+VCT,PS,cod-enhanced,cod-ps-vct,dataset,Saint Vincent and The Grenadines - Subnational Population Statistics,"Saint Vincent and The Grenadines administrative level 0 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2022
 
-These tables (at administrative level 0-1) are suitable for database or GIS linkage to the [Saint Vincent and The Grenadines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vct)."
+These tables (at administrative level 0) are suitable for database or GIS linkage to the [Saint Vincent and The Grenadines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vct)."
 VCT,PS,cod-enhanced,cod-ps-vct,resource,vct_admgz_20240717_PS.xlsx,Saint Vincent and The Grenadines administrative level 0-2 gazetteer
 VCT,PS,cod-enhanced,cod-ps-vct,resource,vct_admpop_2022.xlsx,Saint Vincent and The Grenadines administrative level 0 sex and age disaggregated population statistics
 ZMB,PS,cod-enhanced,cod-ps-zmb,dataset,Zambia - Subnational Population Statistics,"Zambia administrative level 0-3 2020 projection sex and age disaggregated population statistics.
