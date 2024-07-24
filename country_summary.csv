@@ -70,7 +70,6 @@ IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Offic
 IRN,https://data.humdata.org/dataset/cod-ab-irn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),31,429,,,True,https://data.humdata.org/dataset/cod-ps-irn,cod-standard,OCHA Middle East and North Africa (ROMENA),True,,,
 IRQ,https://data.humdata.org/dataset/cod-ab-irq,cod-enhanced,OCHA Iraq,18,101,294,,True,https://data.humdata.org/dataset/cod-ps-irq,cod-enhanced,UNFPA,True,,,
 JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-standard,OCHA Field Information Services Section (FISS),14,829,,,False,https://data.humdata.org/dataset/cod-ps-jam,cod-standard,OCHA Latin America and the Caribbean (ROLAC),True,,,
-JPN,https://data.humdata.org/dataset/cod-ab-jpn,,OCHA Regional Office for Asia and the Pacific (ROAP),47,1892,,,False,,,,,,,
 KAZ,https://data.humdata.org/dataset/cod-ab-kaz,cod-standard,OCHA Field Information Services Section (FISS),20,218,,,False,https://data.humdata.org/dataset/cod-ps-kaz,cod-enhanced,UNFPA,True,,,
 KEN,https://data.humdata.org/dataset/cod-ab-ken,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),47,290,,,True,https://data.humdata.org/dataset/cod-ps-ken,cod-standard,UNFPA,False,,,
 KIR,https://data.humdata.org/dataset/cod-ab-kir,cod-standard,OCHA Office of the Pacific Islands,3,36,,,False,https://data.humdata.org/dataset/cod-ps-kir,cod-standard,UNFPA,False,,,
