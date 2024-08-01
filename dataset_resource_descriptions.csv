@@ -4586,15 +4586,17 @@ BGR,EM,cod-enhanced,cod-em-bgr,resource,bgr_adm_unicef_20221012_em_SHP.zip,Bulga
 BGR,EM,cod-enhanced,cod-em-bgr,resource,bgr_adm_unicef_20221012_em_GDB.gdb.zip,Bulgaria administrative level 0-2 edge-matched boundary geodatabase
 BGR,EM,cod-enhanced,cod-em-bgr,resource,COD_External_Edgematch/BGR_BG_Edgematch (MapServer),
 BGR,EM,cod-enhanced,cod-em-bgr,resource,COD_External_Edgematch/BGR_EN_Edgematch (MapServer),
-SDN,PS,cod-enhanced,cod-ps-sdn,dataset,Sudan - Subnational Population Statistics,"Sudan administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+SDN,PS,cod-enhanced,cod-ps-sdn,dataset,Sudan - Subnational Population Statistics,"Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
-These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sdn) layers using the ADM0 and ADM1_PCODE fields."
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,SDN_AdminBoundaries_TabularData.xlsx,Sudan administrative level 0-2 gazetteer
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_2022.xlsx,Sudan administrative level 0-1 sex and age disaggregated 2022 projected population statistics
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_adm0_2022.csv,Sudan administrative level 0 sex and age disaggregated 2022 projected population statistics
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_adm1_2022.csv,Sudan administrative level 1 sex and age disaggregated 2022 projected population statistics
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,SDN admin 0 population,Sudan administrative level 0 2022 population statistics
-SDN,PS,cod-enhanced,cod-ps-sdn,resource,SDN admin 1 population,Sudan administrative level 1 2022 population statistics
+These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sdn) layers using the ADM0 and ADM1_PCODE fields.  (See Caveats about the  Abyei region.)"
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,2024-SDN-COD-PS-End_User_Release_Note.pdf,Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics End-User Release Note
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,2024-SDN-COD-PS-Technical-Accompanying-Note.pdf,Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics Technical Accompanying Note
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_2024.xlsx,Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admgz_2020.xlsx,Sudan administrative level 0-2 gazetteer
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_adm0_2024.csv,Sudan administrative level 0 sex and age disaggregated 2024 projected population statistics
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_adm1_2024.csv,Sudan administrative level 1 sex and age disaggregated 2024 projected population statistics
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_adm2_2024.csv,Sudan administrative level 2 sex and age disaggregated 2024 projected population statistics
+SDN,PS,cod-enhanced,cod-ps-sdn,resource,sdn_admpop_2022.xlsx,LEGACY Sudan administrative level 0-1 sex and age disaggregated 2022 projected population statistics
 TUN,EM,cod-enhanced,cod-em-tun,dataset,Tunisia - Subnational Edge-matched Administrative Boundaries,"Tunisea administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tun); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
