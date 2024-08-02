@@ -230,7 +230,7 @@ Live services remain unaltered.
 
 Sourced from GAUL. P-codes harmonization by UNHCR FICSS towards enhanced integration between different systems and humanitarian agencies. P-coded reformulated by UNICEF.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 MAR,AB,cod-standard,cod-ab-mar,resource,MAR_AdminBoundaries_TabularData.xlsx,Morocco administrative level 0-4 gazetteer
 MAR,AB,cod-standard,cod-ab-mar,resource,mar_admbnda_hcp_20230925_SHP.zip,INTERIM UPDATE Morocco administrative level 0-4 boundary shapefiles derived from Le Haut Commissariat au Plan administrative level 4 boundaries
 MAR,AB,cod-standard,cod-ab-mar,resource,mar_admbnda_hcp_20230925_GDB.gdb.zip,INTERIM UPDATE Morocco administrative level 0-4 boundary geodatabase derived from Le Haut Commissariat au Plan administrative level 4 boundaries
@@ -273,7 +273,7 @@ GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm1_GeoStat_2014.csv,Georgia
 GEO,PS,cod-standard,cod-ps-geo,resource,geo_admpop_adm2_GeoStat_2014.csv,Georgia administrative level 2 sex and age disaggregated 2014 population statistics
 AZE,AB,cod-standard,cod-ab-aze,dataset,Azerbaijan - Subnational Administrative Boundaries,"Azerbaijan administrative level 0-1 boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 
 These boundaries are suitable for database or GIS linkage to the [Azerbaijan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-aze) tables using the ADM0, and ADM1_PCODE fields.
@@ -709,7 +709,7 @@ MRT,PS,cod-standard,cod-ps-mrt,resource,mrt_admpop_adm0_2022.csv,Mauritania admi
 MRT,PS,cod-standard,cod-ps-mrt,resource,mrt_admpop_adm1_2022.csv,Mauritania administrative level 1 sex and age disaggregated 2022 projected population statistics
 CHN,AB,cod-standard,cod-ab-chn,dataset,China - Subnational Administrative Boundaries,"China administrative level 0 (country), 1 (province, autonomous region, municipality, or special administrative region), and 2 (prefecture-level units) boundaries and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 CHN,AB,cod-standard,cod-ab-chn,resource,chn_admgz_2020.xlsx,China administrative level 0-2 gazetteer
 CHN,AB,cod-standard,cod-ab-chn,resource,chn_adm_ocha_2020_SHP.zip,China administrative level 0-2 zipped shapefiles
 CHN,AB,cod-standard,cod-ab-chn,resource,chn_adm_ocha_2020_EMF.zip,China administrative level 0-2 EMF files
@@ -1673,7 +1673,7 @@ NOTE:  updates for the Lima vicinity will provided shortly.
 
 Información Cartográfica Básica generalizada a partir de los archivos de Carta Nacional Escala 1/100 000. Con períodos de actualización diferentes
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Peru - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-per)."
 PER,AB,cod-enhanced,cod-ab-per,resource,per_adminboundaries_tabulardata.xlsx,Peru administrative level 0-3 gazetteer
@@ -1685,7 +1685,7 @@ PER,AB,cod-enhanced,cod-ab-per,resource,COD_External/PER_pcode (FeatureServer),"
 PER,AB,cod-enhanced,cod-ab-per,resource,COD_External/PER_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Peru. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/PER_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 LBR,AB,cod-enhanced,cod-ab-lbr,dataset,Liberia - Subnational Administrative Boundaries,"Liberia administrative level 0-2 definitive and edge-matched administrative boundaries.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer.
 
@@ -1748,7 +1748,7 @@ Prepared by OCHA
 
 These boundaries are suitable for database or GIS linkage to the [Eritrea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-eri) tables.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 ERI,AB,cod-enhanced,cod-ab-eri,resource,ERI_AdminBoundaries_TabularData.xlsx,"Eritrea level 0 (country), 1 (region), 2 (district) gazetteer"
 ERI,AB,cod-enhanced,cod-ab-eri,resource,eri_adm_gov_20200427_SHP.zip,"Eritrea level 0 (country), 1 (region), 2 (district) boundary shapefiles"
@@ -1759,7 +1759,7 @@ ERI,AB,cod-enhanced,cod-ab-eri,resource,COD_External/ERI_pcode (FeatureServer),"
 ERI,AB,cod-enhanced,cod-ab-eri,resource,COD_External/ERI_pcode (MapServer),"ERI_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Eritrea. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/ERI_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 KEN,AB,cod-enhanced,cod-ab-ken,dataset,Kenya - Subnational Administrative Boundaries,"Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary polygon and line shapefiles, geodatabase, live services, and gazeteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0 and 1 boundaries are suitable for database or GIS linkage to the corresponding [Kenya - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ken) tables."
 KEN,AB,cod-enhanced,cod-ab-ken,resource,KEN_AdminBoundaries_TabularData.xlsx,"Kenya administrative level 0 (country), 1 (county), and 2 (sub-county) boundary gazetteer"
@@ -1771,7 +1771,7 @@ KEN,AB,cod-enhanced,cod-ab-ken,resource,COD_External/KEN_pcode (FeatureServer),"
 KEN,AB,cod-enhanced,cod-ab-ken,resource,COD_External/KEN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kenya. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KEN_EN/MapServer.  The service also provides feature access to Administrative Boundaries.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 BEN,AB,cod-enhanced,cod-ab-ben,dataset,Benin - Subnational Administrative Boundaries,"The dataset represents the country, departments and communes boundaries of Benin.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These layers are suitable for database or GIS linkage to the [Benin administrative level 0-2 SADD 2019 projected population statistics](https://data.humdata.org/dataset/cod-ps-ben) tables.
 
@@ -1798,7 +1798,7 @@ BFA,AB,cod-enhanced,cod-ab-bfa,dataset,Burkina Faso - Subnational Administrative
 
 NOTE a health districts country-specific COD is available here:   [Burkina Faso health districts (districts de santé)](https://data.humdata.org/dataset/cod-ps-bfa).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0 and 1 shapefiles are suitable for database or GIS linkage to  the [CSV population statistics tables](https://data.humdata.org/dataset/burkina-faso-population-statistic). 
 
@@ -1813,7 +1813,7 @@ BFA,AB,cod-enhanced,cod-ab-bfa,resource,COD_External/BFA_pcode (FeatureServer),"
 BFA,AB,cod-enhanced,cod-ab-bfa,resource,COD_External/BFA_pcode (MapServer),"BFA_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES for OCHA's Common Operational Datasets for Burkina Faso. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BFA_FR/MapServer. The service also provides access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 CMR,AB,cod-enhanced,cod-ab-cmr,dataset,Cameroon - Subnational Administrative Boundaries,"Cameroon administrative level 0 (country), 1 (region), (department), and 3 (arrondissement) boundary polygons and lines, gazetteer, and live services.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 CMR,AB,cod-enhanced,cod-ab-cmr,resource,CMR_AdminBoundaries_TabularData.xlsx,"Cameroon administrative level 0 (country), 1 (region), (department), and 3 (arrondissement) gazetteer"
 CMR,AB,cod-enhanced,cod-ab-cmr,resource,cmr_admbnda_inc_20180104_SHP.zip,"Cameroon administrative level 0 (country), 1 (region), (department), and 3 (arrondissement) boundary polygon and line shapefiles"
@@ -1827,7 +1827,7 @@ COG,AB,cod-enhanced,cod-ab-cog,dataset,Congo - Subnational Administrative Bounda
 
 The dataset represents the departments and districts of Congo with harmonized PCODE of ROWCA and Humanitarian Response P-ccodes
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 COG,AB,cod-enhanced,cod-ab-cog,resource,COG_AdminBoundaries_TabularData.xlsx,Congo administrative level 0-2 gazetteer
 COG,AB,cod-enhanced,cod-ab-cog,resource,cog_adm_gaul_20190617_SHP.zip,"Congo administrative level 0 (country), 1 (département), or 2 (district or commune) boundary shapefiles"
@@ -1838,7 +1838,7 @@ COG,AB,cod-enhanced,cod-ab-cog,resource,COD_External/COG_pcode (FeatureServer),"
 COG,AB,cod-enhanced,cod-ab-cog,resource,COD_External/COG_pcode (MapServer),"COG_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Congo. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/COG_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 GHA,AB,cod-enhanced,cod-ab-gha,dataset,Ghana - Subnational Administrative Boundaries,"Ghana administrative level 0-2 boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID. 
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID. 
 
 These boundaries are suitable for database or GIS linkage to the [Guinea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gha) tables."
 GHA,AB,cod-enhanced,cod-ab-gha,resource,GHA_AdminBoundaries_TabularData.xlsx,Ghana administrative level 0-2 gazetteer
@@ -1870,7 +1870,7 @@ This dataset was updated on 25 August 2022 to correct a duplicate administrative
 
 These boundaries are suitable for database or GIS linkage to the [Gambia- Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gmb) tables using the 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 GMB,AB,cod-enhanced,cod-ab-gmb,resource,GMB_AdminBoundaries_TabularData.xlsx,"Gambia administrative level 0-3 boundary gazetteer, version 2
 
@@ -1884,7 +1884,7 @@ GMB,AB,cod-enhanced,cod-ab-gmb,resource,COD_External/GMB_pcode (FeatureServer),"
 GMB,AB,cod-enhanced,cod-ab-gmb,resource,COD_External/GMB_EN (MapServer),
 GNB,AB,cod-enhanced,cod-ab-gnb,dataset,Guinea-Bissau - Subnational Administrative Boundaries,"Guinea Bissau administrative level 0-2 definitive and edge-matched boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer."
 GNB,AB,cod-enhanced,cod-ab-gnb,resource,GNB_AdminBoundaries_TabularData.xlsx,Guinea Bissau administrative level 0-2 gazetteer
@@ -1910,7 +1910,7 @@ Live administrative boundary geoservices for all COD-AB locations are available 
 
 The associated [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt) dataset has NOT been updated and is no longer suitable for linkage.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.  ITOS processing updated 2021_12_22.  The ITOS live geoservices have not yet been updated to reflect the new boundary updates.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.  ITOS processing updated 2021_12_22.  The ITOS live geoservices have not yet been updated to reflect the new boundary updates.
 "
 MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_admgz_2024.xls,Mauritania administrative level 0-3 gazetteer
 MRT,AB,cod-enhanced,cod-ab-mrt,resource,mrt_adm_ansade_20240327_AB_SHP.zip,Mauritania administrative level 0-3 boundary shapefiles
@@ -1980,7 +1980,7 @@ SLE,AB,cod-enhanced,cod-ab-sle,resource,V00_0/SLE_pcode (FeatureServer),"This se
 SLE,AB,cod-enhanced,cod-ab-sle,resource,V00_0/SLE_pcode (MapServer),"This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for Sierra Leone. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/SLE_EN/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 THA,AB,cod-enhanced,cod-ab-tha,dataset,Thailand - Subnational Administrative Boundaries,"Thailand administrative level 0 (country), 1 (province), 2 (district), and 3 (sub-district, tambon) boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0 and 1 shapefiles and geodatabase features are suitable for database or GIS linkage to the [Thailand - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tha) tables.
 
@@ -2010,7 +2010,7 @@ LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 1 population,Lao People's Demo
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 2 population,Lao People's Democratic Republic administrative level 2 2023 population statistics
 KHM,AB,cod-enhanced,cod-ab-khm,dataset,Cambodia - Subnational Administrative Boundaries,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary polygon, line, and point shapefiles, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The datasets were obtained from the Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008 and unofficially updated in 2014 according to sub-decrees on administrative modifications. Data provided by WFP - VAM unit Cambodia.
 
@@ -2042,7 +2042,7 @@ KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 0 population,Cambodia administ
 KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 1 population,Cambodia administrative level 1  2023 population statistics
 PNG,AB,cod-enhanced,cod-ab-png,dataset,Papua New Guinea - Subnational Administrative Boundaries,"Papua New Guinea administrative level 0 (country), 1 (province, autonomous region, and National Capital District), 2 (district), and 3 (local level government area) boundary shapefiles, EMF files, geodatabase, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Papua New Guinea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-png) tables.
 "
@@ -2082,7 +2082,7 @@ LSO,PS,cod-enhanced,cod-ps-lso,resource,LSO admin 0 population,Lesotho administr
 LSO,PS,cod-enhanced,cod-ps-lso,resource,LSO admin 1 population,Lesotho administrative level 1 2022 population statistics
 NAM,AB,cod-enhanced,cod-ab-nam,dataset,Namibia - Subnational Administrative Boundaries,"Namibia administrative level 0 (country), 1 (region) and 2 (constituency) population statistics
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The shapefiles are suitable for database or GIS linkage to the [Namibia administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-nam) CSV tables."
 NAM,AB,cod-enhanced,cod-ab-nam,resource,NAM_AdminBoundaries_TabularData.xlsx,"Namibia administrative level 0 (country), 1 (region) and 2 (constituency) gazetteer"
@@ -2093,7 +2093,7 @@ NAM,AB,cod-enhanced,cod-ab-nam,resource,COD_External/NAM_pcode (FeatureServer),"
 NAM,AB,cod-enhanced,cod-ab-nam,resource,COD_External/NAM_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Namibia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/NAM_EN/MapServer.  The service also provides feature access to Administrative Boundaries  geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 ZAF,AB,cod-enhanced,cod-ab-zaf,dataset,South Africa - Subnational Administrative Boundaries,"South Africa administrative levels 0 (country), 1 (province), 2 (district), and 3 (local municipality) boundaries polygon and line shapefiles, EMF files, and geodatabase, and gazetteer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefiles are suitable for database or GIS linkage to the [South Africa - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-zaf) CSV tables."
 ZAF,AB,cod-enhanced,cod-ab-zaf,resource,ZAF_AdminBoundaries_TabularData.xlsx,South Africa administrative levels 0-4 gazetteer
@@ -2109,7 +2109,7 @@ This COD-AB was most recently reviewed for accuracy and necessary changes in 202
 
 Sourced from IGNN (as of 2006) and  OCHA/ROWCA ( 2014/ 2015)
 
-Vetting  by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.   Live geoservices will be provided in 2024 Q1.
+Vetting  by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.   Live geoservices will be provided in 2024 Q1.
 
 This COD-AB is suitable for database or GIS linkage to the Niger COD-PS using the ADM0_PCODE, ADM1_PCODE, etc. fields.
 
@@ -2130,7 +2130,7 @@ ECU,AB,cod-enhanced,cod-ab-ecu,dataset,Ecuador - Subnational Administrative Boun
 
 The administrative level 0-2 shapefiles are suitable for database or GIS linkage to the [""Ecuador population statistics for administrative level 1, 2, and 3""](https://data.humdata.org/dataset/cod-ps-ecu) shapefiles on HDX.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 ECU,AB,cod-enhanced,cod-ab-ecu,resource,ECU_AdminBoundaries_TabularData.xlsx,"Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) gazetteer"
 ECU,AB,cod-enhanced,cod-ab-ecu,resource,ecu_adm_inec_20190724_SHP.zip,"Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) boundary polygon and lines shapefiles"
 ECU,AB,cod-enhanced,cod-ab-ecu,resource,ecu_adm_inec_20190724_EMF.zip,"Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) boundary polygon EMF files"
@@ -2148,7 +2148,7 @@ Due to the structural inconsistency of the best available administrative level 3
 
 Note that a [Honduras Open Street Map populated places dataset is available here]\(https://data.humdata.org/dataset/cod-ps-hnd).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Honduras - Subnational Population Statistics](https://data.humdata.org/dataset/proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio) tables."
 HND,AB,cod-enhanced,cod-ab-hnd,resource,HND_AdminBoundaries_TabularData.xlsx,Honduras administrative level 0-2 gazetteer
@@ -2163,7 +2163,7 @@ HND,AB,cod-enhanced,cod-ab-hnd,resource,hnd_admbnda_adm3_sinit_20161005.zip,Hond
 HND,AB,cod-enhanced,cod-ab-hnd,resource,hnd_admbnda_adm3_sinit_20161005.emf,Honduras administrative level 3 boundary EMF file.  PLEASE SEE CAVEATS.
 CAF,AB,cod-enhanced,cod-ab-caf,dataset,Central African Republic - Subnational Administrative Boundaries,"Central African Republic administrative level 0 (country), 1 (prefecture / préfecture), 2 (sub-prefecture / sous-préfecture), 3, and Bangui level 4 boundary polgyons and lines, endorsed by RO on January 2016.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID. "
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID. "
 CAF,AB,cod-enhanced,cod-ab-caf,resource,CAF_AdminBoundaries_TabularData.xlsx,"Central African Republic administrative level 0 (country), 1 (prefecture / préfecture), 2 (sub-prefecture / sous-préfecture), 3, and Bangui level 4 boundary gazetteer"
 CAF,AB,cod-enhanced,cod-ab-caf,resource,caf_admbnda_adm0_200k_sigcaf_reach_itos_v2.zip,Central African Republic administrative level 0 (country) boundary polygon SHAPEFILE
 CAF,AB,cod-enhanced,cod-ab-caf,resource,caf_admbnda_adm1_200k_sigcaf_reach_itos_v2.zip,Central African Republic administrative level  1 (prefecture / préfecture) boundary polygon SHAPEFILE
@@ -2178,7 +2178,7 @@ YEM,AB,cod-enhanced,cod-ab-yem,dataset,Yemen - Subnational Administrative Bounda
 
 Administrative boundary datasets for levels 0, 1, 2 and 3  (international, governorate, district and sub-district) for Yemen approved for use by Humanitarian Country Team in October 2019.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Admin Level 1= Governorate = Mohafadha
 Admin Level 2 = District = Modeeriyyah
@@ -2322,7 +2322,7 @@ This dataset was updated in August 2023 to reflect the adjustment of the ""Namut
 
 The current live geoservices do NOT reflect this change.
 
-Vetting provided by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.  Live services to be provided shortly.
+Vetting provided by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.  Live services to be provided shortly.
 
 These layers were updated on 20 December 2022.  The Abyei region was re-coded to SS00.
 
@@ -2381,7 +2381,7 @@ SSD,AB,cod-enhanced,cod-ab-ssd,resource,COD_External/SSD_pcode (MapServer),"This
 "
 IRQ,AB,cod-enhanced,cod-ab-irq,dataset,Iraq - Subnational Administrative Boundaries,"Iraq administrative level 0 (country), 1 (governorate), 2 (district), and 3 (sub-district) boundary shapefiles, geodatabase, EMF files, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0-1 layers are suitable for database or GIS linkage to the [Iraq - Subnational Population Statistics
 ](https://data.humdata.org/dataset/cod-ps-irq) tables."
@@ -2405,7 +2405,7 @@ admLevel 0:  conventional international border (Egypt)
 admLevel 2:  governorate borders
 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID
 
 
 These boundaries are suitable for database or GIS linkage to the [State of Palestine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pse) tables.
@@ -2432,7 +2432,7 @@ ARM,PS,cod-enhanced,cod-ps-arm,resource,ARM admin 1 population,Armenia administr
 HTI,AB,cod-enhanced,cod-ab-hti,dataset,Haiti - Subnational Administrative Boundaries,"Administrative boundary, administrative level 0 (national), level 1 (department),  level 2 (commune),  and level 3 (section communale).
 Notice! The boundaries and names shown and the designations used on these shapefiles  do not imply official endorsement or acceptance by the United Nations.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The 'AdminLevel' field categorizes the lines AdminLevel 0: coastlines AdminLevel 1: lines between administrative level 1 polygons AdminLevel 2: lines between administrative level 2 polygons within the same administrative level 1 polygon AdminLevel 3: lines between administrative level 3 polygons within the same administrative level 2 polygon AdminLevel 99: international borders
 
@@ -2448,7 +2448,7 @@ HTI,AB,cod-enhanced,cod-ab-hti,resource,COD_External/HTI_pcode (FeatureServer),"
 HTI,AB,cod-enhanced,cod-ab-hti,resource,COD_External/HTI_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Haiti. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/HTI_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 PHL,AB,cod-enhanced,cod-ab-phl,dataset,Philippines - Subnational Administrative Boundaries,"Philippines administrative level 0-4 shapefiles
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 OCHA acknowledges PSA and the National Mapping and Resource Information Authority (NAMRIA) as the sources.  LMB is the source of official administrative boundaries of the Philippines. In the absence of available official administrative boundary, the IMTWG have agreed to clean and use the PSA administrative boundaries which are used to facilitate data collection of surveys and censuses. The dataset can only be considered as indicative boundaries and not official.
 Its updated to reflect the new areas within BARMM; It uses the new 10-digit pcode consistent with government PSGC as of 2023.
@@ -2472,7 +2472,7 @@ Level 1 : Regions
 Level 2 : Departements
 Level 3 : Sous préfectures (tabular data available for the entire country, shapefile available only for the Lac region) 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 All admin datasets have been endorsed by the AIMWG on the 11 May 2017.
 
@@ -2496,7 +2496,7 @@ GIN,AB,cod-enhanced,cod-ab-gin,dataset,Guinea - Subnational Administrative Bound
 Admin COD datasets for Guinea endorsed by Dakar IMWG in august 2017 ; 
 The dataset represents Admin Level 0 (country), Admin Level 1 (regions), Admin Level 2 (prefectures), and  Admin level 3 (sub-prefectures).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer.
 
@@ -2511,7 +2511,7 @@ GIN,AB,cod-enhanced,cod-ab-gin,resource,COD_External/GIN_pcode (FeatureServer),"
 GIN,AB,cod-enhanced,cod-ab-gin,resource,COD_External/GIN_pcode (MapServer),"GIN_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Guinea. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/GIN_FR/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 LAO,AB,cod-enhanced,cod-ab-lao,dataset,Lao People's Democratic Republic - Subnational Administrative Boundaries,"Laos administrative level 0 (country), 1 (province / khoueng or prefecture / kampheng nakhon), and 2 (district / muang) boundary shapefiles, , and EMF files, geodatabase, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lao) COD-PS CSV tables."
 LAO,AB,cod-enhanced,cod-ab-lao,resource,LAO_AdminBoundaries_TabularData.xlsx,"Laos administrative level 0 (country), 1 ( province / khoueng or prefecture / kampheng nakhon), and 2 (district / muang) boundary gazetteer"
@@ -2527,7 +2527,7 @@ NGA,AB,cod-enhanced,cod-ab-nga,dataset,Nigeria - Subnational Administrative Boun
 
 A senatorial district shapefile is also included.  Senatorial districts respect administrative level 1 (state) but are not reflected in the gazetteer, geodatabase, or live services.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0-2 and senatorial district boundaries are suitable for database or GIS linkage to the [Nigeria - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nga) tables.
 
@@ -2547,7 +2547,7 @@ NGA,AB,cod-enhanced,cod-ab-nga,resource,COD_External/NGA_pcode (MapServer),"This
 "
 LBY,AB,cod-enhanced,cod-ab-lby,dataset,Libya - Subnational Administrative Boundaries,"Libya administrative level 0 (country),  1 (province), and 2 (governorate / muhafazat) , EMF files, geodatabase, live services, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Libya populated places level 3 (baladiya) point geodatabase"
 LBY,AB,cod-enhanced,cod-ab-lby,resource,LBY_AdminBoundaries_TabularData.xlsx,"Libya administrative level 0 (country),  1 (province), and 2 (governorate / muhafazat) gazetteer"
@@ -2563,7 +2563,7 @@ LBY,AB,cod-enhanced,cod-ab-lby,resource,COD_External/LBY_pcode (FeatureServer),"
 LBY,AB,cod-enhanced,cod-ab-lby,resource,COD_External/LBY_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Libya. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/LBY_EN/MapServer.  The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 DZA,AB,cod-enhanced,cod-ab-dza,dataset,Algeria - Subnational Administrative Boundaries,"Sourced from GAUL.  P-codes harmonization by UNHCR FICSS towards enhanced integration between different systems and humanitarian agencies.  P-coded reformulated by UNICEF.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 DZA,AB,cod-enhanced,cod-ab-dza,resource,DZA_AdminBoundaries_TabularData.xlsx,Algeria administrative level 0-2 gazetteer
 DZA,AB,cod-enhanced,cod-ab-dza,resource,dza_admbnda_unhcr2020_SHP.zip,Algeria administrative level 0-2 boundary shapefiles
@@ -2584,7 +2584,7 @@ KWT,AB,cod-enhanced,cod-ab-kwt,resource,COD_External/KWT_pcode (FeatureServer),"
 KWT,AB,cod-enhanced,cod-ab-kwt,resource,COD_External/KWT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kuwait. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KWT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 OMN,AB,cod-enhanced,cod-ab-omn,dataset,Oman - Subnational Administrative Boundaries,"Oman administrative level 0-2 boundary files
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 OMN,AB,cod-enhanced,cod-ab-omn,resource,OMN_AdminBoundaries_TabularData.xlsx,Oman administrative level 0-2 gazetteer
 OMN,AB,cod-enhanced,cod-ab-omn,resource,omn_adm_gadm_20210603_SHP.zip,Oman administrative level 0-2 boundary shapefiles
 OMN,AB,cod-enhanced,cod-ab-omn,resource,omn_adm_gadm_20210603_EMF.zip,Oman administrative level 0-2 boundary EMF files
@@ -2616,7 +2616,7 @@ QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_pcode (MapServer),"This
 QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Qatar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/QAT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 SAU,AB,cod-enhanced,cod-ab-sau,dataset,Saudi Arabia - Subnational Administrative Boundaries,"Saudi Arabia administrative level 0-1 boundaries and populated places
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 "
 SAU,AB,cod-enhanced,cod-ab-sau,resource,SAU_AdminBoundaries_TabularData.xlsx,Saudi Arabia administrative level 0-1 gazetteer
 SAU,AB,cod-enhanced,cod-ab-sau,resource,sau_adm_gadm_20210525_SHP.zip,Saudi Arabia administrative level 0-1 shapefiles
@@ -2662,7 +2662,7 @@ ESH,AB,cod-enhanced,cod-ab-esh,resource,COD_External/ESH_pcode (MapServer),"This
 COD,AB,cod-enhanced,cod-ab-cod,dataset,Democratic Republic of the Congo - Subnational Administrative Boundaries,"Validées par le IMWG le 26 juillet 2017, limites administratives; niveau 0 (pays), 1 (Provinces), et 2 (territoires).
 Sourced from Référentiel Géographique Commun [http://www.rgc.cd](http://www.rgc.cd).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These layers are suitable for database or GIS linkage to the [Democratic Republic of the Congo administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-cod)
 
@@ -2688,7 +2688,7 @@ COD,AB,cod-enhanced,cod-ab-cod,resource,COD_External/COD_pcode (MapServer),"COD_
 "
 COL,AB,cod-enhanced,cod-ab-col,dataset,Colombia - Subnational Administrative Boundaries,"Colombia administrative level 0 (country), 1 (department), and 2 (municipality) boundaries.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Colombia administrative level 0-2 2020 projected population statistics](https://data.humdata.org/dataset/cod-ps-col) tables."
 COL,AB,cod-enhanced,cod-ab-col,resource,COL_AdminBoundaries_TabularData.xlsx,"An Excel gazetteer file containing one sheet for each administrative division level, listing the names, alternate names, p-codes and any available mapping to other coding systems."
@@ -2701,7 +2701,7 @@ COL,AB,cod-enhanced,cod-ab-col,resource,COD_External/COL_pcode (FeatureServer),"
 COL,AB,cod-enhanced,cod-ab-col,resource,COD_External/COL_pcode (MapServer),"COL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Colombia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/COL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 KGZ,AB,cod-enhanced,cod-ab-kgz,dataset,Kyrgyzstan - Subnational Administrative Boundaries,"Kyrgyzstan administrative level 0 (country), 1 (province, independent city [EN];  область, город [RU];  облусу, шаар [KY]), 2 (district [EN]; район, [RU]; району [KY]),  and 3 (community [EN]; айылный аймак [RU]; айыл аймаг [KY]) boundary polygon and line shapefiles  and gazetteer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,KGZ_AdminBoundaries_TabularData.xlsx,"An Excel gazetteer file containing one sheet for each administrative division level, listing the names, alternate names, p-codes and any available mapping to other coding systems."
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,KGZ Administrative Divisions Shapefiles.zip,A zip file containing one shapefile for each level in the administrative division hierarchy. Suitable for use in most GIS desktop software.
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,KGZ Administrative Divisions Geodatabase.zip,A zip file containing the administrative divisions as a file geodatabase. Suitable for use in ESRI desktop GIS software or other applications that support file geodatabase.
@@ -2751,7 +2751,7 @@ SDN,AB,cod-enhanced,cod-ab-sdn,dataset,Sudan - Subnational Administrative Bounda
 
 REFERENCE YEAR:  2020
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0 and 1 layers are suitable for database or GIS linkage to the [Sudan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sdn) tables using the ADM0 and ADM1_PCODE fields.  (The Abyei region is excluded from the COD-PS.)"
 SDN,AB,cod-enhanced,cod-ab-sdn,resource,SDN_AdminBoundaries_TabularData.xlsx,"Sudan administrative level 0 (country), 1 (state), and 2 (district) gazetteer"
@@ -2789,7 +2789,7 @@ https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/LBN_AR/MapServer. 
 "
 ZMB,AB,cod-enhanced,cod-ab-zmb,dataset,Zambia - Subnational Administrative Boundaries,"Zambia administrative level 0-2 boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries (at administrative level 0-1) are suitable for GIS or database linkage to the [Zambia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-zmb) tables."
 ZMB,AB,cod-enhanced,cod-ab-zmb,resource,ZMB_AdminBoundaries_TabularData.xlsx,Zambia administrative level 0-2 gazetteer
@@ -2822,7 +2822,7 @@ BDI,PS,cod-enhanced,cod-ps-bdi,resource,BDI admin 1 population,Burundi administr
 BDI,PS,cod-enhanced,cod-ps-bdi,resource,BDI admin 2 population,Burundi administrative level 2 2022 population statistics
 EGY,AB,cod-enhanced,cod-ab-egy,dataset,Egypt - Subnational Administrative Boundaries,"Egypt administrative boundary level 0 (national), 1 (governorate), 2 (region), and 3 polygons, and major and minor populated places provided as a geodatabase, and shapefiles.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 EGY,AB,cod-enhanced,cod-ab-egy,resource,egy_admbnda_adm0_capmas_itos_20170421.zip,Egypt administrative level 0 (national) boundary polygon shapefile.
 EGY,AB,cod-enhanced,cod-ab-egy,resource,egy_admbnda_adm1_capmas_20170421.zip,Egypt administrative level 1 (governorates) boundary polygon shapefile.
 EGY,AB,cod-enhanced,cod-ab-egy,resource,egy_admbnda_adm2_capmas_20170421.zip,"Egypt administrative level 2 (regions) boundary polygon shapefile.
@@ -2841,7 +2841,7 @@ NPL,AB,cod-enhanced,cod-ab-npl,dataset,Nepal - Subnational Administrative Bounda
 
 Live administrative boundary geoservices for Nepal and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Live administrative boundary geoservices of the previous version of this COD-AB are available in [this ""V00_0"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These administrative level 0-2 layers are suitable for database or GIS linkage to the [Nepal - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-npl) tables using the ADM0, ADM1, and ADM2_PCODE fields.
 
@@ -2853,7 +2853,7 @@ NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20240314_AB_GDB.zip,Nepal adm
 NPL,AB,cod-enhanced,cod-ab-npl,resource,npl_adm_nd_20240314_AB_EMF.zip,Nepal administrative level 0-3 boundary EMF files
 DOM,AB,cod-enhanced,cod-ab-dom,dataset,Dominican Republic - Subnational Administrative Boundaries,"Dominican Republic boundary files.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Información de la división territorial 2010 por regiones, provincias, municipios, distrito municipales, para la georreferenciación de base de datos y localización de comunidades.
 Contienen los elementos geográficos, y los atributos asociados a ellos de manera independiente. Éstos pueden ser visualizados, editados o convertidos a otros formatos.
@@ -2876,7 +2876,7 @@ DOM,AB,cod-enhanced,cod-ab-dom,resource,dom_admbnda_one_20210629.gdb.zip,Dominic
 DOM,AB,cod-enhanced,cod-ab-dom,resource,COD_External/DOM_ES (MapServer),"This map service contains OCHA Common Operational Datasets for the Dominican Republic: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services."
 DOM,AB,cod-enhanced,cod-ab-dom,resource,COD_External/DOM_pcode (FeatureServer),"DOM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Dominican Republic. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/DOM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 DOM,AB,cod-enhanced,cod-ab-dom,resource,COD_External/DOM_pcode (MapServer),"DOM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for the Dominican Republic. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/DOM_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-GTM,AB,cod-enhanced,cod-ab-gtm,dataset,Guatemala - Subnational Administrative Boundaries,"Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+GTM,AB,cod-enhanced,cod-ab-gtm,dataset,Guatemala - Subnational Administrative Boundaries,"Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Guatemala - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gtm) tables."
 GTM,AB,cod-enhanced,cod-ab-gtm,resource,gtm_adm_ocha_conred_2019_SHP.zip,"Guatemala administrative level 0 (country), 1 (departmento), and 2 (municipio) boundary polygon and line shapefiles"
@@ -2938,7 +2938,7 @@ This is the full Administrative dataset for Bangladesh.
 
 REFERENCE YEAR:  2015
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative levels 0-3 layers are suitable for database or GIS linkage to the [Bangladesh - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bgd) population statistics tables.  (See caveats.)   "
 BGD,AB,cod-enhanced,cod-ab-bgd,resource,BGD_AdminBoundaries_TabularData.xlsx,Bangladesh administrative level 0-4 boundary gazetteer
@@ -2991,7 +2991,7 @@ SEN,PS,cod-enhanced,cod-ps-sen,resource,SEN admin 2 population,Senegal administr
 SEN,PS,cod-enhanced,cod-ps-sen,resource,SEN admin 3 population,Senegal administrative level 3 2020 population statistics
 VEN,AB,cod-enhanced,cod-ab-ven,dataset,Venezuela (Bolivarian Republic of) - Subnational Administrative Boundaries,"Venezuela administrative level 0-3 boundary shapefiles
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 VEN,AB,cod-enhanced,cod-ab-ven,resource,VEN_AdminBoundaries_TabularData.xlsx,Venezuela administrative level 0-3 gazetteer
 VEN,AB,cod-enhanced,cod-ab-ven,resource,ven_adm_ine_20210223_SHP.zip,Venezuela administrative level 0-3 boundary shapefiles
 VEN,AB,cod-enhanced,cod-ab-ven,resource,ven_adm_ine_20210223_EMF.zip,Venezuela administrative level 0-3 boundary EMF files
@@ -3001,7 +3001,7 @@ VEN,AB,cod-enhanced,cod-ab-ven,resource,COD_External/VEN_pcode (FeatureServer),"
 VEN,AB,cod-enhanced,cod-ab-ven,resource,COD_External/VEN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Venezuela. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/VEN_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 TGO,AB,cod-enhanced,cod-ab-tgo,dataset,Togo - Subnational Administrative Boundaries,"Togo administrative level 0 (country), 1 (region), and 2 (prefecture) boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Togo - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tgo) tables for administrative levels 0-1.  (The COD-PS administrative level 2 features cannot be updated.)"
 TGO,AB,cod-enhanced,cod-ab-tgo,resource,TGO_AdminBoundaries_TabularData.xlsx,Togo administrative level 0-3 gazetteer
@@ -3019,7 +3019,7 @@ This service is intended as a labelling layer for PCODES from a previous version
 TGO,AB,cod-enhanced,cod-ab-tgo,resource,tgo_ppt_map.pptx,Powerpoint maps that include the COD admin for simplified use
 CHL,AB,cod-enhanced,cod-ab-chl,dataset,Chile - Subnational Administrative Boundaries,"Chile administrative level 0-3 boundary files
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Chile - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-chl) using the  ADM0, ADM1, ADM2, and ADM3-PCODE fields."
 CHL,AB,cod-enhanced,cod-ab-chl,resource,chl_adm_bcn_20211008_SHP.zip,Chile administrative level 0-3 boundary shapefiles
@@ -3057,7 +3057,7 @@ NIC,AB,cod-enhanced,cod-ab-nic,dataset,Nicaragua - Subnational Administrative Bo
 These layers were altered in November 2023.  ""Región Autónoma Atlántico Norte"" [NI91] and ""Región Autónoma Atlántico Sur"" [NI93] were renamed to ""Region Autonoma Costa Caribe Norte"" and ""Region Autonoma Costa Caribe Sur"", respectively.  The [Nicaragua - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-nic) edge-matched layers were also made available.
 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 
 These boundaries are NOT suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nic) tables, which do not have compatible P-coding."
@@ -3071,7 +3071,7 @@ NIC,AB,cod-enhanced,cod-ab-nic,resource,COD_External/NIC_pcode (MapServer),"This
 "
 VUT,AB,cod-enhanced,cod-ab-vut,dataset,Vanuatu - Subnational Administrative Boundaries,"Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) boundary polygon, line, and point shapefiles, geodatabase, and live services, and gazetteer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefile and geodatabase layers are suitable for database or GIS joins to the [Vanuatu administrative level 0, 1, and 2 population statistics and gazetteer](https://data.humdata.org/dataset/cod-ps-vut) .CSV population statistics tables.
 "
@@ -3088,7 +3088,7 @@ VUT,AB,cod-enhanced,cod-ab-vut,resource,COD_External/VUT_pcode (FeatureServer),"
 VUT,AB,cod-enhanced,cod-ab-vut,resource,COD_External/VUT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Vanuatu. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/VUT_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 BDI,AB,cod-enhanced,cod-ab-bdi,dataset,Burundi - Subnational Administrative Boundaries,"Burundi administrative level 0 (country), 1 (province), and 2 (commune) boundary polygons, lines, and central points in shapefile, geodatabase, and live service formats, and attribute / P-code tables.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Burundi - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bdi) using the P-codes as keys."
 BDI,AB,cod-enhanced,cod-ab-bdi,resource,BDI_AdminBoundaries_TabularData.xlsx,"Burundi administrative level 0 (country), 1 (province), and 2 (commune) attribute / P-code tables"
@@ -3100,7 +3100,7 @@ BDI,AB,cod-enhanced,cod-ab-bdi,resource,COD_External/BDI_pcode (FeatureServer),"
 BDI,AB,cod-enhanced,cod-ab-bdi,resource,COD_External/BDI_pcode (MapServer),"BDI_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Burundi. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BDI_FR/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 BTN,AB,cod-enhanced,cod-ab-btn,dataset,Bhutan - Subnational Administrative Boundaries,"Acquired and P-coded by OCHA in 2019
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 30 OCTOBER 2020 UPDATE:  ITOS live services added
 
@@ -3118,7 +3118,7 @@ PAK,AB,cod-enhanced,cod-ab-pak,dataset,Pakistan - Subnational Administrative Bou
 
 UPDATED 2022_09_14
 
-Vetting and configuration by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and configuration by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Note:  these boundaries and P-codes are not compatible with the Pakistan COD-PS.
 
@@ -3149,7 +3149,7 @@ PAK,AB,cod-enhanced,cod-ab-pak,resource,COD_External/PAK_pcode (FeatureServer),"
 PAK,AB,cod-enhanced,cod-ab-pak,resource,COD_External/PAK_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Pakistan. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/PAK_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 TLS,AB,cod-enhanced,cod-ab-tls,dataset,Timor-Leste - Subnational Administrative Boundaries,"The dataset represents the Common Operational Data (COD) for administrative boundaries of Timor-Leste (East Timor).  Each administrative unit contains the p-code and name. 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These administrative level 0, 1, and 2 shapefiles are suitable for database or GIS linkage to the [2015 Census Population for Timor Leste](https://data.humdata.org/dataset/cod-ps-tls) tables."
 TLS,AB,cod-enhanced,cod-ab-tls,resource,TLS_AdminBoundaries_TabularData.xlsx,"Administrative level 0 (country), 1 (department), and 2 (municipality) gazetteer"
@@ -3161,7 +3161,7 @@ TLS,AB,cod-enhanced,cod-ab-tls,resource,COD_External/TLS_EN (MapServer),"This ma
 TLS,AB,cod-enhanced,cod-ab-tls,resource,COD_External/TLS_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Timor-Leste. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/TLS_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 MNG,AB,cod-enhanced,cod-ab-mng,dataset,Mongolia - Subnational Administrative Boundaries,"Mongolia administrative level 0 (country), 1 (aimag), 2 (soum), and regional boundary polygons and lines, and administrative gazeteer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 
 These shapefiles are suitable for database and GIS linkage to the [Mongolia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mng) tables."
@@ -3178,7 +3178,7 @@ VNM,AB,cod-enhanced,cod-ab-vnm,dataset,Viet Nam - Subnational Administrative Bou
 
 27 October 2020 update:  All instances of ""Thura Thien Hue"" [VN411] have been corrected to ""Thua Thien Hue"".  This affects administrative levels 1 and 2 in the shapefiles, geodatabase, and the gazetteer. 
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The boundaries are suitable for database or GIS linkage to the [Viet Nam - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-vnm) tables."
 VNM,AB,cod-enhanced,cod-ab-vnm,resource,VNM_AdminBoundaries_TabularData.xlsx,"Viet Nam administrative level 0 (country), 1 (province), and 2 (district) gazetteer"
@@ -3191,7 +3191,7 @@ VNM,AB,cod-enhanced,cod-ab-vnm,resource,COD_External/VNM_pcode (MapServer),"This
 VNM,AB,cod-enhanced,cod-ab-vnm,resource,COD_External/VNM_VI (MapServer),"This map service contains OCHA Common Operational Datasets for Viet Nam in Vietnamese: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 PRK,AB,cod-enhanced,cod-ab-prk,dataset,Democratic People's Republic of Korea - Subnational Administrative Boundaries,"DPR Korea administrative level 0 (country), 1 (province, special city), and 2 (county, city, special city) boundary and line shapefiles, EMF files,  geodatabase, gazetteer, and data sheet
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [DPR Korea administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-prk) tables.   Note, however the caveat below that two  of the boundary features do not have corresponding COD-PS records."
 PRK,AB,cod-enhanced,cod-ab-prk,resource,prk_adm_wfp_20190624_SHP.zip,"DPR Korea administrative level 0 (country), 1 (province, special city), and 2 (county, city, special city) boundary and line shapefiles"
@@ -3205,7 +3205,7 @@ MDV,AB,cod-enhanced,cod-ab-mdv,dataset,Maldives - Subnational Administrative Bou
 
 The administrative level 0-2 layers are suitable for database or GIS linkage to the [Maldives - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mdv) tables using the ADM0, ADM1, or ADM2_PCODE items.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 ITOS geoservices provided 29 March 2021.
 
@@ -3301,7 +3301,7 @@ NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm3_2023.csv,Niger administr
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_2022.xlsx,Niger administrative level 0-2 sex and age disaggregated 2022 population statistics
 BOL,AB,cod-enhanced,cod-ab-bol,dataset,Bolivia (Plurinational State of) - Subnational Administrative Boundaries,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) boundaries, gazetteer, and live services.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Bolivia (Plurinational State of) - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bol) tables.
 
@@ -3328,7 +3328,7 @@ BOL,AB,cod-enhanced,cod-ab-bol,resource,COD_External/BOL_pcode (MapServer),"BOL_
 "
 UGA,AB,cod-enhanced,cod-ab-uga,dataset,Uganda - Subnational Administrative Boundaries,"Uganda administrative level 0 (country), 1 (region), 2 (district), 3 (county), and 4 (sub-country) boundaries.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0, 1, and 2 boundaries are suitable for database or GIS linkage to the [Uganda - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-uga) tables."
 UGA,AB,cod-enhanced,cod-ab-uga,resource,UGA_AdminBoundaries_TabularData.xlsx,Uganda administrative level 0-4 gazetteer
@@ -3342,7 +3342,7 @@ CIV,AB,cod-enhanced,cod-ab-civ,dataset,Côte d'Ivoire - Subnational Administrati
 
 The update of Côte d'Ivoire dataset is based on the 2012 presidential decree which reorganized the national territory into 2 Autonomous Districts and 31 administrative regions making up the 33 admin 1 units of Côte d'Ivoire.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer.
 These boundaries are suitable for database or GIS linkage to the [Cote d'Ivoire administrative level 0-3 population statistics](https://data.humdata.org/dataset/cod-ps-civ) tables."
@@ -3360,7 +3360,7 @@ CIV,AB,cod-enhanced,cod-ab-civ,resource,COD_External/CIV_pcode (FeatureServer),"
 CIV,AB,cod-enhanced,cod-ab-civ,resource,COD_External/CIV_pcode (MapServer),"CIV_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cote d'Ivoire. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/CIV_FR/MapServer. The service also provides feature access to Administrative Boundaries and Populated Places geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 AGO,AB,cod-enhanced,cod-ab-ago,dataset,Angola - Subnational Administrative Boundaries,"Angola administrative level 0 (country), 1 (province), 2 (municipality | city council) and 3 (commune) boundary polygon, line, and point shapefiles, live services, and geodatabase; and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0-2 shapefiles are suitable for database or ArcGIS linkage to the [Angola - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ago).
 
@@ -3383,7 +3383,7 @@ ZWE,AB,cod-enhanced,cod-ab-zwe,dataset,Zimbabwe - Subnational Administrative Bou
 
 Please note that administrative level 3 (ward) features are identified numerically.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefiles are suitable for linkage by P-code to the [Zimbabwe - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-zwe) CSV population statistics tables."
 ZWE,AB,cod-enhanced,cod-ab-zwe,resource,ZWE_AdminBoundaries_TabularData.xlsx,"Zimbabwe administrative level 0 (country), 1 (province), 2 (district) and 3 (ward) gazetteer"
@@ -3443,7 +3443,7 @@ MWI,PS,cod-enhanced,cod-ps-mwi,resource,MWI admin 1 population,Malawi administra
 MWI,PS,cod-enhanced,cod-ps-mwi,resource,MWI admin 2 population,Malawi administrative level 2 2023 population statistics
 MOZ,AB,cod-enhanced,cod-ab-moz,dataset,Mozambique - Subnational Administrative Boundaries,"Mozambique  administrative level 0 (country), 1 (province), 2 (district) and 3 (posto) boundary polygons, lines,  and gazetteer.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 MOZ,AB,cod-enhanced,cod-ab-moz,resource,MOZ_AdminBoundaries_TabularData.xlsx,"Mozambique administrative level 0 (country), 1 (province), 2 (district), 3 (posto), and 4 (settlement) gazetteer
 
 Administrative level 4 covers the 'Cidade_Da_Matola' and 'Cidade_De_Maputo' districts and part of 'Marracuene' district, all in the Maputo City area."
@@ -3541,7 +3541,7 @@ The gazetteer includes uncertified administrative level 4 (locality) and 5 (vill
 
 The administrative level 0, 1, and 2 shapefiles are suitable for database and GIS linkage to the [Comoros - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-com) CSV tables.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 COM,AB,cod-enhanced,cod-ab-com,resource,COM_AdminBoundaries_TabularData.xlsx,"Comoros administrative level 0 (country), 1 (island), 2 (prefecture), 3 (commune), 4 (locality), and 5 (village) gazetteer - see caveat [1]"
 COM,AB,cod-enhanced,cod-ab-com,resource,com_adm_cosep_ocha_20191205_SHP.zip,"Comoros administrative level 0 (country), 1 (island), 2 (prefecture), 3 (commune) boundary polygon and line shapefiles"
 COM,AB,cod-enhanced,cod-ab-com,resource,com_adm_cosep_ocha_20191205_EMF.zip,"Comoros administrative level 0 (country), 1 (island), 2 (prefecture), 3 (commune) boundary polygon EMF files"
@@ -3600,7 +3600,7 @@ LKA,AB,cod-enhanced,cod-ab-lka,dataset,Sri Lanka - Subnational Administrative Bo
 
 This dataset was updated on 2 August 2022, replacing the April 2019 version.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Sri Lanka - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lka) tables using the ADM0, ADM1, and ADM2_PCODE fields."
 LKA,AB,cod-enhanced,cod-ab-lka,resource,LKA_AdminBoundaries_TabularData.xlsx,Sri Lanka administrative level 0-4 gazetteer
@@ -3618,7 +3618,7 @@ LKA,AB,cod-enhanced,cod-ab-lka,resource,V00_0/LKA_pcode (FeatureServer),"This se
 LKA,AB,cod-enhanced,cod-ab-lka,resource,V00_0/LKA_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Sri Lanka. It contains a previous version of the data. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/LKA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 IRN,AB,cod-enhanced,cod-ab-irn,dataset,Iran (Islamic Republic of) - Subnational Administrative Boundaries,"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These layers are suitable for database or GIS link to the [Iran (Islamic Republic of) administrative levels 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-irn) tables."
 IRN,AB,cod-enhanced,cod-ab-irn,resource,IRN_AdminBoundaries_TabularData.xlsx,"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) gazetteer"
@@ -3676,7 +3676,7 @@ CUB,PS,cod-enhanced,cod-ps-cub,resource,CUB admin 1 population,Cuba administrati
 CUB,PS,cod-enhanced,cod-ps-cub,resource,CUB admin 2 population,Cuba administrative level 2 2020 population statistics
 BLR,AB,cod-enhanced,cod-ab-blr,dataset,Belarus - Subnational Administrative Boundaries,"Belarus administrative level 0-1 boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 BLR,AB,cod-enhanced,cod-ab-blr,resource,BLR_AdminBoundaries_TabularData.xlsx,Belarus administrative level 0-2 gazetteer
 BLR,AB,cod-enhanced,cod-ab-blr,resource,blr_adm_unicef_20220727_AB_SHP.zip,Belarus administrative level 0-2 shapefiles
 BLR,AB,cod-enhanced,cod-ab-blr,resource,blr_adm_unicef_20220727_AB.gdb.zip,Belarus administrative level 0-2 geodatabase
@@ -3695,7 +3695,7 @@ PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_adm0_2023.csv,State of Palest
 PSE,PS,cod-enhanced,cod-ps-pse,resource,pse_admpop_adm1_2023.csv,State of Palestine administrative level 0 sex and age disaggregated 2023 population statistics
 GEO,AB,cod-enhanced,cod-ab-geo,dataset,Georgia - Subnational Administrative Boundaries,"Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), 2 (district or self-governing city), and 3 (community, etc.) boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 
 UPDATE
@@ -3718,7 +3718,7 @@ GEO,AB,cod-enhanced,cod-ab-geo,resource,COD_External/GEO_pcode (FeatureServer),"
 GEO,AB,cod-enhanced,cod-ab-geo,resource,COD_External/GEO_pcode (MapServer),"GEO_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Georgia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/GEO_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 ETH,AB,cod-enhanced,cod-ab-eth,dataset,Ethiopia - Subnational Administrative Boundaries,"These boundaries are suitable for database or GIS linkage to the [Ethiopia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-eth) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 NOTE these resources reflect the creation of the 'South West Ethiopia' region on 23 November 2021.  
 
@@ -3740,7 +3740,7 @@ MDA,AB,cod-enhanced,cod-ab-mda,resource,COD_External/MDA_pcode (FeatureServer),"
 MDA,AB,cod-enhanced,cod-ab-mda,resource,COD_External/MDA_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Moldova. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MDA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 BGR,AB,cod-enhanced,cod-ab-bgr,dataset,Bulgaria - Subnational Administrative Boundaries,"Bulgaria administrative level 0-3 boundary polygons and lines, gazetteer, and live services.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 BGR,AB,cod-enhanced,cod-ab-bgr,resource,BGR_AdminBoundaries_TabularData.xlsx,Bulgaria administrative level 0-2 administrative gazetteer
 BGR,AB,cod-enhanced,cod-ab-bgr,resource,bgr_adm_unicef_20221012_SHP.zip,Bulgaria administrative level 0-2 administrative shapefiles
 BGR,AB,cod-enhanced,cod-ab-bgr,resource,bgr_adm_unicef_20221012_EMF.zip,Bulgaria administrative level 0-2 administrative EMF files
@@ -3782,7 +3782,7 @@ AFG,AB,cod-enhanced,cod-ab-afg,resource,COD_External/AFG_pcode (MapServer),"This
 AFG,AB,cod-enhanced,cod-ab-afg,resource,COD_External/AFG_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Afghanistan. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/AFG_EN/MapServer. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 MYS,AB,cod-enhanced,cod-ab-mys,dataset,Malaysia - Subnational Administrative Boundaries,"Malaysia administrative level 0-2  boundaries.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables."
 MYS,AB,cod-enhanced,cod-ab-mys,resource,MYS_AdminBoundaries_TabularData.xlsx,Malaysia administrative level 0-2 gazetteer
@@ -3811,7 +3811,7 @@ REFERENCE  YEAR:  2022"
 CUW,PS,cod-enhanced,cod-ps-cuw,resource,cuw_admpop_2022.xlsx,Curaçao administrative level 0 sex and age disaggregated 2022 projected population statistics
 IDN,AB,cod-enhanced,cod-ab-idn,dataset,Indonesia - Subnational Administrative Boundaries,"Indonesia administrative level 0 (country - negara), 1 (province - provinsi), 2 (city, district, regency - kota, kabupaten), 3 (sub-district - kecamatan, distrik), and 4 (village - desa, kelurahan, kampung, nagari, pekon or gampong) boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Administrative boundaries from level 0  to 4 contain P-codes derived from the Badan Pusat Statistik (BPS - Statistics Indonesia).
 
@@ -3902,7 +3902,7 @@ ARG,PS,cod-enhanced,cod-ps-arg,resource,ARG admin 0 population,Argentina adminis
 ARG,PS,cod-enhanced,cod-ps-arg,resource,ARG admin 1 population,Argentina administrative level 1 2021 population statistics
 SWZ,AB,cod-enhanced,cod-ab-swz,dataset,Kingdom of Eswatini - Subnational Administrative Boundaries,"Kingdom of Eswatini 2007 administrative level 0-2 boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Kingdom of Eswatini - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-swz)."
 SWZ,AB,cod-enhanced,cod-ab-swz,resource,SWZ_AdminBoundaries_TabularData.xlsx,Kingdom of Eswatini administrative level 0-2 gazetteer
@@ -4205,7 +4205,7 @@ HUN,AB,cod-enhanced,cod-ab-hun,resource,COD_External/HUN_HU (MapServer),"This ma
 HUN,AB,cod-enhanced,cod-ab-hun,resource,COD_External/HUN_pcode (MapServer),"“This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Hungary. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/HUN_HU/MapServer. The service also provides feature access to Administrative Boundaries and  geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.”"
 SVK,AB,cod-enhanced,cod-ab-svk,dataset,Slovakia - Subnational Administrative Boundaries,"Slovakia administrative level 0-2 administrative boundaries
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These layers are suitable for database or GIS linkage to the [Slovakia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-svk) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields."
 SVK,AB,cod-enhanced,cod-ab-svk,resource,SVK_AdminBoundaries_TabularData.xlsx,Slovakia administrative level 0-2 gazetteer
@@ -4216,7 +4216,7 @@ SVK,AB,cod-enhanced,cod-ab-svk,resource,COD_External/SVK_pcode (MapServer),"This
 SVK,AB,cod-enhanced,cod-ab-svk,resource,COD_External/SVK_SK (MapServer),"This map service contains OCHA Common Operational Datasets for Slovakia: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 POL,AB,cod-enhanced,cod-ab-pol,dataset,Poland - Subnational Administrative Boundaries,"Poland administrative level 0-2 shapefiles, geodatabase, and gazetteer
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Poland - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pol) tables."
 POL,AB,cod-enhanced,cod-ab-pol,resource,pol_adm_gov_v02_20220414_SHP.zip,Poland administrative level 0-2 boundary shapefiles
@@ -4359,7 +4359,7 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 
 These layers are suitable for database or GIS linkage to the [Niger - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ner) tables.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID.
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 Live edge-matched boundary geoservices for Niger and other edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch)."
 NER,EM,cod-enhanced,cod-em-ner,resource,ner_admgz_IGNN_20230720.xlsx,Niger administrative level 0-3 gazetteer
@@ -4455,7 +4455,7 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 
 These layers are suitable for database or GIS linkage to the [Central African Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-caf) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 CAF,EM,cod-enhanced,cod-em-caf,resource,CAF_AdminBoundaries_TabularData.xlsx,Central African Republic administrative level 0-3 and Bangui level 4 gazetteer
 CAF,EM,cod-enhanced,cod-em-caf,resource,caf_admbnda_200k_sigcaf_reach_itos_em_v2.zip,Central African Republic administrative level 0-3 and Bangui level 4 boundary edge-matched shapefiles
 CAF,EM,cod-enhanced,cod-em-caf,resource,caf_admbnda_200k_sigcaf_reach_itos_em_v2.gdb.zip,Central African Republic administrative level 0-3 and Bangui level 4 geodatabase
@@ -4466,7 +4466,7 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 
 These layers are suitable for database or GIS linkage to the [Cameroon - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-cmr) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 CMR,EM,cod-enhanced,cod-em-cmr,resource,CMR_AdminBoundaries_TabularData.xlsx,Cameroon administrative level 0-3 gazetteer
 CMR,EM,cod-enhanced,cod-em-cmr,resource,cmr_admbnda_inc_20180104_em_v2.zip,Cameroon administrative level 0-3 edge-matched boundary shapefiles
 CMR,EM,cod-enhanced,cod-em-cmr,resource,cmr_admbnda_inc_20180104_em_v2.gdb.zip,Cameroon administrative level 0-3 edge-matched boundary geodatabase
@@ -4580,7 +4580,7 @@ BGR,EM,cod-enhanced,cod-em-bgr,dataset,Bulgaria - Subnational Edge-matched Admin
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-bgr); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 BGR,EM,cod-enhanced,cod-em-bgr,resource,BGR_AdminBoundaries_TabularData.xlsx,Bulgaria administrative level 0-2 administrative gazetteer
 BGR,EM,cod-enhanced,cod-em-bgr,resource,bgr_adm_unicef_20221012_em_SHP.zip,Bulgaria administrative level 0-2 edge-matched boundary shapefiles
 BGR,EM,cod-enhanced,cod-em-bgr,resource,bgr_adm_unicef_20221012_em_GDB.gdb.zip,Bulgaria administrative level 0-2 edge-matched boundary geodatabase
@@ -4601,7 +4601,7 @@ TUN,EM,cod-enhanced,cod-em-tun,dataset,Tunisia - Subnational Edge-matched Admini
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tun); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 TUN,EM,cod-enhanced,cod-em-tun,resource,TUN_AdminBoundaries_TabularData.xlsx,Tunisia administrative level 0-4 gazetteer
 TUN,EM,cod-enhanced,cod-em-tun,resource,tun_adm_ins_20221115_EM_SHP.zip,Tunisia administrative level 0-4 edge-matched boundary shapefiles
 TUN,EM,cod-enhanced,cod-em-tun,resource,tun_adm_ins_20221115_EM_GDB.gdb.zip,Tunisia administrative level 0-4 edge-matched boundary geodatabase
@@ -4679,7 +4679,7 @@ These boundaries are suitable for database or GIS linkage to the [Azerbaijan - S
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-aze); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 AZE,EM,cod-enhanced,cod-em-aze,resource,AZE_AdminBoundaries_TabularData.xlsx,"Azerbaijan administrative level 0-1, economic region, and rayon boundary gazetteer. See caveats."
 AZE,EM,cod-enhanced,cod-em-aze,resource,AZE_AdminBoundaries_EM_SHP.zip,"Azerbaijan administrative level 0-1, economic region, and rayon boundary edge-matched shapefiles. See caveats."
 AZE,EM,cod-enhanced,cod-em-aze,resource,AZE_AdminBoundaries_EM.gdb.zip,"Azerbaijan administrative level 0-1, economic region, and rayon boundary edge-matched geodatabase. See caveats."
@@ -4693,7 +4693,7 @@ These boundaries are suitable for database or GIS linkage to the [Armenia - Subn
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-arm); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 ARM,EM,cod-enhanced,cod-em-arm,resource,ARM_AdminBoundaries_TabularData.xlsx,GAZETTEER
 ARM,EM,cod-enhanced,cod-em-arm,resource,ARM_AdminBoundaries_EM_SHP.zip,Armenia administrative level 0-3 boundary shapefiles
 ARM,EM,cod-enhanced,cod-em-arm,resource,ARM_AdminBoundaries_EM_EMF.zip,Armenia administrative level 0-3 boundary EMF files
@@ -4717,7 +4717,7 @@ COD-EM datasets do not replace the authoritative COD-AB available here; however 
 
 These boundaries are NOT suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nic) tables, which do not have compatible P-coding.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 NIC,EM,cod-enhanced,cod-em-nic,resource,nic_gz_inide_itos_2023_11_27.xlsx,Nicaragua administrative level 0-2 gazetteer
 NIC,EM,cod-enhanced,cod-em-nic,resource,nic_adm_inide_itos_2023_12_07_SHP_EM.zip,Nicaragua administrative level 0-2 edge-matched administrative boundary shapefiles
 NIC,EM,cod-enhanced,cod-em-nic,resource,nic_adm_inide_itos_2023_12_07_GDB_EM.gdb.zip,Nicaragua administrative level 0-2 edge-matched administrative boundary geodatabase
@@ -4729,7 +4729,7 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 
 These layers are suitable for database or GIS linkage to the [Haiti - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-hti) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 HTI,EM,cod-enhanced,cod-em-hti,resource,HTI_AdminBoundaries_TabularData.xlsx,Haiti administrative level 0-3 gazetteer
 HTI,EM,cod-enhanced,cod-em-hti,resource,hti_adm_cnigs_20181129_EM_SHP.zip,Haiti administrative level 0-3 shapefiles
 HTI,EM,cod-enhanced,cod-em-hti,resource,hti_adm_cnigs_20181129_EM_GDB.gdb.zip,Haiti administrative level 0-3 geodatabase
@@ -4742,7 +4742,7 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 
 These layers are suitable for database or GIS linkage to the [Dominican Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-dom) administrative level 0-2 tables using the ADM0, ADM1, and ADM2_PCODE fields.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://cviog.uga.edu/information-technology/) with funding from USAID."
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID."
 DOM,EM,cod-enhanced,cod-em-dom,resource,DOM_AdminBoundaries_TabularData.xlsx,Dominican Republic administrative level 0-4 gazetteer
 DOM,EM,cod-enhanced,cod-em-dom,resource,dom_adm_one_itos_20210629_EM_SHP.zip,Dominican Republic administrative level 0-4 boundary shapefiles
 DOM,EM,cod-enhanced,cod-em-dom,resource,dom_adm_one_itos_20210629_EM_GDB.zip,Dominican Republic administrative level 0-4 boundary geodatabase
