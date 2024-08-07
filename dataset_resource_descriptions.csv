@@ -549,27 +549,6 @@ LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gazetteer.xlsx,St. Lucia adminis
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_admbnda_gov_2019_SHP.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon and line shapefiles"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019_EMF.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon EMF files"
 LCA,AB,cod-standard,cod-ab-lca,resource,lca_adm_gov_2019.gdb.zip,"St. Lucia administrative level 0 (country), 1 (quarter), and 2 boundary polygon geodatabase"
-JAM,AB,cod-standard,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"Jamaica administrative level 0-2 boundaries (COD-AB) dataset.
-
-Gratefully derived from the geoBoundaries [Jamaica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/geoboundaries-admin-boundaries-for-jamaica) dataset.  Please consult that dataset for source metadata.
-
-(That dataset contains almost identical ""ADM2"" and ""ADM3"" layers.  The geoBoundaries ""ADM3"" layer forms the ADM2 layer in this COD dataset.)
-
-This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was that:   The COD-AB does not require any update.
-
-This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam) administrative level 0-1 tables using the ADM0 and ADM1_PCODE fields.
-
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 14 features.
-
-Administrative level 2 contains 829 features."
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_admgz_geoboundaries_2004.xls,Jamaica administrative level  0-2 administrative gazetteer
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm0_geoboundaries_2024_v01.zip,Jamaica administrative level 0 boundary shapefile
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm1_geoboundaries_2024_v01.zip,Jamaica administrative level 1 boundary shapefile
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbnda_adm2_geoboundaries_2024_v04.zip,Jamaica administrative level 2 boundary shapefile
-JAM,AB,cod-standard,cod-ab-jam,resource,jam_admbndl_ALL_geoboundaries_2024_v01.zip,Jamaica administrative level 0-2 lines shapefile
 MSR,AB,cod-standard,cod-ab-msr,dataset,Montserrat - Subnational Administrative Boundaries,"Montserrat administrative level 0 (territory) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Montserrat administrative level 0-1 SADD 2011 population statistics](Montserrat administrative level 0-1 SADD 2011 population statistics) tables."
@@ -2925,6 +2904,30 @@ GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admgz_AB.xlsx,Grenada administrative
 GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admbnd_cdema_20240709_AB_SHP.zip,Grenada administrative level 0-1 (parish) administrative shapefiles
 GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_adm_cdema_itos_20240709_AB.gdb.zip,Grenada administrative level 0-1 (parish) administrative geodatabase
 GRD,AB,cod-enhanced,cod-ab-grd,resource,grd_admbnd_cdema_20240709_AB_EMF.zip,Grenada administrative level 0-1 (parish) administrative EMF files
+JAM,AB,cod-enhanced,cod-ab-jam,dataset,Jamaica - Subnational Administrative Boundaries,"""Jamaica administrative level 0-3 boundaries (COD-AB) dataset.
+
+NOTE:  See COD-PS caveat about minor data 
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
+
+Sourced from Jamaica Social Development Commission (sdc.gov.jm).
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 14 feature(s).
+
+Administrative level 2 contains 132 feature(s).
+
+Administrative level 3 contains 775 feature(s)."""
+JAM,AB,cod-enhanced,cod-ab-jam,resource,jam_admgz_sdc_20240802.xlsx,Jamaica administrative level  0-3 administrative gazetteer
+JAM,AB,cod-enhanced,cod-ab-jam,resource,jam_adm_sdc_20240802_AB_SHP.zip,Jamaica administrative level 0-3 boundary shapefiles
+JAM,AB,cod-enhanced,cod-ab-jam,resource,jam_adm_sdc_20240802_AB.gdb.zip,Jamaica administrative level 0-3 boundary geodatabase
+JAM,AB,cod-enhanced,cod-ab-jam,resource,jam_adm_sdc_20240802_AB_EMF.zip,Jamaica administrative level 0-3 boundary EMF files
 MAF,AB,cod-enhanced,cod-ab-maf,dataset,Saint Martin (French part) - Subnational Administrative Boundaries,Saint Martin administrative level 0 (nation) boundaries
 MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_SHP.zip,Saint Martin administrative level 0 boundary shape files
 MAF,AB,cod-enhanced,cod-ab-maf,resource,maf_adm_gadm_20240116_AB_GDB.gdb.zip,Saint Martin administrative level 0 boundary geodatabase
