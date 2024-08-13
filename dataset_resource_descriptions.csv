@@ -1523,12 +1523,6 @@ TUR,AB,cod-standard,cod-ab-tur-geoservices,resource,COD_External/TUR_pcode (Feat
 TUR,AB,cod-standard,cod-ab-tur-geoservices,resource,COD_External/TUR_TR (MapServer),"This map service contains OCHA Common Operational Datasets for Turkey, in Turkish: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 TUR,AB,cod-standard,cod-ab-tur-geoservices,resource,COD_External/TUR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Turkey: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints.
 "
-QAT,PS,cod-standard,cod-ps-qat,dataset,Qatar - Subnational Population Statistics,"Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
-
-These tables are suitable for database or GIS linkage to the [Qatar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-qat) and the [Qatar- Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-qat) using the ADM0 and ADM1_PCODE fields."
-QAT,PS,cod-standard,cod-ps-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 gazetteer
-QAT,PS,cod-standard,cod-ps-qat,resource,qat_admpop_2020.xlsx,Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
-QAT,PS,cod-standard,cod-ps-qat,resource,qat_admpop_adm0_2020.csv,Qatar administrative level 0 sex and age disaggregated 2020 population statistics
 MAR,PS,cod-standard,cod-ps-mar,dataset,Morocco - Subnational Population Statistics,"Morocco PRELIMINARY administrative level 2 (only) sex and age disaggregated 2014 population statistics
 
 REFERENCE YEAR:  2014
@@ -2571,28 +2565,29 @@ OMN,AB,cod-enhanced,cod-ab-omn,resource,omn_adm_gadm_20210603.gdb.zip,Oman admin
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Oman: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 OMN,AB,cod-enhanced,cod-ab-omn,resource,COD_External/OMN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Oman. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/OMN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-QAT,AB,cod-enhanced,cod-ab-qat,dataset,Qatar - Subnational Administrative Boundaries,"""Qatar administrative level 0-2 boundaries (COD-AB) dataset.
+QAT,AB,cod-enhanced,cod-ab-qat,dataset,Qatar - Subnational Administrative Boundaries,"Qatar administrative level 0-3 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 2 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
 
 Sourced from Qatar planning and statistics authority.
 
 Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Qatar [COD-PS](https://data.humdata.org/dataset/cod-ps-qat).
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-sen)
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-qat)
 Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 8 feature(s).
 
-Administrative level 2 contains 90 feature(s)."""
-QAT,AB,cod-enhanced,cod-ab-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 gazetteer
-QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20221207_AB_GDB.gdb.zip,Qatar administrative level 0-2 boundary geodatabase
-QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20221207_AB_EMF.zip,Qatar administrative level 0-2 boundary EMF files
-QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_AR (MapServer),"This map service contains OCHA Common Operational Datasets for Qatar, in Arabic: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Qatar, in English: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Qatar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/QAT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-QAT,AB,cod-enhanced,cod-ab-qat,resource,COD_External/QAT_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Qatar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/QAT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+Administrative level 2 contains 91 feature(s).
+
+Administrative level 3 contains 781 feature(s)."
+QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_admgz_2024.xlsx,Qatar administrative level 0-3 gazetteer
+QAT,AB,cod-enhanced,cod-ab-qat,resource,EN_AR_Name_Conflicts.xlsx,Qatar adm3 name conflicts (12 features)
+QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20240627_AB_SHP.zip,Qatar administrative level 0-3 boundary shapefiles
+QAT,AB,cod-enhanced,cod-ab-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-3 ITOS tabular data
+QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20240627_AB_GDB.gdb.zip,Qatar administrative level 0-3 boundary geodatabase
+QAT,AB,cod-enhanced,cod-ab-qat,resource,qat_adm_psa_20240627_AB_EMF.zip,Qatar administrative level 0-3 boundary EMF files
 SAU,AB,cod-enhanced,cod-ab-sau,dataset,Saudi Arabia - Subnational Administrative Boundaries,"Saudi Arabia administrative level 0-1 boundaries and populated places
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
@@ -4630,18 +4625,23 @@ SOM,EM,cod-enhanced,cod-em-som,resource,SOM_AdminBoundaries_TabularData.xlsx,"So
 SOM,EM,cod-enhanced,cod-em-som,resource,som_adm_ocha_20230308_EM_SHP.zip,"Somali administrative level 0-2, state, and operational zone level 1 and 2 shapefiles"
 SOM,EM,cod-enhanced,cod-em-som,resource,som_adm_ocha_20230308_EM_GDB.gdb.zip,"Somali administrative level 0-2, state, and operational zone level 1 and 2 geodatabase"
 SOM,EM,cod-enhanced,cod-em-som,resource,COD_External_Edgematch/SOM_EN_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Somalia: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+QAT,PS,cod-enhanced,cod-ps-qat,dataset,Qatar - Subnational Population Statistics,"Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
+
+These tables are suitable for database or GIS linkage to the [Qatar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-qat) and the [Qatar- Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-qat) using the ADM0 and ADM1_PCODE fields."
+QAT,PS,cod-enhanced,cod-ps-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 gazetteer
+QAT,PS,cod-enhanced,cod-ps-qat,resource,qat_admpop_2020.xlsx,Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
+QAT,PS,cod-enhanced,cod-ps-qat,resource,qat_admpop_adm0_2020.csv,Qatar administrative level 0 sex and age disaggregated 2020 population statistics
 QAT,EM,cod-enhanced,cod-em-qat,dataset,Qatar - Subnational Edge-matched Administrative Boundaries,"Qatar administrative level 0-2 boundaries and gazetteer
 
 These administrative level 0-1 layers are suitable for database or GIS linkage to the [Qatar - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-qat) tables using the ADM0 and ADM1_PCODE fields.
 
 Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
-QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20221207_EM_SHP.zip,Qatar administrative level 0-2 shapefiles
-QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20221207_EM_GDB.gdb.zip,Qatar administrative level 0-2 geodatabase
-QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20221207_EM_EMF.zip,Qatar administrative level 0-2 EMF files
-QAT,EM,cod-enhanced,cod-em-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 gazetteer
-QAT,EM,cod-enhanced,cod-em-qat,resource,COD_External_Edgematch/QAT_AR_Edgematch (MapServer),"This map service contains a global edgematched version of OCHA Common Operational Datasets for Qatar: Administrative Boundaries, in Arabic. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-QAT,EM,cod-enhanced,cod-em-qat,resource,COD_External_Edgematch/QAT_EN_Edgematch (MapServer),"This map service contains a global edgematched version of OCHA Common Operational Datasets for Qatar: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-QAT,EM,cod-enhanced,cod-em-qat,resource,COD_External/QAT_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Qatar. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/QAT_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+QAT,EM,cod-enhanced,cod-em-qat,resource,qat_admgz_2024.xlsx,Qatar administrative level 0-3 gazetteer
+QAT,EM,cod-enhanced,cod-em-qat,resource,EN_AR_Name_Conflicts.xlsx,Qatar adm3 name conflicts (12 features)
+QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20240627_EM_SHP.zip,Qatar administrative level 0-3 shapefiles
+QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20240627_EM_GDB.gdb.zip,Qatar administrative level 0-3 geodatabase
+QAT,EM,cod-enhanced,cod-em-qat,resource,qat_adm_psa_20240627_EM_EMF.zip,Qatar administrative level 0-3 EMF files
+QAT,EM,cod-enhanced,cod-em-qat,resource,QAT_AdminBoundaries_TabularData.xlsx,Qatar administrative level 0-2 ITOS tabular data
 MWI,EM,cod-enhanced,cod-em-mwi,dataset,Malawi - Subnational Edge-matched Administrative Boundaries,"Malawi administrative level 0-3 boundaries, gazetteer, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mwi); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
