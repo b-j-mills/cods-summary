@@ -4110,7 +4110,7 @@ TUR,PS,cod-enhanced,cod-ps-tur,resource,common-operational-dataset.xlsx,Türkiye
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR admin 0 population,Türkiye administrative level 0 2022 population statistics
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR admin 1 population,Türkiye administrative level 1 2022 population statistics
 TUR,PS,cod-enhanced,cod-ps-tur,resource,TUR admin 2 population,Türkiye administrative level 2 2022 population statistics
-ALB,PS,cod-enhanced,cod-ps-alb,dataset,Albania - Subnational Population Statistics,"Albania administrative level 0-1 2021 sex and age disaggregated population statistics
+ALB,PS,cod-enhanced,cod-ps-alb,dataset,Albania - Subnational Population Statistics,"Albania administrative level 0-1 2021 sex and age disaggregated population statistics.
 
 These tables are suitable for database or GIS linkage using P-codes to the [Albania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-alb) administrative level 0-1 layers."
 ALB,PS,cod-enhanced,cod-ps-alb,resource,alb_admgz_adm1.xls,Albania administrative level 0-3 gazetteer
