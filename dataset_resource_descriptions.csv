@@ -1093,12 +1093,11 @@ LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 1 population,Saint Lucia admin
 ATG,PS,cod-standard,cod-ps-atg,dataset,Antigua and Barbuda - Subnational Population Statistics,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
 
 REFERENCE YEAR:  2023"
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_codps_qa_2023.pdf,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics explanatory technical note
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2023.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
+ATG,PS,cod-standard,cod-ps-atg,resource,atg_codps_qa_2023.pdf,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics explanatory technical note
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_adm0_2023.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
 ATG,PS,cod-standard,cod-ps-atg,resource,atg_adm_gazetteer_2019.xlsx,Antigua and Barbuda administrative level 0-1 gazetteer
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2022.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_adm0_2022.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
+ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2022.xlsx,LEGACY Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
 PAK,PS,cod-standard,cod-ps-pak,dataset,Pakistan - Subnational Population Statistics,"Pakistan administrative level 0-3 sex disaggregated  2017 population statistics
 
 REFERENCE YEAR:  2017
@@ -1443,19 +1442,6 @@ GUF,PS,cod-standard,cod-ps-guf,resource,guf_admpop_insee_2016_v2.xlsx,French Gui
 GUF,PS,cod-standard,cod-ps-guf,resource,guf_admpop_adm0_insee_2016_v2.csv,French Guiana administrative level 0 2016 sex and age disaggregated population statistics
 GUF,PS,cod-standard,cod-ps-guf,resource,guf_admpop_adm1_insee_2016_v2.csv,French Guiana administrative level 1 2016 sex and age disaggregated population statistics
 GUF,PS,cod-standard,cod-ps-guf,resource,guf_admpop_adm2_insee_2016_v3.csv,French Guiana administrative level 2 2016 sex and age disaggregated population statistics
-AFG,PS,cod-standard,cod-ps-afg,dataset,Afghanistan - Subnational Population Statistics,"Afghanistan administrative levels 0 (country), and 1 (province) population statistics.
-
-REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA.
-
-Dataset updated by OCHA in 2021.
-
-The gazetteer is compatible with the [Afghanistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-afg) gazetteer.  (COD-AB boundaries are unavailable.)"
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm0_1_2021_v2.xlsx,2021 population estimates for Afghanistan administrative level 0 (country) and 1 (province).
-AFG,PS,cod-standard,cod-ps-afg,resource,grd_admgz_PS.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_popadm_adm0_2021_v2.csv,2021 population estimates for Afghanistan administrative level 0 (country).
-AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
-AFG,PS,cod-standard,cod-ps-afg,resource,AFG admin 0 population,Afghanistan administrative level 0 2021 population statistics
-AFG,PS,cod-standard,cod-ps-afg,resource,AFG admin 1 population,Afghanistan administrative level 1 2021 population statistics
 BWA,AB,cod-standard,cod-ab-bwa,dataset,Botswana - Subnational Administrative Boundaries,"Botswana administrative level 0-3 boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Botswana - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bwa) tables."
@@ -1907,17 +1893,18 @@ SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admgz_anat_20240520.xlsx,Senegal adm
 SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnd_anat_20240520_AB_SHP.zip,Senegal administrative level 0-3 shapefiles
 SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnda_anat_20240520_AB_EMF.zip,Senegal administrative level 0-3 EMF files
 SEN,AB,cod-enhanced,cod-ab-sen,resource,sen_admbnd_anat_20240520_AB_GDB.gdb.zip,Senegal administrative level 0 -3 geodatabase
-COL,PS,cod-enhanced,cod-ps-col,dataset,Colombia - Subnational Population Statistics,"Colombia administrative level 0-2 projected 2023 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,dataset,Colombia - Subnational Population Statistics,"Colombia administrative level 0-2 projected 2024 sex and age disaggregated population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Colombia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-col) layers using the ADM0, ADM1, and ADM2_PCODE fields."
-COL,PS,cod-enhanced,cod-ps-col,resource,COL_CODPS_QA_2023.pdf,Colombia administrative level 0-2 projected 2023 sex and age disaggregated population explanatory technical note
-COL,PS,cod-enhanced,cod-ps-col,resource,COL_AdminBoundaries_TabularData.xlsx,Colombia administrative level 0-2 gazetteer
-COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_2023.xlsx,Colombia administrative level 0-2 projected 2023 sex and age disaggregated population statistics
-COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm0_2023.csv,Colombia administrative level 0 projected 2023 sex and age disaggregated population statistics
-COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm1_2023.csv,Colombia administrative level 1 projected 2023 sex and age disaggregated population statistics
-COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm2_2023.csv,Colombia administrative level 2 projected 2023 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_2024.xlsx,Colombia administrative level 0-2 projected 2024 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,resource,COL-COD-PS-2024-Explanatory-Note.pdf,Colombia administrative level 0-2 projected 2023 sex and age disaggregated population explanatory technical note
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admgz_2023_PS.xlsx,Colombia administrative level 0-2 gazetteer
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm0_2024.csv,Colombia administrative level 0 projected 2024 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm1_2024.csv,Colombia administrative level 1 projected 2024 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_adm2_2024.csv,Colombia administrative level 2 projected 2024 sex and age disaggregated population statistics
+COL,PS,cod-enhanced,cod-ps-col,resource,col_admpop_2023.xlsx,LEGACY Colombia administrative level 0-2 projected 2023 sex and age disaggregated population statistics
 SLE,AB,cod-enhanced,cod-ab-sle,dataset,Sierra Leone - Subnational Administrative Boundaries,"Sierra Leone administrative level 0-4 boundaries (COD-AB) dataset.
 
 NOTE:  This COD-AB was updated in December 2023 to reflect the five-ADM1 features administrative structure.
@@ -3649,9 +3636,9 @@ BEN,PS,cod-enhanced,cod-ps-ben,resource,ben_admpop_adm2_2023.csv,Benin administr
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 0 population,Benin administrative level 0 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 1 population,Benin administrative level 1 2023 population statistics
 BEN,PS,cod-enhanced,cod-ps-ben,resource,BEN admin 2 population,Benin administrative level 2 2023 population statistics
-BMU,PS,cod-enhanced,cod-ps-bmu,dataset,Bermuda - Subnational Population Statistics,"Bermuda administrative level 0 sex and age disaggregated population 2022 projected population statistics
+BMU,PS,cod-enhanced,cod-ps-bmu,dataset,Bermuda - Subnational Population Statistics,"Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2024
 
 This dataset replaces the 2016 reference  year dataset which extended to administrative level 2."
 BMU,PS,cod-enhanced,cod-ps-bmu,resource,bmu_admpop_2024.xlsx,Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
@@ -3876,17 +3863,17 @@ ABW,PS,cod-enhanced,cod-ps-abw,dataset,Aruba - Subnational Population Statistics
 REFERENCE YEAR:  2022"
 ABW,PS,cod-enhanced,cod-ps-abw,resource,abw_admpop_2022.xlsx,Aruba administrative level 0 age and sex disaggregated 2022 projected population statistics
 ABW,PS,cod-enhanced,cod-ps-abw,resource,ABW admin 0 population,Aruba administrative level 0 2022 population statistics
-BRA,PS,cod-enhanced,cod-ps-bra,dataset,Brazil - Subnational Population Statistics,"Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics
+BRA,PS,cod-enhanced,cod-ps-bra,dataset,Brazil - Subnational Population Statistics,"Brazil administrative level 0-2 projected 2022 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2022
 
-These tables are suitable for database or GIS linkage to the [Brazil - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bra) layers using the ADM0 and ADM1_PCODE fields."
+These tables are suitable for database or GIS linkage to the [Brazil - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bra) layers using the ADM0, ADM1, and ADM2_PCODE fields."
+BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm0_2022.csv,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics
+BRA,PS,cod-enhanced,cod-ps-bra,resource,BRA-COD-PS-2024-Explanatory-Note.pdf,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics explanatory technical note
 BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admgz_ibge_2020.xlsx,Brazil administrative level 0-2 gazetteer
-BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_2022.xlsx,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics
 BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm0_2022.csv,Brazil administrative level 0 projected 2022 sex and age disaggregated population statistics
 BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm1_2022.csv,Brazil administrative level 1 projected 2022 sex and age disaggregated population statistics
-BRA,PS,cod-enhanced,cod-ps-bra,resource,BRA admin 0 population,Brazil administrative level 0 2022 population statistics
-BRA,PS,cod-enhanced,cod-ps-bra,resource,BRA admin 1 population,Brazil administrative level 1 2022 population statistics
+BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm2_2022.csv,Brazil administrative level 2 projected 2022 sex and age disaggregated population statistics
 ARG,PS,cod-enhanced,cod-ps-arg,dataset,Argentina - Subnational Population Statistics,"Argentina administrative level 0-1 2021 sex and age disaggregated Population Statistics 
 
 REFERENCE YEAR:  2021
@@ -4164,23 +4151,6 @@ CRI,PS,cod-enhanced,cod-ps-cri,resource,CRI admin 0 population,Costa Rica admini
 CRI,PS,cod-enhanced,cod-ps-cri,resource,CRI admin 1 population,Costa Rica administrative level 1 2021 population statistics
 CRI,PS,cod-enhanced,cod-ps-cri,resource,CRI admin 2 population,Costa Rica administrative level 2 2021 population statistics
 CRI,PS,cod-enhanced,cod-ps-cri,resource,CRI admin 3 population,Costa Rica administrative level 3 2021 population statistics
-UKR,PS,cod-enhanced,cod-ps-ukr,dataset,Ukraine - Subnational Population Statistics,"This Common Operational Dataset on Population Statistics (COD-PS) is estimated using baseline information from the 2001 Population Census of Ukraine and annual birth and death registration data since the last census. 
-
-REFERENCE YEAR:  2022
-
-The COD-PS is age- and sex-disaggregated at ADM-1 level (i.e. Oblast) and has a reference date of 1 January, 2022.  
-
-The ukr_admpop_2022.xlsx spreadsheet includes a table of sex and age disaggregated 2022 projected population statistics of the 30 administrative level 4 features that correspond to cities of more than 100,000 people (excluding Kyiv city).
-
-These tables are suitable for database or GIS linkage to the [Ukraine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr)  and [Ukraine - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-ukr) layers using the ADM0, and ADM2_PCODE fields."
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,UKR_gazetteer_v01.xlsx,"Ukraine administrative level 0-4 alternate gazetteer, containing official Minrehion (Ministry of Communities and Territories Development) codes which are currently in use in Ukraine and KOATUU codes which were in use in Ukraine before 2020."
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,UKR_AdminBoundaries_TabularData.xlsx,"Ukraine administrative level 0-4 gazetteer (including conventional English ADM1 names) 
-See caveats"
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,ukr_admpop_2022.xlsx,"Ukraine administrative level 0-1 and cities over 100,000 (excluding Kyiv) sex and age dissaggregated 2022 population statistics. "
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,ukr_admpop_adm0_2022.csv,Ukraine administrative level 0 sex and age dissaggregated 2022 population statistics
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,ukr_admpop_adm1_2022.csv,Ukraine administrative level 1 sex and age dissaggregated 2022 population statistics
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,UKR admin 0 population,Ukraine administrative level 0 2022 population statistics
-UKR,PS,cod-enhanced,cod-ps-ukr,resource,UKR admin 1 population,Ukraine administrative level 1 2022 population statistics
 ROU,AB,cod-enhanced,cod-ab-rou,dataset,Romania - Subnational Administrative Boundaries,"Romania administrative level 0-2 boundaries and gazetteer
 
 These layers are suitable for database or GIS linkage to the [Romania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-rou) tables using the ADM0, ADM1, and ADM2_PCODE attribute fields."
