@@ -1615,17 +1615,18 @@ SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm0_2023.csv,El Salvador adm
 SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm1_2023.csv,El Salvador administrative level 1 sex and age disaggregated 2023 projected population statistics
 SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm2_2023.csv,El Salvador administrative level 2 sex and age disaggregated 2023 projected population statistics
 SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_2022.xlsx,El Salvador administrative level 0-2 sex and age disaggregated 2022 projected population statistics
-PER,PS,cod-enhanced,cod-ps-per,dataset,Peru - Subnational Population Statistics,"Peru administrative level 0-1 sex and age disaggregated 2023 projections
+PER,PS,cod-enhanced,cod-ps-per,dataset,Peru - Subnational Population Statistics,"Peru administrative level 0-1 sex and age disaggregated 2024 projections
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Peru - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-per) using the ADM0 and ADM1_PCODE fields."
-PER,PS,cod-enhanced,cod-ps-per,resource,PER_CODPS_QA_2023.pdf,Peru administrative level 0-1 sex and age disaggregated 2023 projections explanatory technical note
-PER,PS,cod-enhanced,cod-ps-per,resource,PER_AdminBoundaries_TabularData.xlsx,Peru administrative level 0-3 gazetteer
-PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_2023.xlsx,Peru administrative level 0-1 sex and age disaggregated 2023 projections
-PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_adm0_2023.csv,Peru administrative level 0 sex and age disaggregated 2023 projections
-PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_adm1_2023.csv,Peru administrative level 1 sex and age disaggregated 2023 projections
-PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_2022.xlsx,Peru administrative level 0-1 sex and age disaggregated 2022 projections
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_2024.xlsx,Peru administrative level 0-1 sex and age disaggregated 2024 projections
+PER,PS,cod-enhanced,cod-ps-per,resource,PER-COD-PS-2024-Explanatory Note.pdf,Peru administrative level 0-1 sex and age disaggregated 2023 projections explanatory technical note
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admgz.xlsx,Peru administrative level 0-3 gazetteer derived from COD-AB
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_adm0_2024.csv,Peru administrative level 0 sex and age disaggregated 2024 projections
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_adm1_2024.csv,Peru administrative level 1 sex and age disaggregated 2024 projections
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_2023.xlsx,LEGACY Peru administrative level 0-1 sex and age disaggregated 2023 projections
+PER,PS,cod-enhanced,cod-ps-per,resource,per_admpop_2022.xlsx,LEGACY Peru administrative level 0-1 sex and age disaggregated 2022 projections
 PER,AB,cod-enhanced,cod-ab-per,dataset,Peru - Subnational Administrative Boundaries,"Información de aspectos limítrofes de Perú.
 
 NOTE:  updates for the Lima vicinity will provided shortly.
@@ -2708,14 +2709,14 @@ TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD_AdminBoundaries_TabularData.xlsx,Cha
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 0 population,Chad administrative level 0 2021 population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 1 population,Chad administrative level 1 2021 population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 2 population,Chad administrative level 2 2021 population statistics
-SDN,AB,cod-enhanced,cod-ab-sdn,dataset,Sudan - Subnational Administrative Boundaries,"Sudan administrative level 0 (country), 1 (state), and 2 (district) boundary files
+SDN,AB,cod-enhanced,cod-ab-sdn,dataset,Sudan - Subnational Administrative Boundaries,"Sudan administrative level 0-2 boundary files
 
 REFERENCE YEAR:  2020
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 The administrative level 0 and 1 layers are suitable for database or GIS linkage to the [Sudan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sdn) tables using the ADM0 and ADM1_PCODE fields.  (The Abyei region is excluded from the COD-PS.)"
-SDN,AB,cod-enhanced,cod-ab-sdn,resource,SDN_AdminBoundaries_TabularData.xlsx,"Sudan administrative level 0 (country), 1 (state), and 2 (district) gazetteer"
+SDN,AB,cod-enhanced,cod-ab-sdn,resource,SDN_AdminBoundaries_TabularData.xlsx,Sudan administrative level 0-2 gazetteer
 SDN,AB,cod-enhanced,cod-ab-sdn,resource,sdn_adm_cbs_nic_ssa_20200831_SHP.zip,Sudan administrative level 0-1 shapefiles
 SDN,AB,cod-enhanced,cod-ab-sdn,resource,sdn_adm_cbs_nic_ssa_20200317_EMF.zip,"Sudan administrative level 0(country), 1 (state), and 2 (district) EMF boundary files"
 SDN,AB,cod-enhanced,cod-ab-sdn,resource,sdn_adm_cbs_nic_ssa_20200831.gdb.zip,Sudan administrative level 0-2 geodatabase
@@ -3908,24 +3909,25 @@ SWZ,PS,cod-enhanced,cod-ps-swz,resource,swz_admpop_adm0_2022.csv,Kingdom of Eswa
 SWZ,PS,cod-enhanced,cod-ps-swz,resource,swz_admpop_adm1_2022.csv,Kingdom of Eswatini administrative level 1 sex and age disaggregated 2022 population statistics
 SWZ,PS,cod-enhanced,cod-ps-swz,resource,SWZ admin 0 population,Kingdom of Eswatini administrative level 0 2022 population statistics
 SWZ,PS,cod-enhanced,cod-ps-swz,resource,SWZ admin 1 population,Kingdom of Eswatini administrative level 1 2022 population statistics
-GTM,PS,cod-enhanced,cod-ps-gtm,dataset,Guatemala - Subnational Population Statistics,"Guatemala administrative level 0-2 projected 2023 age and sex disaggregated population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,dataset,Guatemala - Subnational Population Statistics,"Guatemala administrative level 0-2 projected 2024 age and sex disaggregated population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 Please see caveat about administrative level 2.
 
 These tables are suitable for database or GIS linkage to the [Guatemala - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gtm) layers using the ADM0, ADM1, and ADM2-PCODE fields."
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,GTM_CODPS_QA_2023.pdf,Guatemala administrative level 0-2 sex and age disaggregated 2023 projected population statistics explanatory technical note
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2023.xlsx,"Guatemala administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,GTM-COD-PS-2024-Explanatory-Note.pdf,Guatemala administrative level 0-2 sex and age disaggregated 2024 projected population statistics explanatory technical note
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2024.xlsx,"Guatemala administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
 Please see caveat about administrative level 2"
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,GTM_AdminBoundaries_TabularData.xlsx,Guatemala administrative level 0-2 gazetteer
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm0_2023.csv,Guatemala administrative level 0 sex and age disaggregated 2023 projected population statistics
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm1_2023.csv,Guatemala administrative level 1 sex and age disaggregated 2023 projected population statistics
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm2_2023.csv,"Guatemala administrative level 2 sex and age disaggregated 2023 projected population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admgz.xlsx,Guatemala administrative level 0-2 gazetteer - derived from COD-AB
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm0_2024.csv,Guatemala administrative level 0 sex and age disaggregated 2024 projected population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm1_2024.csv,Guatemala administrative level 1 sex and age disaggregated 2024 projected population statistics
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_adm2_2024.csv,"Guatemala administrative level 2 sex and age disaggregated 2024 projected population statistics
 
 Please see caveat about administrative level 2"
-GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2022.xlsx,Guatemala administrative level 0-2 sex and age disaggregated 2022Please see caveat about administrative level 2
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2023.xlsx,LEGACY Guatemala administrative level 0-2 sex and age disaggregated 2023  Please see caveat about administrative level 2
+GTM,PS,cod-enhanced,cod-ps-gtm,resource,gtm_admpop_2022.xlsx,LEGACY Guatemala administrative level 0-2 sex and age disaggregated 2022  Please see caveat about administrative level 2
 CHL,PS,cod-enhanced,cod-ps-chl,dataset,Chile - Subnational Population Statistics,"Chile administrative level 0-3 projected 2022 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2022
