@@ -3974,12 +3974,11 @@ PAN,PS,cod-enhanced,cod-ps-pan,dataset,Panama - Subnational Population Statistic
 Reference year:  2022
 
 These tables are suitable for GIS or database linkage to the [Panama - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pan)."
-PAN,PS,cod-enhanced,cod-ps-pan,resource,PAN_AdminBoundaries_TabularData.xlsx,Panama administrative level 0-3 gazetteer
-PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_2022.xlsx,Panama administrative level 0-1 sex and age disaggregated 2022 projected population statistics
-PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_adm0_2022.csv,Panama administrative level 0 sex and age disaggregated 2022 projected population statistics
-PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_adm1_2022.csv,Panama administrative level 1 sex and age disaggregated 2022 projected population statistics
-PAN,PS,cod-enhanced,cod-ps-pan,resource,PAN admin 0 population,Panama administrative level 0 2022 population statistics
-PAN,PS,cod-enhanced,cod-ps-pan,resource,PAN admin 1 population,Panama administrative level 1 2022 population statistics
+PAN,PS,cod-enhanced,cod-ps-pan,resource,pan-cod-ps-2024-explanatory-note.pdf,Panama administrative level 0-1 age and sex disaggregated 2023 population statistics Explanatory Technical Note
+PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admgz.xlsx,Panama administrative level 0-3 gazetteer derived from COD-AB
+PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_2023.xlsx,Panama administrative level 0-1 sex and age disaggregated 2023 projected population statistics
+PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_adm0_2023.csv,Panama administrative level 0 sex and age disaggregated 2023 projected population statistics
+PAN,PS,cod-enhanced,cod-ps-pan,resource,pan_admpop_adm1_2023.csv,Panama administrative level 1 sex and age disaggregated 2023 projected population statistics
 URY,PS,cod-enhanced,cod-ps-ury,dataset,Uruguay - Subnational Population Statistics,"Uruguay administrative level 0-1 projected 2023 sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2023
