@@ -1603,18 +1603,20 @@ NPL,PS,cod-enhanced,cod-ps-npl,resource,npl_admpop_adm2_2022.csv,Nepal administr
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL admin 0 population,Nepal administrative level 0 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL admin 1 population,Nepal administrative level 1 2022 population statistics
 NPL,PS,cod-enhanced,cod-ps-npl,resource,NPL admin 2 population,Nepal administrative level 2 2022 population statistics
-SLV,PS,cod-enhanced,cod-ps-slv,dataset,El Salvador - Subnational Population Statistics,"El Salvador administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,dataset,El Salvador - Subnational Population Statistics,"El Salvador administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
-These tables are suitable for database or GIS linkage to the [El Salvador - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-slv) using the ADM0_PCODE, ADM1_PCODE, and ADM2_PCODE fields."
-SLV,PS,cod-enhanced,cod-ps-slv,resource,SLV_CODPS_QA_2023.pdf,El Salvador administrative level 0-2 sex and age disaggregated 2023 projected population statistics explanatory technical note
-SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_2023.xlsx,El Salvador administrative level 0-2 sex and age disaggregated 2023 projected population statistics
-SLV,PS,cod-enhanced,cod-ps-slv,resource,SLV_AdminBoundaries_TabularData.xlsx,El Salvador administrative level 0-2 gazetteer
-SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm0_2023.csv,El Salvador administrative level 0 sex and age disaggregated 2023 projected population statistics
-SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm1_2023.csv,El Salvador administrative level 1 sex and age disaggregated 2023 projected population statistics
-SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm2_2023.csv,El Salvador administrative level 2 sex and age disaggregated 2023 projected population statistics
-SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_2022.xlsx,El Salvador administrative level 0-2 sex and age disaggregated 2022 projected population statistics
+These tables are suitable for database or GIS linkage to the [El Salvador - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-slv) using the ADM0_PCODE, ADM1_PCODE, ADM2_PCODE, and ADM3_PCODE fields."
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_2024.xlsx,El Salvador administrative level 0-3 sex and age disaggregated 2024 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,resource,SLV-COD-PS-2024-Explanatory-Note.pdf,El Salvador administrative level 0-3 sex and age disaggregated 2023 projected population statistics explanatory technical note
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admgz_2024.xlsx,El Salvador administrative level 0-3 gazetteer - derived from ITOS tabular data
+SLV,PS,cod-enhanced,cod-ps-slv,resource,SLV_AdminBoundaries_TabularData.xlsx,El Salvador administrative level 0-3 ITOS tabular data
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm0_2024.csv,El Salvador administrative level 0 sex and age disaggregated 2024 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm1_2024.csv,El Salvador administrative level 1 sex and age disaggregated 2024 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm2_2024.csv,El Salvador administrative level 2 sex and age disaggregated 2024 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_adm3_2024.csv,El Salvador administrative level 3 sex and age disaggregated 2024 projected population statistics
+SLV,PS,cod-enhanced,cod-ps-slv,resource,slv_admpop_2022.xlsx,LEGACY El Salvador administrative level 0-2 sex and age disaggregated 2022 projected population statistics
 PER,PS,cod-enhanced,cod-ps-per,dataset,Peru - Subnational Population Statistics,"Peru administrative level 0-1 sex and age disaggregated 2024 projections
 
 REFERENCE YEAR:  2024
@@ -3015,16 +3017,31 @@ CHL,AB,cod-enhanced,cod-ab-chl,resource,CHL_AdminBoundaries_TabularData.xlsx,Chi
 CHL,AB,cod-enhanced,cod-ab-chl,resource,COD_External/CHL_ES (MapServer),
 CHL,AB,cod-enhanced,cod-ab-chl,resource,COD_External/CHL_pcode (FeatureServer),"CHL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Chile. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/CHL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 CHL,AB,cod-enhanced,cod-ab-chl,resource,COD_External/CHL_pcode (MapServer),"CHL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Chile. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/CHL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-SLV,AB,cod-enhanced,cod-ab-slv,dataset,El Salvador - Subnational Administrative Boundaries,"El Salvador administrative level 0 (country), 1 (department) and 2 (municipality) boundaries
+SLV,AB,cod-enhanced,cod-ab-slv,dataset,El Salvador - Subnational Administrative Boundaries,"""El Salvador administrative level 0-3 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [El Salvador - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-slv) tables."
-SLV,AB,cod-enhanced,cod-ab-slv,resource,SLV_AdminBoundaries_TabularData.xlsx,"El Salvador administrative level 0 (country), 1 (district), and 2 (municpality) gazetteer"
-SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_gadm_2021_SHP.zip,El Salvador administrative level 0-2 boundary shapefiles
-SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_gadm_2021_EMF.zip,El Salvador administrative level 0-2 boundary EMF files
-SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_2020.gdb.zip,El Salvador administrative level 0-2 boundary geodatabase
-SLV,AB,cod-enhanced,cod-ab-slv,resource,COD_External/SLV_ES (MapServer),
-SLV,AB,cod-enhanced,cod-ab-slv,resource,COD_External/SLV_pcode (FeatureServer),"SLV_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for El Salvador. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SLV_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-SLV,AB,cod-enhanced,cod-ab-slv,resource,COD_External/SLV_pcode (MapServer),"SLV_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for El Salvador. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/SLV_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+NOTE:  ABOUT THIS UPDATE. This administrative boundary structure was changed in August 2024 to insert a new administrative level between the previous administrative level 1 and level 2 boundaries. The previous level 2 boundaries have become level 3 boundaries. The general administrative structure is now 'departamento' (administrative level 1), 'municiplo' (level 2), and 'distrito' (level 3).
+The former caveat about uninhabited administrative features being unrepresented in the COD-PS no longer applies.  The COD-PS now contains 'zero population' records for those features.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in August 2024.  The COD-AB requires improvements.
+
+Sourced from www.gadm.org.
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the El Salvador [COD-PS](https://data.humdata.org/dataset/cod-ps-slv).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-slv)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 14 feature(s).
+
+Administrative level 2 contains 48 feature(s).
+
+Administrative level 3 contains 266 feature(s)."""
+SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_admgz_2024.xlsx,El Salvador administrative level 0-3 gazetteer - derived from ITOS tabular data
+SLV,AB,cod-enhanced,cod-ab-slv,resource,SLV_AdminBoundaries_TabularData.xlsx,El Salvador administrative level 0-3 ITOS tabular data
+SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_gadm_20240819_AB_SHP.zip,El Salvador administrative level 0-2 boundary shapefiles
+SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_gadm_20240819_AB_EMF.zip,El Salvador administrative level 0-2 boundary EMF files
+SLV,AB,cod-enhanced,cod-ab-slv,resource,slv_adm_gadm_20240819_AB_GDB.gdb.zip,El Salvador administrative level 0-2 boundary geodatabase
 PAN,AB,cod-enhanced,cod-ab-pan,dataset,Panama - Subnational Administrative Boundaries,"Panama administrative level 0 (country), 1 (province or indigenous territory, provincia o comarca comarca indígena), 2 (district or indigenous territory, distrito o comarca indígena), or 3 (municpiality, corregimiento) boundaries.
 
 21 July 2020 update:
@@ -3869,7 +3886,7 @@ BRA,PS,cod-enhanced,cod-ps-bra,dataset,Brazil - Subnational Population Statistic
 REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Brazil - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bra) layers using the ADM0, ADM1, and ADM2_PCODE fields."
-BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm0_2022.csv,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics
+BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_2022.xlsx,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics
 BRA,PS,cod-enhanced,cod-ps-bra,resource,BRA-COD-PS-2024-Explanatory-Note.pdf,Brazil administrative level 0-1 projected 2022 sex and age disaggregated population statistics explanatory technical note
 BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admgz_ibge_2020.xlsx,Brazil administrative level 0-2 gazetteer
 BRA,PS,cod-enhanced,cod-ps-bra,resource,bra_admpop_adm0_2022.csv,Brazil administrative level 0 projected 2022 sex and age disaggregated population statistics
