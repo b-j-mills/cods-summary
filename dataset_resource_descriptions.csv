@@ -4016,22 +4016,18 @@ STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_2022.xlsx,Sao Tome and Princi
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm0_2022.csv,Sao Tome and Principe administrative level 0 sex and age disaggregated 2021 projected population statistics
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm1_2022.csv,Sao Tome and Principe administrative level 1 sex and age disaggregated 2021 projected population statistics
 STP,PS,cod-enhanced,cod-ps-stp,resource,stp_admpop_adm2_2022.csv,Sao Tome and Principe administrative level 0-2 sex and age disaggregated 2021 projected population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,dataset,Sri Lanka - Subnational Population Statistics,"Sri Lanka administrative level 0-2 projected sex and age disaggregated  2022  population statistics with standard five-year age groups and special age 15-17 and 18-24 variants
+LKA,PS,cod-enhanced,cod-ps-lka,dataset,Sri Lanka - Subnational Population Statistics,"Sri Lanka administrative level 0-2 projected sex and age disaggregated  2023 population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
 These tables are suitable for database or GIS linkage to the [Sri Lanka - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lka) using the ADM0, ADM1, and ADM2_PCODE fields."
-LKA,PS,cod-enhanced,cod-ps-lka,resource,LKA_AdminBoundaries_TabularData.xlsx,Sri Lanka administrative level 0-2 gazetteer
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_2022_v2.xlsx,Sri Lanka administrative level 0-2 projected sex and age disaggregated  2022  population statistics with standard five-year age groups and special age 15-17 and 18-24 variants.
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm0_2022.csv,Sri Lanka administrative level 0 projected sex and age disaggregated  2022 population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm1_2022.csv,Sri Lanka administrative level 1 projected sex and age disaggregated  2022population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm2_2022.csv,Sri Lanka administrative level 2 projected sex and age disaggregated  2022population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm0_2022_special.csv,Sri Lanka administrative level 0 projected sex and age disaggregated  2022  population statistics special age 15-17 and 18-24 variants.
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm1_2022_special.csv,Sri Lanka administrative level 1 projected sex and age disaggregated  2022  population statistics special age 15-17 and 18-24 variants.
-LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm2_2022_special.csv,Sri Lanka administrative level 2 projected sex and age disaggregated  2022  population statistics special age 15-17 and 18-24 variants.
-LKA,PS,cod-enhanced,cod-ps-lka,resource,LKA admin 0 population,Sri Lanka administrative level 0 2022 population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,resource,LKA admin 1 population,Sri Lanka administrative level 1 2022 population statistics
-LKA,PS,cod-enhanced,cod-ps-lka,resource,LKA admin 2 population,Sri Lanka administrative level 2 2022 population statistics
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_codps_qa_2023.pdf,Sri Lanka administrative level 0-2 projected sex and age disaggregated  2023  population statistics explanatory technical note
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_2023.xlsx,Sri Lanka administrative level 0-2 projected sex and age disaggregated  2023  population statistics
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_2023.xlsx,Sri Lanka administrative level 0-2 gazetteer
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm0_2023.csv,Sri Lanka administrative level 0 projected sex and age disaggregated  2023 population statistics
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm1_2023.csv,Sri Lanka administrative level 1 projected sex and age disaggregated  2023 population statistics
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_adm2_2023.csv,Sri Lanka administrative level 2 projected sex and age disaggregated  2022 population statistics
+LKA,PS,cod-enhanced,cod-ps-lka,resource,lka_admpop_2022_v2.xlsx,LEGACY Sri Lanka administrative level 0-2 projected sex and age disaggregated  2022  population statistics with standard five-year age groups and special age 15-17 and 18-24 variants.
 IDN,PS,cod-enhanced,cod-ps-idn,dataset,Indonesia - Subnational Population Statistics,"Indonesia administrative level 0-2 2020 projected sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2020
