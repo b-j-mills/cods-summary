@@ -25,7 +25,7 @@ BRA,https://data.humdata.org/dataset/cod-ab-bra,cod-standard,OCHA Latin America 
 BGR,https://data.humdata.org/dataset/cod-ab-bgr,cod-enhanced,OCHA Field Information Services Section (FISS),28,265,,,True,,,,,https://data.humdata.org/dataset/cod-em-bgr,cod-enhanced,True
 BFA,https://data.humdata.org/dataset/cod-ab-bfa,cod-enhanced,OCHA Burkina Faso,13,45,351,,True,https://data.humdata.org/dataset/cod-ps-bfa,cod-standard,UNFPA,False,https://data.humdata.org/dataset/cod-em-bfa,cod-enhanced,True
 BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),18,119,,,True,https://data.humdata.org/dataset/cod-ps-bdi,cod-enhanced,UNFPA,True,,,
-KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),25,197,1633,,True,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,True,,,
+KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),25,197,1633,,False,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,True,,,
 CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,10,58,360,,True,https://data.humdata.org/dataset/cod-ps-cmr,cod-standard,UNFPA,True,https://data.humdata.org/dataset/cod-em-cmr,cod-enhanced,True
 CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-standard,OCHA West and Central Africa (ROWCA),22,32,,,False,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,True,,,
 CYM,https://data.humdata.org/dataset/cod-ab-cym,cod-standard,OCHA Field Information Services Section (FISS),6,,,,False,https://data.humdata.org/dataset/cod-ps-cym,cod-enhanced,UNFPA,True,,,

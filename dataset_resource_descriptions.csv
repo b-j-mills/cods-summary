@@ -1971,38 +1971,41 @@ LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm2_2023.csv,Lao People's De
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 0 population,Lao People's Democratic Republic administrative level 0 2023 population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 1 population,Lao People's Democratic Republic administrative level 1 2023 population statistics
 LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 2 population,Lao People's Democratic Republic administrative level 2 2023 population statistics
-KHM,AB,cod-enhanced,cod-ab-khm,dataset,Cambodia - Subnational Administrative Boundaries,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary polygon, line, and point shapefiles, and gazetteer
+KHM,AB,cod-enhanced,cod-ab-khm,dataset,Cambodia - Subnational Administrative Boundaries,"Cambodia administrative level 0-3 boundaries (COD-AB) dataset.[Resources rearranged September 2024 with no change to content.]
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2023.  The COD-AB does not require any update.
 
-The datasets were obtained from the Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008 and unofficially updated in 2014 according to sub-decrees on administrative modifications. Data provided by WFP - VAM unit Cambodia.
+Sourced from Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008, WFP.
 
-These shapefiles are suitable for database or GIS linkage to the [Cambodia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-khm) CSV tables using the ADM0 and ADM1_PCODE fields."
-KHM,AB,cod-enhanced,cod-ab-khm,resource,KHM_AdminBoundaries_TabularData.xlsx,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary gazetteer"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm0_gov_20181004.zip,Cambodia administrative level 0 (country) boundary polygon shapefile
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm0_gov_20181004.emf,Cambodia administrative level 0 (country) boundary polygon EMF file
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm1_gov_20181004.zip,Cambodia administrative level 1 (province / khaet and capital / reach thani) boundary polygon shapefile
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm1_gov_20181004.emf,Cambodia administrative level 1 (province / khaet and capital / reach thani) boundary polygon EMF file
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm2_gov_20181004.zip,"Cambodia administrative level 2 (municipality, district) boundary polygon shapefile"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbnda_adm3_gov_20181004.zip,"Cambodia administrative level 3 (commune / khum, quarter / sangkat) boundary polygon shapefile"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbndl_admALL_gov_itos_20181004.zip,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary line shapefile"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admbndp_admALL_gov_itos_20181004.zip,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) point shapefile"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_adm_gov_20181004.zip,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) boundary polygon, line, and point geodatabase"
-KHM,AB,cod-enhanced,cod-ab-khm,resource,COD_External/KHM_EN (MapServer),
-KHM,AB,cod-enhanced,cod-ab-khm,resource,COD_External/KHM_pcode (FeatureServer),"KHM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cambodia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-KHM,AB,cod-enhanced,cod-ab-khm,resource,COD_External/KHM_pcode (MapServer),"KHM_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Cambodia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KHM_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
-KHM,PS,cod-enhanced,cod-ps-khm,dataset,Cambodia - Subnational Population Statistics,"Cambodia administrative level 0-1 projected 2023 sex and age disaggregated population statistics
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-REFERENCE YEAR:  2023
+This COD-AB is suitable for database or GIS linkage to the Cambodia [COD-PS](https://data.humdata.org/dataset/cod-ps-khm).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 25 feature(s).
+
+Administrative level 2 contains 197 feature(s).
+
+Administrative level 3 contains 1633 feature(s)."
+KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_admgz_2018.xlsx,Cambodia administrative level 0-3 gazetteer derived from ITOS tabular data
+KHM,AB,cod-enhanced,cod-ab-khm,resource,KHM_AdminBoundaries_TabularData.xlsx,"Cambodia administrative levels 0 (country), 1 (province / khaet and capital / reach thani), 2 (municipality, district), and 3 (commune / khum, quarter / sangkat) ITOS tabular data"
+KHM,AB,cod-enhanced,cod-ab-khm,resource,khm)adm_gov_20181004_AB_SHP.zip,Cambodia administrative level 0-3 administrative boundary shapefiles
+KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_adm_gov_20181004_AB_EMF.zip,Cambodia administrative level 0-3 administrative boundary EMF files
+KHM,AB,cod-enhanced,cod-ab-khm,resource,khm_adm_gov_20181004_AB_GDB.gdb.zip,Cambodia administrative level 0-3 administrative boundary geodatabase
+KHM,PS,cod-enhanced,cod-ps-khm,dataset,Cambodia - Subnational Population Statistics,"Cambodia administrative level 0-1 projected 2024 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2024
 
 These CSV tables are suitable for database or GIS linkage to the [Cambodia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-khm) shapefiles using the ADM0 and ADM1_PCODE fields."
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM_AdminBoundaries_TabularData.xlsx,Cambodia administrative level 0-3 gazetteer
-KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_2023.xlsx,Cambodia administrative level 0-1 projected 2023 sex and age disaggregated population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM_CODPS_QA_2023.pdf,Cambodia administrative level 0-1 projected 2023 sex and age disaggregated population statistics explanatory technical note
-KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm0_2023.csv,Cambodia administrative level 0 projected 2023 sex and age disaggregated population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm1_2023.csv,Cambodia administrative level 1 projected 2023 sex and age disaggregated population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 0 population,Cambodia administrative level 0  2023 population statistics
-KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM admin 1 population,Cambodia administrative level 1  2023 population statistics
+KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_2024.xlsx,Cambodia administrative level 0-1 projected 2024 sex and age disaggregated population statistics
+KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admgz_2018.xlsx,Cambodia administrative level 0-3 gazetteer derived from ITOS tabular data
+KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM_AdminBoundaries_TabularData.xlsx,Cambodia administrative level 0-3 ITOS tabular data
+KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_2023.xlsx,LEGACY Cambodia administrative level 0-1 projected 2023 sex and age disaggregated population statistics
+KHM,PS,cod-enhanced,cod-ps-khm,resource,KHM-COD-PS-2024-Explanatory-Note.pdf,Cambodia administrative level 0-1 projected 2024 sex and age disaggregated population statistics explanatory technical note
+KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm1_2024.csv,Cambodia administrative level 0 projected 2024 sex and age disaggregated population statistics
+KHM,PS,cod-enhanced,cod-ps-khm,resource,khm_admpop_adm1_2024.csv,Cambodia administrative level 1 projected 2024 sex and age disaggregated population statistics
 PNG,AB,cod-enhanced,cod-ab-png,dataset,Papua New Guinea - Subnational Administrative Boundaries,"Papua New Guinea administrative level 0 (country), 1 (province, autonomous region, and National Capital District), 2 (district), and 3 (local level government area) boundary shapefiles, EMF files, geodatabase, and gazetteer
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
@@ -3986,9 +3989,9 @@ NIC,PS,cod-enhanced,cod-ps-nic,resource,nic_admpop_adm2_2020.csv,Nicaragua admin
 NIC,PS,cod-enhanced,cod-ps-nic,resource,NIC admin 0 population,Nicaragua administrative level 0 2020 population statistics
 NIC,PS,cod-enhanced,cod-ps-nic,resource,NIC admin 1 population,Nicaragua administrative level 1 2020 population statistics
 NIC,PS,cod-enhanced,cod-ps-nic,resource,NIC admin 2 population,Nicaragua administrative level 2 2020 population statistics
-PAN,PS,cod-enhanced,cod-ps-pan,dataset,Panama - Subnational Population Statistics,"Panama administrative level 0-1 sex and age disaggregated 2021 projected population statistics
+PAN,PS,cod-enhanced,cod-ps-pan,dataset,Panama - Subnational Population Statistics,"Panama administrative level 0-1 sex and age disaggregated 2023 projected population statistics
 
-Reference year:  2022
+Reference year:  2023
 
 These tables are suitable for GIS or database linkage to the [Panama - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pan)."
 PAN,PS,cod-enhanced,cod-ps-pan,resource,pan-cod-ps-2024-explanatory-note.pdf,Panama administrative level 0-1 age and sex disaggregated 2023 population statistics Explanatory Technical Note
