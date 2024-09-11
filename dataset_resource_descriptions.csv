@@ -128,17 +128,6 @@ GRC,AB,cod-standard,cod-ab-grc,resource,GRC_Adm.xlsx,"Administrative Boundary na
 MKD,AB,cod-standard,cod-ab-mkd,dataset,North Macedonia - Subnational Administrative Boundaries,Spreadsheets and Shapefiles of Administrative levels
 MKD,AB,cod-standard,cod-ab-mkd,resource,MKD_admn.xls,Spreadsheet of administrative levels 1-4 from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)
 MKD,AB,cod-standard,cod-ab-mkd,resource,MKD_admn_adm_py_EuroGeographics-NTES_pp.zip,Shapefiles of administrative levels 1-4 from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)
-HND,PS,cod-standard,cod-ps-hnd,dataset,Honduras - Subnational Population Statistics,"Proyecciones de Población del Instituto Nacional de Estadística - INE - por edad y sexo según Departamento y Municipio 2020
-
-REFERENCE YEAR:  2024
-
-These tables are suitable for database or GIS linkage to the [Honduras - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hnd) using the ADM0, ADM1, or ADM2_PCODE fields."
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_2024.xlsx,Honduras administrative level 0-2 sex and age disaggregated projected 2024 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admgz_2020.xlsx,Honduras administrative level 0-2 gazetteer
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm0_2024.csv,Honduras administrative level 0 sex and age disaggregated projected 2024 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm1_2024.csv,Honduras administrative level 1 sex and age disaggregated projected 2024 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_adm2_2024.csv,Honduras administrative level 2 sex and age disaggregated projected 2024 population statistics
-HND,PS,cod-standard,cod-ps-hnd,resource,hnd_admpop_2022.xlsx,Honduras LEGACY administrative level 0-2 sex and age disaggregated projected 2022 population statistics
 BHS,AB,cod-standard,cod-ab-bhs,dataset,Bahamas - Subnational Administrative Boundaries,"These files were extracted from www.gadm.org
 
 Version history:
@@ -1090,14 +1079,6 @@ LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm0_v2.csv,St. Lucia administra
 LCA,PS,cod-standard,cod-ps-lca,resource,lca_pop_adm1_v2.csv,St. Lucia administrative level 1 (quarter) sex and age disaggregated population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 0 population,Saint Lucia administrative level 0 2010 population statistics
 LCA,PS,cod-standard,cod-ps-lca,resource,LCA admin 1 population,Saint Lucia administrative level 1 2010 population statistics
-ATG,PS,cod-standard,cod-ps-atg,dataset,Antigua and Barbuda - Subnational Population Statistics,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
-
-REFERENCE YEAR:  2023"
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2023.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_codps_qa_2023.pdf,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics explanatory technical note
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_adm0_2023.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_adm_gazetteer_2019.xlsx,Antigua and Barbuda administrative level 0-1 gazetteer
-ATG,PS,cod-standard,cod-ps-atg,resource,atg_admpop_2022.xlsx,LEGACY Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
 PAK,PS,cod-standard,cod-ps-pak,dataset,Pakistan - Subnational Population Statistics,"Pakistan administrative level 0-3 sex disaggregated  2017 population statistics
 
 REFERENCE YEAR:  2017
@@ -1957,20 +1938,18 @@ THA,AB,cod-enhanced,cod-ab-tha,resource,COD_External/THA_EN (MapServer),"This ma
 THA,AB,cod-enhanced,cod-ab-tha,resource,COD_External/THA_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Thailand. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/THA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 THA,AB,cod-enhanced,cod-ab-tha,resource,COD_External/THA_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Thailand. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/THA_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 THA,AB,cod-enhanced,cod-ab-tha,resource,COD_External/THA_TH (MapServer),"This map service contains OCHA Common Operational Datasets for Thailand, in Thai: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-LAO,PS,cod-enhanced,cod-ps-lao,dataset,Lao People's Democratic Republic - Subnational Population Statistics,"Lao People's Democratic Republic level 0-2 sex and age disaggregated 2022 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,dataset,Lao People's Democratic Republic - Subnational Population Statistics,"Lao People's Democratic Republic level 0-2 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 The CSV tables are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lao) COD-AB shapefiles using the ADM0, ADM1, and ADM2_PCODE fields."
-LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO_AdminBoundaries_TabularData.xlsx,Lao People's Democratic Republic level 0-2 gazetteer
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_2023.xlsx,Lao People's Democratic Republic level 0-2 sex and age disaggregated 2023 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO_CODPS_QA_2023.pdf,Lao People's Democratic Republic COD-PS Explanatory Technical Note
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm0_2023.csv,Lao People's Democratic Republic level 0 sex and age disaggregated 2023 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm1_2023.csv,Lao People's Democratic Republic level 1 sex and age disaggregated 2023 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm2_2023.csv,Lao People's Democratic Republic level 2 sex and age disaggregated 2023 projected population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 0 population,Lao People's Democratic Republic administrative level 0 2023 population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 1 population,Lao People's Democratic Republic administrative level 1 2023 population statistics
-LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO admin 2 population,Lao People's Democratic Republic administrative level 2 2023 population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_2024.xlsx,Lao People's Democratic Republic level 0-2 sex and age disaggregated 2024 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admgz_2019.xlsx,Lao People's Democratic Republic level 0-2 gazetteer derived from ITOS tabular data
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_2023.xlsx,LEGACY Lao People's Democratic Republic level 0-2 sex and age disaggregated 2024 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,LAO-COD-PS-2024-Explanatory-Note.pdf,Lao People's Democratic Republic COD-PS Explanatory Technical Note
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm0_2024.csv,Lao People's Democratic Republic level 0 sex and age disaggregated 2024 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm1_2024.csv,Lao People's Democratic Republic level 1 sex and age disaggregated 2024 projected population statistics
+LAO,PS,cod-enhanced,cod-ps-lao,resource,lao_admpop_adm2_2024.csv,Lao People's Democratic Republic level 2 sex and age disaggregated 2024 projected population statistics
 KHM,AB,cod-enhanced,cod-ab-khm,dataset,Cambodia - Subnational Administrative Boundaries,"Cambodia administrative level 0-3 boundaries (COD-AB) dataset.[Resources rearranged September 2024 with no change to content.]
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in December 2023.  The COD-AB does not require any update.
@@ -2431,6 +2410,17 @@ PHL,AB,cod-enhanced,cod-ab-phl,resource,V00_0/PHL_pcode (FeatureServer)," PHL_pc
 PHL,AB,cod-enhanced,cod-ab-phl,resource,V00_0/PHL_pcode (MapServer),"PHL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for the Philippines: Administrative Boundaries. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/PHL_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 PHL,AB,cod-enhanced,cod-ab-phl,resource,V1_00/PHL_EN (MapServer),"This map service contains a previous version of OCHA Common Operational Datasets for the Philippines: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 PHL,AB,cod-enhanced,cod-ab-phl,resource,V1_00/PHL_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from a previous version of OCHA's Common Operational Datasets for the Philippines: Administrative Boundaries. As a map service it is intended to be used in conjunction with the basemap located at http://gistmaps.itos.uga.edu/arcgis/rest/services/COD_External/PHL_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+HND,PS,cod-enhanced,cod-ps-hnd,dataset,Honduras - Subnational Population Statistics,"Proyecciones de Población del Instituto Nacional de Estadística - INE - por edad y sexo según Departamento y Municipio 2020
+
+REFERENCE YEAR:  2024
+
+These tables are suitable for database or GIS linkage to the [Honduras - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hnd) using the ADM0, ADM1, or ADM2_PCODE fields."
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admpop_2024.xlsx,Honduras administrative level 0-2 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admgz_2020.xlsx,Honduras administrative level 0-2 gazetteer
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admpop_adm0_2024.csv,Honduras administrative level 0 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admpop_adm1_2024.csv,Honduras administrative level 1 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admpop_adm2_2024.csv,Honduras administrative level 2 sex and age disaggregated projected 2024 population statistics
+HND,PS,cod-enhanced,cod-ps-hnd,resource,hnd_admpop_2022.xlsx,Honduras LEGACY administrative level 0-2 sex and age disaggregated projected 2022 population statistics
 TCD,AB,cod-enhanced,cod-ab-tcd,dataset,Chad - Subnational Administrative Boundaries,"Administrative boundaries for Chad.
 
 Level 0 : Country
@@ -2678,24 +2668,19 @@ KGZ,AB,cod-enhanced,cod-ab-kgz,resource,COD_External/KGZ_KY (MapServer),"This ma
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,COD_External/KGZ_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kyrgyzstan. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,COD_External/KGZ_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Kyrgyzstan. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/KGZ_EN/MapServer.  The service also provides feature access to Administrative Boundaries geometry and taxonomy.  The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
 KGZ,AB,cod-enhanced,cod-ab-kgz,resource,COD_External/KGZ_RU (MapServer),"This map service contains OCHA Common Operational Datasets for Kyrgyzstan in Russian: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-NGA,PS,cod-enhanced,cod-ps-nga,dataset,Nigeria - Subnational Population Statistics,"Nigeria administrative level 0-2 and Senatorial District sex and age disaggregated 2020 population statistics projected from 2006 Census.
+NGA,PS,cod-enhanced,cod-ps-nga,dataset,Nigeria - Subnational Population Statistics,"Nigeria administrative level 0-1 sex and age disaggregated 2022 population statistics projected from 2006 Census.
 
-REFERENCE YEAR:  2020
-
-Dataset updated 2021.
+REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Nigeria - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-nga) administrative level 0 to 2 and senatorial district shapefiles
 
 See caveat."
-NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA_AdminBoundaries_TabularData.xlsx,"Nigeria administrative level 0 (country), 1 (state), senatorial districts, 2 (local government area), and 3 (ward - in northeast Nigeria) gazetteer"
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_2020.xlsx,"Nigeria administrative level 0 (country), 1 (state), senatorial districts, and 2 (local government area) projected population statistics"
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm0_2020.csv,Nigeria administrative level 0 (country) 2020 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm1_2020.csv,Nigeria administrative level 1 (state) 2020 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm2_2020.csv,Nigeria administrative level 2 (local government area) 2020 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_SenDist_2020.csv,Nigeria Senatorial District 2020 projected population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 0 population,Nigeria administrative level 0 2020 population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 1 population,Nigeria administrative level 1 2020 population statistics
-NGA,PS,cod-enhanced,cod-ps-nga,resource,NGA admin 2 population,Nigeria administrative level 2 2020 population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_2022.xlsx,Nigeria administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admgz.xlsx,"Nigeria administrative level 0 (country), 1 (state), senatorial districts, 2 (local government area), and 3 (ward - in northeast Nigeria) gazetteer derived from ITOS tabular data"
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_codps_qa_2023.pdf,Nigeria administrative level 0-1 sex and age disaggregated 2022 projected population statistics explanatory technical note
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm0_2022.csv,Nigeria administrative level 0 sex and age disaggregated 2022 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm1_2022.csv,Nigeria administrative level 1 sex and age disaggregated 2022 projected population statistics
+NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_2020.xlsx,"LEGACY Nigeria administrative level 0 (country), 1 (state), senatorial districts, and 2 (local government area) projected population statistics"
 TCD,PS,cod-enhanced,cod-ps-tcd,dataset,Chad - Subnational Population Statistics,"Chad administrative level 0-2 2022 projected sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2022
@@ -3635,6 +3620,14 @@ IRN,AB,cod-enhanced,cod-ab-irn,resource,COD_External/IRN_EN (MapServer),"This ma
 IRN,AB,cod-enhanced,cod-ab-irn,resource,COD_External/IRN_FA (MapServer),"This map service contains OCHA Common Operational Datasets for Iran (Islamic Republic of) in Persian: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 IRN,AB,cod-enhanced,cod-ab-irn,resource,COD_External/IRN_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iran (Islamic Republic of). As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/IRN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
 IRN,AB,cod-enhanced,cod-ab-irn,resource,COD_External/IRN_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Iran (Islamic Republic of). As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/IRN_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services."
+ATG,PS,cod-enhanced,cod-ps-atg,dataset,Antigua and Barbuda - Subnational Population Statistics,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
+
+REFERENCE YEAR:  2023"
+ATG,PS,cod-enhanced,cod-ps-atg,resource,atg_admpop_2023.xlsx,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
+ATG,PS,cod-enhanced,cod-ps-atg,resource,atg_codps_qa_2023.pdf,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics explanatory technical note
+ATG,PS,cod-enhanced,cod-ps-atg,resource,atg_admpop_adm0_2023.csv,Antigua and Barbuda administrative level 0 age and sex disaggregated 2023 projected population statistics
+ATG,PS,cod-enhanced,cod-ps-atg,resource,atg_adm_gazetteer_2019.xlsx,Antigua and Barbuda administrative level 0-1 gazetteer
+ATG,PS,cod-enhanced,cod-ps-atg,resource,atg_admpop_2022.xlsx,LEGACY Antigua and Barbuda administrative level 0 age and sex disaggregated 2022 projected population statistics
 TCA,PS,cod-enhanced,cod-ps-tca,dataset,Turks and Caicos Islands - Subnational Population Statistics,"Turks and Caicos administrative level 0 sex and age disaggregated 2022 projected population statistics
 
 REFERENCE YEAR:   2022"
@@ -4552,7 +4545,7 @@ MDV,PS,cod-enhanced,cod-ps-mdv,dataset,Maldives - Subnational Population Statist
 
 REFERENCE YEAR:  2022
 
-These tables are suitable for database or GIS linkage to the adminisrative level 0-2 layers in the [Maldives - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mdv) using the ADM0, ADM1, and ADM2_PCODE items."
+These tables are suitable for database or GIS linkage to the administrative level 0-2 layers in the [Maldives - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mdv) using the ADM0, ADM1, and ADM2_PCODE items."
 MDV,PS,cod-enhanced,cod-ps-mdv,resource,MDV_AdminBoundaries_TabularData.xlsx,Maldives - administrative level 0-2 gazetteer
 MDV,PS,cod-enhanced,cod-ps-mdv,resource,mdv_admpop_2022.xlsx,Maldives - administrative level 0-2 sex and age disaggregated 2022 population statistics
 MDV,PS,cod-enhanced,cod-ps-mdv,resource,mdv_admpop_adm0_2022.csv,Maldives - administrative level 0 sex and age disaggregated 2022 population statistics
@@ -4805,3 +4798,14 @@ SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admgz_anat_20240520.xlsx,Senegal adm
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_SHP.zip,Senegal administrative level 0-3 shapefiles
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_GDB.gdb.zip,Senegal administrative level 0-3 geodatabase
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_EMF.zip,Senegal administrative level 0-3 EMF files
+SAU,PS,cod-enhanced,cod-ps-sau,dataset,Saudi Arabia - Subnational Population Statistics,"Saudi Arabia administrative level 0-1 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR: 2022
+
+
+These tables are suitable for database or GIS linkage to the administrative level 0-1 layers in the [Saudi Arabia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sau) using the ADM0, and ADM1_PCODE items."
+SAU,PS,cod-enhanced,cod-ps-sau,resource,sau_admpop_2022.xlsx,Saudi Arabia administrative level 0-1 sex and age disaggregated 2022 population statistics
+SAU,PS,cod-enhanced,cod-ps-sau,resource,SAU-COD-PS-2024-Explanatory-Note.pdf,Saudi Arabia administrative level 0-1 sex and age disaggregated 2022 population statistics technical explanatory note
+SAU,PS,cod-enhanced,cod-ps-sau,resource,sau_admgz.xlsx,Saudi Arabia administrative level 0-1 gazetteer derived from ITOS tabular data
+SAU,PS,cod-enhanced,cod-ps-sau,resource,sau_admpop_adm1_2022.csv,Saudi Arabia administrative level 1 sex and age disaggregated 2022 population statistics
+SAU,PS,cod-enhanced,cod-ps-sau,resource,sau_admpop_adm0_2022.csv,Saudi Arabia administrative level 0 sex and age disaggregated 2022 population statistics
