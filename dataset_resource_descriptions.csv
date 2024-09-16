@@ -2066,7 +2066,7 @@ Administrative level 2 contains 67 features.
 
 Administrative level 3 contains 266 features.
 
-Live administrative boundary geoservices for Mauritania and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External)."
+Live administrative boundary geoservices for Niger and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External)."
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_admgz_IGNN_20230720.xlsx,Niger administrative level 0-3 gazetteer
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_adm_IGNN_20230720_AB_SHP.zip,Niger administrative level 0-3 boundary shapefiles
 NER,AB,cod-enhanced,cod-ab-ner,resource,ner_adm_IGNN_20230720_AB_GDB.gdb.zip,Niger administrative level 0-3 boundary geodatabase
@@ -2681,24 +2681,21 @@ NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_codps_qa_2023.pdf,Nigeria administra
 NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm0_2022.csv,Nigeria administrative level 0 sex and age disaggregated 2022 projected population statistics
 NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_adm1_2022.csv,Nigeria administrative level 1 sex and age disaggregated 2022 projected population statistics
 NGA,PS,cod-enhanced,cod-ps-nga,resource,nga_admpop_2020.xlsx,"LEGACY Nigeria administrative level 0 (country), 1 (state), senatorial districts, and 2 (local government area) projected population statistics"
-TCD,PS,cod-enhanced,cod-ps-tcd,dataset,Chad - Subnational Population Statistics,"Chad administrative level 0-2 2022 projected sex and age disaggregated population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,dataset,Chad - Subnational Population Statistics,"Chad administrative level 0-1 sex and age disaggregated 2023 projected population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
-Dataset updated 2022.
 
 These table are suitable for database or GIS linkage to the [Chad - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tcd).
 "
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,Tchad_PopulationDuTchad_20240102.xlsx,Chad 2024 Population Projections
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2022.xlsx,Chad Admin Population 2022
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2021.xlsx,Chad administrative level 0-2 2021 projected sex and age disaggregated population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2021.csv,Chad administrative level 0 (country) sex and age disaggregated population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm1_2021.csv,Chad administrative level 1 2021 projected sex and age disaggregated population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm2_2021.csv,Chad administrative level 2 2021 projected sex disaggregated population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD_AdminBoundaries_TabularData.xlsx,Chad administrative level 0-2 gazetteer
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 0 population,Chad administrative level 0 2021 population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 1 population,Chad administrative level 1 2021 population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,TCD admin 2 population,Chad administrative level 2 2021 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_adm1_pop_2023.xlsx,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_codps_qa_2023.pdf,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics explanatory technical note
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admgz.xlsx,Chat administrative level 0-3 gazetteer derived from ITOS tabular data.  Administrative level 3 for Lac region only.
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2023.csv,Chad administrative level 0 2021 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm1_2021.csv,Chad administrative level 1 2021 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,Tchad_PopulationDuTchad_20240102.xlsx,LEGACY Chad 2024 Population Projections
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2022.xlsx,LEGACY Chad Admin Population 2022
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2021.xlsx,LEGACY Chad administrative level 0-2 2021 projected sex and age disaggregated population statistics
 SDN,AB,cod-enhanced,cod-ab-sdn,dataset,Sudan - Subnational Administrative Boundaries,"Sudan administrative level 0-2 boundary files
 
 REFERENCE YEAR:  2020
@@ -3290,33 +3287,29 @@ NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm1_2023.csv,Niger administr
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm2_2023.csv,Niger administrative level 2 sex and age disaggregated 2023 population statistics
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_adm3_2023.csv,Niger administrative level 3 sex and age disaggregated 2023 population statistics
 NER,PS,cod-enhanced,cod-ps-ner,resource,ner_admpop_2022.xlsx,Niger administrative level 0-2 sex and age disaggregated 2022 population statistics
-BOL,AB,cod-enhanced,cod-ab-bol,dataset,Bolivia (Plurinational State of) - Subnational Administrative Boundaries,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) boundaries, gazetteer, and live services.
+BOL,AB,cod-enhanced,cod-ab-bol,dataset,Bolivia (Plurinational State of) - Subnational Administrative Boundaries,"""Bolivia (Plurinational State of) administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+NOTE:  See caveats about treatment of seven water bodies.
+This dataset was updated on September 16, 2024.  The accompanying live geoservices will be updated shortly.
 
-These boundaries are suitable for database or GIS linkage to the [Bolivia (Plurinational State of) - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bol) tables.
+This COD-AB was most recently reviewed for accuracy and necessary changes in September 2024.  The COD-AB does not require any update.
 
-Version history:
+Sourced from Ministerio de Desarrollo Rural y Tierras
 
-19 May 2020
-Revision of ITOS files and live services
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
+This COD-AB is suitable for database or GIS linkage to the Bolivia (Plurinational State of) [COD-PS](https://data.humdata.org/dataset/cod-ps-bol).
 
-12 July 2019
-Upload of ITOS files and live services
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.)
+Please see the [COD Portal](https://cod.unocha.org/).
 
-28 January  2019
-Initial upload
-"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,BOL_AdminBoundaries_TabularData.xlsx,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) gazetteer"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,bol_adm_gb2014_SHP.zip,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) boundary shapefiles"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,bol_adm_gb2014_EMF.zip,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) boundary EMF files"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,BOL_AdminBoundaries_candidate.gdb.zip,"Bolivia administrative level 0 (country), 1 (departmento), 2 (provincia), and 3 (municipio) boundary geodatabase"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,COD_External/BOL_ES (MapServer),
-BOL,AB,cod-enhanced,cod-ab-bol,resource,COD_External/BOL_pcode (FeatureServer),"BOL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bolivia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BOL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.
-"
-BOL,AB,cod-enhanced,cod-ab-bol,resource,COD_External/BOL_pcode (MapServer),"BOL_pcode - Common Operational Dataset - Administrative Boundaries. This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Bolivia. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/BOL_ES/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services.
-"
+Administrative level 1 contains 9 feature(s).
+
+Administrative level 2 contains 113 feature(s).
+
+Administrative level 3 contains 343 feature(s)."""
+BOL,AB,cod-enhanced,cod-ab-bol,resource,bol_admgz.xls,Bolivia administrative level 0-3 gazetteer
+BOL,AB,cod-enhanced,cod-ab-bol,resource,bol_adm_mdrt_2013.zip,Bolivia administrative level 0-3 boundary shapefiles
 UGA,AB,cod-enhanced,cod-ab-uga,dataset,Uganda - Subnational Administrative Boundaries,"Uganda administrative level 0 (country), 1 (region), 2 (district), 3 (county), and 4 (sub-country) boundaries.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.

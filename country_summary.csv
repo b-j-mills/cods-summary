@@ -18,7 +18,7 @@ BLZ,https://data.humdata.org/dataset/cod-ab-blz,cod-enhanced,OCHA Field Informat
 BEN,https://data.humdata.org/dataset/cod-ab-ben,cod-enhanced,OCHA West and Central Africa (ROWCA),12,77,,,True,https://data.humdata.org/dataset/cod-ps-ben,cod-enhanced,UNFPA,True,https://data.humdata.org/dataset/cod-em-ben,cod-enhanced,False
 BMU,https://data.humdata.org/dataset/cod-ab-bmu,cod-standard,OCHA Field Information Services Section (FISS),9,9,,,False,https://data.humdata.org/dataset/cod-ps-bmu,cod-enhanced,UNFPA,True,,,
 BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),20,205,,,True,https://data.humdata.org/dataset/cod-ps-btn,cod-enhanced,UNFPA,True,,,
-BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),9,112,339,,True,https://data.humdata.org/dataset/cod-ps-bol,cod-enhanced,UNFPA,True,,,
+BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Field Information Services Section (FISS),9,113,343,,False,https://data.humdata.org/dataset/cod-ps-bol,cod-enhanced,UNFPA,True,,,
 BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),,,,,False,,,,,,,
 BWA,https://data.humdata.org/dataset/cod-ab-bwa,cod-standard,OCHA Field Information Services Section (FISS),17,28,519,,False,https://data.humdata.org/dataset/cod-ps-bwa,cod-enhanced,UNFPA,True,,,
 BRA,https://data.humdata.org/dataset/cod-ab-bra,cod-standard,OCHA Latin America and the Caribbean (ROLAC),27,5572,,,False,https://data.humdata.org/dataset/cod-ps-bra,cod-enhanced,UNFPA,True,,,
