@@ -2688,7 +2688,7 @@ REFERENCE YEAR:  2023
 
 These table are suitable for database or GIS linkage to the [Chad - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tcd).
 "
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_adm1_pop_2023.xlsx,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2023.xlsx,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_codps_qa_2023.pdf,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics explanatory technical note
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admgz.xlsx,Chat administrative level 0-3 gazetteer derived from ITOS tabular data.  Administrative level 3 for Lac region only.
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2023.csv,Chad administrative level 0 2021 sex and age disaggregated 2023 population statistics
