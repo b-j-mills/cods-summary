@@ -2691,8 +2691,8 @@ These table are suitable for database or GIS linkage to the [Chad - Subnational 
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2023.xlsx,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_codps_qa_2023.pdf,Chad administrative level 0-1 sex and age disaggregated 2023 population statistics explanatory technical note
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admgz.xlsx,Chat administrative level 0-3 gazetteer derived from ITOS tabular data.  Administrative level 3 for Lac region only.
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2023.csv,Chad administrative level 0 2021 sex and age disaggregated 2023 population statistics
-TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm1_2021.csv,Chad administrative level 1 2021 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm0_2023.csv,Chad administrative level 0 sex and age disaggregated 2023 population statistics
+TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_adm1_2023.csv,Chad administrative level 1 sex and age disaggregated 2023 population statistics
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,Tchad_PopulationDuTchad_20240102.xlsx,LEGACY Chad 2024 Population Projections
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2022.xlsx,LEGACY Chad Admin Population 2022
 TCD,PS,cod-enhanced,cod-ps-tcd,resource,tcd_admpop_2021.xlsx,LEGACY Chad administrative level 0-2 2021 projected sex and age disaggregated population statistics
