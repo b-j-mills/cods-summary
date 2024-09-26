@@ -3544,16 +3544,18 @@ COM,PS,cod-enhanced,cod-ps-com,resource,COM_AdminBoundaries_TabularData.xlsx,Com
 COM,PS,cod-enhanced,cod-ps-com,resource,com_admpop_2017.xlsx,Comoros administrative level 0-1 sex and age disaggregated 2017 population statistics
 COM,PS,cod-enhanced,cod-ps-com,resource,com_admpop_adm0_2017.csv,Comoros administrative level 0 sex and age disaggregated 2017 population statistics
 COM,PS,cod-enhanced,cod-ps-com,resource,com_admpop_adm1_2017.csv,Comoros administrative level 1 sex and age disaggregated 2017 population statistics
-BTN,PS,cod-enhanced,cod-ps-btn,dataset,Bhutan - Subnational Population Statistics,"Bhutan administrative level 0-1 sex and age disaggregated 2023 projected population statistics
+BTN,PS,cod-enhanced,cod-ps-btn,dataset,Bhutan - Subnational Population Statistics,"Bhutan administrative level 0-1 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 The CSV tables are suitable for database or GIS linkage to the [Bhutan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-btn) layers using the ADM0 and ADM1_PCODE fields"
-BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN_CODPS_QA_2023.pdf,Bhutan administrative level 0-1 sex and age disaggregated 2022 projected population statistics explanatory technical note
-BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_2023.xlsx,Bhutan administrative level 0-1 sex and age disaggregated 2022 projected population statistics
-BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN_AdminBoundaries_TabularData.xlsx,Bhutan administrative level 0-2 gazetteer
-BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm0_2023.csv,Bhutan administrative level 0 sex and age disaggregated 2022 projected population statistics
-BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm1_2023.csv,Bhutan administrative level 1 sex and age disaggregated 2022 projected population statistics
+BTN,PS,cod-enhanced,cod-ps-btn,resource,BTN-COD-PS-2024-Explanatory-Note.pdf,Bhutan administrative level 0-1 sex and age disaggregated 2024 projected population statistics explanatory technical note
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_2024.xlsx,Bhutan administrative level 0-1 sex and age disaggregated 2024 projected population statistics
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admgz.xlsx,Bhutan administrative level 0-2 gazetteer derived from ITOS tabular data
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm0_2024.csv,Bhutan administrative level 0-2 gazetteer
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm0_2024.csv,Bhutan administrative level 0 sex and age disaggregated 2024 projected population statistics
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_adm1_2024.csv,Bhutan administrative level 1 sex and age disaggregated 2024 projected population statistics
+BTN,PS,cod-enhanced,cod-ps-btn,resource,btn_admpop_2023.xlsx,LEGACY Bhutan administrative level 0-1 sex and age disaggregated 2023 projected population statistics
 BGD,PS,cod-enhanced,cod-ps-bgd,dataset,Bangladesh - Subnational Population Statistics,"Bangladesh administrative level 0-3 sex and age disaggregated 2022 population statistics
 
 REFERENCE YEAR:  2022
