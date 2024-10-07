@@ -1545,26 +1545,27 @@ MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN_Edgematch (MapS
 "
 MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Myanmar: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_MY_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Myanmar: Administrative Boundaries, in Burmese. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-MLI,AB,cod-enhanced,cod-ab-mli,dataset,Mali - Subnational Administrative Boundaries,"Mali administrative level 0-3 boundaries (COD-AB) dataset.
+MLI,AB,cod-enhanced,cod-ab-mli,dataset,Mali - Subnational Administrative Boundaries,"""Mali administrative level 0-3 boundaries (COD-AB) dataset.
 
-NOTE:  Two COD-PS records are not represented in the COD-AB.  The OCHA Regional Office is consulting with the DoDMA about new boundaries.
+NOTE:  
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 5 month(s) ago.  The determination was:  The COD-AB requires updates due to changes in the location (country) administrative structure.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB requires improvements.
 
-Sourced from DNCT - Direction Nationale des Collectivités Territoriales.
+Sourced from DNCT - Direction Nationale des Collectivités Territoriales
 
-Live geoservices are available.  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This COD-AB is suitable for database or GIS linkage to the Mali COD-PS table(s) using the XX_PCODE, field(s).
+This COD-AB is suitable for database or GIS linkage to the Mali [COD-PS](https://data.humdata.org/dataset/cod-ps-mli).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-mli)
+Please see the [COD Portal](https://cod.unocha.org/).
 
-An edge-matched (COD-EM) version of this COD-AB is available.
-Please see COD Portal:  https://cod.unocha.org/
+Administrative level 1 contains 10 feature(s).
 
-Administrative level 1 contains 10 features.
+Administrative level 2 contains 53 feature(s).
 
-Administrative level 2 contains 53 features.
+Administrative level 3 contains 701 feature(s).
 
-Administrative level 3 contains 701 features."
+Recommended cartographic projection:  Africa Albers Equal Area Conic"""
 MLI,AB,cod-enhanced,cod-ab-mli,resource,MLI_AdminBoundaries_TabularData.xlsx,Mali administrative level 0-3 gazetteer
 MLI,AB,cod-enhanced,cod-ab-mli,resource,mli_adm_AB_SHP.zip,Mali administrative level 0-3 shapefiles
 MLI,AB,cod-enhanced,cod-ab-mli,resource,MLI_AdminBoundaries_candidate.gdb.zip,Mali administrative level 0-3 geodatabase
