@@ -1,0 +1,844 @@
+ISO,COD-PS URL,COD-PS level,COD-PS contributor,COD-PS description,COD-PS ADM1 units,COD-PS ADM2 units,COD-PS ADM3 units,COD-PS ADM4 units
+AFG,https://data.humdata.org/dataset/cod-ps-afg,cod-standard,OCHA Afghanistan,"Afghanistan administrative levels 0 (country), and 1 (province) population statistics.
+
+REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA.
+
+Dataset updated by OCHA in 2021.
+
+The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)",35,,,
+ALB,https://data.humdata.org/dataset/cod-ps-alb,cod-enhanced,UNFPA,"Albania administrative level 0-1 2021 sex and age disaggregated population statistics.
+
+These tables are suitable for database or GIS linkage using P-codes to the [Albania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-alb) administrative level 0-1 layers.",12,,,
+AGO,https://data.humdata.org/dataset/cod-ps-ago,cod-standard,UNFPA,"Angola administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+
+Please see caveats about one special location.
+
+These CSV tables are suitable for database or GIS linkage to the [administrative level 0-2 shapefiles](https://data.humdata.org/dataset/cod-ab-ago).",,161,,
+AIA,https://data.humdata.org/dataset/cod-ps-aia,cod-enhanced,UNFPA,Anguilla administrative level 0 sex and age disaggregated 2022 projected population statistics,,,,
+ATG,https://data.humdata.org/dataset/cod-ps-atg,cod-enhanced,UNFPA,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
+
+REFERENCE YEAR:  2023",,,,
+ARG,https://data.humdata.org/dataset/cod-ps-arg,cod-enhanced,UNFPA,"Argentina administrative level 0-1 2021 sex and age disaggregated Population Statistics 
+
+REFERENCE YEAR:  2021
+
+These boundaries are suitable for database or GIS linkage to the [Argentina - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-arg).",24,,,
+ARM,https://data.humdata.org/dataset/cod-ps-arm,cod-enhanced,UNFPA,"Armenia administrative level 0-1 projected 2022 population statistics
+
+REFERENCE YEAR:  2021
+
+These tables are suitable for database or GIS linkage to the [Armenia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-arm) and the [Armenia - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-arm) using the ADM0_ and ADM1_PCODE fields.
+",11,,,
+ABW,https://data.humdata.org/dataset/cod-ps-abw,cod-enhanced,UNFPA,"Aruba administrative level 0 age and sex disaggregated 2020 projected population statistics
+
+REFERENCE YEAR:  2022",,,,
+AZE,https://data.humdata.org/dataset/cod-ps-aze,cod-standard,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-2 sex and age disaggregated 2018 projected population statistics.
+
+REFERENCE YEAR 2018
+
+This dataset contains population estimates for Azerbaijan from 2018 at country-level and first administrative level (consolidating Baku into one feature), suitable for database and GIS linkage to the [Azerbaijan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-aze) and the [Azerbaijan - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-aze), and special tables for economic regions and a version of the first administrative level that includes 11 distinct Baku features.",11,86,,
+BHS,https://data.humdata.org/dataset/cod-ps-bhs,cod-standard,UNFPA,"Bahamas administrative level 0 age and sex disaggregated 2022 projected population statistics
+
+REFERENCE YEAR 2022",,,,
+BGD,https://data.humdata.org/dataset/cod-ps-bgd,cod-enhanced,UNFPA,"Bangladesh administrative level 0-3 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR:  2022
+
+These population statistics tables are suitable for database or GIS linkage with the administrative level 0-3 [Bangladesh - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bgd) shapefiles using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",8,64,544,
+BRB,https://data.humdata.org/dataset/cod-ps-brb,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Barbados administrative level 0 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+This table is suitable for database or GIS linkage to the [Barbados administrative level 0 (national) and 1 (parish) boundary polygons and lines](https://data.humdata.org/dataset/cod-ab-brb) using the ADM0_PCODE field.",,,,
+BLZ,https://data.humdata.org/dataset/cod-ps-blz,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Belize administrative level 0 (country) age and sex 2010 disaggregated population statistics
+Belize administrative level 1 (district) age and sex 2010 disaggregated population statistics
+Belize administrative level 2 (local government) sex 2010 disaggregated population statistics
+
+REFERENCE YEAR:  2010
+
+The administrative level 0 and 1 tables are suitable for database and GIS linkage to the [Belize - Subnational Administrative Boundaries]
+
+Data extracted from the [Belize Population and Housing Census Country Report 2010](https://sib.org.bz/wp-content/uploads/2017/05/Census_Report_2010.pdf), Statistical Institute of Belize.
+
+Version history:
+22 July 2019
+Initial upload",6,218,,
+BEN,https://data.humdata.org/dataset/cod-ps-ben,cod-enhanced,UNFPA,"Benin administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Benin - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ben) or the [Benin - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-ben) layers using the ADM0, ADM1, and ADM2-PCODE fields.",12,77,,
+BMU,https://data.humdata.org/dataset/cod-ps-bmu,cod-enhanced,UNFPA,"Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
+
+REFERENCE YEAR:  2024
+
+This dataset replaces the 2016 reference  year dataset which extended to administrative level 2.",,,,
+BTN,https://data.humdata.org/dataset/cod-ps-btn,cod-enhanced,UNFPA,"Bhutan administrative level 0-1 sex and age disaggregated 2024 projected population statistics
+
+REFERENCE YEAR:  2024
+
+The CSV tables are suitable for database or GIS linkage to the [Bhutan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-btn) layers using the ADM0 and ADM1_PCODE fields",20,,,
+BOL,https://data.humdata.org/dataset/cod-ps-bol,cod-enhanced,UNFPA,"Bolivia (Plurinational State of) administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+This update replaces a 2021 dataset that had been incorrectly described as applying to 2022.
+
+These tables are suitable for database or GIS linkage to the [Bolivia (Plurinational State of) - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bol) boundaries.",9,,,
+BWA,https://data.humdata.org/dataset/cod-ps-bwa,cod-enhanced,UNFPA,"Botswana administrative level 0-3 sex and age disaggregated 2023 population projections
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Botswana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bwa).",17,28,519,
+BRA,https://data.humdata.org/dataset/cod-ps-bra,cod-enhanced,UNFPA,"Brazil administrative level 0-2 projected 2022 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Brazil - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bra) layers using the ADM0, ADM1, and ADM2_PCODE fields.",27,5570,,
+BFA,https://data.humdata.org/dataset/cod-ps-bfa,cod-standard,UNFPA,"Burkina Faso  administrative level 0-2 sex and age disaggregated 2023 projected population statistics (with five-year intervals) and 2020-2035 projected population statistics (with single-year intervals).
+
+REFERENCE YEAR:  2023
+
+The CSV tables are suitable for database or GIS linkage to the administrative level 0-3 [Burkina Faso - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bfa) boundaries using the ADM0, ADM1, and ADM2_PCODE fields.",13,45,,
+BDI,https://data.humdata.org/dataset/cod-ps-bdi,cod-enhanced,UNFPA,"Burundi administrative level 0-2 sex and age disaggregated 2022 projections with standard and special age categories
+
+REFERENCE YEAR:  2022 (projected from 2008)
+
+Population estimation done by UNFPA with [Institut de Statistiques et d'Etudes Economiques du Burundi](http://www.isteebu.bi).
+
+These CSV tables are suitable for database or GIS linkage to the [Burundi - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bdi) using the P-codes as keys.  See caveats.",18,119,,
+KHM,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,"Cambodia administrative level 0-1 projected 2024 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2024
+
+These CSV tables are suitable for database or GIS linkage to the [Cambodia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-khm) shapefiles using the ADM0 and ADM1_PCODE fields.",25,,,
+CMR,https://data.humdata.org/dataset/cod-ps-cmr,cod-standard,UNFPA,"Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2023 population statistics
+
+REFERENCE YEAR 2023
+
+These tables are suitable for database or GIS linkage to the [Cameroon - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cmr) and [Cameroon - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-cmr) layers using the ADM0, and ADM1_PCODE fields.",10,,,
+CPV,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,"Cabo Verde  administrative level 0-1 and island sex and age disaggregated 2021 projected population statistics
+
+UPDATED 24 January 2023 to correctly assign ADM1 feature ""São Salvador do Mundo"" [CV19] to island ""Santiago"" [CV6].
+
+
+
+
+REFERENCE YEAR:  2022
+
+Gazetteer available to administrative level 4
+
+The administrative level 0, 1, and island tables are suitable for database or GIS linkage to the [Cabo Verde - Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cpv) administrative level 0, 1, and 2 shapefiles using the ADM0, ADM1, and ISL_PCODE items.",22,,,
+CYM,https://data.humdata.org/dataset/cod-ps-cym,cod-enhanced,UNFPA,"Cayman Islands administrative level 0 sex and age disaggregated 2021 projected population statistics
+
+REFERENCE YEAR:  2021
+
+This table is suitable for database or GIS linkage to the [Cayman Islands administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-cym) using the ADM0_PCODE field.",,,,
+CAF,https://data.humdata.org/dataset/cod-ps-caf,cod-standard,OCHA Central African Republic,"General census 2003 and projected to 2015
+REFERENCE YEAR:  2015
+See caveats.
+2021 data available.  
+",,,,
+TCD,https://data.humdata.org/dataset/cod-ps-tcd,cod-enhanced,UNFPA,"Chad administrative level 0-1 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:  2023
+
+
+These table are suitable for database or GIS linkage to the [Chad - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tcd).
+",23,,,
+CHL,https://data.humdata.org/dataset/cod-ps-chl,cod-enhanced,UNFPA,"Chile administrative level 0-3 projected 2022 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Chile - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-chl) layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",16,56,346,
+COL,https://data.humdata.org/dataset/cod-ps-col,cod-enhanced,UNFPA,"Colombia administrative level 0-2 projected 2024 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2024
+
+These tables are suitable for database or GIS linkage to the [Colombia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-col) layers using the ADM0, ADM1, and ADM2_PCODE fields.",33,1122,,
+COM,https://data.humdata.org/dataset/cod-ps-com,cod-enhanced,UNFPA,"Comoros administrative level 0-1 sex and age disaggregated 2017 population statistics
+
+REFERENCE YEAR:  2017
+
+The gazetteer includes an administrative level 3 (commune) table for which no statistics are available.
+
+The CSV files are suitable for database or GIS linkage to the [Comoros - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-com) administrative level 0, 1, and 2 shapefiles.",3,,,
+COD,https://data.humdata.org/dataset/cod-ps-cod,cod-standard,OCHA Democratic Republic of the Congo (DRC),"Democratic Republic of the Congo administrative level 0 (country), 1 (province), 2 (district) sex and age disaggregated 2019 and 2020 population statistics
+
+REFERENCE YEAR:  2020
+
+See caveats
+
+These tables are suitable for database or GIS linkage to the [RDC - Administrative Boundaries (levels 0 - 2)](https://data.humdata.org/dataset/cod-ab-cod).",26,189,,
+CRI,https://data.humdata.org/dataset/cod-ps-cri,cod-enhanced,UNFPA,"Costa Rica administrative level 0-3 sex and age disaggregated 2021 projected population statistics
+
+These tables are suitable for database or GIS linkage to the [Costa Rica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cri) layers.",7,81,478,
+CIV,https://data.humdata.org/dataset/cod-ps-civ,cod-standard,OCHA West and Central Africa (ROWCA),"Côte d'Ivoire administrative level 0 (country), 1 (district / autonomous city), 2 (region), and 3 (department) 2019 projected population statistics
+
+These tables are suitable for database or GIS linkage to the [Côte d'Ivoire administrative level 0-3 boundary polygons, lines, and points shapefiles, geodatbase, KMZ files, and live services, and gazetteer](https://data.humdata.org/dataset/cod-ab-civ) boundaries.",33,108,510,
+CUB,https://data.humdata.org/dataset/cod-ps-cub,cod-enhanced,UNFPA,"Cuba administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+
+REFERENCE YEAR:  2020
+
+These tables are suitable for database or GIS linkage to the [Cuba - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cub) using the ADM0, ADM1, and ADM2_PCODE fields.",16,168,,
+CUW,https://data.humdata.org/dataset/cod-ps-cuw,cod-enhanced,UNFPA,"Curaçao administrative level 0 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE  YEAR:  2022",,,,
+DJI,https://data.humdata.org/dataset/cod-ps-dji,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Djibouti administrative level 0-1 2009 population statistics
+
+REFERENCE YEAR:  2009
+
+
+
+",6,,,
+DMA,https://data.humdata.org/dataset/cod-ps-dma,cod-enhanced,UNFPA,"Dominica administrative level 0 age and sex disaggregated population 2022 projected population statistics
+
+REFERENCE YEAR:  2022",,,,
+DOM,https://data.humdata.org/dataset/cod-ps-dom,cod-enhanced,UNFPA,"Dominican Republic administrative level 0-2 projected 2023 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Dominican Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-dom) or [Dominican Republic - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-dom) layers using the ADM0, ADM1, and ADM2_PCODE fields.",10,32,,
+ECU,https://data.humdata.org/dataset/cod-ps-ecu,cod-enhanced,UNFPA,"Ecuador administrative level 0-1 sex and age disaggregated 2020 projected population statistics
+
+REFERENCE YEAR:  2020
+
+These tables are suitable for database or GIS linkage using the P-codes to the [Ecuador - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ecu) administrative level 0 and 1 layers.",25,,,
+EGY,https://data.humdata.org/dataset/cod-ps-egy,cod-standard,OCHA Field Information Services Section (FISS),"Egypt administrative level 1 (governorate) 2016 population statistics.
+
+REFERENCE YEAR:  2016",,,,
+SLV,https://data.humdata.org/dataset/cod-ps-slv,cod-enhanced,UNFPA,"El Salvador administrative level 0-2 sex and age disaggregated 2024 projected population statistics
+
+REFERENCE YEAR:  2024
+
+These tables are suitable for database or GIS linkage to the [El Salvador - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-slv) using the ADM0_PCODE, ADM1_PCODE, ADM2_PCODE, and ADM3_PCODE fields.",14,48,266,
+ERI,https://data.humdata.org/dataset/cod-ps-eri,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Eritrea level 0 (national), level 1 (region), and level 2 (district)  2001 population statistics including  number of individuals, number of households, number of administrative villages, and number of villages.
+
+REFERENCE YEAR:  2001
+
+These tables are suitable for database or GIS linkage to the [Eritrea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-eri).",6,58,,
+ETH,https://data.humdata.org/dataset/cod-ps-eth,cod-standard,OCHA Ethiopia,"Ethiopia administrative level 0-3 sex and age disaggregated projected 2022 population statistics.
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Ethiopia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-eth).",13,92,1084,
+FJI,https://data.humdata.org/dataset/cod-ps-fji,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Fiji administrative level 0 (country), 1 (division), 2 (province), and 3 (tikina) 2017 population statistics
+
+REFERENCE YEAR:  2017
+
+These tables are suitable for linking by GIS or database to the [Fiji administrative level 0, 1, 2, and 3 boundary polygon](https://data.humdata.org/dataset/cod-ab-fji) shapefiles.",4,15,86,
+GUF,https://data.humdata.org/dataset/cod-ps-guf,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"French Guiana administrative level 0-2 2016 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2016
+
+These tables are suitable for database and GIS linkage to the [French Guiana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-guf).",2,22,,
+GAB,https://data.humdata.org/dataset/cod-ps-gab,cod-standard,UNFPA,"Gabon administrative level 0-2 sex and age disaggregated projected 2022 population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Gabon - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gab) layers using the ADM0 and ADM1_PCODE fields.",9,,,
+GMB,https://data.humdata.org/dataset/cod-ps-gmb,cod-standard,OCHA West and Central Africa (ROWCA),"Gambia administrative level 0 (country), 1 (local government area) 2021 population statistics
+
+REFERENCE YEAR:  2021
+
+These tables are suitable for database or GIS linkage to the [Gambia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gmb) layers using the ADM0 and ADM1_PCODE items.",8,8,,
+GEO,https://data.humdata.org/dataset/cod-ps-geo,cod-standard,OCHA Field Information Services Section (FISS),"REFERENCE YEAR:  2014
+
+These tables are suitable for database or GIS linkage to the [Georgia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-geo).  However the administrative level 1 and 2 boundaries  do not include the Georgian breakaway regions of Abkhazia and South Ossetia.",11,80,,
+GHA,https://data.humdata.org/dataset/cod-ps-gha,cod-enhanced,UNFPA,"Ghana administrative level 0-2 age and sex disaggregated 2021 population statistics
+
+See caveats
+
+These tables are suitable for database and GIS linkage to the [Ghana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gha).",16,216,,
+GRD,https://data.humdata.org/dataset/cod-ps-grd,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Grenada administrative level 0-1 2011 sex and age disaggregated population statistics
+
+REFERENCE  YEAR:   2011
+
+These tables are suitable for database or GIS linkage to the [Grenada - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-grd).",7,,,
+GLP,https://data.humdata.org/dataset/cod-ps-glp,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Guadeloupe administrative level 0 (department), 1 (arrondissement), and 2 (canton) sex and age disaggregated 2016 population statistics
+
+REFERENCE YEAR:  2016",2,32,,
+GTM,https://data.humdata.org/dataset/cod-ps-gtm,cod-enhanced,UNFPA,"Guatemala administrative level 0-2 projected 2024 age and sex disaggregated population statistics
+
+REFERENCE YEAR:  2024
+
+Please see caveat about administrative level 2.
+
+These tables are suitable for database or GIS linkage to the [Guatemala - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gtm) layers using the ADM0, ADM1, and ADM2-PCODE fields.",22,340,,
+GIN,https://data.humdata.org/dataset/cod-ps-gin,cod-enhanced,UNFPA,"Guinea administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:   2023
+
+These tables are suitable for database or ArcGIS joins to the [Guinea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gin) and [Guinea - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-gin) layers using the ADM0, ADM1, and ADM2_PCODE fields.
+
+
+",8,34,,
+GUY,https://data.humdata.org/dataset/cod-ps-guy,cod-standard,UNFPA,"Guyana administrative level 0 (country), 1 (region) population statistics
+
+REFERENCE YEAR:  2021
+
+These (administrative levels 0 and 1) tables are suitable for database or GIS joins to the [Guyana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-guy)",10,,,
+HTI,https://data.humdata.org/dataset/cod-ps-hti,cod-standard,OCHA Field Information Services Section (FISS),"Haiti administrative level 3 sex and age disaggregated projected population statistics.
+
+The upper age limit for the 'enfants', 'filles', and 'garcons' ('children', 'girls', and 'boys') categories is 17.
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Haiti - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hti) layers using the ADM1 and ADM2_PCODE fields.",10,140,,
+HND,https://data.humdata.org/dataset/cod-ps-hnd,cod-enhanced,UNFPA,"Proyecciones de Población del Instituto Nacional de Estadística - INE - por edad y sexo según Departamento y Municipio 2020
+
+REFERENCE YEAR:  2024
+
+These tables are suitable for database or GIS linkage to the [Honduras - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hnd) using the ADM0, ADM1, or ADM2_PCODE fields.",18,298,,
+HUN,https://data.humdata.org/dataset/cod-ps-hun,cod-enhanced,UNFPA,"Romania administrative level 0-1 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR 2022
+
+These tables are suitable for database or GIS linkage to the [Hungary - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hun) layers.",20,,,
+IDN,https://data.humdata.org/dataset/cod-ps-idn,cod-enhanced,UNFPA,"Indonesia administrative level 0-2 2020 projected sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2020
+
+These tables are suitable for database or GIS linkage to the [Indonesia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-idn) boundaries.",34,514,,
+IRN,https://data.humdata.org/dataset/cod-ps-irn,cod-standard,OCHA Middle East and North Africa (ROMENA),"Iran (Islamic Republic of) administrative levels 0 (country), 1 (province, ostān), and 2 (district, baxš) 2016 population statistics
+
+REFERENCE YEAR:  2016
+
+These tables are suitable for database or GIS linkage to the [Iran (Islamic Republic of) administrative levels 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-irn) layers.",31,429,,
+IRQ,https://data.humdata.org/dataset/cod-ps-irq,cod-enhanced,UNFPA,"Iraq administrative level 0-1 sex and age disaggregated 2021 projected population statistics
+
+REFERENCE YEAR:  2021
+
+These tables are suitable for database or GIS joins to the [Iraq - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-irq) using the ADM0 and ADM1_PCODE fields.",18,,,
+JAM,https://data.humdata.org/dataset/cod-ps-jam,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Jamaica administrative level 0 (country) and 1 (parish) 2011 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2011
+
+These tables are suitable for database or GIS linkage to [Jamaica administrative level 0 and 1 boundary polygons and lines](https://data.humdata.org/dataset/cod-ab-jam).",14,,,
+KAZ,https://data.humdata.org/dataset/cod-ps-kaz,cod-enhanced,UNFPA,"Kazakhstan administrative level 0-1 sex and age disaggregated 2023
+
+REFERENCE  YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the  [Kazakhstan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-kaz) administrative level 0-1 boundaries using the ADM0 and ADM1_PCODE fields.   (The P-codes in the archived 2021 layer are not compatible.)
+",20,,,
+KEN,https://data.humdata.org/dataset/cod-ps-ken,cod-standard,UNFPA,"Kenya administrative level 0-2 projected 2019 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2019
+
+The administrative level 0 and 1 tables are suitable for database or GIS linkage to the [Kenya - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ken).",47,,,
+KIR,https://data.humdata.org/dataset/cod-ps-kir,cod-standard,UNFPA,"Kiribati administrative level 0-3 sex and age disaggregated 2020 projected population statistics
+
+REFERENCE YEAR:  2020
+
+These tables are suitable for database or GIS linkage to the [Kiribati - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-kir).",3,36,,
+PRK,https://data.humdata.org/dataset/cod-ps-prk,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"DPR Korea administrative level 0 (country), 1 (province, special city), and 2 (county, city, special city) 2008 population statistics
+
+REFERENCE YEAR:  2008
+
+These population statistics tables are suitable for database or GIS linkage to the [DPR Korea administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-prk).  Note, however the caveat below that two administrative level 2 features in the COD-AB do not have corresponding records in the COD-PS table.",11,179,,
+KGZ,https://data.humdata.org/dataset/cod-ps-kgz,cod-standard,OCHA Middle East and North Africa (ROMENA),"This dataset contains population estimates for Kyrgyzstan from 2018 at country-level and first and second administrative levels. It includes a breakdown by urban and rural areas and has population disaggregated by sex and age (at country and first administrative levels).
+
+REFERENCE YEAR:  2018
+
+The file includes a sheet with metadata.
+
+Please note that data from the 2009 population census is available here: https://data.humdata.org/dataset/cod-ab-kgz",,,,
+LAO,https://data.humdata.org/dataset/cod-ps-lao,cod-enhanced,UNFPA,"Lao People's Democratic Republic level 0-2 sex and age disaggregated 2024 projected population statistics
+
+REFERENCE YEAR:  2024
+
+The CSV tables are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lao) COD-AB shapefiles using the ADM0, ADM1, and ADM2_PCODE fields.",18,148,,
+LSO,https://data.humdata.org/dataset/cod-ps-lso,cod-enhanced,UNFPA,"Lesotho population administrative level 0-1 sex and age disaggregated 2022 projected  population statistics
+
+REFERENCE YEAR:  2022
+
+The level 1 (district) table is suitable for database or GIS linkage to the [Lesotho administrative level 0 - 2 boundaries](https://data.humdata.org/dataset/cod-ab-lso) administrative level 1 shapefile.",10,,,
+LBR,https://data.humdata.org/dataset/cod-ps-lbr,cod-standard,OCHA West and Central Africa (ROWCA),"The excel file represents the population statisics of Liberia (Projection 2020).
+
+REFERENCE YEAR:  2020
+
+These tables are suitable for database or GIS linkage to the [Liberia - Subnational Administrative Boundaries]().https://data.humdata.org/dataset/cod-ab-lbr
+
+VERSION HISTORY
+18 March 2020
+2020 projections update
+
+7 November 2019
+ITOS gazetteer added
+
+18 July 2019
+2019 projection updates
+CSV file uploads
+
+5 April 2018
+Initial upload
+",15,136,,
+MDG,https://data.humdata.org/dataset/cod-ps-mdg,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Madagascar administrative level 0-4 2018 population statistics
+
+REFERENCE YEAR:  2018
+
+These CSV tables are suitable for database or GIS linkage to the [Madagascar administrative level 0 - 4 boundaries](https://data.humdata.org/dataset/cod-ab-mdg) shapefiles.",22,119,1579,17465
+MWI,https://data.humdata.org/dataset/cod-ps-mwi,cod-enhanced,UNFPA,"Malawi administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:  2023
+
+These CSV tables are suitable for database or ArcGIS linkage to the [Malawi - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mwi) or [Malawi - Subnational Edge-matched Administrative Boundaries
+](https://data.humdata.org/dataset/cod-em-mwi) layers using the ADM0, ADM1, and ADM2_PCODE fields.",3,32,,
+MYS,https://data.humdata.org/dataset/cod-ps-mys,cod-enhanced,UNFPA,"Malaysia administrative level 0-1 2020 sex and age disaggregated population statistics projected from 2010 census.
+
+Note:  the gazetteer was corrected in March 2023 to reflect two administrative level 1 name changes.  The population statistics tables do not reflect these corrections.
+
+REFERENCE YEAR:  2020
+
+These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mys)",16,,,
+MDV,https://data.humdata.org/dataset/cod-ps-mdv,cod-enhanced,UNFPA,"Maldives - administrative level 0-2 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the administrative level 0-2 layers in the [Maldives - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mdv) using the ADM0, ADM1, and ADM2_PCODE items.",5,21,,
+MLI,https://data.humdata.org/dataset/cod-ps-mli,cod-standard,OCHA Mali,"Population of Mali 2018, disaggregated by admin 1 to 3 and by gender
+
+REFERENCE YEAR:  2018
+
+These tables are suitable for database or GIS linkage to the [Mali - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mli) layers.
+
+Projection based on 2009 population census
+
+Update history
+
+8 August 2019
+Addition of CSV files
+
+7 March 2018
+Initial upload
+
+Version history:
+
+7 August 2019
+Dataset renamed.  Administrative levels 0-2 established.
+
+10 May 2019
+Dataset renamed
+
+7 March 2018
+Initial upload",9,50,701,
+MHL,https://data.humdata.org/dataset/cod-ps-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative levels 0 (country), 1 (atoll), and 2 (EA) 2011 population statistics and gazetteer.
+
+REFERENCE YEAR:  2011
+
+These .CSV tables are suitable for database or GIS linkage to the [Marshall Islands administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-mhl) shapefiles.",25,153,,
+MTQ,https://data.humdata.org/dataset/cod-ps-mtq,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Martinique administrative level 0 (territory), 1 (arrondissement), and 2 (commune) 2016 sex and age dissaggregated population statistics
+
+REFERENCE YEAR:  2016
+
+These tables are suitable for database or GIS linkage to the [Martinique administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-mtq).
+
+Version history:
+17 February:  Update from IGN
+ 9 September 2017:  Initial upload from www.gadm.org
+",4,34,,
+MRT,https://data.humdata.org/dataset/cod-ps-mrt,cod-standard,UNFPA,"Mauritania administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+This dataset has NOT been updated to link to the new [Mali - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mli).  The administrative level 1 boundaries and P-codes no longer match.
+
+",13,,,
+MUS,https://data.humdata.org/dataset/cod-ps-mus,cod-standard,UNFPA,"Mauritius administrative level 0-1 2018 projected population with gender and Census 2011 population with age. 
+
+REFERENCE YEAR:  2018
+
+***
+Users should note that a correction has been made to the Mauritius COD-PS posted early on 9 August.  The 2018 population data were correct but the Census 2011 population data tables have been updated to amend an error in the 2011 population figures.  This note will be removed after one week.
+***
+
+These tables are suitable for database or GIS linkage to the [Mauritius - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mus).",10,,,
+MEX,https://data.humdata.org/dataset/cod-ps-mex,cod-enhanced,UNFPA,"Mexico administrative level 0-2 sex and age disaggregated 2021 projected population statistics
+
+REFERENCE YEAR:  2021
+
+These administrative population statistics tables are suitable for database or GIS linkage to the [Mexico - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mex). ",32,2457,,
+FSM,https://data.humdata.org/dataset/cod-ps-fsm,cod-standard,OCHA Office of the Pacific Islands,"Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), and 2 (municipality) sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2010
+",4,75,,
+MDA,https://data.humdata.org/dataset/cod-ps-mda,cod-enhanced,UNFPA,"Republic of Moldova administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+
+These tables are suitable for database or GIS linkage to the Republic of Moldova - Subnational Administrative Boundaries administrative level 0-1 layers using the ADM0 and ADM1_PCODE fields.",35,,,
+MNG,https://data.humdata.org/dataset/cod-ps-mng,cod-enhanced,UNFPA,"Mongolia administrative level 0-1 and regional 2017 sex disaggregated population statistics
+
+Mongolia administrative level 2 2017 sex disaggregated population statistics
+
+See caveats
+
+These tables are suitable for database of GIS linkage to the [Mongolia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mng) shapefiles and gazetteer.",22,339,,
+MSR,https://data.humdata.org/dataset/cod-ps-msr,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Montserrat administrative level 0 (territory) and 1 (parish) sex and age disaggregated 2011 population statistics
+
+REFERENCE YEAR:  2011
+
+These tables are suitable for database or GIS linkage to the [Montserrat administrative level 0 (nation) and 1 (parish) boundaries](https://data.humdata.org/dataset/cod-ab-msr).",3,,,
+MAR,https://data.humdata.org/dataset/cod-ps-mar,cod-standard,OCHA Field Information Services Section (FISS),"Morocco PRELIMINARY administrative level 2 (only) sex and age disaggregated 2014 population statistics
+
+REFERENCE YEAR:  2014
+
+This administrative level 2 dataset is suitable for database or GIS linkage to the [Morocco - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mar) boundary layer using the ADM2_PCODE field.
+
+",,31,,
+MOZ,https://data.humdata.org/dataset/cod-ps-moz,cod-enhanced,UNFPA,"Mozambique administrative level 0-2 2023 projected sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Mozambique - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-moz) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.",11,159,,
+MMR,https://data.humdata.org/dataset/cod-ps-mmr,cod-standard,UNFPA,"Myanmar administrative level 0-3 sex and age disaggregated projected 2022 population statistics 
+
+REFERENCE YEAR:  2022
+
+
+These population statistics are suitable for database or GIS linkage to the [Myanmar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mmr) or the [Myanamar - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-mmr) administrative level 0-3 layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+
+
+The COD-AB and COD-EM layers manages both 15-feature and 18-feature administrative level 1 systems.  These COD-PS tables conform to the 18-feature system.
+
+See caveats for further information.
+
+",18,80,330,
+NAM,https://data.humdata.org/dataset/cod-ps-nam,cod-enhanced,UNFPA,"Namibia administrative level 0-2 sex and age disaggregated 2023 population statistic projections
+
+REFERENCE YEAR:  2023
+
+The CSV files are suitable for database or GIS linkage to the [Namibia administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-nam) layers using the ADM0, ADM1, and ADM2_PCODE fields.",14,107,,
+NPL,https://data.humdata.org/dataset/cod-ps-npl,cod-enhanced,UNFPA,"Nepal administrative levels 0-2 sex and age disaggregated projected 2022 population statistics
+
+REFERENCE YEAR:  2022
+
+These CSV tables are suitable for database or GIS linkage to the [Nepal - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-npl) polygon shapefiles using the ADM0, ADM1, and ADM2_PCODE fields .",7,77,,
+NIC,https://data.humdata.org/dataset/cod-ps-nic,cod-enhanced,UNFPA,"Nicaragua administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+
+REFERENCE YEAR:  2020
+
+These are updated tables that are no longer compatible at administrative level 2 for database or GIS linkage to the [Nicaragua - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-nic) or [Nicaragua - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-nic).
+
+",17,153,,
+NER,https://data.humdata.org/dataset/cod-ps-ner,cod-enhanced,UNFPA,"Niger administrative level 0-3 sex disaggregated 2023 population statistics
+
+REFERENCE YEAR:  2023
+
+These CSV tables are suitable for database or GIS linkage to the [Niger - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ner) using the ADM0, ADM1, and ADM2_PCODE fields.
+
+NOTE  The COD-AB live geoservices will be updated to be compatible in January 2024.
+
+The 2022 reference year version is provided for reference.",8,67,266,
+NGA,https://data.humdata.org/dataset/cod-ps-nga,cod-enhanced,UNFPA,"Nigeria administrative level 0-1 sex and age disaggregated 2022 population statistics projected from 2006 Census.
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Nigeria - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-nga) administrative level 0 to 2 and senatorial district shapefiles
+
+See caveat.",37,,,
+PAK,https://data.humdata.org/dataset/cod-ps-pak,cod-standard,OCHA Field Information Services Section (FISS),"Pakistan administrative level 0-3 sex disaggregated  2017 population statistics
+
+REFERENCE YEAR:  2017
+
+UNFPA investigated replacement or projection of this dataset in 2021. No better alternative is currently available.
+
+NOTE this dataset is not compatible with the [Pakistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pak) layers, which were updated on 2022_09_02.",5,131,,
+PSE,https://data.humdata.org/dataset/cod-ps-pse,cod-enhanced,UNFPA,"State of Palestine administrative level 0-1 sex and age disaggregated 2023 population statistics
+
+REFERENCE YEAR: 2023
+
+These tables are suitable for database or GIS linkage to the [State of Palestine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pse).",2,,,
+PAN,https://data.humdata.org/dataset/cod-ps-pan,cod-enhanced,UNFPA,"Panama administrative level 0-1 sex and age disaggregated 2023 projected population statistics
+
+Reference year:  2023
+
+These tables are suitable for GIS or database linkage to the [Panama - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pan).",13,,,
+PNG,https://data.humdata.org/dataset/cod-ps-png,cod-standard,OCHA Field Information Services Section (FISS),"Papua New Guinea administrative level 0-3 2011 population statistics.  
+(Please see caveats.)
+
+REFERENCE YEAR:  2011
+
+See caveats
+
+These population statistics .csv tables are suitable for database or GIS linkage to the shapefiles available in the [Papua New Guinea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-png) HDX dataset.
+
+ Source:  [National Statistics Office 2011 Census results]( https://www.nso.gov.pg/download/77/nso-digital-library/2246/png-final-figures-2011-booklet-2.pdf )",22,325,326,
+PRY,https://data.humdata.org/dataset/cod-ps-pry,cod-standard,UNFPA,"Paraguay administrative level 0-2 projected 2023 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Paraguay - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pry) using the ADM0, ADM1, and ADM2_Pcode fields.",18,250,,
+PER,https://data.humdata.org/dataset/cod-ps-per,cod-enhanced,UNFPA,"Peru administrative level 0-1 sex and age disaggregated 2024 projections
+
+REFERENCE YEAR:  2024
+
+These tables are suitable for database or GIS linkage to the [Peru - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-per) using the ADM0 and ADM1_PCODE fields.",25,,,
+PHL,https://data.humdata.org/dataset/cod-ps-phl,cod-standard,UNFPA,"Philippines administrative level 0-2 sex and age disaggregated 2022, 2023, 2024, and 2025 population statistics
+
+REFERENCE YEAR:  2022 (and 2023, 2024, 2025)
+
+These CSV population statistics files are suitable for database or ArcGIS joins to the [Philippines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-phl).
+
+See caveats.",17,84,,
+POL,https://data.humdata.org/dataset/cod-ps-pol,cod-standard,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 sex disaggregated 2020 population statistics
+
+REFERENCE YEAR: 2020
+
+These tables are suitable for database or GIS linkage to the [Poland - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pol) tables using the ADM0, and ADM1_PCODE fields.",16,380,,
+PRI,https://data.humdata.org/dataset/cod-ps-pri,cod-standard,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipal) sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2010
+
+These tables are suitable for database or GIS linkage to the [Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries](https://data.humdata.org/dataset/cod-ab-pri)",,,,
+QAT,https://data.humdata.org/dataset/cod-ps-qat,cod-enhanced,UNFPA,"Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
+
+These tables are suitable for database or GIS linkage to the [Qatar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-qat) and the [Qatar- Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-qat) using the ADM0 and ADM1_PCODE fields.",,,,
+ROU,https://data.humdata.org/dataset/cod-ps-rou,cod-enhanced,UNFPA,"Romania administrative level 0-2 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR 2022
+
+These tables are suitable for database or GIS linkage to the [Romania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-rou) layers.",8,42,,
+RWA,https://data.humdata.org/dataset/cod-ps-rwa,cod-enhanced,UNFPA,"Rwanda administrative level 0-3 sex and age disaggregated 2023 population statistics projections
+
+REFERENCE YEAR:  2023
+
+These CSV tables are suitable for database or GIS linkage to the [Rwanda - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-rwa) layers using the ADM0. ADM1, ADM2, and ADM3_PCODE fields.
+
+The 2022 data are included for reference.",5,30,416,
+BLM,https://data.humdata.org/dataset/cod-ps-blm,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Saint Barthélemy administrative level 0 (overseas collectivity) and 1 (parish) 2016 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2016",3,,,
+KNA,https://data.humdata.org/dataset/cod-ps-kna,cod-enhanced,UNFPA,"Saint Kitts and Nevis administrative level 0 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022",,,,
+LCA,https://data.humdata.org/dataset/cod-ps-lca,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"St. Lucia administrative level 0 (country) and 1 (quarter) 2010 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2010
+
+These tables are suitable for database or GIS linkage to the [Saint Lucia administrative levels 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-lca) layers.",10,,,
+MAF,https://data.humdata.org/dataset/cod-ps-maf,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Saint-Martin administrative level 0 (overseas collectivity) and 1 (""îlot regroupé pour l'information statistique"" (IRIS)) 2016 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2016",10,,,
+VCT,https://data.humdata.org/dataset/cod-ps-vct,cod-enhanced,UNFPA,"Saint Vincent and The Grenadines administrative level 0 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2022
+
+These tables (at administrative level 0) are suitable for database or GIS linkage to the [Saint Vincent and The Grenadines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vct).",,,,
+STP,https://data.humdata.org/dataset/cod-ps-stp,cod-enhanced,UNFPA,"Sao Tome and Principe administrative level 0-2 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Sao Tome and Principe - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-stp) using the ADM0, ADM1, and ADM2_PCODE items.",2,7,,
+SAU,https://data.humdata.org/dataset/cod-ps-sau,cod-enhanced,UNFPA,"Saudi Arabia administrative level 0-1 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR: 2022
+
+
+These tables are suitable for database or GIS linkage to the administrative level 0-1 layers in the [Saudi Arabia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sau) using the ADM0, and ADM1_PCODE items.",13,,,
+SEN,https://data.humdata.org/dataset/cod-ps-sen,cod-enhanced,UNFPA,"Senegal administrative level 0-1 sex and age disaggregated 2021 projected population statistics
+
+REFERENCE YEAR:  2021
+
+These tables are suitable for database or GIS linkage to the [Senegal - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sen) layers using the ADM0 and ADM1_PCODE fields.",14,,,
+SYC,https://data.humdata.org/dataset/cod-ps-syc,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Seychelles - Subnational Population Statistics
+
+REFERENCE YEAR:  2019
+
+These tables are suitable for database or GIS linkage to the [Seychelles - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-syc).",4,8,27,
+SLE,https://data.humdata.org/dataset/cod-ps-sle,cod-standard,OCHA West and Central Africa (ROWCA),"Sierra Leone administrative levels 0 (country), 1 (province), 2 (district), and 3 (chiefdom) sex-disaggregated population statistics
+
+REFERENCE YEAR:  2020 projections
+
+Endorsed by the Information Management Working Group, March 2018.
+
+These CSV tables are suitable for database or GIS linkage to the [https://data.humdata.org/dataset/cod-ab-sle](https://data.humdata.org/dataset/cod-ab-sle) administrative level 0-3 shapefiles and geodatabase features.
+",4,14,167,
+SXM,https://data.humdata.org/dataset/cod-ps-sxm,cod-standard,OCHA Field Information Services Section (FISS),"Sint Maarten administrative level 0 (constituent country), 1 (district), and 2 (sub-district) disaggregated population statistics and gazetteer
+
+These administrative level 0 and 1 CSV tables are suitable for database or GIS linkage to the [Sint Maarten administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-sxm) shapefiles.",9,,,
+SVK,https://data.humdata.org/dataset/cod-ps-svk,cod-enhanced,UNFPA,"Slovakia administrative level 0-1  sex and age disaggregated 2021 population statistics
+
+REFERENCE YEAR 2021
+
+In addition to the administrative level 0-2 tables, this dataset includes a NUTS3 (administrative level 3) table.
+
+These tables are suitable for database or GIS linkage to the [Slovakia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-svk) layers.",8,79,,
+SLB,https://data.humdata.org/dataset/cod-ps-slb,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Solomon Islands administrative level 0 (country),  1 (province), 2 (constituency), and 3 (ward) population statistics
+
+REFERENCE YEAR:  2009
+
+Suitable for GIS or database linkage to the [Solomon Islands administrative level 0, 1, 2, and 3 boundary polygons](https://data.humdata.org/dataset/cod-ab-slb) Common Operational Dataset.",10,50,183,
+SOM,https://data.humdata.org/dataset/cod-ps-som,cod-standard,OCHA Somalia,"The United Nations Population Fund (UNFPA) partnered with donors and UN agencies and took up the lead role to support the Somali authorities in undertaking the Population Estimation Survey (PESS) for Somalia in October 2013- March 2014.
+
+REFERENCE YEAR:  2014
+
+UNFPA investigated replacement or projection of this dataset in 2021.  Only ADM0 (national) data was available.  No better alternative is currently available.
+
+PESS gathered basic critical information on the Somalis living in urban, rural and nomadic areas (interviewed at water points during the peak of the long, dry season), and in settlements for internally displaced persons. One standard questionnaire was used in selected enumeration areas or pre-identified areas. Data was collected in three main phases: cartographic field mapping, household listing in the sampled areas, and the interviewing of households using the standard questionnaire.
+
+PESS report by UNFPA had only the population estimate at regional level (Admin level 1). With the demand to get this data disaggregated to district level to enhance assessment and in particular assessments of people in food insecure by FAO-FSNAU, the district data was interpolated using FSNAU livelihood information embedded in the 2005 UNDP district level population data
+",18,74,,
+ZAF,https://data.humdata.org/dataset/cod-ps-zaf,cod-enhanced,UNFPA,"South Africa administrative levels 0 (country), 1 (province), 2 (district), and 3 (local municipality) population statistics.
+
+REFERENCE YEAR:  2016
+
+
+These CSV files are suitable for database or GIS linkage to the [South Africa - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-zaf) shapefiles.",9,52,,
+LKA,https://data.humdata.org/dataset/cod-ps-lka,cod-enhanced,UNFPA,"Sri Lanka administrative level 0-2 projected sex and age disaggregated  2023 population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Sri Lanka - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lka) using the ADM0, ADM1, and ADM2_PCODE fields.",9,25,,
+SSD,https://data.humdata.org/dataset/cod-ps-ssd,cod-standard,OCHA South Sudan,"South Sudan administrative level 0-2 2023 population estimates.
+
+SEE CAVEATS
+
+REFERENCE YEAR:  2023
+Waiting for inputs
+
+REFERENCE YEAR:  2022
+
+Dataset updated by OCHA 2020.
+
+This population statistics Common Operational Database (COD-PS) was endorsed the Government and South Sudan National Bureau of Statistics in November 2020.
+
+These tables are suitable for database or GIS link to the [South Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ssd).
+",10,78,,
+SDN,https://data.humdata.org/dataset/cod-ps-sdn,cod-enhanced,UNFPA,"Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics
+
+These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sdn) layers using the ADM0 and ADM1_PCODE fields.  (See Caveats about the  Abyei region.)",18,188,,
+SUR,https://data.humdata.org/dataset/cod-ps-sur,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Suriname administrative level 0 (country), 1 (district), and 2 (resort) integrated sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2012
+
+These tables are suitable for database or GIS linkage to the [Suriname administrative level 0, 1, and 2 boundaries](https://data.humdata.org/dataset/cod-ab-sur).",10,62,,
+SWZ,https://data.humdata.org/dataset/cod-ps-swz,cod-enhanced,UNFPA,"Kingdom of Eswatini administrative level 0-2 sex and age disaggregated 2022 population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Kingdom of Eswatini - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-swz).",4,,,
+TJK,https://data.humdata.org/dataset/cod-ps-tjk,cod-standard,UNFPA,Tajikistan administrative level 0-1 sex and age disaggregated 2019 projected population statistics.  See caveat.,5,,,
+TZA,https://data.humdata.org/dataset/cod-ps-tza,cod-enhanced,UNFPA,"United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2020 population projections
+
+REFERENCE YEAR:  2020
+
+These population statistics tables are are suitable for database or GIS linkage to the [United Republic of Tanzania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tza).
+
+These data DO NOT reflect the creation of Songwe region in January 2016 from the western half of Mbeya Region.  See caveats.",31,169,,
+THA,https://data.humdata.org/dataset/cod-ps-tha,cod-enhanced,UNFPA,"Thailand administrative level 0-2 projected sex and age disaggregated 2023 population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the administrative level 0 and 1 [Thailand - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tha) shapefiles and geodatabase features using the ADM0, ADM1, and ADM2_PCODE items.",77,928,,
+TLS,https://data.humdata.org/dataset/cod-ps-tls,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Timor-Leste administrative level 0-1 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Timor-Leste - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tls) layers using the ADM0 and ADM1_PCODE fields.
+
+Note caveats.",13,,,
+TGO,https://data.humdata.org/dataset/cod-ps-tgo,cod-standard,UNFPA,"Togo administrative level 0-1 sex and age disaggregated 2021 projected population statistics
+
+REFERENCE YEAR:  2021
+
+These tables are suitable for database or GIS linkage to the [Togo - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tgo) for administrative level 0-1.  The administrative level 2 features cannot be updated to conform to the COD-AB.",5,,,
+TON,https://data.humdata.org/dataset/cod-ps-ton,cod-enhanced,UNFPA,"Tonga administrative level 0-3 sex and age disaggregated 2021 population statistics
+
+In additional to the standard five-year age cohort tables, additional administrative level 0 and 1 tables are provided with individual year steps up to age 19 to permit non-standard disaggregations.  See the spreadsheet tabs and .csv tables with names ending with 'years'
+
+REFERENCE YEAR:  2021
+
+Sex disaggregation is available at all administrative levels.  Fully integrated age disaggregation is available at administrative levels 0 and 1.
+
+These population statistics files are suitable for GIS or database joins to the [Tonga - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ton)",5,23,160,
+TTO,https://data.humdata.org/dataset/cod-ps-tto,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Trinidad and Tobago administrative levels 0 (country) and 1 (regional corporation or municipality) population statistics
+
+REFERENCE YEAR:  2011
+
+INTERIM version combining Tobago parishes into one municipality (P-code TT90) for compatibility with the COD-AB.
+
+These CSV tables are suitable for database or GIS linkage to the [Trinidad and Tobago administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-tto) shapefiles.",15,,,
+TUN,https://data.humdata.org/dataset/cod-ps-tun,cod-standard,UNFPA,"Tunisia administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+
+These tables are suitable for database or GIS linkage to the [Tunisia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tun) administrative level 0-2 layers using the ADM0, ADM1, and ADM2_PCODE fields.
+
+
+",6,24,,
+TUR,https://data.humdata.org/dataset/cod-ps-tur,cod-enhanced,UNFPA,"Türkiye administrative level 0-2 sex and age disaggregated 2021 projected population statistics, including a table of ""Syrians under temporary protection"" for administrative level 2.
+
+REFERENCE YEAR:  2022
+
+These tables are suitable for database or GIS linkage to the [Turkey - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tur) using the ADM0, ADM1, and ADM2_PCODE fields.",81,973,,
+TCA,https://data.humdata.org/dataset/cod-ps-tca,cod-enhanced,UNFPA,"Turks and Caicos administrative level 0 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:   2022",,,,
+UGA,https://data.humdata.org/dataset/cod-ps-uga,cod-enhanced,UNFPA,"Uganda level 0-2 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:  2023
+
+These tables reflect the 135 district administrative system.
+
+These population statistics tables are suitable for database or GIS linkage to the administrative level 0-2 boundaries available at [Uganda - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-uga) using the ADM0, ADM1, and ADM2_PCODE items",4,135,,
+UKR,https://data.humdata.org/dataset/cod-ps-ukr,cod-standard,OCHA Ukraine,"![UNFPA Logo](https://fn.no/assets/images/FN-kunnskap/Organisasjoner/FNs-befolkningsfond-UNFPA/unfpa-logo.png)
+
+Subnational Population Statistics are produced by and contributed to HDX by [UNFPA](https://data.humdata.org/organization/unfpa) and, in the case of Ukraine, are exceptionally shared by OCHA Ukraine with the approval of UNFPA.
+
+The 2024 Common Operational Dataset on Population Statistics (COD-PS) update for Ukraine presents raion-level (ADM-2), oblast-level (ADM-1) and national-level (ADM-0) estimates of population size by sex and standard 5-year demographic age groups. The 2024 COD-PS update revises the 2023 COD-PS update and 2022 COD-PS update produced by UNFPA, by accounting for recent population change due to mobility, mortality and fertility dynamics.
+
+This COD-PS update was prepared by the United Nations Population Fund, UNFPA. This update was prepared in consultation with the Humanitarian Country Team and UN Country Team in Ukraine, as well as national partners including the Institute for Demography and Quality of Life Problems, Ukraine and the State Statistics Service of Ukraine.
+
+The 2024 COD-PS update, like all COD-PS updates, is strictly a humanitarian data product of the United Nations aligned to the ""best available humanitarian data standard"". It does not represent or, in any way, replace official statistics or official population projections of the Government of Ukraine and it is not intended to meet the international standards of official statistics.
+
+The Ukraine Common Operational Dataset on Population Statistics (COD-PS) 2024 is a restricted dataset, in line with applicable national laws and the host country agreement with the United Nations. It is shared only with the Ukraine Humanitarian Country Team, UN Country Team in Ukraine, and the Government of Ukraine.",,,,
+URY,https://data.humdata.org/dataset/cod-ps-ury,cod-enhanced,UNFPA,"Uruguay administrative level 0-1 projected 2023 sex and age disaggregated population statistics
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Uruguay - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ury).",19,,,
+UZB,https://data.humdata.org/dataset/cod-ps-uzb,cod-standard,OCHA Field Information Services Section (FISS),"Uzbekistan administrative level 0 (country) and 1 (province / viloyat, autonomous republic / respublika, or independent city / shahar) population statistics and level 0,1, and 2  (district / tuman) gazetteer.
+
+REFERENCE YEAR:  2018
+
+The administrative level 1 CSV table is suitable for database or GIS linkage to the administrative level 1 shapefile available on HDX [here](https://data.humdata.org/dataset/cod-ab-uzb).
+
+REVISION HISTORY:
+
+22 July 2019
+2018 population statistics update
+
+12 July 2018
+Initial upload",15,,,
+VUT,https://data.humdata.org/dataset/cod-ps-vut,cod-enhanced,UNFPA,"These tables are suitable database or GIS links to the [Vanuatu - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vut) layers.
+
+REFERENCE YEAR:  2020
+
+Each administrative level 2 feature is designated entirely 'urban' or 'rural'.  (""Port Vila"" [VU05002] and ""Luganville' [VU02001] are the only 'urban' features.)  Additional administrative level 0 and 1 tables in the spreadsheet disaggregate the urban and rural data.  ",6,66,,
+VEN,https://data.humdata.org/dataset/cod-ps-ven,cod-standard,OCHA Venezuela,"Venezuela administrative level 0 (country); 1 (state / estado; Capital District / Distrito Capital;  and the Federal Dependencies / Dependencias Federales); 2 (municpality / municipio), and 3 (parish / parroquia) population statistics and gazeteer
+
+REFERENCE YEAR:  2011
+
+UNFPA investigated replacement or projection of this dataset in 2021. No better alternative is currently available.
+
+These population statistics tables are suitable for database or GIS linkage to the [Venezuela (Bolivarian Republic of) - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ven).
+",24,335,,
+VNM,https://data.humdata.org/dataset/cod-ps-vnm,cod-enhanced,UNFPA,"Viet Nam administrative level 0-1 sex and age disaggregated 2023 population statistics 
+
+REFERENCE YEAR:  2023
+
+These tables are suitable for database or GIS linkage to the [Viet Nam - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vnm) using the ADM0 and ADM1_PCODE items.",63,,,
+VGB,https://data.humdata.org/dataset/cod-ps-vgb,cod-enhanced,UNFPA,"British Virgin Islands administrative level 0 sex and age disaggregated 2022 projected population statistics
+
+REFERENCE YEAR:  2022",,,,
+ZMB,https://data.humdata.org/dataset/cod-ps-zmb,cod-enhanced,UNFPA,"Zambia administrative level 0-3 2020 projection sex and age disaggregated population statistics.
+
+These tables (at administrative level 0-1) are suitable for GIS or database linkage to the [Zambia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-zmb) boundaries.",10,,,
+ZWE,https://data.humdata.org/dataset/cod-ps-zwe,cod-enhanced,UNFPA,"Zimbabwe administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+
+REFERENCE YEAR:  2023
+
+These CSV tables are suitable for linkage by P-code to the [Zimbabwe - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-zwe) shapefiles using the ADM0, ADM1, and ADM2_PCODE fields.",10,91,,
+VIR,https://data.humdata.org/dataset/cod-ps-vir,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"United States Virgin Islands administrative level 0 (territory), 1 (district) and 2 (sub-district) disaggregated population statistics
+
+REFERENCE YEAR:  2010
+
+These tables are suitable for database or GIS linkage to the [United States Virgin Islands administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-vir).",3,20,,

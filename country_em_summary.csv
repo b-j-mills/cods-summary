@@ -1,0 +1,349 @@
+ISO,COD-EM URL,COD-EM level,COD-EM contributor,COD-EM description,COD-EM ADM1 units,COD-EM ADM2 units,COD-EM ADM3 units,COD-EM ADM4 units
+ARM,https://data.humdata.org/dataset/cod-em-arm,cod-enhanced,OCHA Field Information Services Section (FISS),"Armenia administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+These boundaries are suitable for database or GIS linkage to the [Armenia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arm) tables using the ADM0, ADM1, and ADM2_PCODE fields.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-arm); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",11,39,,
+AZE,https://data.humdata.org/dataset/cod-em-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+These boundaries are suitable for database or GIS linkage to the [Azerbaijan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-aze) tables using the ADM0, and ADM1_PCODE fields.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-aze); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",74,,,
+BLR,https://data.humdata.org/dataset/cod-em-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"Belarus administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-blr); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,119,,
+BEN,https://data.humdata.org/dataset/cod-em-ben,cod-enhanced,OCHA Field Information Services Section (FISS),"Benin administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-ben); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Benin - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ben) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",12,77,,
+BGR,https://data.humdata.org/dataset/cod-em-bgr,cod-enhanced,OCHA Field Information Services Section (FISS),"Bulgaria administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-bgr); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",28,265,,
+BFA,https://data.humdata.org/dataset/cod-em-bfa,cod-enhanced,OCHA Field Information Services Section (FISS),"Burkina Faso administrative level 0-3 COD-EM edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-bfa); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+
+These layers are suitable for database or GIS linkage to the [Burkina Faso - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bfa) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",13,45,351,
+CMR,https://data.humdata.org/dataset/cod-em-cmr,cod-enhanced,OCHA Field Information Services Section (FISS),"Cameroon administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-cmr); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Cameroon - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-cmr) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",10,58,360,
+CAF,https://data.humdata.org/dataset/cod-em-caf,cod-enhanced,OCHA Field Information Services Section (FISS),"Central African Republic administrative level 0-3 and Bangui level 4 gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-caf); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Central African Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-caf) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",17,72,175,860
+TCD,https://data.humdata.org/dataset/cod-em-tcd,cod-enhanced,OCHA Field Information Services Section (FISS),"Chad administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tcd); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Chad - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tcd) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",23,70,10,
+CIV,https://data.humdata.org/dataset/cod-em-civ,cod-enhanced,OCHA Field Information Services Section (FISS),"Côte d'Ivoire administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-civ); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Côte d'Ivoire - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-civ) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+",33,108,510,
+DOM,https://data.humdata.org/dataset/cod-em-dom,cod-enhanced,OCHA Field Information Services Section (FISS),"Dominican Republic administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-dom); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Dominican Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-dom) administrative level 0-2 tables using the ADM0, ADM1, and ADM2_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",10,32,155,386
+SLV,https://data.humdata.org/dataset/cod-em-slv,cod-enhanced,OCHA Field Information Services Section (FISS),"El Salvador administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These layers are suitable for database or GIS linkage to the El Salvador- Subnational Population Statistics administrative level 0-3 tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",14,48,266,
+GMB,https://data.humdata.org/dataset/cod-em-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gmb); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Gambia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gmb) tables using the ADM0, ADM1, and ADM2_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",8,49,115,
+GHA,https://data.humdata.org/dataset/cod-em-gha,cod-enhanced,OCHA Field Information Services Section (FISS),"Ghana administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gha); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Ghana - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-gha) using the ADM0, ADM1, or ADM2_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",16,260,,
+GIN,https://data.humdata.org/dataset/cod-em-gin,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gin); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Guinea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gin) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+",8,34,340,
+GNB,https://data.humdata.org/dataset/cod-em-gnb,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea-Bissau administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gnb); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Guinea-Bissau - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gnb) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",9,39,,
+HTI,https://data.humdata.org/dataset/cod-em-hti,cod-enhanced,OCHA Field Information Services Section (FISS),"Haiti administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-hti); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Haiti - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-hti) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",10,140,570,
+HUN,https://data.humdata.org/dataset/cod-em-hun,cod-enhanced,OCHA Field Information Services Section (FISS),"Hungary administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These layers are suitable for database or GIS linkage to the [Hungary - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-hun).
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",20,197,,
+KWT,https://data.humdata.org/dataset/cod-em-kwt,cod-enhanced,OCHA Field Information Services Section (FISS),"Kuwait administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-kwt); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Kuwait - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-kwt) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",6,,,
+LBR,https://data.humdata.org/dataset/cod-em-lbr,cod-enhanced,OCHA Field Information Services Section (FISS),"Liberia administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-lbr); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Benin - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lbr) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",15,136,,
+MWI,https://data.humdata.org/dataset/cod-em-mwi,cod-enhanced,OCHA Field Information Services Section (FISS),"Malawi administrative level 0-3 boundaries, gazetteer, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mwi); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These shapefiles are suitable for database or ArcGIS linkage to the [Malawi - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mwi) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",3,32,433,
+MLI,https://data.humdata.org/dataset/cod-em-mli,cod-enhanced,OCHA Field Information Services Section (FISS),"Mali administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mli); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Mali - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mli) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",10,53,701,
+MRT,https://data.humdata.org/dataset/cod-em-mrt,cod-enhanced,OCHA Field Information Services Section (FISS),"Mauritania administrative level 0-3 edge-matched gazetteer and boundary files.
+
+Live edge-matched boundary geoservices for all  edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch).
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mrt); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+",15,63,238,
+MDA,https://data.humdata.org/dataset/cod-em-mda,cod-enhanced,OCHA Field Information Services Section (FISS),"Republic of Moldova administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mda); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Republic of Moldova - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mda) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",37,,,
+MMR,https://data.humdata.org/dataset/cod-em-mmr,cod-standard,OCHA Field Information Services Section (FISS),"Myanmar administrative level 0-5 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+These layers are suitable for database or GIS linkage to the [Myanmar - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-mmr).
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This edge-matched product is based on the [Myanmar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mmr) (COD-AB).
+",18,80,330,14174
+NPL,https://data.humdata.org/dataset/cod-em-npl,cod-enhanced,OCHA Field Information Services Section (FISS),"Nepal administrative level 0-3 edge-matched gazetteer and boundary files.
+
+Live edge-matched boundary geoservices for Nepal and other edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These layers are suitable for database or GIS linkage to the Mauritania - Subnational Population Statistics tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,77,775,
+NIC,https://data.humdata.org/dataset/cod-em-nic,cod-enhanced,OCHA Field Information Services Section (FISS),"Nicaragua administrative level 0-2 boundaries, gazetteer, and geoservices.
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These boundaries are NOT suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nic) tables, which do not have compatible P-coding.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",17,153,,
+NER,https://data.humdata.org/dataset/cod-em-ner,cod-enhanced,OCHA Field Information Services Section (FISS),"Niger administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-ner); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Niger - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ner) tables.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+
+Live edge-matched boundary geoservices for Niger and other edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch).",8,67,266,
+NGA,https://data.humdata.org/dataset/cod-em-nga,cod-enhanced,OCHA Field Information Services Section (FISS),"Nigeria administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+These layers are suitable for database or GIS linkage to the [Nigeria - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-nga).
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",37,774,714,
+PAK,https://data.humdata.org/dataset/cod-em-pak,cod-enhanced,OCHA Field Information Services Section (FISS),"Pakistan administrative level 0-3 COD-EM edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-pak); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+
+Note: these boundaries and P-codes are not compatible with the Pakistan COD-PS.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,160,577,
+POL,https://data.humdata.org/dataset/cod-em-pol,cod-enhanced,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-pol); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Poland - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pol) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",16,380,,
+QAT,https://data.humdata.org/dataset/cod-em-qat,cod-enhanced,OCHA Field Information Services Section (FISS),"Qatar administrative level 0-2 boundaries and gazetteer
+
+These administrative level 0-1 layers are suitable for database or GIS linkage to the [Qatar - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-qat) tables using the ADM0 and ADM1_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",8,91,781,
+ROU,https://data.humdata.org/dataset/cod-em-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-rou); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Romania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-rou) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",8,42,,
+MAF,https://data.humdata.org/dataset/cod-em-maf,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Martin administrative level 0 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-maf); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Saint Martin- Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-maf) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",,,,
+SEN,https://data.humdata.org/dataset/cod-em-sen,cod-enhanced,OCHA Field Information Services Section (FISS),"Senegal administrative level 0 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sen); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Senegal- Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sen) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",14,46,125,
+SLE,https://data.humdata.org/dataset/cod-em-sle,cod-enhanced,OCHA Field Information Services Section (FISS),"Sierra Leone administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+This dataset was updated in January 2024 to correspond to the COD-AB with the newer five-regions administrative structure.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sle); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Sierra Leone - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sle) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+",5,16,167,1316
+SXM,https://data.humdata.org/dataset/cod-em-sxm,cod-enhanced,OCHA Field Information Services Section (FISS),"Sint Maartin administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+This dataset was updated in January 2024 to correspond to the COD-AB with the newer five-regions administrative structure.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-sxm); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Sint Maarten - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-sxm) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+",8,,,
+SVK,https://data.humdata.org/dataset/cod-em-svk,cod-enhanced,OCHA Field Information Services Section (FISS),"Slovakia administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-svk); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Slovakia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-svk) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",8,79,,
+SOM,https://data.humdata.org/dataset/cod-em-som,cod-enhanced,OCHA Field Information Services Section (FISS),"Somali administrative level 0-2, state, and operational zone level 1 and 2 geodatabase, gazetteer and geoservices
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-som); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",18,74,,
+TGO,https://data.humdata.org/dataset/cod-em-tgo,cod-enhanced,OCHA Field Information Services Section (FISS),"Togo administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tgo); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+These layers are suitable for database or GIS linkage to the [Togo - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tgo) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",5,40,373,
+TUN,https://data.humdata.org/dataset/cod-em-tun,cod-enhanced,OCHA Field Information Services Section (FISS),"Tunisea administrative level 0-4 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tun); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",6,24,264,2084
+UKR,https://data.humdata.org/dataset/cod-em-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"""Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
+
+NOTE:  The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
+
+Sourced from State Scientific Production Enterprise “Kartographia”
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-ukr)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 27 feature(s).
+
+Administrative level 2 contains 139 feature(s).
+
+Administrative level 3 contains 1769 feature(s).
+
+Administrative level 4 contains 29707 feature(s).""",27,139,1769,29707
+ARE,https://data.humdata.org/dataset/cod-em-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [United Arab Emirates - Subnational Administrative Boundaries
+COD-AB available here](https://data.humdata.org/dataset/cod-ab-are); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+
+There is no United Arab Emirates population statistics COD-PS.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,,,
+ESH,https://data.humdata.org/dataset/cod-em-esh,cod-enhanced,OCHA Field Information Services Section (FISS),"Western Sahara administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This edge-matched product is based on the [Western Sahara  - Subnational Administrative Boundaries (COD-AB)](https://data.humdata.org/dataset/cod-ab-esh).",4,,,
+ZMB,https://data.humdata.org/dataset/cod-em-zmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Zambia administrative level 0-4 shapefiles, geodatabase, gazetteer and geoservices
+
+COD-EM datasets do not replace the authoritative COD-AB available [https://data.humdata.org/dataset/cod-ab-zmb](here); however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",10,116,156,1853
