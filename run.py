@@ -82,7 +82,7 @@ if __name__ == "__main__":
     if scrapers_to_run is None:
         scrapers_to_run = getenv(
             "SCRAPERS_TO_RUN",
-            "metadata_summary,country_ab_summary,country_em_summary,country_ps_summary,cowboy_cods,dataset_resource_descriptions",
+            "metadata_summary,country_ab_summary,country_em_summary,country_ps_summary,cowboy_cods",
         )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
