@@ -1545,6 +1545,28 @@ MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN_Edgematch (MapS
 "
 MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Myanmar: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
 MMR,EM,cod-standard,cod-em-mmr,resource,COD_NO_GEOM_CHECK/MMR_MY_Edgematch (MapServer),"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Myanmar: Administrative Boundaries, in Burmese. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+AFG,PS,cod-standard,cod-ps-afg,dataset,Afghanistan - Subnational Population Statistics,"Afghanistan administrative levels 0 (country), and 1 (province) population statistics.
+
+REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA.
+
+Dataset updated by OCHA in 2021.
+
+The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)"
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admgz.xlsx,"Afghanistan administrative level 0 (country), 1 (province) and 2 (district) gazetteer."
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_popadm_adm0_2021_v2.csv,2021 population estimates for Afghanistan administrative level 0 (country).
+AFG,PS,cod-standard,cod-ps-afg,resource,afg_admpop_adm1_2021_v2.csv,2021 population estimates for Afghanistan administrative level 1 (province).
+UKR,PS,cod-standard,cod-ps-ukr,dataset,Ukraine: Subnational Population Statistics,"![UNFPA Logo](https://fn.no/assets/images/FN-kunnskap/Organisasjoner/FNs-befolkningsfond-UNFPA/unfpa-logo.png)
+
+Subnational Population Statistics are produced by and contributed to HDX by [UNFPA](https://data.humdata.org/organization/unfpa) and, in the case of Ukraine, are exceptionally shared by OCHA Ukraine with the approval of UNFPA.
+
+The 2024 Common Operational Dataset on Population Statistics (COD-PS) update for Ukraine presents raion-level (ADM-2), oblast-level (ADM-1) and national-level (ADM-0) estimates of population size by sex and standard 5-year demographic age groups. The 2024 COD-PS update revises the 2023 COD-PS update and 2022 COD-PS update produced by UNFPA, by accounting for recent population change due to mobility, mortality and fertility dynamics.
+
+This COD-PS update was prepared by the United Nations Population Fund, UNFPA. This update was prepared in consultation with the Humanitarian Country Team and UN Country Team in Ukraine, as well as national partners including the Institute for Demography and Quality of Life Problems, Ukraine and the State Statistics Service of Ukraine.
+
+The 2024 COD-PS update, like all COD-PS updates, is strictly a humanitarian data product of the United Nations aligned to the ""best available humanitarian data standard"". It does not represent or, in any way, replace official statistics or official population projections of the Government of Ukraine and it is not intended to meet the international standards of official statistics.
+
+The Ukraine Common Operational Dataset on Population Statistics (COD-PS) 2024 is a restricted dataset, in line with applicable national laws and the host country agreement with the United Nations. It is shared only with the Ukraine Humanitarian Country Team, UN Country Team in Ukraine, and the Government of Ukraine."
 MLI,AB,cod-enhanced,cod-ab-mli,dataset,Mali - Subnational Administrative Boundaries,"""Mali administrative level 0-3 boundaries (COD-AB) dataset.
 
 NOTE:  
@@ -3199,13 +3221,9 @@ Vetting and live service provision by [Information Technology Outreach Services 
 ITOS geoservices provided 29 March 2021.
 
 ADM3 updated 3 February 2020."
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,MDV_AdminBoundaries_TabularData.xlsx,Maldives administrative level 0-3 boundary gazetteer
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_admbnd_gov_20210329_SHP.zip,Maldives administrative level 0-3 boundary shapefiles.  As well as the standard lines file there is a line shapefile indicating the assignment of islands to atols. 
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_admbnd_gov_20210329.gdb.zip,Maldives administrative level 0-3 boundary shapefiles.  As well as the standard lines file there is a line layer indicating the assignment of islands to atols. 
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_admbnda_gov_20210329_EMF.zip,Maldives administrative level 0-3 boundary EMF files. 
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,COD_External/MDV_EN (MapServer),"This map service contains OCHA Common Operational Datasets for Maldives: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,COD_External/MDV_pcode (FeatureServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Maldives. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MDV_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
-MDV,AB,cod-enhanced,cod-ab-mdv,resource,COD_External/MDV_pcode (MapServer),"This service is intended as a labelling layer for PCODES from OCHA's Common Operational Datasets for Maldives. As a map service it is intended to be used in conjunction with the basemap located at https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/MDV_EN/MapServer. The service also provides feature access to Administrative Boundaries geometry and taxonomy. The service is available as ESRI Map, WMS, ESRI Feature, WFS and KML Services"
+MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_admgz.xls,Maldives administrative level 0-2 boundary gazetteer
+MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_admbnda.zip,Maldives administrative level 0-2 boundary shapefiles.
+MDV,AB,cod-enhanced,cod-ab-mdv,resource,mdv_atollbndl_gov_20210329.zip,Special line shapefile indicating the assignment of islands to atolls. 
 MEX,PS,cod-enhanced,cod-ps-mex,dataset,Mexico - Subnational Population Statistics,"Mexico administrative level 0-2 sex and age disaggregated 2021 projected population statistics
 
 REFERENCE YEAR:  2021
@@ -4804,6 +4822,29 @@ SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admgz_anat_20240520.xlsx,Senegal adm
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_SHP.zip,Senegal administrative level 0-3 shapefiles
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_GDB.gdb.zip,Senegal administrative level 0-3 geodatabase
 SEN,EM,cod-enhanced,cod-em-sen,resource,sen_admbnd_anat_20240520_EM_EMF.zip,Senegal administrative level 0-3 EMF files
+SLV,EM,cod-enhanced,cod-em-slv,dataset,El Salvador - Subnational Edge-matched Administrative Boundaries,"El Salvador administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes. See caveats.
+
+These layers are suitable for database or GIS linkage to the El Salvador- Subnational Population Statistics administrative level 0-3 tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+SLV,EM,cod-enhanced,cod-em-slv,resource,slv_adm_gadm_20240819_EM_SHP.zip,El Salvador administrative level 0-3 edge-matched boundary shape files
+SLV,EM,cod-enhanced,cod-em-slv,resource,slv_adm_gadm_20240819_EM_EMF.zip,El Salvador administrative level 0-3 edge-matched boundary EMF files
+SLV,EM,cod-enhanced,cod-em-slv,resource,slv_admgz_2024.xlsx,El Salvador administrative level 0-3 gazetteer derived from the ITOS COD-AB tabular data
+SLV,EM,cod-enhanced,cod-em-slv,resource,slv_adm_gadm_20240819_EM_GDB.gdb.zip,El Salvador administrative level 0-3 edge-matched boundary geodatabase
+ESH,EM,cod-enhanced,cod-em-esh,dataset,Western Sahara - Subnational Edge-matched Administrative Boundaries,"Western Sahara administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This edge-matched product is based on the [Western Sahara  - Subnational Administrative Boundaries (COD-AB)](https://data.humdata.org/dataset/cod-ab-esh)."
+ESH,EM,cod-enhanced,cod-em-esh,resource,esh_admgz_2023.xlsx,Western Sahara administrative level 0-1 gazetteer - based on ITOS COD-AB tabular data
+ESH,EM,cod-enhanced,cod-em-esh,resource,esh_adm_gadm_20210405_EM_SHP.zip,Western Sahara administrative level 0-1 boundary shapefiles
+ESH,EM,cod-enhanced,cod-em-esh,resource,esh_adm_gadm_20210405_EMF.zip,"Western Sahara administrative level 0-1 boundary EMF files
+
+"
+ESH,EM,cod-enhanced,cod-em-esh,resource,ESH_AdminBoundaries_EM.gdb.zip,Western Sahara administrative level 0-1 boundary geodataset
+ESH,EM,cod-enhanced,cod-em-esh,resource,ESH_AdminBoundaries_TabularData.xlsx,Western Sahara administrative level 0-1 ITOS tabular data
 SAU,PS,cod-enhanced,cod-ps-sau,dataset,Saudi Arabia - Subnational Population Statistics,"Saudi Arabia administrative level 0-1 sex and age disaggregated 2022 population statistics
 
 REFERENCE YEAR: 2022
