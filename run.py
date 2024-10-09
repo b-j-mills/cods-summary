@@ -12,7 +12,9 @@ from hdx.utilities.errors_onexit import ErrorsOnExit
 from hdx.utilities.path import temp_dir
 from scripts.check_boundary_fields import check_boundary_fields
 from scripts.check_population_headers import check_population_headers
-from scripts.country_summary import country_summary
+from scripts.country_ab_summary import country_ab_summary
+from scripts.country_em_summary import country_em_summary
+from scripts.country_ps_summary import country_ps_summary
 from scripts.cowboy_cods import cowboy_cods
 from scripts.dataset_resource_descriptions import dataset_resource_descriptions
 from scripts.metadata_summary import metadata_summary
@@ -57,8 +59,12 @@ def main(
                     check_boundary_fields(configuration, countries, temp_folder)
                 if "cowboy_cods" in scrapers_to_run:
                     cowboy_cods(errors_on_exit)
-                if "country_summary" in scrapers_to_run:
-                    country_summary(configuration, countries, temp_folder,)
+                if "country_ab_summary" in scrapers_to_run:
+                    country_ab_summary(countries, temp_folder)
+                if "country_em_summary" in scrapers_to_run:
+                    country_em_summary(countries, temp_folder)
+                if "country_ps_summary" in scrapers_to_run:
+                    country_ps_summary(countries, temp_folder)
                 if "dataset_resource_descriptions" in scrapers_to_run:
                     dataset_resource_descriptions()
 
@@ -76,7 +82,7 @@ if __name__ == "__main__":
     if scrapers_to_run is None:
         scrapers_to_run = getenv(
             "SCRAPERS_TO_RUN",
-            "metadata_summary,country_summary,cowboy_cods,dataset_resource_descriptions",
+            "metadata_summary,country_ab_summary,country_em_summary,country_ps_summary,cowboy_cods,dataset_resource_descriptions",
         )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
