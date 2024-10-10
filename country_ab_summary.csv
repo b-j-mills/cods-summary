@@ -623,7 +623,9 @@ Vetting and live service provision by [Information Technology Outreach Services 
 These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables.",16,144,,
 MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-3 boundaries (COD-AB) dataset.
 
-These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 2) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).
+UPDATED 10 OCTOBER 2024.  THE LIVE GEOSERVICES HAVE NOT YET BEEN UPDATED TO MATCH.
+
+These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).
 
 The administrative level 2 P-codes are derived from an earlier system where available, and then completed alphabetically by name in other cases.
 
@@ -1094,60 +1096,28 @@ This dataset was updated on 2 August 2022, replacing the April 2019 version.
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Sri Lanka - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lka) tables using the ADM0, ADM1, and ADM2_PCODE fields.",9,25,339,14043
-SSD,https://data.humdata.org/dataset/cod-ab-ssd,cod-enhanced,OCHA South Sudan,"South Sudan administrative level 0-3 boundaries
+SSD,https://data.humdata.org/dataset/cod-ab-ssd,cod-enhanced,OCHA South Sudan,"""South Sudan administrative level 0-3 boundaries (COD-AB) dataset.
 
-This dataset was updated in August 2023 to reflect the adjustment of the ""Namutina"" (formerly [SS100902]) ADM3 feature from the ""Tambura' [SS1009] ADM2 feature to the ""Nagero"" [SS1007] ADM2 feature.  The ""Namutina"" P-code is changed from [SS100902] (which has been retired) to [SS100702].  The ADM2 layer is therefore also changed.  All affected changes are in the ""Western Equatoria"" [SS10] ADM1 feature and so the ADM0 and ADM0 layers remain unaltered although the lines layer has been updated.
+NOTE:  Abyei region included in administrative level 2 and 3 layers
 
-The current live geoservices do NOT reflect this change.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB requires improvements.
 
-Vetting provided by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.  Live services to be provided shortly.
+Sourced from South Sudan Information Management Working Group (IMWG), National Bureau of Statistics (NBS), International Organization for Migration (IOM) and OCHA
 
-These layers were updated on 20 December 2022.  The Abyei region was re-coded to SS00.
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This administrative boundaries Common Operational Database (COD-AB) was endorsed by the South Sudan Inter Cluster Coordinating Group (ICCG) and Humanitarian Country Team (HCT) on August 14, 2018.
+This COD-AB is suitable for database or GIS linkage to the South Sudan [COD-PS](https://data.humdata.org/dataset/cod-ps-ssd).
 
-These boundary files are suitable for database or GIS linkage to the [South Sudan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ssd) tables available on HDX using the ADM0, ADM1, and ADM2_PCODE fields.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.)
+Please see the [COD Portal](https://cod.unocha.org/).
 
-The lines layer (""ssd_admbndl_ALL_2022"") has the following special features, with specific admLevel coding as follows:
+Administrative level 1 contains 10 feature(s).
 
-admLevel 79:   That part of the Abyei region boundary that borders the rest of South Sudan.  (Abyei region is not included in the polygon layers.)
+Administrative level 2 contains 79 feature(s).
 
-admLevel 78:   That part of the Abyei region boundary that borders Sudan.
+Administrative level 3 contains 512 feature(s).
 
-admLevel 77:   The remainder of the boundary between South Sudan and Sudan.
-
-admLevel 76:   The northern  boundary of the disputed area known as the Ilemi Triangle between South Sudan and Kenya.  (This line is not a boundary of any administrative polygon.)
-
-
-United Nations users are advised that the following caveats (in addition to the standard caveats) should be applied to maps of Sudan and South Sudan:
-
-English:  Final boundary between the Republic of Sudan and the Republic of South Sudan has not yet been determined.
-
-French:  Le tracé définitif de la frontière entre la République du Soudan et la République du Soudan du Sud n’a pas encore été défini.
-
-Spanish:  Las fronteras definitivas entre la República del Sudán y la República de Sudán del Sur no se han determinado todavía.
-
-Arabic:  لم تتقرر بعد الحدود النهائية بين جمهورية السودان وجمهورية جنوب السودان.
-
-Chinese:  苏丹共和国和南苏丹共和国之间的最终边界尚未确定
-
-Russian:  Окончательная граница между Республикой Судан и Республикой Южный Судан до сих пор не определена.
-
-
-
-And for the Abyei region:
-
-English:  Final status of the Abyei area is not yet determined.
-
-French:  Le statut définitif de la zone d’Abyei n’est pas encore déterminé.
-
-Spanish:  Todavía no se ha determinado el estatuto definitive de la zona de Abyei.
-
-Arabic:  لم يتقرر بعد الوضع النهائي لمنطقة أبيي.
-
-Chinese:  阿卜耶伊地区的最终地位尚未确定
-
-Russian:  Окончательный статус Абьея до сих пор не определен.",10,79,512,
+Recommended cartographic projection:  UTM zone 36 (mainly) but partly zone 35""",10,79,512,
 SDN,https://data.humdata.org/dataset/cod-ab-sdn,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Sudan administrative level 0-2 boundary files
 
 REFERENCE YEAR:  2020
