@@ -55,11 +55,13 @@ def country_ps_summary(
         if len(resources) == 0:
             logger.warning(f"No csv resources found for {dataset['name']}")
 
+        missing_levels = []
         for adm_level in ["1", "2", "3", "4"]:
             adm_resources = [
                 r for r in resources if bool(re.match(f".*adm(in)?_?{adm_level}.*", r["name"], re.IGNORECASE))
             ]
             if len(adm_resources) == 0:
+                missing_levels.append(adm_level)
                 continue
 
             if len(adm_resources) > 1:
@@ -78,7 +80,14 @@ def country_ps_summary(
 
             contents.dropna(axis=0, how="all", inplace=True)
             rows = len(contents)
+            cell0 = contents.iloc[0, 0]
+            if str(cell0)[0] == "#":
+                rows = len(contents) - 1
             country_info[f"COD-PS ADM{adm_level} units"] = rows
+
+        expected_missing_levels = [str(i) for i in range(5-len(missing_levels), 5)]
+        if missing_levels != expected_missing_levels:
+            logger.error(f"{iso} missing unexpected levels: {missing_levels}")
 
         if len([c for c in country_info.values() if c]) > 1:
             results.append(country_info)
