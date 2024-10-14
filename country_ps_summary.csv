@@ -5,7 +5,7 @@ REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA
 
 Dataset updated by OCHA in 2021.
 
-The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)",35,,,
+The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)",34,,,
 ALB,https://data.humdata.org/dataset/cod-ps-alb,cod-enhanced,UNFPA,"Albania administrative level 0-1 2021 sex and age disaggregated population statistics.
 
 These tables are suitable for database or GIS linkage using P-codes to the [Albania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-alb) administrative level 0-1 layers.",12,,,
@@ -38,7 +38,7 @@ AZE,https://data.humdata.org/dataset/cod-ps-aze,cod-standard,OCHA Field Informat
 
 REFERENCE YEAR 2018
 
-This dataset contains population estimates for Azerbaijan from 2018 at country-level and first administrative level (consolidating Baku into one feature), suitable for database and GIS linkage to the [Azerbaijan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-aze) and the [Azerbaijan - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-aze), and special tables for economic regions and a version of the first administrative level that includes 11 distinct Baku features.",11,86,,
+This dataset contains population estimates for Azerbaijan from 2018 at country-level and first administrative level (consolidating Baku into one feature), suitable for database and GIS linkage to the [Azerbaijan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-aze) and the [Azerbaijan - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-aze), and special tables for economic regions and a version of the first administrative level that includes 11 distinct Baku features.",11,85,,
 BHS,https://data.humdata.org/dataset/cod-ps-bhs,cod-standard,UNFPA,"Bahamas administrative level 0 age and sex disaggregated 2022 projected population statistics
 
 REFERENCE YEAR 2022",,,,
@@ -397,7 +397,9 @@ MDV,https://data.humdata.org/dataset/cod-ps-mdv,cod-enhanced,UNFPA,"Maldives - a
 
 REFERENCE YEAR:  2022
 
-These tables are suitable for database or GIS linkage to the administrative level 0-2 layers in the [Maldives - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mdv) using the ADM0, ADM1, and ADM2_PCODE items.",5,21,,
+SEE CAVEATS about metadata
+
+These tables are suitable for database or GIS linkage to the administrative level 0-2 layers in the [Maldives - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mdv) using the ADM0, ADM1, and ADM2_PCODE items.",21,,,
 MLI,https://data.humdata.org/dataset/cod-ps-mli,cod-standard,OCHA Mali,"Population of Mali 2018, disaggregated by admin 1 to 3 and by gender
 
 REFERENCE YEAR:  2018
@@ -510,9 +512,9 @@ NAM,https://data.humdata.org/dataset/cod-ps-nam,cod-enhanced,UNFPA,"Namibia admi
 REFERENCE YEAR:  2023
 
 The CSV files are suitable for database or GIS linkage to the [Namibia administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-nam) layers using the ADM0, ADM1, and ADM2_PCODE fields.",14,107,,
-NPL,https://data.humdata.org/dataset/cod-ps-npl,cod-enhanced,UNFPA,"Nepal administrative levels 0-2 sex and age disaggregated projected 2022 population statistics
+NPL,https://data.humdata.org/dataset/cod-ps-npl,cod-enhanced,UNFPA,"Nepal administrative levels 0-2 sex and age disaggregated projected 2023 population statistics
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2023
 
 These CSV tables are suitable for database or GIS linkage to the [Nepal - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-npl) polygon shapefiles using the ADM0, ADM1, and ADM2_PCODE fields .",7,77,,
 NIC,https://data.humdata.org/dataset/cod-ps-nic,cod-enhanced,UNFPA,"Nicaragua administrative level 0-2 sex and age disaggregated 2020 projected population statistics
