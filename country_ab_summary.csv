@@ -201,10 +201,29 @@ Administrative level 1 contains 25 feature(s).
 Administrative level 2 contains 197 feature(s).
 
 Administrative level 3 contains 1633 feature(s).",25,197,1633,
-CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,"Cameroon administrative level 0 (country), 1 (region), (department), and 3 (arrondissement) boundary polygons and lines, gazetteer, and live services.
+CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,"""Cameroon administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
-",10,58,360,
+NOTE:  Metadata dates are derived from the """"Décret n° 2008/376 du 12 novembre 2008 portant organisation administrative de la république du Cameroun """"
+
+Issue related to """"Menchum"""" [CM007004] ADM2 Département feature in the """"Nord-Ouest"""" [CM007] ADM1 Région is being investigated
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Institut National de Cartographie (INC) provided by OSM
+
+Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Cameroon [COD-PS](https://data.humdata.org/dataset/cod-ps-cmr).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-cmr)
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 10 feature(s).
+
+Administrative level 2 contains 58 feature(s).
+
+Administrative level 3 contains 360 feature(s).
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic""",10,58,360,
 CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-standard,OCHA West and Central Africa (ROWCA),"""Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  Island P-code system is unofficial.
@@ -621,15 +640,15 @@ MYS,https://data.humdata.org/dataset/cod-ab-mys,cod-enhanced,OCHA Regional Offic
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables.",16,144,,
-MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-3 boundaries (COD-AB) dataset.
+MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-2 boundaries (COD-AB) dataset.
 
-UPDATED 10 OCTOBER 2024.  THE LIVE GEOSERVICES HAVE NOT YET BEEN UPDATED TO MATCH.
+These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 2) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).
 
-These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).
+The administrative level 2 P-codes are derived from an earlier ('FCODE') system where available, and then completed alphabetically by name in other cases.
 
-The administrative level 2 P-codes are derived from an earlier system where available, and then completed alphabetically by name in other cases.
+SEE CAVEATS for certain island (ADM2) duplicate names issues.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in August 2024.  The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
 Sourced from Government of the republic of Maldives
 
@@ -906,7 +925,7 @@ POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Informat
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Poland - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pol) tables.",16,380,,
-PRI,https://data.humdata.org/dataset/cod-ab-pri,cod-standard,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries.
+PRI,https://data.humdata.org/dataset/cod-ab-pri,,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries.
 
 These boundaries are suitable for database or GIS linkage to the [Puerto Rico administrative level 0-1 SADD population statistics](https://data.humdata.org/dataset/cod-ps-pri) tables.",78,,,
 QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Qatar administrative level 0-3 boundaries (COD-AB) dataset.

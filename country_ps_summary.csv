@@ -589,7 +589,7 @@ POL,https://data.humdata.org/dataset/cod-ps-pol,cod-standard,OCHA Field Informat
 REFERENCE YEAR: 2020
 
 These tables are suitable for database or GIS linkage to the [Poland - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pol) tables using the ADM0, and ADM1_PCODE fields.",16,380,,
-PRI,https://data.humdata.org/dataset/cod-ps-pri,cod-standard,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipal) sex and age disaggregated population statistics
+PRI,https://data.humdata.org/dataset/cod-ps-pri,,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipal) sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2010
 
