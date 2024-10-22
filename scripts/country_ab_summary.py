@@ -41,6 +41,8 @@ def country_ab_summary(
             continue
         if not dataset:
             continue
+        if dataset["archived"]:
+            continue
 
         country_info["COD-AB URL"] = dataset.get_hdx_url()
         country_info["COD-AB contributor"] = dataset.get_organization()["title"]

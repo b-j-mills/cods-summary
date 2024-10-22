@@ -41,6 +41,8 @@ def country_ps_summary(
             continue
         if not dataset:
             continue
+        if dataset["archived"]:
+            continue
 
         country_info["COD-PS URL"] = dataset.get_hdx_url()
         country_info["COD-PS contributor"] = dataset.get_organization()["title"]
