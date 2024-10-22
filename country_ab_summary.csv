@@ -1019,9 +1019,6 @@ POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Informat
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Poland - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pol) tables.",16,380,,
-PRI,https://data.humdata.org/dataset/cod-ab-pri,,OCHA Field Information Services Section (FISS),"Puerto Rico administrative level 0 (territory) and 1 (municipio) boundaries.
-
-These boundaries are suitable for database or GIS linkage to the [Puerto Rico administrative level 0-1 SADD population statistics](https://data.humdata.org/dataset/cod-ps-pri) tables.",78,,,
 QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Qatar administrative level 0-3 boundaries (COD-AB) dataset.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
