@@ -724,8 +724,9 @@ Vetting and live service provision by [Information Technology Outreach Services 
 These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables.",16,144,,
 MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-2 boundaries (COD-AB) dataset.
 
-These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 2) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).
-
+***** LIVE GEOSERVICES WILL BE UPDATED TO MATCH THESE LAYERS SHORTLY *****
+These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).  Feature areas (AREA_SQKM) totals are therefore much larger for administrative level 1 (and 0).
+This COD-AB contains an extra """"Atoll Lines' layer that shows the island and atoll groupings.
 The administrative level 2 P-codes are derived from an earlier ('FCODE') system where available, and then completed alphabetically by name in other cases.
 
 SEE CAVEATS for certain island (ADM2) duplicate names issues.
@@ -734,11 +735,11 @@ This COD-AB was most recently reviewed for accuracy and necessary changes in Oct
 
 Sourced from Government of the republic of Maldives
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Maldives [COD-PS](https://data.humdata.org/dataset/cod-ps-mdv).
 
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
 Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 21 feature.
