@@ -48,10 +48,10 @@ ATG,https://data.humdata.org/dataset/cod-ab-atg,cod-standard,OCHA Field Informat
 ARG,https://data.humdata.org/dataset/cod-ab-arg,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Argentina administrative level 0 (country), 1 (province, national territory, or federal district; provincia, territorio nacional, o distrito federal), and 2 (department or part; departamento o partido) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Argentina - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arg) tables at administrative level 0-1.",24,525,,
-ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-standard,OCHA Field Information Services Section (FISS),"Armenia administrative level 0 (country), 1 (province), and 2 (unofficial) boundaries.
+ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-enhanced,OCHA Field Information Services Section (FISS),"Armenia administrative level 0 (country), 1 (province), and 2 (unofficial) boundaries.
 
 These boundaries are suitable for database or GIS linkage to the [Armenia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arm) tables using the ADM0, ADM1, and ADM2_PCODE fields.",11,38,805,
-AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-standard,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries
+AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
@@ -249,7 +249,7 @@ Administrative level 2 contains 58 feature(s).
 Administrative level 3 contains 360 feature(s).
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",10,58,360,
-CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-standard,OCHA West and Central Africa (ROWCA),"""Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
+CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-enhanced,OCHA West and Central Africa (ROWCA),"""Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  Island P-code system is unofficial.
 
@@ -829,7 +829,7 @@ These shapefiles are suitable for database and GIS linkage to the [Mongolia - Su
 MSR,https://data.humdata.org/dataset/cod-ab-msr,cod-standard,OCHA Field Information Services Section (FISS),"Montserrat administrative level 0 (territory) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Montserrat administrative level 0-1 SADD 2011 population statistics](Montserrat administrative level 0-1 SADD 2011 population statistics) tables.",3,,,
-MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-standard,OCHA Field Information Services Section (FISS),"SEPTEMBER 29 2023 UPDATE
+MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-enhanced,OCHA Field Information Services Section (FISS),"SEPTEMBER 29 2023 UPDATE
 The shapefile, geodatabase, and EMF layers sourced from Le Haut Commissariat au Plan data (HCP) have been vetted and configured by ITOS.   Topological errors have been fixed and the lines layer is now available.  The live geoservices are currently those provided before the September 2023 earthquake, but will be updated shortly.
 
 NOTE ABOUT P-CODES.  The _Haut Commissariat au Plan data (HCP)_ source data contained place codes that did not reference administrative level 1 (regions).  To maintain consistency with the previous COD-AB - as well as the live geoservices that are currently in place - the new layers maintain the P-coding at administrative levels 1 and 2 and then append the HCP place coding for administrative levels 3 and 4.
@@ -1381,7 +1381,7 @@ TUN,https://data.humdata.org/dataset/cod-ab-tun,cod-enhanced,OCHA Field Informat
 
 These layers are suitable for database or GIS linkage to the [Tunisia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tun) administrative level 0-2 tables using the ADM0, ADM1, and ADM2_PCODE fields.
 ",6,24,264,2084
-TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,Regional IM Working Group - Europe,"Türkiye - Administrative Boundaries (Levels 0, 1, 2
+TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-enhanced,Regional IM Working Group - Europe,"Türkiye - Administrative Boundaries (Levels 0, 1, 2
 Included Admin 1 and 2 central points.",81,973,49662,43412
 TCA,https://data.humdata.org/dataset/cod-ab-tca,cod-standard,OCHA Field Information Services Section (FISS),Turks and Caicos Islands administrative level 0 (nation) and 1 (district) boundaries,6,30,,
 UGA,https://data.humdata.org/dataset/cod-ab-uga,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Uganda administrative level 0 (country), 1 (region), 2 (district), 3 (county), and 4 (sub-country) boundaries.
