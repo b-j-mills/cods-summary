@@ -1,6 +1,6 @@
 ### Summary tool for CODs on HDX
 
-This script summarizes the dataset metadata of all of the CODs on HDX into two csvs (datasets_tagged_cods and country_summary) and checks for "cowboy CODs", which are tagged as CODs but not designated as such in their metadata.
+This script summarizes the dataset metadata of all of the CODs on HDX into four csvs (datasets_tagged_cods, country_ab_summary, country_em_summary, and country_ps_summary) and checks for "cowboy CODs", which are tagged as CODs but not designated as such in their metadata.
 
 It emails out the list of "cowboy CODs" that is written in the errors text file.
 
