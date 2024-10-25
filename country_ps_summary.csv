@@ -280,13 +280,11 @@ GUY,https://data.humdata.org/dataset/cod-ps-guy,cod-standard,UNFPA,"Guyana admin
 REFERENCE YEAR:  2021
 
 These (administrative levels 0 and 1) tables are suitable for database or GIS joins to the [Guyana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-guy)",10,,,
-HTI,https://data.humdata.org/dataset/cod-ps-hti,cod-standard,OCHA Field Information Services Section (FISS),"Haiti administrative level 3 sex and age disaggregated projected population statistics.
+HTI,https://data.humdata.org/dataset/cod-ps-hti,cod-standard,UNFPA,"Haiti administrative level 0-2 sex and age disaggregated 2024 population statistics
 
-The upper age limit for the 'enfants', 'filles', and 'garcons' ('children', 'girls', and 'boys') categories is 17.
+REFERENCE YEAR:  2024
 
-REFERENCE YEAR:  2022
-
-These tables are suitable for database or GIS linkage to the [Haiti - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hti) layers using the ADM1 and ADM2_PCODE fields.",10,140,,
+These tables are suitable for database or GIS linkage to the [Haiti - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-hti) layers using the ADM1 and ADM2_PCODE fields.",10,,,
 HND,https://data.humdata.org/dataset/cod-ps-hnd,cod-enhanced,UNFPA,"Proyecciones de Población del Instituto Nacional de Estadística - INE - por edad y sexo según Departamento y Municipio 2020
 
 REFERENCE YEAR:  2024

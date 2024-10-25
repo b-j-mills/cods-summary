@@ -551,14 +551,25 @@ Edge-matched versions prepared by ITOS to conform to the United Nations Geospati
 GUY,https://data.humdata.org/dataset/cod-ab-guy,cod-standard,OCHA Field Information Services Section (FISS),"Guyana administrative level 0 (country), 1 (region), and 2 boundary polygons.
 
 These shapefiles (administrative levels 0 and 1) are suitable for database or GIS joins to the [Guyana - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-guy).",10,27,,
-HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"Administrative boundary, administrative level 0 (national), level 1 (department),  level 2 (commune),  and level 3 (section communale).
-Notice! The boundaries and names shown and the designations used on these shapefiles  do not imply official endorsement or acceptance by the United Nations.
+HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"""Haiti administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB requires improvements.
 
-The 'AdminLevel' field categorizes the lines AdminLevel 0: coastlines AdminLevel 1: lines between administrative level 1 polygons AdminLevel 2: lines between administrative level 2 polygons within the same administrative level 1 polygon AdminLevel 3: lines between administrative level 3 polygons within the same administrative level 2 polygon AdminLevel 99: international borders
+Sourced from Centre National de l'Information Géo-Spatiale (CNIGS)
 
-The administrative level 1 and 2 layers are suitable for database or GIS linkage to the [Haiti - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-hti) tables using the ADM1 and ADM2_PCODE fields.",10,140,570,
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Haiti [COD-PS](https://data.humdata.org/dataset/cod-ps-hti).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-hti
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 10 feature(s).
+
+Administrative level 2 contains 140 feature(s).
+
+Administrative level 3 contains 570 feature(s).
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",10,140,570,
 HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Honduras administrative level 0-2 boundaries
 
 PLEASE REFER TO THE CAVEATS ABOUT THE ADMINISTRATIVE LEVEL 3 DATA.
@@ -724,7 +735,6 @@ Vetting and live service provision by [Information Technology Outreach Services 
 These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables.",16,144,,
 MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-2 boundaries (COD-AB) dataset.
 
-***** LIVE GEOSERVICES WILL BE UPDATED TO MATCH THESE LAYERS SHORTLY *****
 These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).  Feature areas (AREA_SQKM) totals are therefore much larger for administrative level 1 (and 0).
 This COD-AB contains an extra """"Atoll Lines' layer that shows the island and atoll groupings.
 The administrative level 2 P-codes are derived from an earlier ('FCODE') system where available, and then completed alphabetically by name in other cases.
