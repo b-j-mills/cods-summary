@@ -668,19 +668,26 @@ LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Offic
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lao) COD-PS CSV tables.",18,148,,
-LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Lebanon Administrative Boundary (levels 0-3) polygons.
+LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"""Lebanon administrative level 0-3 boundaries (COD-AB) dataset.
 
-NOTE
-====
-The Beirut Opreational Zones shapefile can be found here:  [Beirut port explosion operational zones](https://data.humdata.org/dataset/beirut-port-explosion-operational-zones)
+This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
 
+Sourced from Council for Development and Reconstruction (CDR) (administrative level 0-3); Open Street Map and Lebanese Arabic Institute (administrative level 4).
 
-Unofficial Beirut administrative level 4 ('Neighborhood') boundaries. SEE CAVEATS.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
 
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-7 August 2020:  Unofficial administrative level 4 shapefile added.  
-10 August 2020:  Administrative level 0-3 reprojected.",8,26,1610,
+Administrative level 1 contains 8 feature(s).
+
+Administrative level 2 contains 26 feature(s).
+
+Administrative level 3 contains 1610 feature(s).
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",8,26,1610,
 LSO,https://data.humdata.org/dataset/cod-ab-lso,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Lesotho administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  

@@ -280,7 +280,7 @@ GUY,https://data.humdata.org/dataset/cod-ps-guy,cod-standard,UNFPA,"Guyana admin
 REFERENCE YEAR:  2021
 
 These (administrative levels 0 and 1) tables are suitable for database or GIS joins to the [Guyana - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-guy)",10,,,
-HTI,https://data.humdata.org/dataset/cod-ps-hti,cod-standard,UNFPA,"Haiti administrative level 0-2 sex and age disaggregated 2024 population statistics
+HTI,https://data.humdata.org/dataset/cod-ps-hti,cod-enhanced,UNFPA,"Haiti administrative level 0-2 sex and age disaggregated 2024 population statistics
 
 REFERENCE YEAR:  2024
 
