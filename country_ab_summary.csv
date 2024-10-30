@@ -940,19 +940,29 @@ Administrative level 2 contains 67 features.
 Administrative level 3 contains 266 features.
 
 Live administrative boundary geoservices for Niger and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).",8,67,266,
-NGA,https://data.humdata.org/dataset/cod-ab-nga,cod-enhanced,OCHA Nigeria,"The dataset represents the Common Operational Data (COD) for administrative boundaries of Nigeria.  Each administrative unit contains the p-code and name. Admin COD datasets (Admin 0 – 2) for Nigeria are endorsed by the Office of the Surveyor General of the Federal Republic of Nigeria (OSGOF) and the IMWG Feb 2017.  See metadata for description of methodology for admin level 3 and the cleaning and processing performed by ITOS.  Levels 0 - 3 are polygonal administrative units, Level 3 only covers Adamawa, Borno and Yobe States and are for operational purposes only.   
+NGA,https://data.humdata.org/dataset/cod-ab-nga,cod-enhanced,OCHA Nigeria,"""Nigeria administrative level 0-3 boundaries (COD-AB) dataset.
 
-A senatorial district shapefile is also included.  Senatorial districts respect administrative level 1 (state) but are not reflected in the gazetteer, geodatabase, or live services.
+NOTE:  See COD-PS caveats about uninhabited COD-AB feature.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-The administrative level 0-2 and senatorial district boundaries are suitable for database or GIS linkage to the [Nigeria - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nga) tables.
+Sourced from Office for the Surveyor General of the Federation of Nigeria (OSGOF), Ehealth, United Nations Cartographic Section (UNCS)
 
-A topojson generalized version of administrative level 3 is also provided.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
+This COD-AB is suitable for database or GIS linkage to the Nigeria [COD-PS](https://data.humdata.org/dataset/cod-ps-nga).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-nga
+Please see the [COD Portal](https://cod.unocha.org/).
 
-REVISION HISTORY
-14 February 2020:  Topojson generalized administrative level 3 resource added",37,774,714,
+Administrative level 1 contains 37 feature(s).
+
+Administrative level 2 contains 774 feature(s).
+
+These administrative boundaries were established in:  October 1996ongoing
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+These administrative boundaries were established in:  October 1996""",37,774,714,
 OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Oman administrative level 0-2 boundary files
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",11,49,,

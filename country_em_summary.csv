@@ -83,6 +83,11 @@ COD-EM datasets do not replace the authoritative COD-AB available here; however 
 These layers are suitable for database or GIS linkage to the El Salvador- Subnational Population Statistics administrative level 0-3 tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 
 Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",14,48,266,
+GNQ,https://data.humdata.org/dataset/cod-em-gnq,cod-enhanced,OCHA Field Information Services Section (FISS),"Equatorial Guinea administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and EMF files.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gnq); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,32,,
 GMB,https://data.humdata.org/dataset/cod-em-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-2 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-gmb); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
