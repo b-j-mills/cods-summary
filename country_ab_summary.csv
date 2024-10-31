@@ -77,15 +77,28 @@ Lines shapefile added
 30 January 2009
 Initial upload
 ",32,,,
-BGD,https://data.humdata.org/dataset/cod-ab-bgd,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"17 November 2020 update: P-codes prefixed with 'BD'
+BGD,https://data.humdata.org/dataset/cod-ab-bgd,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Bangladesh administrative level 0-4 boundaries (COD-AB) dataset.
 
-This is the full Administrative dataset for Bangladesh.  
+NOTE:  COD-PS extends only to administrative level 3.   The spelling of 5 districts (and two of their divisions) were changed in 2018.  The new spellings are Chattogram (for Chittagong), Barishal (for Barisal), Cumilla (for Comilla), Jashore (for Jessore) and Bogura (for Bogra).  These changes will be reflected in the next COD-AB update.
 
-REFERENCE YEAR:  2015
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB requires improvements.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Sourced from Bangladesh Bureau of Statistics (BBS)
 
-The administrative levels 0-3 layers are suitable for database or GIS linkage to the [Bangladesh - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bgd) population statistics tables.  (See caveats.)   ",8,64,544,5160
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Bangladesh [COD-PS](https://data.humdata.org/dataset/cod-ps-bgd).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 8 feature(s).
+
+Administrative level 2 contains 64 feature(s).
+
+These administrative boundaries were established in:  2022
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",8,64,544,5160
 BRB,https://data.humdata.org/dataset/cod-ab-brb,cod-standard,OCHA Field Information Services Section (FISS),"""Barbados administrative level 0-1 boundaries (COD-AB) dataset.
 
 NOTE:  COD-AB P-codes created by OCHA and are not official.
@@ -139,13 +152,26 @@ BMU,https://data.humdata.org/dataset/cod-ab-bmu,cod-standard,OCHA Field Informat
 These boundaries are suitable for database or GIS linkage to the [Bermuda administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-bmu) tables.
 
 See description of administrative level 2.",9,9,,
-BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Acquired and P-coded by OCHA in 2019
+BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Bhutan administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-30 OCTOBER 2020 UPDATE:  ITOS live services added
+Sourced from OCHA ROAP
 
-The administrative level 0 and 1 shapefiles and geodatabase feature classes are suitable for database or GIS linkage to the [Bhutan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-btn) CSV tables.",20,205,,
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Bhutan [COD-PS](https://data.humdata.org/dataset/cod-ps-btn).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 20 feature(s).
+
+Administrative level 2 contains 205 feature(s).
+
+These administrative boundaries were established in:  2020
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",20,205,,
 BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Field Information Services Section (FISS),"""Bolivia (Plurinational State of) administrative level 0-3 boundaries (COD-AB) dataset.
 
 NOTE:  See caveats about treatment of seven water bodies.
@@ -208,24 +234,26 @@ BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Informat
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundary files are suitable for database or GIS linkage to the [Burundi - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-bdi) using the P-codes as keys.",18,119,,
-KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset.[Resources rearranged September 2024 with no change to content.]
+KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Cambodia administrative level 0-3 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in December 2023.  The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-Sourced from Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008, WFP.
+Sourced from Department of Geography of the Ministry of Land Management, Urbanization and Construction in 2008, WFP
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Cambodia [COD-PS](https://data.humdata.org/dataset/cod-ps-khm).
 
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.)
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 25 feature(s).
 
 Administrative level 2 contains 197 feature(s).
 
-Administrative level 3 contains 1633 feature(s).",25,197,1633,
+These administrative boundaries were established in:  2018
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",25,197,1633,
 CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,"""Cameroon administrative level 0-3 boundaries (COD-AB) dataset.
 
 NOTE:  Metadata dates are derived from the """"Décret n° 2008/376 du 12 novembre 2008 portant organisation administrative de la république du Cameroun """"
@@ -299,9 +327,28 @@ CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Latin America 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These boundaries are suitable for database or GIS linkage to the [Chile - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-chl) using the  ADM0, ADM1, ADM2, and ADM3-PCODE fields.",16,56,345,
-CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"China administrative level 0 (country), 1 (province, autonomous region, municipality, or special administrative region), and 2 (prefecture-level units) boundaries and gazetteer
+CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"""China administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",34,361,,
+NOTE:  COD-AB source is unofficial.  COD-AB reflects Chinese and UN recognition of 'Taiwan' as a Chinese ADM1 feature.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from publicly available online sources
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 34 feature(s).
+
+Administrative level 2 contains 361 feature(s).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",34,361,,
 COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Colombia administrative level 0 (country), 1 (department), and 2 (municipality) boundaries.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
@@ -461,14 +508,26 @@ NOTE these resources reflect the creation of the 'South West Ethiopia' region on
 EMF files are currently unavailable.
 
 See caveats for minor issues.",13,92,1082,
-FJI,https://data.humdata.org/dataset/cod-ab-fji,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"This geodatabase contains Province Boundaries (Admin 3) and Tikina (Admin 4) with population from 2007 Census and projected population for 2010 
+FJI,https://data.humdata.org/dataset/cod-ab-fji,cod-standard,OCHA Field Information Services Section (FISS),"""Fiji administrative level 0-3 boundaries (COD-AB) dataset.
 
-30 December 2019 update:
-Gazetteer added
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
+Sourced from POPGIS, Fiji Islands Bureau of Statistics, Pacific Catastrophe Risk Assessment and Financing Initiative (PCRAFI)
 
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-",4,15,86,
+This COD-AB is suitable for database or GIS linkage to the Fiji [COD-PS](https://data.humdata.org/dataset/cod-ps-fji).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 4 feature(s).
+
+Administrative level 2 contains 15 feature(s).
+
+These administrative boundaries were established in:  2017
+
+Recommended cartographic projection:  Oceania""",4,15,86,
 GUF,https://data.humdata.org/dataset/cod-ab-guf,cod-standard,OCHA Field Information Services Section (FISS),"French Guiana administrative level 0 (country), 1 (arrondissement), and 2 (commune) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [French Guiana - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-guf) tables.
