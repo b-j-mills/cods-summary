@@ -490,7 +490,26 @@ Administrative level 1 contains 14 feature(s).
 Administrative level 2 contains 48 feature(s).
 
 Administrative level 3 contains 266 feature(s).""",14,48,266,
-GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA West and Central Africa (ROWCA),Equatorial Guinea administrative level 0-2 Subnational Administrative Boundaries,7,32,,
+GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA West and Central Africa (ROWCA),"""Equatorial Guinea administrative level 0-2 boundaries (COD-AB) dataset.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-gnq).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 7 feature(s).
+
+Administrative level 2 contains 32 feature(s).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic""",7,32,,
 ERI,https://data.humdata.org/dataset/cod-ab-eri,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Eritrea level 0 (national), level 1 (region) and level 2 (district) boundaries
 
 Prepared by OCHA

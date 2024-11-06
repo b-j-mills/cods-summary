@@ -267,9 +267,9 @@ REFERENCE YEAR:  2024
 Please see caveat about administrative level 2.
 
 These tables are suitable for database or GIS linkage to the [Guatemala - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gtm) layers using the ADM0, ADM1, and ADM2-PCODE fields.",22,340,,
-GIN,https://data.humdata.org/dataset/cod-ps-gin,cod-enhanced,UNFPA,"Guinea administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+GIN,https://data.humdata.org/dataset/cod-ps-gin,cod-enhanced,UNFPA,"Guinea administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:   2023
+REFERENCE YEAR:   2024
 
 These tables are suitable for database or ArcGIS joins to the [Guinea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-gin) and [Guinea - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-gin) layers using the ADM0, ADM1, and ADM2_PCODE fields.
 
@@ -660,11 +660,11 @@ REFERENCE YEAR 2021
 In addition to the administrative level 0-2 tables, this dataset includes a NUTS3 (administrative level 3) table.
 
 These tables are suitable for database or GIS linkage to the [Slovakia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-svk) layers.",8,79,,
-SLB,https://data.humdata.org/dataset/cod-ps-slb,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Solomon Islands administrative level 0 (country),  1 (province), 2 (constituency), and 3 (ward) population statistics
+SLB,https://data.humdata.org/dataset/cod-ps-slb,cod-standard,UNFPA,"Solomon Islands administrative level 0-3 sex and age disaggregated 2023 population statistics
 
-REFERENCE YEAR:  2009
+REFERENCE YEAR:  2023
 
-Suitable for GIS or database linkage to the [Solomon Islands administrative level 0, 1, 2, and 3 boundary polygons](https://data.humdata.org/dataset/cod-ab-slb) Common Operational Dataset.",10,50,183,
+Suitable for GIS or database linkage to the [Solomon Islands - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-slb) Common Operational Dataset using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",10,50,183,
 SOM,https://data.humdata.org/dataset/cod-ps-som,cod-standard,OCHA Somalia,"The United Nations Population Fund (UNFPA) partnered with donors and UN agencies and took up the lead role to support the Somali authorities in undertaking the Population Estimation Survey (PESS) for Somalia in October 2013- March 2014.
 
 REFERENCE YEAR:  2014
