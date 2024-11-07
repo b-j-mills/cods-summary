@@ -544,7 +544,7 @@ REFERENCE YEAR:  2017
 
 UNFPA investigated replacement or projection of this dataset in 2021. No better alternative is currently available.
 
-NOTE this dataset is not compatible with the [Pakistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pak) layers, which were updated on 2022_09_02.",5,131,,
+NOTE this dataset is not compatible with the [Pakistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pak) layers, which were updated on 2022_09_02.",5,131,433,
 PSE,https://data.humdata.org/dataset/cod-ps-pse,cod-enhanced,UNFPA,"State of Palestine administrative level 0-1 sex and age disaggregated 2023 population statistics
 
 REFERENCE YEAR: 2023
@@ -660,7 +660,7 @@ REFERENCE YEAR 2021
 In addition to the administrative level 0-2 tables, this dataset includes a NUTS3 (administrative level 3) table.
 
 These tables are suitable for database or GIS linkage to the [Slovakia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-svk) layers.",8,79,,
-SLB,https://data.humdata.org/dataset/cod-ps-slb,cod-standard,UNFPA,"Solomon Islands administrative level 0-3 sex and age disaggregated 2023 population statistics
+SLB,https://data.humdata.org/dataset/cod-ps-slb,cod-enhanced,UNFPA,"Solomon Islands administrative level 0-3 sex and age disaggregated 2023 population statistics
 
 REFERENCE YEAR:  2023
 
