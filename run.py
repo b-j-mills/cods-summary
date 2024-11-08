@@ -78,12 +78,11 @@ if __name__ == "__main__":
     hdx_site = args.hdxsite
     if not hdx_site:
         hdx_site = getenv("HDX_SITE", "prod")
-    scrapers_to_run = args.scrapers
+    scrapers_to_run = getenv("SCRAPERS_TO_RUN")
     if scrapers_to_run is None:
-        scrapers_to_run = getenv(
-            "SCRAPERS_TO_RUN",
-            "metadata_summary,country_ab_summary,country_em_summary,country_ps_summary,cowboy_cods",
-        )
+        scrapers_to_run = args.scrapers
+    if scrapers_to_run is None:
+        scrapers_to_run = "metadata_summary,country_ab_summary,country_em_summary,country_ps_summary,cowboy_cods"
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
     countries = args.countries
