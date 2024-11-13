@@ -746,9 +746,9 @@ LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Offic
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lao) COD-PS CSV tables.",18,148,,
-LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"""Lebanon administrative level 0-3 boundaries (COD-AB) dataset.
+LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Field Information Services Section (FISS),"""Lebanon administrative level 0-3 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
 
 Sourced from Council for Development and Reconstruction (CDR) (administrative level 0-3); Open Street Map and Lebanese Arabic Institute (administrative level 4).
 
@@ -757,15 +757,17 @@ Live geoservices (provided by Information Technology Outreach Services (ITOS) wi
 There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
 
 No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+NOTE this COD-AB dataset was updated in November 2024 in preparation for aligning the geoservices (to be made available shortly) to the shoreline and ground features.
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 8 feature(s).
 
 Administrative level 2 contains 26 feature(s).
 
-Administrative level 3 contains 1610 feature(s).
+These administrative boundaries were established in:  2017
 
-Recommended cartographic projection:  Asia South Albers Equal Area Conic""",8,26,1610,
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",8,26,1627,
 LSO,https://data.humdata.org/dataset/cod-ab-lso,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Lesotho administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  
