@@ -632,9 +632,9 @@ REFERENCE YEAR: 2022
 
 
 These tables are suitable for database or GIS linkage to the administrative level 0-1 layers in the [Saudi Arabia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sau) using the ADM0, and ADM1_PCODE items.",13,,,
-SEN,https://data.humdata.org/dataset/cod-ps-sen,cod-enhanced,UNFPA,"Senegal administrative level 0-1 sex and age disaggregated 2021 projected population statistics
+SEN,https://data.humdata.org/dataset/cod-ps-sen,cod-enhanced,UNFPA,"Senegal administrative level 0-1 sex and age disaggregated 2022 projected population statistics
 
-REFERENCE YEAR:  2021
+REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Senegal - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sen) layers using the ADM0 and ADM1_PCODE fields.",14,,,
 SYC,https://data.humdata.org/dataset/cod-ps-syc,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Seychelles - Subnational Population Statistics
@@ -653,9 +653,9 @@ These CSV tables are suitable for database or GIS linkage to the [https://data.h
 SXM,https://data.humdata.org/dataset/cod-ps-sxm,cod-standard,OCHA Field Information Services Section (FISS),"Sint Maarten administrative level 0 (constituent country), 1 (district), and 2 (sub-district) disaggregated population statistics and gazetteer
 
 These administrative level 0 and 1 CSV tables are suitable for database or GIS linkage to the [Sint Maarten administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-sxm) shapefiles.",9,,,
-SVK,https://data.humdata.org/dataset/cod-ps-svk,cod-enhanced,UNFPA,"Slovakia administrative level 0-1  sex and age disaggregated 2021 population statistics
+SVK,https://data.humdata.org/dataset/cod-ps-svk,cod-enhanced,UNFPA,"Slovakia administrative level 0-1  sex and age disaggregated 2023 population statistics
 
-REFERENCE YEAR 2021
+REFERENCE YEAR 2023
 
 In addition to the administrative level 0-2 tables, this dataset includes a NUTS3 (administrative level 3) table.
 
@@ -818,9 +818,9 @@ UNFPA investigated replacement or projection of this dataset in 2021. No better 
 
 These population statistics tables are suitable for database or GIS linkage to the [Venezuela (Bolivarian Republic of) - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ven).
 ",24,335,,
-VNM,https://data.humdata.org/dataset/cod-ps-vnm,cod-enhanced,UNFPA,"Viet Nam administrative level 0-1 sex and age disaggregated 2023 population statistics 
+VNM,https://data.humdata.org/dataset/cod-ps-vnm,cod-enhanced,UNFPA,"Viet Nam administrative level 0-1 sex and age disaggregated 2024 population statistics 
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Viet Nam - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-vnm) using the ADM0 and ADM1_PCODE items.",63,,,
 VGB,https://data.humdata.org/dataset/cod-ps-vgb,cod-enhanced,UNFPA,"British Virgin Islands administrative level 0 sex and age disaggregated 2022 projected population statistics
