@@ -216,7 +216,24 @@ Administrative level 1 contains 9 feature(s).
 Administrative level 2 contains 113 feature(s).
 
 Administrative level 3 contains 343 feature(s).""",9,113,343,
-BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba) administrative level 0 (country) and 1 (island region, eilandgebieden) boundaries.",,,,
+BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"""Bonaire, Sint Eustatius and Saba administrative level 0 boundaries (COD-AB) dataset.
+
+NOTE:  The time period of the dataset is based on the 10 October 2010 dissolution of the former Netherlands Antilles.
+This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",3,,,
 BWA,https://data.humdata.org/dataset/cod-ab-bwa,cod-standard,OCHA Field Information Services Section (FISS),"""Botswana administrative level 0-3 boundaries (COD-AB) dataset.
 This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
 
@@ -889,11 +906,29 @@ Administrative level 2 contains 53 feature(s).
 Administrative level 3 contains 701 feature(s).
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",10,53,701,
-MHL,https://data.humdata.org/dataset/cod-ab-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative levels 0 (country), 1 (atoll), and 2 (EA) boundary shapefiles, geodatabase, and gazetteer.
+MHL,https://data.humdata.org/dataset/cod-ab-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"""Marshall Islands administrative level 0-2 boundaries (COD-AB) dataset.
 
-These shapefiles are suitable for database or GIS linkage to the [Marshall Islands administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-mhl) tables.
+NOTE:  WARNING:  The geoservices are not scaled correctly.  Users are advised to rely on the shapefiles or geodatabase.  The COD-AB omits MH0609 feature contained in COD-PS.  The disbursed nature of this archipelago country does not make it suitable for EMF mapping.
 
-The disbursed nature of this archipelago country does not make it suitable for EMF mapping.",25,153,,
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Secretariat of the Pacific Community, Statistics for Development Division
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Marshall Islands [COD-PS](https://data.humdata.org/dataset/cod-ps-mhl).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 25 feature(s).
+
+Administrative level 2 contains 153 feature(s).
+
+These administrative boundaries were established in:  2021
+
+Recommended cartographic projection:  Oceania""",25,152,,
 MTQ,https://data.humdata.org/dataset/cod-ab-mtq,cod-standard,OCHA Field Information Services Section (FISS),"Martinique administrative level 0 (territory),  level 1 (arrondissement), and level 2 (commune) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Martinique administrative level 0-2 SADD population statistics](https://data.humdata.org/dataset/cod-ps-mtq) tables.
