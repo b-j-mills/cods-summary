@@ -38,8 +38,10 @@ def parse_args():
 def main(
     scrapers_to_run,
     countries,
+    test_var,
     **ignore,
 ):
+    logger.info(f"Here is the test var:{test_var}.")
     if not countries or countries == "all":
         countries = [key for key in Country.countriesdata()["countries"]]
 
@@ -86,6 +88,7 @@ if __name__ == "__main__":
         )
     if scrapers_to_run:
         scrapers_to_run = scrapers_to_run.split(",")
+    test_var = getenv("TEST_VAR")
     countries = args.countries
     if countries:
         countries = countries.split(",")
@@ -95,6 +98,7 @@ if __name__ == "__main__":
         main,
         scrapers_to_run=scrapers_to_run,
         countries=countries,
+        test_var=test_var,
         hdx_site=hdx_site,
         hdx_read_only=True,
         user_agent_config_yaml=join(expanduser("~"), ".useragents.yaml"),

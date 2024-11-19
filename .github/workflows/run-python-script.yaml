@@ -34,6 +34,7 @@ jobs:
         PREPREFIX: ${{ secrets.PREPREFIX }}
         USER_AGENT: ${{ secrets.USER_AGENT }}
         SCRAPERS_TO_RUN: ${{ secrets.SCRAPERS_TO_RUN }}
+        TEST_VAR: ${{ secrets.TEST_VAR }}
       run: |
         python run.py
     - name: Commit updated data bundle
