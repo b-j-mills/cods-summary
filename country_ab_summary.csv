@@ -43,6 +43,9 @@ Administrative level 2 contains 161 feature(s).
 Administrative level 3 contains 539 feature(s).
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",18,161,539,
+AIA,https://data.humdata.org/dataset/cod-ab-aia,cod-standard,OCHA Field Information Services Section (FISS),"Anguilla administrative level 0 (national) boundary.
+
+",,,,
 ATG,https://data.humdata.org/dataset/cod-ab-atg,cod-standard,OCHA Field Information Services Section (FISS),"www.gadm.org
 ",,,,
 ARG,https://data.humdata.org/dataset/cod-ab-arg,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Argentina administrative level 0 (country), 1 (province, national territory, or federal district; provincia, territorio nacional, o distrito federal), and 2 (department or part; departamento o partido) boundaries
@@ -51,6 +54,20 @@ These boundaries are suitable for database or GIS linkage to the [Argentina - Su
 ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-enhanced,OCHA Field Information Services Section (FISS),"Armenia administrative level 0 (country), 1 (province), and 2 (unofficial) boundaries.
 
 These boundaries are suitable for database or GIS linkage to the [Armenia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arm) tables using the ADM0, ADM1, and ADM2_PCODE fields.",11,38,805,
+ABW,https://data.humdata.org/dataset/cod-ab-abw,cod-standard,OCHA Field Information Services Section (FISS),"""Aruba administrative level 0 boundaries (COD-AB) dataset.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes 3 month(s) ago.  The determination was:  The COD-AB does not require any update.
+
+Sourced from www.gadm.org.
+
+Live geoservices are not yet available for this COD-AB.
+
+This COD-AB is suitable for database or GIS linkage to the Aruba COD-PS table(s) using the XX_PCODE, field(s).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+These boundaries are suitable for database or GIS linkage to the [Aruba - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-abw) tables.
+Please see COD Portal:  https://cod.unocha.org/""",,,,
 AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
@@ -77,6 +94,8 @@ Lines shapefile added
 30 January 2009
 Initial upload
 ",32,,,
+BHR,https://data.humdata.org/dataset/cod-ab-bhr,cod-standard,OCHA Middle East and North Africa (ROMENA),"Bahrain - Administrative Boundaries (levels 0-1), Populated Places
+",,,,
 BGD,https://data.humdata.org/dataset/cod-ab-bgd,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Bangladesh administrative level 0-4 boundaries (COD-AB) dataset.
 
 NOTE:  COD-PS extends only to administrative level 3.   The spelling of 5 districts (and two of their divisions) were changed in 2018.  The new spellings are Chattogram (for Chittagong), Barishal (for Barisal), Cumilla (for Comilla), Jashore (for Jessore) and Bogura (for Bogra).  These changes will be reflected in the next COD-AB update.
@@ -193,6 +212,7 @@ Administrative level 1 contains 9 feature(s).
 Administrative level 2 contains 113 feature(s).
 
 Administrative level 3 contains 343 feature(s).""",9,113,343,
+BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"Caribbean Netherlands (Bonaire, Sint Eustatius, and Saba) administrative level 0 (country) and 1 (island region, eilandgebieden) boundaries.",,,,
 BWA,https://data.humdata.org/dataset/cod-ab-bwa,cod-standard,OCHA Field Information Services Section (FISS),"""Botswana administrative level 0-3 boundaries (COD-AB) dataset.
 This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
 
@@ -1177,6 +1197,9 @@ Corrections made to two administrative level 1 names in the administrative level
 
 Administrative level 4 P-coded
 ",5,30,416,1000
+BLM,https://data.humdata.org/dataset/cod-ab-blm,cod-standard,OCHA Field Information Services Section (FISS),"Saint Barthélemy - Subnational Administrative Boundaries
+
+[Saint Barthélemy is an administrative level 1 unit of France.]",,,,
 KNA,https://data.humdata.org/dataset/cod-ab-kna,cod-standard,OCHA Field Information Services Section (FISS),"Saint Kitts and Nevis administrative level 0 (nation) and 1 (parish) boundaries
 
 These boundaries are suitable for database or GIS linkage to the [Saint Kitts and Nevis administrative level 0-1 population statistics](https://data.humdata.org/dataset/cod-ps-kna) tables.",14,,,
@@ -1194,6 +1217,7 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 Please see the [COD Portal](https://cod.unocha.org/).
 Administrative level 1 contains 10 feature(s).
 Administrative level 2 contains 547 feature(s).""",10,547,,
+MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),Saint Martin administrative level 0 (nation) boundaries,,,,
 VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"""Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date of administrative boundary establishment is unknown, but is assumed to be the 1969 Independence.
