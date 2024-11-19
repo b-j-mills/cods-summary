@@ -63,6 +63,8 @@ def country_ab_summary(
             ]
         if len(resources) == 0:
             logger.warning(f"Cannot find gazetteer for COD-AB {iso}")
+            if len([c for c in country_info.values() if c]) > 1:
+                results.append(country_info)
             continue
 
         try:
