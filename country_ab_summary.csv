@@ -56,18 +56,22 @@ ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-enhanced,OCHA Field Informat
 These boundaries are suitable for database or GIS linkage to the [Armenia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-arm) tables using the ADM0, ADM1, and ADM2_PCODE fields.",11,38,805,
 ABW,https://data.humdata.org/dataset/cod-ab-abw,cod-standard,OCHA Field Information Services Section (FISS),"""Aruba administrative level 0 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 3 month(s) ago.  The determination was:  The COD-AB does not require any update.
+These administrative boundaries were established in:  1986
 
-Sourced from www.gadm.org.
+NOTE:  The time period of the dataset is based on Aruba's 1 January 1986 succession from the former Netherlands Antilles.
+This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
 
-Live geoservices are not yet available for this COD-AB.
+Sourced from www.gadm.org
 
-This COD-AB is suitable for database or GIS linkage to the Aruba COD-PS table(s) using the XX_PCODE, field(s).
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Aruba [COD-PS](https://data.humdata.org/dataset/cod-ps-abw).
 
 As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
 
-These boundaries are suitable for database or GIS linkage to the [Aruba - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-abw) tables.
-Please see COD Portal:  https://cod.unocha.org/""",,,,
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",,,,
 AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
