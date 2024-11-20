@@ -77,8 +77,11 @@ def country_ps_summary(
             try:
                 contents = read_csv(resource_file)
             except:
-                logger.error(f"Could not open adm{adm_level} pop spreadsheet for {iso}")
-                continue
+                try:
+                    contents = read_csv(resource_file, encoding="latin-1")
+                except:
+                    logger.error(f"Could not open adm{adm_level} pop spreadsheet for {iso}")
+                    continue
 
             contents.dropna(axis=0, how="all", inplace=True)
             rows = len(contents)
