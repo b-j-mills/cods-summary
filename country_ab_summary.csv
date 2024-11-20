@@ -1256,7 +1256,24 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 Please see the [COD Portal](https://cod.unocha.org/).
 Administrative level 1 contains 10 feature(s).
 Administrative level 2 contains 547 feature(s).""",10,547,,
-MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),Saint Martin administrative level 0 (nation) boundaries,,,,
+MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),"""Saint Martin (French part) administrative level 0 boundaries (COD-AB) dataset.
+
+NOTE:  COD-AB provides only ADM0 polygon.  COD-PS extends to ADM1.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2023.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Saint Martin (French part) [COD-PS](https://data.humdata.org/dataset/cod-ps-maf).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-maf).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",,,,
 VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"""Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date of administrative boundary establishment is unknown, but is assumed to be the 1969 Independence.
