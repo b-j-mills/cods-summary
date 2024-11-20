@@ -140,12 +140,12 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 These layers are suitable for database or GIS linkage to the [Kuwait - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-kwt) tables.
 
 Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",6,,,
-LBN,https://data.humdata.org/dataset/cod-em-lbn,,OCHA Field Information Services Section (FISS),"Lebanon administrative level 0-3 edge-matched gazetteer and boundary files.
+LBN,https://data.humdata.org/dataset/cod-em-lbn,cod-enhanced,OCHA Field Information Services Section (FISS),"Lebanon administrative level 0-3 edge-matched gazetteer and boundary files.
 SEE CAVEATS
 
 Live edge-matched boundary geoservices for all  edge-matched locations are available in [this ""COD_External_Edgematch"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch).
 
-COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-mrt); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-lbn); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
 These layers are suitable for database or GIS linkage to the [Lebanon - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lbn) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
 

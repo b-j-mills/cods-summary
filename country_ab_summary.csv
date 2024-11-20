@@ -390,11 +390,30 @@ Administrative level 2 contains 361 feature(s).
 The date that these administrative boundaries were established is unknown.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic""",34,361,,
-COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Colombia administrative level 0 (country), 1 (department), and 2 (municipality) boundaries.
+COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"""Colombia administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+NOTE:  COD-PS updated August 2024.  The metadata dates reflect that the most recent administrative structure change was the creation of ADM2 feature """"Barrancominas"""" [CO94343] in 2018.
 
-These boundaries are suitable for database or GIS linkage to the [Colombia administrative level 0-2 2020 projected population statistics](https://data.humdata.org/dataset/cod-ps-col) tables.",33,1122,,
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
+
+Sourced from Departamento Administrativo Nacional de Estadística (DANE)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Colombia [COD-PS](https://data.humdata.org/dataset/cod-ps-col).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 33 feature(s).
+
+Administrative level 2 contains 1122 feature(s).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  South America Albers Equal Area Conic""",33,1122,,
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Comoros administrative level 0-3 boundaries (COD-AB) dataset.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2023.  The COD-AB does not require any update.

@@ -15,7 +15,7 @@ REFERENCE YEAR:   2024
 
 Please see caveats about one special location.
 
-These CSV tables are suitable for database or GIS linkage to the [administrative level 0-2 shapefiles](https://data.humdata.org/dataset/cod-ab-ago).",18,,,
+These CSV tables are suitable for database or GIS linkage to the [administrative level 0-2 shapefiles](https://data.humdata.org/dataset/cod-ab-ago).",18,161,,
 AIA,https://data.humdata.org/dataset/cod-ps-aia,cod-enhanced,UNFPA,Anguilla administrative level 0 sex and age disaggregated 2022 projected population statistics,,,,
 ATG,https://data.humdata.org/dataset/cod-ps-atg,cod-enhanced,UNFPA,"Antigua and Barbuda administrative level 0 projected 2023 population statistics
 
@@ -140,7 +140,7 @@ CAF,https://data.humdata.org/dataset/cod-ps-caf,cod-standard,OCHA Central Africa
 REFERENCE YEAR:  2015
 See caveats.
 2021 data available.  
-",,,,
+",17,73,177,
 TCD,https://data.humdata.org/dataset/cod-ps-tcd,cod-enhanced,UNFPA,"Chad administrative level 0-1 sex and age disaggregated 2023 projected population statistics
 
 REFERENCE YEAR:  2023
@@ -342,7 +342,7 @@ REFERENCE YEAR:  2018
 
 The file includes a sheet with metadata.
 
-Please note that data from the 2009 population census is available here: https://data.humdata.org/dataset/cod-ab-kgz",,,,
+Please note that data from the 2009 population census is available here: https://data.humdata.org/dataset/cod-ab-kgz",9,53,,
 LAO,https://data.humdata.org/dataset/cod-ps-lao,cod-enhanced,UNFPA,"Lao People's Democratic Republic level 0-2 sex and age disaggregated 2024 projected population statistics
 
 REFERENCE YEAR:  2024
