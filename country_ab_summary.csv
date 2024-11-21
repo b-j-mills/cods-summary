@@ -14,10 +14,30 @@ c) organization or cluster
 d) email address
 
 The user will then receive a link to the boundary files, which may only be used according to the above restriction.",34,401,,
-ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Information Services Section (FISS),"Albania administrative level 0 (country), 1 (county), 2 (municipality), and 3 (locality) boundaries
+ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Information Services Section (FISS),"""Albania administrative level 0-3 boundaries (COD-AB) dataset.
 
-These administrative level 0-1 layers are suitable for database or GIS linkage using the P-codes to the [Albania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-alb) tables.
-",12,61,374,
+NOTE:  See COD-AB caveats about a multi-part ADM2 feature.  See Caveats about two ADM2 featgure names.
+
+The HDX metadata dates are based on the enactment of the most recent administrative structure adjustments on June 21 2015.
+This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
+
+Sourced from www.gadm.org and UNHCR
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Albania [COD-PS](https://data.humdata.org/dataset/cod-ps-alb).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 12 feature(s).
+
+Administrative level 2 contains 61 feature(s).
+
+These administrative boundaries were established in:  2015
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic""",12,61,374,
 DZA,https://data.humdata.org/dataset/cod-ab-dza,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Sourced from GAUL.  P-codes harmonization by UNHCR FICSS towards enhanced integration between different systems and humanitarian agencies.  P-coded reformulated by UNICEF.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
@@ -137,9 +157,27 @@ This COD-AB is suitable for database or GIS linkage to the Barbados [COD-PS](htt
 As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
 Please see the [COD Portal](https://cod.unocha.org/).
 Administrative level 1 contains 11 feature(s).""",11,,,
-BLR,https://data.humdata.org/dataset/cod-ab-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"Belarus administrative level 0-1 boundaries
+BLR,https://data.humdata.org/dataset/cod-ab-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"""Belarus administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",7,119,,
+NOTE:  The time period of the dataset is based establishemnt of the current six regions (voblasts) and the city of Minsk with special status on January 20, 1960.
+This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
+
+Sourced from UNICEF
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-blr).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 7 feature(s).
+
+Administrative level 2 contains 119 feature(s).
+
+These administrative boundaries were established in:  1960
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic""",7,119,,
 BLZ,https://data.humdata.org/dataset/cod-ab-blz,cod-enhanced,OCHA Field Information Services Section (FISS),"""Belize administrative level 0-1 boundaries (COD-AB) dataset.
 This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
 
