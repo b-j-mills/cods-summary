@@ -65,9 +65,9 @@ Data extracted from the [Belize Population and Housing Census Country Report 201
 Version history:
 22 July 2019
 Initial upload",6,218,,
-BEN,https://data.humdata.org/dataset/cod-ps-ben,cod-enhanced,UNFPA,"Benin administrative level 0-2 sex and age disaggregated 2023 projected population statistics
+BEN,https://data.humdata.org/dataset/cod-ps-ben,cod-enhanced,UNFPA,"Benin administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Benin - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ben) or the [Benin - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-ben) layers using the ADM0, ADM1, and ADM2-PCODE fields.",12,77,,
 BMU,https://data.humdata.org/dataset/cod-ps-bmu,cod-enhanced,UNFPA,"Bermuda administrative level 0 sex and age disaggregated population 2024 projected population statistics
