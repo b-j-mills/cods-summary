@@ -178,11 +178,11 @@ These tables are suitable for database or GIS linkage to the [Costa Rica - Subna
 CIV,https://data.humdata.org/dataset/cod-ps-civ,cod-standard,OCHA West and Central Africa (ROWCA),"Côte d'Ivoire administrative level 0 (country), 1 (district / autonomous city), 2 (region), and 3 (department) 2019 projected population statistics
 
 These tables are suitable for database or GIS linkage to the [Côte d'Ivoire administrative level 0-3 boundary polygons, lines, and points shapefiles, geodatbase, KMZ files, and live services, and gazetteer](https://data.humdata.org/dataset/cod-ab-civ) boundaries.",33,108,510,
-CUB,https://data.humdata.org/dataset/cod-ps-cub,cod-enhanced,UNFPA,"Cuba administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+CUB,https://data.humdata.org/dataset/cod-ps-cub,cod-enhanced,UNFPA,"Cuba administrative level 0-1 sex and age disaggregated 2024 projected population statistics
 
-REFERENCE YEAR:  2020
+REFERENCE YEAR:  2024
 
-These tables are suitable for database or GIS linkage to the [Cuba - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cub) using the ADM0, ADM1, and ADM2_PCODE fields.",16,168,,
+These tables are suitable for database or GIS linkage to the [Cuba - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cub) using the ADM0 and ADM1_PCODE fields.",16,,,
 CUW,https://data.humdata.org/dataset/cod-ps-cuw,cod-enhanced,UNFPA,"Curaçao administrative level 0 sex and age disaggregated 2022 projected population statistics
 
 REFERENCE  YEAR:  2022",,,,
