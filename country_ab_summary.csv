@@ -1419,26 +1419,32 @@ SLB,https://data.humdata.org/dataset/cod-ab-slb,cod-standard,OCHA Regional Offic
 Suitable for GIS or database linkage to the [Solomon Islands administrative level 0, 1, 2, and 3 population statistics](https://data.humdata.org/dataset/cod-ps-slb) Common Operational Dataset.",10,50,183,
 SOM,https://data.humdata.org/dataset/cod-ab-som,cod-enhanced,OCHA Field Information Services Section (FISS),"""Somalia administrative level 0-2 boundaries (COD-AB) dataset.
 
-NOTE:  The special 'State' layer approximately represents the extra boundary level above the main administrative structure.  These boundaries are not all respected by Administrative level 1.
+NOTE:  UPDATED DECEMBER 4, 2024.  17 Operational Zones within in the Banadir administrative level 1 feature are now individual administrative level 2 features.  
 
-NOTE ADM4 contains 331 features.  There is an ADM5 layer - only for Mogadishu - that contains 24 features.  
+Two further Operational Zones within the Banadir administrative level 1 polygon are excluded from the administrative structure and are named and P-coded as 'unspecified'.  All Operational Zones are not administrative boundaries and are not identified as administrative level 3 features.
 
-NOTE The AdmLines geoservice layer and the som_admbndl_admALL_ocha_itos_20230308 lines shapefile  ADMLEVEL code 88 represents the limit between de facto Somalia and Ethiopia.
+The six Federal member states (Somaliland, Puntland, Galmudug, Hirshabelle, South West, and Jubaland) are not integrated into the administrative structure.  (Their boundaries cannot be constructed even from administrative level 2 features.)
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 10 month(s) ago.  The determination was:  The COD-AB does not require any update.
+The lines layers and live geoservices will be available shortly.
 
-Sourced from OCHA Somalia.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require improvements.
 
-Vetting and live geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Sourced from OCHA Somalia
 
-This COD-AB is suitable for database or GIS linkage to the Somalia COD-PS table(s) using the XX_PCODE, field(s).
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-An edge-matched (COD-EM) version of this COD-AB is available.
-Please see COD Portal:  https://cod.unocha.org/
+This COD-AB is suitable for database or GIS linkage to the Somalia [COD-PS](https://data.humdata.org/dataset/cod-ps-som).
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-som).  
 
-Administrative level 1 contains 18 features.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 2 contains 74 features.""",18,74,,
+Administrative level 1 contains 18 feature(s).
+
+Administrative level 2 contains 91 feature(s).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic""",18,91,,
 ZAF,https://data.humdata.org/dataset/cod-ab-zaf,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"South Africa administrative levels 0 (country), 1 (province), 2 (district), and 3 (local municipality) boundaries polygon and line shapefiles, EMF files, and geodatabase, and gazetteer.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
