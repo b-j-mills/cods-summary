@@ -496,11 +496,29 @@ Dataset name change.
 
 17 August 2017
 Initial upload",519,,,
-CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-standard,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 2021 boundaries
+CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-standard,OCHA Field Information Services Section (FISS),"""Costa Rica administrative level 0-3 boundaries (COD-AB) dataset.
 
-These layers are suitable for database or GIS linkage to the [Costa Rica - Subnational Population Statistics](https://data.humdata.org/dataset/costa-rica-subnational-population-statisticsx) tables.
+NOTE:  See COD-PS caveats about P-code linkages to COD-AB.
 
-",7,81,478,
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from Costa Rica National Statistics Office (NSO)
+
+**AVAILALBE SHORTLY**  Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Costa Rica [COD-PS](https://data.humdata.org/dataset/cod-ps-cri).
+
+*AVAILALBE SHORTLY*  edge-matched (COD-EM) version of this COD-AB
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 7 feature(s).
+
+Administrative level 2 contains 81 feature(s).
+
+These administrative boundaries were established in:  2022
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",7,84,492,
 CIV,https://data.humdata.org/dataset/cod-ab-civ,cod-enhanced,OCHA West and Central Africa (ROWCA),"Côte d'Ivoire administrative level 0 (country), 1 (district / autonomous city), 2 (region), and  3 (department) boundary polygons, lines, and points shapefiles, geodatbase, and live services, and gazetteer
 
 The update of Côte d'Ivoire dataset is based on the 2012 presidential decree which reorganized the national territory into 2 Autonomous Districts and 31 administrative regions making up the 33 admin 1 units of Côte d'Ivoire.
