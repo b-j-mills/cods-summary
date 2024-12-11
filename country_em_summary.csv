@@ -61,6 +61,13 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 These layers are suitable for database or GIS linkage to the [Chad - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tcd) tables.
 
 Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",23,70,10,
+CRI,https://data.humdata.org/dataset/cod-em-cri,,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
+
+COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-cri); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
+
+These layers are suitable for database or GIS linkage to the [Costa Rica - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-tcd) tables.
+
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",7,84,492,
 CIV,https://data.humdata.org/dataset/cod-em-civ,cod-enhanced,OCHA Field Information Services Section (FISS),"Côte d'Ivoire administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-civ); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
