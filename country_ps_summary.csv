@@ -580,7 +580,7 @@ PER,https://data.humdata.org/dataset/cod-ps-per,cod-enhanced,UNFPA,"Peru adminis
 REFERENCE YEAR:  2024
 
 These tables are suitable for database or GIS linkage to the [Peru - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-per) using the ADM0 and ADM1_PCODE fields.",25,,,
-PHL,https://data.humdata.org/dataset/cod-ps-phl,cod-standard,UNFPA,"Philippines administrative level 0-2 sex and age disaggregated 2022, 2023, 2024, and 2025 population statistics
+PHL,https://data.humdata.org/dataset/cod-ps-phl,cod-enhanced,UNFPA,"Philippines administrative level 0-2 sex and age disaggregated 2022, 2023, 2024, and 2025 population statistics
 
 REFERENCE YEAR:  2022 (and 2023, 2024, 2025)
 
