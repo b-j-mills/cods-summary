@@ -578,11 +578,29 @@ Title corrected; license clarified
 
 7 September 2017
 Gazetteer to be uploaded",10,32,155,386
-ECU,https://data.humdata.org/dataset/cod-ab-ecu,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Ecuador administrative level 0 (country), level 1 (province), 2 (canton), and 3 (parroquia) boundary polygons.   
+ECU,https://data.humdata.org/dataset/cod-ab-ecu,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"""Ecuador administrative level 0-3 boundaries (COD-AB) dataset.
 
-The administrative level 0-2 shapefiles are suitable for database or GIS linkage to the [""Ecuador population statistics for administrative level 1, 2, and 3""](https://data.humdata.org/dataset/cod-ps-ecu) shapefiles on HDX.
+NOTE:  ADM4 feature names are not yet availalble.  (Currently ADM4_PCODE is copied into ADM4_ES as a proxy.)  No lines layer is yet availalbe.  The live geoservices do not reflect the new ADM4 level.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",25,224,1040,
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from INEC - Instituto Nacional de Estadística y Censos
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Ecuador [COD-PS](https://data.humdata.org/dataset/cod-ps-ecu).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 25 feature(s).
+
+Administrative level 2 contains 224 feature(s).
+
+These administrative boundaries were established in:  2017
+
+Recommended cartographic projection:  South America Albers Equal Area Conic""",26,223,1044,
 EGY,https://data.humdata.org/dataset/cod-ab-egy,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Egypt administrative boundary level 0 (national), 1 (governorate), 2 (region), and 3 polygons, and major and minor populated places provided as a geodatabase, and shapefiles.
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",27,365,5716,
