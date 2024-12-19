@@ -55,33 +55,34 @@ def country_ab_summary(
 
         resources = [r for r in dataset.get_resources() if r.get_format() in ["xls", "xlsx"]]
         if len(resources) > 1:
-            resources = [
-                r for r in resources if bool(re.match(
-                    "(.*adm(in)?.?boundaries.?tabular.?data.*)|(.*adm_?ga?z.*)|(.*gazetteer.*)|(.*adm.*)",
-                    r["name"], re.IGNORECASE
-                ))
-            ]
+            resources = [r for r in resources if "gazetteer" in r["description"].lower() or
+                         "taxonomy" in r["description"].lower() or
+                         bool(re.match(".*adm.*tabular.?data.*", r["name"], re.IGNORECASE))]
         if len(resources) == 0:
             logger.warning(f"Cannot find gazetteer for COD-AB {iso}")
             if len([c for c in country_info.values() if c]) > 1:
                 results.append(country_info)
             continue
 
-        try:
-            _, resource_file = resources[0].download(folder=temp_folder)
-        except DownloadError:
-            logger.error(f"Could not download gazetteer for COD-AB {iso}")
-            continue
+        if len(resources) > 1:
+            logger.warning(f"Found more than one gazetteer for COD-AB {iso}")
 
-        contents = read_excel(resource_file, sheet_name=None)
-        for sheet_name, sheet in contents.items():
-            level = re.search("adm(in)?.?[1-7]", sheet_name, re.IGNORECASE)
-            if not level:
+        for resource in resources:
+            try:
+                _, resource_file = resource.download(folder=temp_folder)
+            except DownloadError:
+                logger.error(f"Could not download gazetteer for COD-AB {iso}")
                 continue
-            sheet.dropna(axis=0, how="all", inplace=True)
-            adm_level = level.group()[-1]
-            rows = len(sheet)
-            country_info[f"COD-AB ADM{adm_level} units"] = rows
+
+            contents = read_excel(resource_file, sheet_name=None)
+            for sheet_name, sheet in contents.items():
+                level = re.search("adm(in)?.?[1-7]", sheet_name, re.IGNORECASE)
+                if not level:
+                    continue
+                sheet.dropna(axis=0, how="all", inplace=True)
+                adm_level = level.group()[-1]
+                rows = len(sheet)
+                country_info[f"COD-AB ADM{adm_level} units"] = rows
 
         if len([c for c in country_info.values() if c]) > 1:
             results.append(country_info)
