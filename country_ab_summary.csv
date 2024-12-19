@@ -1713,12 +1713,27 @@ UZB,https://data.humdata.org/dataset/cod-ab-uzb,cod-standard,OCHA Middle East an
 A topology error affecting all levels was corrected in the shapefiles only.
 
 The administrative level 1 shapefile is suitable for database or GIS linkage to the administrative level 1 population statistics table available on HDX [here](https://data.humdata.org/dataset/cod-ps-uzb).",14,199,,
-VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Office of the Pacific Islands,"Vanuatu administrative level 0 (country), 1 (province), and 2 (area council) boundary polygon, line, and point shapefiles, geodatabase, and live services, and gazetteer.
+VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Office of the Pacific Islands,"""Vanuatu administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-These shapefile and geodatabase layers are suitable for database or GIS joins to the [Vanuatu administrative level 0, 1, and 2 population statistics and gazetteer](https://data.humdata.org/dataset/cod-ps-vut) .CSV population statistics tables.
-",6,66,,
+Sourced from PopGIS2: Secretarial of the Pacific Community (SPC), Statistics for Development Division (http://vanuatu.popgis.spc.int/#l=en;v=map4)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Vanuatu [COD-PS](https://data.humdata.org/dataset/cod-ps-vut).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 6 feature(s).
+
+Administrative level 2 contains 66 feature(s).
+
+These administrative boundaries were established in:  2018
+
+Recommended cartographic projection:  Oceania""",6,66,,
 VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Venezuela,"Venezuela administrative level 0-3 boundary shapefiles
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",25,335,1134,
