@@ -455,11 +455,13 @@ Users should note that a correction has been made to the Mauritius COD-PS posted
 ***
 
 These tables are suitable for database or GIS linkage to the [Mauritius - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mus).",10,,,
-MEX,https://data.humdata.org/dataset/cod-ps-mex,cod-enhanced,UNFPA,"Mexico administrative level 0-2 sex and age disaggregated 2021 projected population statistics
+MEX,https://data.humdata.org/dataset/cod-ps-mex,cod-enhanced,UNFPA,"Mexico administrative level 0-1 sex and age disaggregated 2024 population statistics
 
-REFERENCE YEAR:  2021
+REFERENCE YEAR:  2024
 
-These administrative population statistics tables are suitable for database or GIS linkage to the [Mexico - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mex). ",32,2457,,
+These administrative population statistics tables are suitable for database or GIS linkage to the [Mexico - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mex) using the ADM0 and ADM1_PCODE fields.
+
+NOTE that the [Mexico - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mex) requires updates and is currently incompatible at administrative level 2. ",32,2475,,
 FSM,https://data.humdata.org/dataset/cod-ps-fsm,cod-standard,OCHA Office of the Pacific Islands,"Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), and 2 (municipality) sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2010
@@ -587,11 +589,11 @@ REFERENCE YEAR:  2022 (and 2023, 2024, 2025)
 These CSV population statistics files are suitable for database or ArcGIS joins to the [Philippines - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-phl).
 
 See caveats.",17,84,,
-POL,https://data.humdata.org/dataset/cod-ps-pol,cod-standard,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 sex disaggregated 2020 population statistics
+POL,https://data.humdata.org/dataset/cod-ps-pol,cod-enhanced,UNFPA,"Poland administrative level 0-2 sex disaggregated projected 2024 population statistics
 
-REFERENCE YEAR: 2020
+REFERENCE YEAR: 2024
 
-These tables are suitable for database or GIS linkage to the [Poland - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pol) tables using the ADM0, and ADM1_PCODE fields.",16,380,,
+These tables are suitable for database or GIS linkage to the [Poland - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pol) tables using the ADM0, ADM1, and ADM2_PCODE fields.",16,380,,
 QAT,https://data.humdata.org/dataset/cod-ps-qat,cod-enhanced,UNFPA,"Qatar administrative level 0-1 sex and age disaggregated 2020 population statistics
 
 These tables are suitable for database or GIS linkage to the [Qatar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-qat) and the [Qatar- Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-qat) using the ADM0 and ADM1_PCODE fields.",,,,
@@ -744,6 +746,9 @@ TGO,https://data.humdata.org/dataset/cod-ps-tgo,cod-standard,UNFPA,"Togo adminis
 REFERENCE YEAR:  2021
 
 These tables are suitable for database or GIS linkage to the [Togo - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tgo) for administrative level 0-1.  The administrative level 2 features cannot be updated to conform to the COD-AB.",5,,,
+TKL,https://data.humdata.org/dataset/cod-ps-tkl,,UNFPA,"Tokelau administrative level 0 sex and age disaggregated projected 2023 population statistics
+
+No administrative boundaries common operational dataset (COD-AB) is available for Tokelau.",,,,
 TON,https://data.humdata.org/dataset/cod-ps-ton,cod-enhanced,UNFPA,"Tonga administrative level 0-3 sex and age disaggregated 2021 population statistics
 
 In additional to the standard five-year age cohort tables, additional administrative level 0 and 1 tables are provided with individual year steps up to age 19 to permit non-standard disaggregations.  See the spreadsheet tabs and .csv tables with names ending with 'years'

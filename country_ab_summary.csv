@@ -1058,11 +1058,29 @@ Please see the [COD Portal](https://cod.unocha.org/).
 Administrative level 1 contains 12 feature(s).
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",12,,,
-MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Mexican administrative level 0 (country), 1 (estado), and 2 (municipio) boundary polygons
+MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"""Mexico administrative level 0-2 boundaries (COD-AB) dataset.
 
-The OCHA Regional Office for Latin America and the Caribbean determined in December 2023 that this COD-AB is up to date.
+NOTE:  COD-AB ADM2 will be updated shortly.
 
-These administrative population statistics tables are suitable for database or GIS linkage to the [Mexico - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mex).",32,2457,,
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB requires improvements.
+
+Sourced from Instituto Nacional de Estadística y Geografía (INEGI)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Mexico [COD-PS](https://data.humdata.org/dataset/cod-ps-mex).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 32 feature(s).
+
+Administrative level 2 contains 2,457 feature(s).
+
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  North America Albers Equal Area Conic""",32,2457,,
 FSM,https://data.humdata.org/dataset/cod-ab-fsm,cod-standard,OCHA Office of the Pacific Islands,"Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), 2 (municipality) boundaries
 
 In addition to the administrative boundaries a Exclusive Economic Zone boundary is provided.
