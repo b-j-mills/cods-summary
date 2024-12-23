@@ -552,6 +552,11 @@ REFERENCE YEAR:  2017
 UNFPA investigated replacement or projection of this dataset in 2021. No better alternative is currently available.
 
 NOTE this dataset is not compatible with the [Pakistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pak) layers, which were updated on 2022_09_02.",5,131,433,
+PLW,https://data.humdata.org/dataset/cod-ps-plw,cod-standard,UNFPA,"Palau administrative level 0 sex and age disaggregated projected 2023 population statistics
+
+REFERENCE YEAR:  2023
+
+No administrative boundaries common operational dataset (COD-AB) is available for Palau",,,,
 PSE,https://data.humdata.org/dataset/cod-ps-pse,cod-enhanced,UNFPA,"State of Palestine administrative level 0-1 sex and age disaggregated 2023 population statistics
 
 REFERENCE YEAR: 2023
@@ -746,7 +751,7 @@ TGO,https://data.humdata.org/dataset/cod-ps-tgo,cod-standard,UNFPA,"Togo adminis
 REFERENCE YEAR:  2021
 
 These tables are suitable for database or GIS linkage to the [Togo - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tgo) for administrative level 0-1.  The administrative level 2 features cannot be updated to conform to the COD-AB.",5,,,
-TKL,https://data.humdata.org/dataset/cod-ps-tkl,,UNFPA,"Tokelau administrative level 0 sex and age disaggregated projected 2023 population statistics
+TKL,https://data.humdata.org/dataset/cod-ps-tkl,cod-standard,UNFPA,"Tokelau administrative level 0 sex and age disaggregated projected 2023 population statistics
 
 No administrative boundaries common operational dataset (COD-AB) is available for Tokelau.",,,,
 TON,https://data.humdata.org/dataset/cod-ps-ton,cod-enhanced,UNFPA,"Tonga administrative level 0-3 sex and age disaggregated 2021 population statistics
