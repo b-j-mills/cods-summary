@@ -455,7 +455,7 @@ Administrative level 1 contains 23 feature(s).
 
 Administrative level 2 contains 70 feature(s).
 
-The date that these administrative boundaries were established is unknown.
+These administrative boundaries were established in:  2012
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",23,70,10,
 CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Chile administrative level 0-3 boundary files
@@ -1772,25 +1772,27 @@ Vetting and live service provision by [Information Technology Outreach Services 
 The administrative level 0, 1, and 2 boundaries are suitable for database or GIS linkage to the [Uganda - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-uga) tables.",4,135,208,1520
 UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"""Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
 
-NOTE:  The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).
+NOTE:  The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.  The COD-AB boundaries were adjusted at the ADM3 (hromadas) in early 2024.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
 
 Sourced from State Scientific Production Enterprise “Kartographia”
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr).
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here:](https://data.humdata.org/dataset/cod-em-ukr)
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-ukr).  
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
 Administrative level 1 contains 27 feature(s).
 
 Administrative level 2 contains 139 feature(s).
 
-Administrative level 3 contains 1769 feature(s).
+These administrative boundaries were established in:  2024
 
-Administrative level 4 contains 29707 feature(s).""",27,139,1769,29707
+Recommended cartographic projection:  Europe Albers Equal Area Conic""",27,139,1769,29707
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 gazetteer, shapefiles, geodatabase, and geoservices.
 
 The alternative [United Arab Emirates - Subnational Edge-matched Administrative Boundaries
@@ -1829,9 +1831,27 @@ Administrative level 2 contains 66 feature(s).
 These administrative boundaries were established in:  2018
 
 Recommended cartographic projection:  Oceania""",6,66,,
-VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Venezuela,"Venezuela administrative level 0-3 boundary shapefiles
+VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Venezuela,"""Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",25,335,1134,
+This COD-AB was most recently reviewed for accuracy and necessary changes in February 2024.  The COD-AB does not require any update.
+
+Sourced from Instituto Nacional de Estadística
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Venezuela (Bolivarian Republic of) [COD-PS](https://data.humdata.org/dataset/cod-ps-ven).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 25 feature(s).
+
+Administrative level 2 contains 335 feature(s).
+
+These administrative boundaries were established in:  2018
+
+Recommended cartographic projection:  South America Albers Equal Area Conic""",25,335,1134,
 VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Viet Nam administrative level 0 (country), 1 (province), and 2 (district) boundaries
 
 27 October 2020 update:  All instances of ""Thura Thien Hue"" [VN411] have been corrected to ""Thua Thien Hue"".  This affects administrative levels 1 and 2 in the shapefiles, geodatabase, and the gazetteer. 
@@ -1843,19 +1863,27 @@ VGB,https://data.humdata.org/dataset/cod-ab-vgb,cod-standard,OCHA Field Informat
 
 These boundaries are suitable for database or GIS linkage to the [British Virgin Islands administrative level 0-1 population statistics](https://data.humdata.org/dataset/cod-ps-vgb) tables.",6,,,
 ESH,https://data.humdata.org/dataset/cod-ab-esh,cod-enhanced,OCHA Middle East and North Africa (ROMENA),Western Sahara administrative level 0-1 boundaries,4,,,
-YEM,https://data.humdata.org/dataset/cod-ab-yem,cod-enhanced,OCHA Yemen,"This dataset is a standardized and enhanced Common Operational Dataset.
+YEM,https://data.humdata.org/dataset/cod-ab-yem,cod-enhanced,OCHA Yemen,"""Yemen administrative level 0-3 boundaries (COD-AB) dataset.
 
-Administrative boundary datasets for levels 0, 1, 2 and 3  (international, governorate, district and sub-district) for Yemen approved for use by Humanitarian Country Team in October 2019.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Sourced from Central Statistical Organization (CSO)
 
-Admin Level 1= Governorate = Mohafadha
-Admin Level 2 = District = Modeeriyyah
-Admin Level 3 = Sub-district  = Ozlah
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-P-codes are those used by Yemen Central Statistical Organization ( CSO ). ""YE"" is added as a prefix for the codes.
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
 
-Point layers are created by the calculating the centroids of the polygons. ",22,335,2149,
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 22 feature(s).
+
+Administrative level 2 contains 335 feature(s).
+
+These administrative boundaries were established in:  2013
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",22,335,2149,
 ZMB,https://data.humdata.org/dataset/cod-ab-zmb,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Zambia administrative level 0-2 boundaries
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
