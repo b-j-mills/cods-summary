@@ -835,7 +835,7 @@ Edge-matched versions prepared by ITOS to conform to the United Nations Geospati
 GUY,https://data.humdata.org/dataset/cod-ab-guy,cod-standard,OCHA Field Information Services Section (FISS),"Guyana administrative level 0 (country), 1 (region), and 2 boundary polygons.
 
 These shapefiles (administrative levels 0 and 1) are suitable for database or GIS joins to the [Guyana - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-guy).",10,27,,
-HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"""Two COD-PS records are not represented in the COD-AB.  The OCHA Regional Office is consulting with the DoDMA about new boundaries.  Administrative boundary changes enacted in March 2023 have not yet been incorporated into the COD-AB. administrative level 0-3 boundaries (COD-AB) dataset.
+HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"""Haiti administrative level 0-3 boundaries (COD-AB) dataset.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB requires improvements.
 
@@ -843,7 +843,7 @@ Sourced from Centre National de l'Information Géo-Spatiale (CNIGS)
 
 Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This COD-AB is suitable for database or GIS linkage to the Two COD-PS records are not represented in the COD-AB.  The OCHA Regional Office is consulting with the DoDMA about new boundaries.  Administrative boundary changes enacted in March 2023 have not yet been incorporated into the COD-AB. [COD-PS](https://data.humdata.org/dataset/cod-ps-hti).
+This COD-AB is suitable for database or GIS linkage to the Haiti [COD-PS](https://data.humdata.org/dataset/cod-ps-hti).
 
 An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-hti).  
 
@@ -854,6 +854,7 @@ Administrative level 1 contains 10 feature(s).
 Administrative level 2 contains 140 feature(s).
 
 These administrative boundaries were established in:  1987
+These administrative boundaries became out of date in:  2024
 
 Recommended cartographic projection:  North America Albers Equal Area Conic""",10,140,570,
 HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Honduras administrative level 0-2 boundaries
@@ -1222,28 +1223,29 @@ Administrative level 2 contains 159 feature(s).
 These administrative boundaries were established in:  1954
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic""",11,159,411,
-MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-standard,OCHA Field Information Services Section (FISS),"Myanmar administrative level 0-5 boundaries (COD-AB) dataset.
+MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-standard,OCHA Field Information Services Section (FISS),"""Myanmar administrative level 0-5 boundaries (COD-AB) dataset.
 
 NOTE:  THIS COD-AB was specially developed from the various existing Myanmar Information Management Unit (MIMU) 'v9.4' HDX datasets that are understood to be the last or final MIMU versions expected.  These have been assembled into this COD-AB dataset without corrections to existing errors.  Existing errors are documented in the 'MMR COD-AB ITOS error documentation.pdf' document ncluded with this dataset.  Administrative level 5 covers urban areas only, and is not represented in the 'mmr_polbndl_adm01234_250k_mimu_itos_20240215' lines layer.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 0 month(s) ago.  The determination was:  The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in March 2024.  The COD-AB requires improvements.
 
-Sourced from MIMU.
+Sourced from Myanmar Information Management Unit (MIMU)
 
-Live geoservices are available.  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This COD-AB is suitable for database or GIS linkage to the Myanmar COD-PS table(s) using the XX_PCODE, field(s).
+This COD-AB is suitable for database or GIS linkage to the Myanmar [COD-PS](https://data.humdata.org/dataset/cod-ps-mmr).
 
-An edge-matched (COD-EM) version of this COD-AB is available.
-Please see COD Portal:  https://cod.unocha.org/
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-mmr).  
 
-Administrative level 1 contains 18 features.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 2 contains 80 features.
+Administrative level 1 contains 18 feature(s).
 
-Administrative level 3 contains 330 features.
+Administrative level 2 contains 80 feature(s).
 
-Administrative level 4 contains 14174 features.",18,80,330,14174
+The date that these administrative boundaries were established is unknown.
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic""",18,80,330,14174
 NAM,https://data.humdata.org/dataset/cod-ab-nam,cod-enhanced,OCHA Field Information Services Section (FISS),"Namibia administrative level 0 (country), 1 (region) and 2 (constituency) population statistics
 
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
