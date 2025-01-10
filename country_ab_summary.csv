@@ -2644,7 +2644,7 @@ TJK,https://data.humdata.org/dataset/cod-ab-tjk,cod-standard,OCHA Middle East an
 The overview includes administrative level 1 (Viloyat + independent city) and administrative level 2 (Nohiya + independent cities). Administrative level 3 (Jamoat) has not been included in this overview, as these have recently changed (geographical boundaries, names and OKATO codes) and it has not been possible to verify the most recent overview.
 
 OCHA's Regional Office for the Caucasus and Central Asia is maintaining a dataset with the geographical boundaries of administrative levels 1 and 2 for preparedness purposes, but is not allowed to make it public. In case of a major humanitarian emergency, this geographical dataset will be shared with humanitarian agencies.",5,76,,
-TZA,https://data.humdata.org/dataset/cod-ab-tza,cod-standard,OCHA ROSA (inactive),"Tanzania administrative level 0 (country), 1 (region), 2 (district), and 3 (ward) boundary and line shapefiles, geodatabase
+TZA,https://data.humdata.org/dataset/cod-ab-tza,cod-standard,OCHA Field Information Services Section (FISS),"Tanzania administrative level 0 (country), 1 (region), 2 (district), and 3 (ward) boundary and line shapefiles, geodatabase
 
 These boundary files are suitable for database or GIS linkage to the [Tanzania administrative level 0-3 population statistics tables](https://data.humdata.org/dataset/cod-ps-tza).
 
