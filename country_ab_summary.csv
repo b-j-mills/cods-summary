@@ -466,31 +466,28 @@ Administrative level 3 contains 343 feature(s).  The normal administrative level
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",9,113,343,
-BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"""Burundi administrative level 0-2 boundaries (COD-AB) dataset.
+BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"Bonaire, Sint Eustatius and Saba administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
-NOTE:  Three COD-PS features in BUJUMBURA MAIRIE correspond to 13 COD-AB features but cannot be resolved.  OCHA regional office is preparing updated data.
+NOTE:  The time period of the dataset is based on the 10 October 2010 dissolution of the former Netherlands Antilles.
+This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB requires improvements.
-
-Sourced from IGEBU and OCHA Burundi
+Sourced from www.gadm.org
 
 Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This COD-AB is suitable for database or GIS linkage to the Burundi [COD-PS](https://data.humdata.org/dataset/cod-ps-bdi).
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
 
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is """"Commune"""".
+Recommended cartographic projection:  North America Albers Equal Area Conic
 
-Recommended cartographic projection:  Africa Albers Equal Area Conic
-
-This metadata was last updated on January 9, 2025.""",3,,,
+This metadata was last updated on January 13, 2025.",3,,,
 BWA,https://data.humdata.org/dataset/cod-ab-bwa,cod-standard,OCHA Field Information Services Section (FISS),"""Botswana administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -614,7 +611,9 @@ Administrative level 2 contains 119 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",18,119,,
-KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Cambodia administrative level 0-3 boundaries (COD-AB) dataset.
+KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2018
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
@@ -625,15 +624,18 @@ Live geoservices (provided by Information Technology Outreach Services (ITOS) wi
 This COD-AB is suitable for database or GIS linkage to the Cambodia [COD-PS](https://data.humdata.org/dataset/cod-ps-khm).
 
 No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 25 feature(s).
+Administrative level 1 contains 25 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 197 feature(s).
+Administrative level 2 contains 197 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-These administrative boundaries were established in:  2018
+Administrative level 3 contains 1,633 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
 
-Recommended cartographic projection:  Asia South Albers Equal Area Conic""",25,197,1633,
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",25,197,1633,
 CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Cameroon,"""Cameroon administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1987
@@ -1158,7 +1160,9 @@ Administrative level 3 contains 266 feature(s).  The normal administrative level
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",14,48,266,
-GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA West and Central Africa (ROWCA),"""Equatorial Guinea administrative level 0-2 boundaries (COD-AB) dataset.
+GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA West and Central Africa (ROWCA),"Equatorial Guinea administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
@@ -1167,17 +1171,18 @@ Sourced from www.gadm.org
 Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
 An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-gnq).  
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 7 feature(s).
+Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 32 feature(s).
+Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-The date that these administrative boundaries were established is unknown.
+Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-Recommended cartographic projection:  Africa Albers Equal Area Conic""",7,32,,
+This metadata was last updated on January 13, 2025.",7,32,,
 ERI,https://data.humdata.org/dataset/cod-ab-eri,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Eritrea administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1302,7 +1307,7 @@ Administrative level 2 contains 48 feature(s).  The normal administrative level 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",9,48,,
-GMB,https://data.humdata.org/dataset/cod-ab-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"""Gambia administrative level 0-3 boundaries (COD-AB) dataset.
+GMB,https://data.humdata.org/dataset/cod-ab-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
@@ -1326,22 +1331,57 @@ Administrative level 3 contains 115 feature(s).  The normal administrative level
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.""",8,49,115,
-GEO,https://data.humdata.org/dataset/cod-ab-geo,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Georgia administrative level 0 (country), 1 (region, city, or autonomous republic), 2 (district or self-governing city), and 3 (community, etc.) boundaries
+This metadata was last updated on January 13, 2025.",8,49,115,
+GEO,https://data.humdata.org/dataset/cod-ab-geo,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Georgia administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+The date that these administrative boundaries were established is unknown.
 
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2024.  The COD-AB requires improvements.
 
-UPDATE
-20 May 2020
-The geodatabase resource was updated.  The previous geodatabase was not the correct ITOS file.
+Sourced from National Statistics Office of Georgia [Administraciuli erTeulebi]
 
-These boundaries are suitable for database or GIS linkage to the [Georgia - Population Statistics](https://data.humdata.org/dataset/cod-ps-geo)",13,70,1155,
-GHA,https://data.humdata.org/dataset/cod-ab-gha,cod-enhanced,OCHA West and Central Africa (ROWCA),"Ghana administrative level 0-2 boundaries
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID. 
+This COD-AB is suitable for database or GIS linkage to the Georgia [COD-PS](https://data.humdata.org/dataset/cod-ps-geo).
 
-These boundaries are suitable for database or GIS linkage to the [Guinea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-gha) tables.",16,260,,
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is """"Region, city, or autonomous republic"""".
+
+Administrative level 2 contains 70 feature(s).  The normal administrative level 2 feature type is """"District or self-governing city"""".
+
+Administrative level 3 contains 1,155 feature(s).  The normal administrative level 3 feature type is """"Community, etc."""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",13,70,1155,
+GHA,https://data.humdata.org/dataset/cod-ab-gha,cod-enhanced,OCHA West and Central Africa (ROWCA),"Ghana administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  See COD-PS caveats about metropolitan feature consolidation
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Ghana Statistical Services (GSS)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Ghana [COD-PS](https://data.humdata.org/dataset/cod-ps-gha).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-gha).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 260 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",16,260,,
 GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,Regional IM Working Group - Europe,"Administrative Boundary dataset (shapefiles and spreadsheets) for Greece (levels 0,1,2 & Sea Areas)",8,14,,
 GRD,https://data.humdata.org/dataset/cod-ab-grd,cod-enhanced,OCHA Field Information Services Section (FISS),"""Grenada administrative level 0-1 boundaries (COD-AB) dataset.
 
@@ -1437,11 +1477,29 @@ Administrative level 3 contains 340 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",8,34,340,
-GNB,https://data.humdata.org/dataset/cod-ab-gnb,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea Bissau administrative level 0-2 definitive and edge-matched boundaries
+GNB,https://data.humdata.org/dataset/cod-ab-gnb,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea-Bissau administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+The date that these administrative boundaries were established is unknown.
 
-Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer.",9,39,,
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Second Administrative Level Boundaries (SALB)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-gnb).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 39 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",9,39,,
 GUY,https://data.humdata.org/dataset/cod-ab-guy,cod-standard,OCHA Field Information Services Section (FISS),"""Guyana administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1467,47 +1525,7 @@ Administrative level 2 contains 27 feature(s).  The normal administrative level 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",10,27,,
-HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"""Haiti administrative level 0-3 boundaries (COD-AB) dataset.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB requires improvements.
-
-Sourced from Centre National de l'Information Géo-Spatiale (CNIGS)
-
-Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Haiti [COD-PS](https://data.humdata.org/dataset/cod-ps-hti).
-
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-hti).  
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 10 feature(s).
-
-Administrative level 2 contains 140 feature(s).
-
-These administrative boundaries were established in:  1987
-These administrative boundaries became out of date in:  2024
-
-Recommended cartographic projection:  North America Albers Equal Area Conic""",10,140,570,
-HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Honduras administrative level 0-2 boundaries
-
-PLEASE REFER TO THE CAVEATS ABOUT THE ADMINISTRATIVE LEVEL 3 DATA.
-
-24 NOVEMBER UPDATES:
-Due to the structural inconsistency of the best available administrative level 3 boundary information it has been removed from the standard gazetteer, shapefile, geodatabase, web service, and EMF resources and P-coding of populated places resource.  HOWEVER a shapefile and EMF file of the original administrative level 3 boundaries is still included in this dataset.  Please see the caveats below for specific information.
-
-
-Note that a [Honduras Open Street Map populated places dataset is available here]\(https://data.humdata.org/dataset/cod-ps-hnd).
-
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
-
-These boundaries are suitable for database or GIS linkage to the [Honduras - Subnational Population Statistics](https://data.humdata.org/dataset/proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio) tables.",18,298,,
-HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),"Hungary administrative level 0-2 gazetteer, shapefiles, geodatabase, and geoservice.
-
-These layers are suitable for database or GIS linkage to the [Hungary - Subnational Population Statistics tables](https://data.humdata.org/dataset/cod-ps-hun).
-
-Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",20,197,,
-IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Haiti administrative level 0-3 boundaries (COD-AB) dataset.
+HTI,https://data.humdata.org/dataset/cod-ab-hti,cod-enhanced,OCHA Haiti,"Haiti administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1987
 
@@ -1532,7 +1550,80 @@ These administrative boundaries became out of date in:  2024
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.""",34,522,7069,
+This metadata was last updated on January 13, 2025.",10,140,570,
+HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Honduras administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
+
+Sourced from Sistema Nacional de Información Territorial (SINIT), Secretaria Técnica de Planificación y Cooperación Externa (SEPLAN), 2010
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Honduras [COD-PS](https://data.humdata.org/dataset/cod-ps-hnd).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 298 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",18,298,,
+HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),"Hungary administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from OSM
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Hungary [COD-PS](https://data.humdata.org/dataset/cod-ps-hun).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-hun).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 20 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 197 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",20,197,,
+IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Indonesia administrative level 0-3 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2020
+
+NOTE:  COD-AB includes 17 uninhabited features that are excluded from COD-PS.  See COD-PS caveats for further details.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Badan Pusat Statistik (BPS - Statistics Indonesia)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Indonesia [COD-PS](https://data.humdata.org/dataset/cod-ps-idn).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is """"province (provinsi)"""".
+
+Administrative level 2 contains 522 feature(s).  The normal administrative level 2 feature type is """"city, district, regency (kota, kabupaten)"""".
+
+Administrative level 3 contains 7,069 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",34,522,7069,
 IRN,https://data.humdata.org/dataset/cod-ab-irn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"""Iran (Islamic Republic of) administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1583,30 +1674,58 @@ Administrative level 3 contains 294 feature(s).  The normal administrative level
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",18,101,294,
-JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-enhanced,OCHA Field Information Services Section (FISS),"""Jamaica administrative level 0-3 boundaries (COD-AB) dataset.
+JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-enhanced,OCHA Field Information Services Section (FISS),"Jamaica administrative level 0-3 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
 
 NOTE:  See COD-PS caveat about minor data 
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
 
-Sourced from Jamaica Social Development Commission (sdc.gov.jm).
+Sourced from Jamaica Social Development Commission (sdc.gov.jm)
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Jamaica [COD-PS](https://data.humdata.org/dataset/cod-ps-jam).
 
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 14 feature(s).
+Administrative level 1 contains 14 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 132 feature(s).
+Administrative level 2 contains 131 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-Administrative level 3 contains 775 feature(s).""",14,131,775,
-KAZ,https://data.humdata.org/dataset/cod-ab-kaz,cod-standard,OCHA Field Information Services Section (FISS),"Kazakhstan administrative level 0-2 shapefiles, geodatabase, and gazetteer
+Administrative level 3 contains 775 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
 
-This January 2023 update represents the new (2022) administrative structure of Kazakhstan (with 20 administrative level 1 features).  
-These updated layers are no longer compatible for database or GIS linkage using the P-codes to the [Kazakhstan - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-kaz) tables.",20,218,,
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",14,131,775,
+KAZ,https://data.humdata.org/dataset/cod-ab-kaz,cod-standard,OCHA Field Information Services Section (FISS),"Kazakhstan administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  COD-AB extends to ADM2.  COD-PS is available only to ADM1.  Minor boundary issues to be corrected.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2024.  The COD-AB does not require any update.
+
+Sourced from UNHCR from Open Street Map
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Kazakhstan [COD-PS](https://data.humdata.org/dataset/cod-ps-kaz).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 20 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 218 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",20,218,,
 KEN,https://data.humdata.org/dataset/cod-ab-ken,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Kenya administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1632,25 +1751,125 @@ These administrative boundaries became out of date in:  2020
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",47,290,,
-KIR,https://data.humdata.org/dataset/cod-ab-kir,cod-standard,OCHA Office of the Pacific Islands,"Kiribati administrative level 0 (country), 1 (group), 2 (island) boundaries
+KIR,https://data.humdata.org/dataset/cod-ab-kir,cod-standard,OCHA Office of the Pacific Islands,"Kiribati administrative level 0-2 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [Kiribati - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-kir) tables.
+These administrative boundaries were established in:  2020
 
-The disbursed nature of this archipelago country does not make it suitable for EMF mapping.",3,36,,
-PRK,https://data.humdata.org/dataset/cod-ab-prk,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"DPR Korea administrative level 0 (country), 1 (province, special city), and 2 (county, city, special city) boundary and line shapefiles, EMF files,  geodatabase, gazetteer, and data sheet
+NOTE:  See COD-PS caveat about Kanton population.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-These boundary files are suitable for database or GIS linkage to the [DPR Korea administrative level 0-2 population statistics](https://data.humdata.org/dataset/cod-ps-prk) tables.   Note, however the caveat below that two  of the boundary features do not have corresponding COD-PS records.",11,179,,
-KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Kuwait - Subnational Administrative Boundaries, sourced from GADM (www.gadm.org)",6,,,
-KGZ,https://data.humdata.org/dataset/cod-ab-kgz,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Kyrgyzstan administrative level 0 (country), 1 (province, independent city [EN];  область, город [RU];  облусу, шаар [KY]), 2 (district [EN]; район, [RU]; району [KY]),  and 3 (community [EN]; айылный аймак [RU]; айыл аймаг [KY]) boundary polygon and line shapefiles  and gazetteer.
+Sourced from Secretariat of the Pacific Community, Statistics for Development Division (kiribati.popgis.spc.int)
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",9,53,737,
-LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Laos administrative level 0 (country), 1 (province / khoueng or prefecture / kampheng nakhon), and 2 (district / muang) boundary shapefiles, , and EMF files, geodatabase, and gazetteer
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB is suitable for database or GIS linkage to the Kiribati [COD-PS](https://data.humdata.org/dataset/cod-ps-kir).
 
-These shapefiles are suitable for database or GIS linkage to the [Lao People's Democratic Republic - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lao) COD-PS CSV tables.",18,148,,
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 36 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Oceania
+
+This metadata was last updated on January 13, 2025.",3,36,,
+PRK,https://data.humdata.org/dataset/cod-ab-prk,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Democratic People's Republic of Korea administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2008
+
+NOTE:  See COD-PS caveats about two COD-AB features lacking COD-PS matches.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from World Food Programme
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Democratic People's Republic of Korea [COD-PS](https://data.humdata.org/dataset/cod-ps-prk).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is """"Province, Special City"""".
+
+Administrative level 2 contains 179 feature(s).  The normal administrative level 2 feature type is """"County, City, Special City"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",11,179,,
+KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Kuwait administrative level 0-1 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  
+
+Sourced from GADM database (www.gadm.org), version 2.8, November 2015
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-kwt).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",6,,,
+KGZ,https://data.humdata.org/dataset/cod-ab-kgz,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Kyrgyzstan administrative level 0-3 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2024.  The COD-AB does not require any update.
+
+Sourced from Ministry of Emergency Situations of the Kyrgyz Republic
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Kyrgyzstan [COD-PS](https://data.humdata.org/dataset/cod-ps-kgz).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"province, independent city [EN];  область, город [RU];  облусу, шаар [KY])"""".
+
+Administrative level 2 contains 53 feature(s).  The normal administrative level 2 feature type is """"district [EN]; район, [RU]; району [KY]"""".
+
+Administrative level 3 contains 737 feature(s).  The normal administrative level 3 feature type is """"community [EN]; айылный аймак [RU]; айыл аймаг [KY]"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",9,53,737,
+LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Lao People's Democratic Republic administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2019
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from National Geographic Department (NGD)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Lao People's Democratic Republic [COD-PS](https://data.humdata.org/dataset/cod-ps-lao).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"province (khoueng) or prefecture (kampheng nakhon)"""".
+
+Administrative level 2 contains 148 feature(s).  The normal administrative level 2 feature type is """"district (muang)"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",18,148,,
 LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Field Information Services Section (FISS),"""Lebanon administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2014
@@ -1701,46 +1920,138 @@ Administrative level 2 contains 78 feature(s).  The normal administrative level 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",10,78,,
-LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA West and Central Africa (ROWCA),"Liberia administrative level 0-2 definitive and edge-matched administrative boundaries.
+LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA West and Central Africa (ROWCA),"Liberia administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+The date that these administrative boundaries were established is unknown.
 
-Edge-matched versions prepared by ITOS to conform to the United Nations Geospatial Hub_ 1:1m boundary layer.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-These boundaries are suitable for database or GIS linkage to the [Liberia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lbr) tables.
-",15,136,,
-LBY,https://data.humdata.org/dataset/cod-ab-lby,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Libya administrative level 0 (country),  1 (province), and 2 (governorate / muhafazat) , EMF files, geodatabase, live services, and gazetteer
+Sourced from UNMIL
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Libya populated places level 3 (baladiya) point geodatabase",3,22,,
+This COD-AB is suitable for database or GIS linkage to the Liberia [COD-PS](https://data.humdata.org/dataset/cod-ps-lbr).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-lbr).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 15 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 136 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",15,136,,
+LBY,https://data.humdata.org/dataset/cod-ab-lby,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Libya administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from UNITAR-UNOSAT, Libyan Bureau of Statistics, WFP,  and Global Logistics Cluster, International Organisation for Migration (IOM)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"province"""".
+
+Administrative level 2 contains 22 feature(s).  The normal administrative level 2 feature type is """"governorate (muhafazat)"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",3,22,,
 MKD,https://data.humdata.org/dataset/cod-ab-mkd,cod-standard,Regional IM Working Group - Europe,Spreadsheets and Shapefiles of Administrative levels,1,,8,84
-MDG,https://data.humdata.org/dataset/cod-ab-mdg,cod-standard,OCHA Field Information Services Section (FISS),"Madagascar administrative level 0 (country), 1 (region), 2 (district), 3 (commune), and 4 (fokontany) boundary and line shapefiles,  geodatabase,  and gazetteer.
+MDG,https://data.humdata.org/dataset/cod-ab-mdg,cod-standard,OCHA Field Information Services Section (FISS),"Madagascar administrative level 0-4 boundaries (COD-AB) dataset.
 
-These boundary shapefiles are suitable for database or GIS linkage to the [Madagascar - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mdg) population statistics CSV tables.
+The date that these administrative boundaries were established is unknown.
 
-(A Look Up Table of P-codes and related BNGRC codes has also been provided, should linkages to the BNGRC Admin 1 & 2 codes be required for disaster response purposes.)",22,119,1579,17465
-MWI,https://data.humdata.org/dataset/cod-ab-mwi,cod-enhanced,OCHA Field Information Services Section (FISS),"Malawi administrative level 0-3 shapefiles, geodatabase, gazetteer, and geoservices
+NOTE:  It is understood that there may have been administrative level 2, 3, and 4 changes.  The OCHA Regional Office is inquiring about official information.  Slight differences in the post-2009 total populations at the fokontany, commune, district and country levels are as a result of rounding of decimal places from the population growth. 
+ estimate calculations for 2010 to 2018.
 
-P-codes are based on the NSO Admin 3 code system.
+This COD-AB was most recently reviewed for accuracy and necessary changes in March 2024.  The COD-AB requires improvements.
 
-In the administrative level 3 feature names, ""STA"" stands for ""Senior Traditional Authority"" and ""TA"" stands for ""Traditional Authority"".
+Sourced from Madagascar National Disaster Management Office (BNGRC)
 
- 
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-These shapefiles are suitable for database or ArcGIS linkage to the [Malawi - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mwi) tables.",3,32,433,
-MYS,https://data.humdata.org/dataset/cod-ab-mys,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Malaysia administrative level 0-2  boundaries.
+This COD-AB is suitable for database or GIS linkage to the Madagascar [COD-PS](https://data.humdata.org/dataset/cod-ps-mdg).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
 
-These boundaries are suitable for database or GIS linkage to the [Malaysia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mys) tables.",16,144,,
-MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"""Maldives administrative level 0-2 boundaries (COD-AB) dataset.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-These layers have a special polygon structure.  Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls).  Feature areas (AREA_SQKM) totals are therefore much larger for administrative level 1 (and 0).
-This COD-AB contains an extra """"Atoll Lines' layer that shows the island and atoll groupings.
-The administrative level 2 P-codes are derived from an earlier ('FCODE') system where available, and then completed alphabetically by name in other cases.
+Administrative level 1 contains 22 feature(s).  The normal administrative level 1 feature type is """"Region"""".
 
-SEE CAVEATS for certain island (ADM2) duplicate names issues.
+Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is """"District"""".
+
+Administrative level 3 contains 1,579 feature(s).  The normal administrative level 3 feature type is """"Commune"""".
+
+Administrative level 4 contains 17,465 feature(s).  The normal administrative level 4 feature type is """"Fokontany"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",22,119,1579,17465
+MWI,https://data.humdata.org/dataset/cod-ab-mwi,cod-enhanced,OCHA Field Information Services Section (FISS),"Malawi administrative level 0-3 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  In the administrative level 3 feature names, """"STA"""" stands for """"Senior Traditional Authority"""" and """"TA"""" stands for """"Traditional Authority"""".
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in March 2024.  The COD-AB does not require any update.
+
+Sourced from National Statistics Office of Malawi
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Malawi [COD-PS](https://data.humdata.org/dataset/cod-ps-mwi).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-mwi).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Administrative level 3 contains 433 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",3,32,433,
+MYS,https://data.humdata.org/dataset/cod-ab-mys,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Malaysia administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2021
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from UNHCR
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Malaysia [COD-PS](https://data.humdata.org/dataset/cod-ps-mys).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 144 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",16,144,,
+MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Maldives administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2024
+
+NOTE:  These layers have a special polygon structure. Administrative level 2 is actual islands, but level 1 (and level 0) is the surrounding administrative atolls or island groups (which in a few cases differ from distinct geographic atolls). Feature areas (AREA_SQKM) totals are therefore much larger for administrative level 1 (and 0). This COD-AB contains an extra """"""""Atoll Lines' layer that shows the island and atoll groupings. The administrative level 2 P-codes are derived from an earlier ('FCODE') system where available, and then completed alphabetically by name in other cases.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
@@ -1751,13 +2062,16 @@ Live geoservices (provided by Information Technology Outreach Services (ITOS) wi
 This COD-AB is suitable for database or GIS linkage to the Maldives [COD-PS](https://data.humdata.org/dataset/cod-ps-mdv).
 
 As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 21 feature.
+Administrative level 1 contains 21 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 1556 features.
+Administrative level 2 contains 1,556 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-Recommended cartographic projection:  Asia South Albers Equal Area Conic""",21,1556,,
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",21,1556,,
 MLI,https://data.humdata.org/dataset/cod-ab-mli,cod-enhanced,OCHA Field Information Services Section (FISS),"""Mali administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2016
@@ -1831,14 +2145,31 @@ Administrative level 2 contains 34 feature(s).  The normal administrative level 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",4,34,,
-MRT,https://data.humdata.org/dataset/cod-ab-mrt,cod-enhanced,OCHA Field Information Services Section (FISS),"Mauritania administrative level 0-3 shapefiles
+MRT,https://data.humdata.org/dataset/cod-ab-mrt,cod-enhanced,OCHA Field Information Services Section (FISS),"Mauritania administrative level 0-3 boundaries (COD-AB) dataset.
 
-Live administrative boundary geoservices for all COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Live administrative boundary geoservices of the previous version of this COD-AB are available in [this ""V00_0"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0).  Older live administrative boundary geoservices are available in [this ""V1_00"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00).
+The date that these administrative boundaries were established is unknown.
 
-The associated [Mauritania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mrt) dataset has NOT been updated and is no longer suitable for linkage.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.  ITOS processing updated 2021_12_22.  The ITOS live geoservices have not yet been updated to reflect the new boundary updates.
-",15,63,238,
+Sourced from Agence Nationale de la Statistique, de l’Analyse Démographique et Economique (ANSADE)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Mauritania [COD-PS](https://data.humdata.org/dataset/cod-ps-mrt).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-mrt).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 15 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 63 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Administrative level 3 contains 238 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",15,63,238,
 MUS,https://data.humdata.org/dataset/cod-ab-mus,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"""Mauritius administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1861,11 +2192,13 @@ Administrative level 1 contains 12 feature(s).  The normal administrative level 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",12,,,
-MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"""Mexico administrative level 0-2 boundaries (COD-AB) dataset.
+MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Mexico administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2016
 
 NOTE:  COD-AB ADM2 will be updated shortly.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB requires improvements.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
 
 Sourced from Instituto Nacional de Estadística y Geografía (INEGI)
 
@@ -1877,25 +2210,84 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 32 feature(s).
+Administrative level 1 contains 32 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 2 contains 2,457 feature(s).
+Administrative level 2 contains 2,457 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",32,2457,,
+FSM,https://data.humdata.org/dataset/cod-ab-fsm,cod-standard,OCHA Office of the Pacific Islands,"Micronesia (Federated States of) administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2019
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Federated States of Micronesia Division of Statistics,  2010 Census of Population and Housing and Secretariat of the Pacific Community, Statistics for Development Division
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Micronesia (Federated States of) [COD-PS](https://data.humdata.org/dataset/cod-ps-fsm).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 4 feature(s).  The normal administrative level 1 feature type is """"State"""".
+
+Administrative level 2 contains 75 feature(s).  The normal administrative level 2 feature type is """"Municipality"""".
+
+Recommended cartographic projection:  Oceania
+
+This metadata was last updated on January 13, 2025.",4,75,,
+MDA,https://data.humdata.org/dataset/cod-ab-mda,cod-enhanced,OCHA Field Information Services Section (FISS),"Republic of Moldova administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
-Recommended cartographic projection:  North America Albers Equal Area Conic""",32,2457,,
-FSM,https://data.humdata.org/dataset/cod-ab-fsm,cod-standard,OCHA Office of the Pacific Islands,"Federated States of Micronesia 2010 administrative level 0 (country), 1 (state), 2 (municipality) boundaries
+NOTE:  See COD-PS caveats about data completeness.
 
-In addition to the administrative boundaries a Exclusive Economic Zone boundary is provided.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
 
-The disbursed nature of this archipelago country does not make it suitable for EMF mapping.",4,75,,
-MDA,https://data.humdata.org/dataset/cod-ab-mda,cod-enhanced,OCHA Field Information Services Section (FISS),Moldova administrative level 0-1 boundaries,37,,,
-MNG,https://data.humdata.org/dataset/cod-ab-mng,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Mongolia administrative level 0 (country), 1 (aimag), 2 (soum), and regional boundary polygons and lines, and administrative gazeteer.
+Sourced from UNHCR
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
+This COD-AB is suitable for database or GIS linkage to the Republic of Moldova [COD-PS](https://data.humdata.org/dataset/cod-ps-mda).
 
-These shapefiles are suitable for database and GIS linkage to the [Mongolia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-mng) tables.",22,339,,
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-mda).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 37 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",37,,,
+MNG,https://data.humdata.org/dataset/cod-ab-mng,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Mongolia administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2020
+
+NOTE:  See COD-PS caveats about 2017 and 2021 mismatch.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from National Statistical Office of Mongolia
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Mongolia [COD-PS](https://data.humdata.org/dataset/cod-ps-mng).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 22 feature(s).  The normal administrative level 1 feature type is """"Aimag"""".
+
+Administrative level 2 contains 339 feature(s).  The normal administrative level 2 feature type is """"Soum"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",22,339,,
 MSR,https://data.humdata.org/dataset/cod-ab-msr,cod-standard,OCHA Field Information Services Section (FISS),"""Montserrat administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1918,32 +2310,35 @@ Administrative level 1 contains 3 feature(s).  The normal administrative level 1
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",3,,,
-MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-enhanced,OCHA Field Information Services Section (FISS),"SEPTEMBER 29 2023 UPDATE
-The shapefile, geodatabase, and EMF layers sourced from Le Haut Commissariat au Plan data (HCP) have been vetted and configured by ITOS.   Topological errors have been fixed and the lines layer is now available.  The live geoservices are currently those provided before the September 2023 earthquake, but will be updated shortly.
+MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-enhanced,OCHA Field Information Services Section (FISS),"Morocco administrative level 0-4 boundaries (COD-AB) dataset.
 
-NOTE ABOUT P-CODES.  The _Haut Commissariat au Plan data (HCP)_ source data contained place codes that did not reference administrative level 1 (regions).  To maintain consistency with the previous COD-AB - as well as the live geoservices that are currently in place - the new layers maintain the P-coding at administrative levels 1 and 2 and then append the HCP place coding for administrative levels 3 and 4.
+The date that these administrative boundaries were established is unknown.
 
+NOTE:  NOTE ABOUT P-CODES. The Haut Commissariat au Plan data (HCP) source data contained place codes that did not reference administrative level 1 (regions). To maintain consistency with the previous COD-AB - as well as the live geoservices that are currently in place - the new layers maintain the P-coding at administrative levels 1 and 2 and then append the HCP place coding for administrative levels 3 and 4.
 
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
 
-SEPTEMBER 15 2023 UPDATE
-The administrative level 0-4 gazetteer spreadsheet and geodatabase is now available.
-The large number of topology errors prohibits creation of a lines layer until they can be corrected.
+Sourced from Le Haut Commissariat au Plan data (HCP)
 
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-SEPTEMBER 14 2023 UPDATE
-This dataset now contains a preliminary set of administrative level 0, 1, 2, 3, and 4 shapefiles recently derived from Le Haut Commissariat au Plan data (HCP).  Administrative level 0, 1, and 2 P-codes match those in the other layers - and live geoservices - contained in this dataset.  Administrative level 3 and 4 P-codes are derived from the HCP layers.
+This COD-AB is suitable for database or GIS linkage to the Morocco [COD-PS](https://data.humdata.org/dataset/cod-ps-mar).
 
-These new layers are more detailed than the previous layers but contain topological errors.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
-The gazetteer spreadsheet, lines file, and geodatabase will be prepared shortly.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-Live services remain unaltered.
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-****
+Administrative level 2 contains 69 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-Sourced from GAUL. P-codes harmonization by UNHCR FICSS towards enhanced integration between different systems and humanitarian agencies. P-coded reformulated by UNICEF.
+Administrative level 3 contains 1,507 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",10,69,1507,1656
+Administrative level 4 contains 1,656 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",10,69,1507,1656
 MOZ,https://data.humdata.org/dataset/cod-ab-moz,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Mozambique administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1954
@@ -2022,25 +2417,56 @@ Administrative level 2 contains 107 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",14,107,,
-NPL,https://data.humdata.org/dataset/cod-ab-npl,cod-enhanced,OCHA Field Information Services Section (FISS),"Nepal administrative level 0-3 boundaries and gazetteer
+NPL,https://data.humdata.org/dataset/cod-ab-npl,cod-enhanced,OCHA Field Information Services Section (FISS),"Nepal administrative level 0-3 boundaries (COD-AB) dataset.
 
-Live administrative boundary geoservices for Nepal and other enhanced COD-AB locations are available in [this ""COD_External"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  Live administrative boundary geoservices of the previous version of this COD-AB are available in [this ""V00_0"" catalogue](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0).
+These administrative boundaries were established in:  2024
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
-These administrative level 0-2 layers are suitable for database or GIS linkage to the [Nepal - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-npl) tables using the ADM0, ADM1, and ADM2_PCODE fields.
+Sourced from Survey Department of Nepal (http://ngiip.gov.np/index.php),  UN Resident Coordinators Office in Nepal (https://un.org.np/)
 
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-Official site for Nepali boundary information:   Ministry of Land Management, Cooperatives and Poverty Alleviation, Survey Department [http://dos.gov.np/downloads/nepal-map] (Unsecure link.)",7,77,775,
-NIC,https://data.humdata.org/dataset/cod-ab-nic,cod-enhanced,OCHA Field Information Services Section (FISS),"Nicaragua administrative level 0 (country), 1 (department or autonomous region, departamento o región autónoma), and 2 (municipality, municipio) boundaries polygons
+This COD-AB is suitable for database or GIS linkage to the Nepal [COD-PS](https://data.humdata.org/dataset/cod-ps-npl).
 
-These layers were altered in November 2023.  ""Región Autónoma Atlántico Norte"" [NI91] and ""Región Autónoma Atlántico Sur"" [NI93] were renamed to ""Region Autonoma Costa Caribe Norte"" and ""Region Autonoma Costa Caribe Sur"", respectively.  The [Nicaragua - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-nic) edge-matched layers were also made available.
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-nic).  
 
+Please see the [COD Portal](https://cod.unocha.org/).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
+Administrative level 2 contains 77 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-These boundaries are NOT suitable for database or GIS linkage to the [Nicaragua - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-nic) tables, which do not have compatible P-coding.",17,153,,
+Administrative level 3 contains 775 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",7,77,775,
+NIC,https://data.humdata.org/dataset/cod-ab-nic,cod-enhanced,OCHA Field Information Services Section (FISS),"Nicaragua administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  COD-PS is not P-coded, due to incompatibility with the COD-AB and COD-EM.  COD-AB was updated (and COD-EM created) in November 2023 with updates to the """"Region Autonoma Costa Caribe Norte"""" [NI91] and """"Region Autonoma Costa Caribe Sur"""" [NI93] feature names.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Nicaragua [COD-PS](https://data.humdata.org/dataset/cod-ps-nic).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-nic).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is """"Department or autonomous region (Departamento o región autónoma)"""".
+
+Administrative level 2 contains 153 feature(s).  The normal administrative level 2 feature type is """"municipality (municipio)"""".
+
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",17,153,,
 NER,https://data.humdata.org/dataset/cod-ab-ner,cod-enhanced,OCHA Niger,"""Niger administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1999
@@ -2094,9 +2520,29 @@ Administrative level 3 contains 714 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",37,774,714,
-OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Oman administrative level 0-2 boundary files
+OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Oman administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.",11,49,,
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 49 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",11,49,,
 PAK,https://data.humdata.org/dataset/cod-ab-pak,cod-enhanced,OCHA Field Information Services Section (FISS),"""Pakistan administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2183,12 +2629,33 @@ Administrative level 3 contains 594 feature(s).  The normal administrative level
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",13,76,594,
-PNG,https://data.humdata.org/dataset/cod-ab-png,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Papua New Guinea administrative level 0 (country), 1 (province, autonomous region, and National Capital District), 2 (district), and 3 (local level government area) boundary shapefiles, EMF files, geodatabase, and gazetteer
+PNG,https://data.humdata.org/dataset/cod-ab-png,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Papua New Guinea administrative level 0-3 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+These administrative boundaries were established in:  2019
 
-These boundary files are suitable for database or GIS linkage to the [Papua New Guinea - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-png) tables.
-",22,87,326,
+NOTE:  See COD-PS caveats about special feature treatments.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Papua New Guinea National Statistics Office
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Papua New Guinea [COD-PS](https://data.humdata.org/dataset/cod-ps-png).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 22 feature(s).  The normal administrative level 1 feature type is """"Province, Autonomous Region, and National Capital District"""".
+
+Administrative level 2 contains 87 feature(s).  The normal administrative level 2 feature type is """"District"""".
+
+Administrative level 3 contains 326 feature(s).  The normal administrative level 3 feature type is """"Local Government Area"""".
+
+Recommended cartographic projection:  Oceania
+
+This metadata was last updated on January 13, 2025.",22,87,326,
 PRY,https://data.humdata.org/dataset/cod-ab-pry,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"""Paraguay administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2211,27 +2678,85 @@ Administrative level 2 contains 250 feature(s).  The normal administrative level
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",18,250,,
-PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Información de aspectos limítrofes de Perú.
+PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Peru administrative level 0-3 boundaries (COD-AB) dataset.
 
-NOTE:  updates for the Lima vicinity will provided shortly.
+The date that these administrative boundaries were established is unknown.
 
-Información Cartográfica Básica generalizada a partir de los archivos de Carta Nacional Escala 1/100 000. Con períodos de actualización diferentes
+NOTE:  COD-PS extends only to administrative level 1.  Updates to the Lima area are anticipated
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB requires improvements.
 
-These boundaries are suitable for database or GIS linkage to the [Peru - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-per).",25,196,1873,
-PHL,https://data.humdata.org/dataset/cod-ab-phl,cod-enhanced,OCHA Philippines,"Philippines administrative level 0-4 shapefiles
+Sourced from Instituto Geográfico Nacional - IGN
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-OCHA acknowledges PSA and the National Mapping and Resource Information Authority (NAMRIA) as the sources.  LMB is the source of official administrative boundaries of the Philippines. In the absence of available official administrative boundary, the IMTWG have agreed to clean and use the PSA administrative boundaries which are used to facilitate data collection of surveys and censuses. The dataset can only be considered as indicative boundaries and not official.
-Its updated to reflect the new areas within BARMM; It uses the new 10-digit pcode consistent with government PSGC as of 2023.
-These shapefiles are suitable for database or ArcGIS joins to the [Philippines - 2020 Census Admin4 Population Statistics] (https://data.humdata.org/dataset/popn-single-year-age-sex-and-barangay-census-2020) and [ Philippines - Admin 2 Population projections using 2015 population] (https://data.humdata.org/dataset/cod-ps-phl).",17,88,1642,42048
-POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 shapefiles, geodatabase, and gazetteer
+This COD-AB is suitable for database or GIS linkage to the Peru [COD-PS](https://data.humdata.org/dataset/cod-ps-per).
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
-These boundary files are suitable for database or GIS linkage to the [Poland - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-pol) tables.",16,380,,
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 25 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 196 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Administrative level 3 contains 1,873 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  South America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",25,196,1873,
+PHL,https://data.humdata.org/dataset/cod-ab-phl,cod-enhanced,OCHA Philippines,"Philippines administrative level 0-4 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  See COD-PS caveat about treatment of National Capital (Manila) data.  OCHA acknowledges PSA and the National Mapping and Resource Information Authority (NAMRIA) as the sources. LMB is the source of official administrative boundaries of the Philippines. In the absence of available official administrative boundary, the IMTWG have agreed to clean and use the PSA administrative boundaries which are used to facilitate data collection of surveys and censuses. The dataset can only be considered as indicative boundaries and not official. Its updated to reflect the new areas within BARMM; It uses the new 10-digit pcode consistent with government PSGC as of 2023
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
+
+Sourced from National Mapping and Resource Information Authority (NAMRIA), Philippines Statistics Authority (PSA)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Philippines [COD-PS](https://data.humdata.org/dataset/cod-ps-phl).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 88 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Administrative level 3 contains 1,642 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Administrative level 4 contains 42,048 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",17,88,1642,42048
+POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from Państwowy Rejestr Granic (PRG)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Poland [COD-PS](https://data.humdata.org/dataset/cod-ps-pol).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-pol).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 380 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",16,380,,
 QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"""Qatar administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2257,10 +2782,52 @@ Administrative level 3 contains 781 feature(s).  The normal administrative level
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",8,91,781,
-ROU,https://data.humdata.org/dataset/cod-ab-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 boundaries and gazetteer
+ROU,https://data.humdata.org/dataset/cod-ab-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 boundaries (COD-AB) dataset.
 
-These layers are suitable for database or GIS linkage to the [Romania - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-rou) tables using the ADM0, ADM1, and ADM2_PCODE attribute fields.",8,42,,
-RUS,https://data.humdata.org/dataset/cod-ab-rus,cod-standard,OCHA Field Information Services Section (FISS),Russian Federation administrative level 0-2 boundaries and gazetteer,8,83,,
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from ANCPI - Agenția Națională de Cadastru și publicitate imobiliară
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Romania [COD-PS](https://data.humdata.org/dataset/cod-ps-rou).
+
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-rou).  
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 42 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",8,42,,
+RUS,https://data.humdata.org/dataset/cod-ab-rus,cod-standard,OCHA Field Information Services Section (FISS),"Russian Federation administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 83 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",8,83,,
 RWA,https://data.humdata.org/dataset/cod-ab-rwa,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Rwanda administrative level 0-4 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2330,20 +2897,29 @@ Administrative level 1 contains 14 feature(s).  The normal administrative level 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",14,,,
-LCA,https://data.humdata.org/dataset/cod-ab-lca,cod-standard,OCHA Field Information Services Section (FISS),"""Saint Lucia administrative level 0-2 boundaries (COD-AB) dataset.
+LCA,https://data.humdata.org/dataset/cod-ab-lca,cod-standard,OCHA Field Information Services Section (FISS),"Saint Lucia administrative level 0-2 boundaries (COD-AB) dataset.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes 8 month(s) ago.  The determination was that:   The COD-AB does not require any update.
+The date that these administrative boundaries were established is unknown.
 
-Sourced from Department of Physical Planning.
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Sourced from Department of Physical Planning
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Saint Lucia [COD-PS](https://data.humdata.org/dataset/cod-ps-lca).
 
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
 Please see the [COD Portal](https://cod.unocha.org/).
-Administrative level 1 contains 10 feature(s).
-Administrative level 2 contains 547 feature(s).""",10,547,,
+
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 547 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",10,547,,
 MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),"""Saint Martin (French part) administrative level 0 boundaries (COD-AB) dataset.
 
 NOTE:  COD-AB provides only ADM0 polygon.  COD-PS extends to ADM1.
@@ -2362,33 +2938,74 @@ Please see the [COD Portal](https://cod.unocha.org/).
 The date that these administrative boundaries were established is unknown.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic""",,,,
-VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"""Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset.
+VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Vincent and the Grenadines administrative level 0-2 boundaries (COD-AB) dataset.
 
-The date of administrative boundary establishment is unknown, but is assumed to be the 1969 Independence.
+The date that these administrative boundaries were established is unknown.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
 
-Sourced from www.gadm.org.
+Sourced from www.gadm.org
 
-Live geoservices are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Saint Vincent and the Grenadines [COD-PS](https://data.humdata.org/dataset/cod-ps-vct).
 
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.)
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 6 feature(s).""",6,13,,
-STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"Admin Level 1 Boundaries (Provinces) and Admin Level 2 Boundaries (Districts) of São Tomé and Principé
+Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-REFERENCE YEAR:  2020
+Administrative level 2 contains 13 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-The dataset represents the provinces and districts of São Tomé and Principé with harmonized PCODE of ROWCA and Humanitarian Response pcodes.
+Recommended cartographic projection:  North America Albers Equal Area Conic
 
-These boundaries are suitable for database or GIS linkage to the [Sao Tome and Principe - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-stp).",2,8,,
-SAU,https://data.humdata.org/dataset/cod-ab-sau,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Saudi Arabia administrative level 0-1 boundaries and populated places
+This metadata was last updated on January 13, 2025.",6,13,,
+STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"
+Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
-",13,,,
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Sao Tome and Principe [COD-PS](https://data.humdata.org/dataset/cod-ps-stp).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 2 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+
+Administrative level 2 contains 8 feature(s).  The normal administrative level 2 feature type is """"District"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",2,8,,
+SAU,https://data.humdata.org/dataset/cod-ab-sau,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Saudi Arabia administrative level 0-1 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  
+
+Sourced from www.gadm.org
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",13,,,
 SEN,https://data.humdata.org/dataset/cod-ab-sen,cod-enhanced,OCHA West and Central Africa (ROWCA),"""Senegal administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2440,25 +3057,33 @@ Recommended cartographic projection:  Africa Albers Equal Area Conic
 This metadata was last updated on January 9, 2025.""",4,8,27,
 SLE,https://data.humdata.org/dataset/cod-ab-sle,cod-enhanced,OCHA West and Central Africa (ROWCA),"Sierra Leone administrative level 0-4 boundaries (COD-AB) dataset.
 
+The date that these administrative boundaries were established is unknown.
+
 NOTE:  This COD-AB was updated in December 2023 to reflect the five-ADM1 features administrative structure.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in 2023.
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
 
 Sourced from Government of Sierra Leone
 
-Vetting and live geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-This COD-AB is suitable for database or GIS linkage to the Sierra Leone COD-PS using the ADM0_PCODE, ADM1_PCODE, etc. fields.
+This COD-AB is suitable for database or GIS linkage to the Sierra Leone [COD-PS](https://data.humdata.org/dataset/cod-ps-sle).
 
-An edge-matched (COD-EM) version of this COD-AB is available.
+An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-sle).  
 
-Administrative level 1 contains 4 features.
+Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 2 contains 14 features.
+Administrative level 1 contains 5 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
 
-Administrative level 3 contains 167 features.
+Administrative level 2 contains 16 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
-Administrative level 4 contains 1316 features.",5,16,167,1316
+Administrative level 3 contains 167 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Administrative level 4 contains 1,316 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Africa Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",5,16,167,1316
 SXM,https://data.humdata.org/dataset/cod-ab-sxm,cod-enhanced,OCHA Field Information Services Section (FISS),"""Sint Maarten (Dutch part) administrative level 0-1 boundaries (COD-AB) dataset.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes 1 month(s) ago.  The determination was:  The COD-AB does not require any update.
@@ -2477,9 +3102,31 @@ SVK,https://data.humdata.org/dataset/cod-ab-svk,cod-enhanced,OCHA Field Informat
 Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
 
 These layers are suitable for database or GIS linkage to the [Slovakia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-svk) tables using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",8,79,,
-SLB,https://data.humdata.org/dataset/cod-ab-slb,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Solomon Islands administrative level 0 (country),  1 (province or capital territory), 2 (constituency), and 3 (ward) boundary polygons
+SLB,https://data.humdata.org/dataset/cod-ab-slb,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Solomon Islands administrative level 0-3 boundaries (COD-AB) dataset.
 
-Suitable for GIS or database linkage to the [Solomon Islands administrative level 0, 1, 2, and 3 population statistics](https://data.humdata.org/dataset/cod-ps-slb) Common Operational Dataset.",10,50,183,
+These administrative boundaries were established in:  2018
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Solomon Islands National Statistics Office (SINSO), 2009 Census of Population and Housing	
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Solomon Islands [COD-PS](https://data.humdata.org/dataset/cod-ps-slb).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is """"Province or Capital Territory"""".
+
+Administrative level 2 contains 50 feature(s).  The normal administrative level 2 feature type is """"Constituency"""".
+
+Administrative level 3 contains 183 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Oceania
+
+This metadata was last updated on January 13, 2025.",10,50,183,
 SOM,https://data.humdata.org/dataset/cod-ab-som,cod-enhanced,OCHA Field Information Services Section (FISS),"""Somalia administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1984
@@ -2539,13 +3186,35 @@ Administrative level 4 contains 4,392 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",9,52,213,4392
-LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Sri Lanka administrative levels 0-4 shapefiles and gazetteer
+LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Sri Lanka administrative level 0-4 boundaries (COD-AB) dataset.
 
-This dataset was updated on 2 August 2022, replacing the April 2019 version.
+These administrative boundaries were established in:  2022
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+NOTE:  COD-AB contains one lake polygon which is not represented int the COD-PS.
 
-These boundaries are suitable for database or GIS linkage to the [Sri Lanka - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-lka) tables using the ADM0, ADM1, and ADM2_PCODE fields.",9,25,339,14043
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Survey Department of Sri Lanka (http://www.survey.gov.lk)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Sri Lanka [COD-PS](https://data.humdata.org/dataset/cod-ps-lka).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 25 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Administrative level 3 contains 339 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+
+Administrative level 4 contains 14,043 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",9,25,339,14043
 SSD,https://data.humdata.org/dataset/cod-ab-ssd,cod-enhanced,OCHA South Sudan,"""South Sudan administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2020
@@ -2745,7 +3414,9 @@ Administrative level 4 contains 1,520 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",4,135,208,1520
-UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"""Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
+UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2024
 
 NOTE:  The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.  The COD-AB boundaries were adjusted at the ADM3 (hromadas) in early 2024.
 
@@ -2761,13 +3432,17 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 27 feature(s).
+Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is """"Oblast"""".
 
-Administrative level 2 contains 139 feature(s).
+Administrative level 2 contains 139 feature(s).  The normal administrative level 2 feature type is """"Region (raion)"""".
 
-These administrative boundaries were established in:  2024
+Administrative level 3 contains 1,769 feature(s).  The normal administrative level 3 feature type is """"Hromada"""".
 
-Recommended cartographic projection:  Europe Albers Equal Area Conic""",27,139,1769,29707
+Administrative level 4 contains 29,707 feature(s).  The normal administrative level 4 feature type is """"Populated Place"""".
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",27,139,1769,29707
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"""United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2813,12 +3488,31 @@ Administrative level 2 contains 204 feature(s).  The normal administrative level
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",19,204,,
-UZB,https://data.humdata.org/dataset/cod-ab-uzb,cod-standard,OCHA Middle East and North Africa (ROMENA),"Uzbekistan administrative level 0 (country), 1 (province / viloyat, autonomous republic / respublika, or independent city / shahar), and 2 (district / tuman) boundary polygon and line shapefiles, and gazetteer.
+UZB,https://data.humdata.org/dataset/cod-ab-uzb,cod-standard,OCHA Middle East and North Africa (ROMENA),"Uzbekistan administrative level 0-2 boundaries (COD-AB) dataset.
 
-27 May 2020 update:
-A topology error affecting all levels was corrected in the shapefiles only.
+The date that these administrative boundaries were established is unknown.
 
-The administrative level 1 shapefile is suitable for database or GIS linkage to the administrative level 1 population statistics table available on HDX [here](https://data.humdata.org/dataset/cod-ps-uzb).",14,199,,
+NOTE:  See COD-PS caveats about sex and age disaggregation and feature name translations.  COD-PS to be updated shortly.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2024.  The COD-AB does not require any update.
+
+Sourced from OCHA
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Uzbekistan [COD-PS](https://data.humdata.org/dataset/cod-ps-uzb).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 14 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+
+Administrative level 2 contains 199 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",14,199,,
 VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Office of the Pacific Islands,"""Vanuatu administrative level 0-2 boundaries (COD-AB) dataset.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
@@ -2840,7 +3534,9 @@ Administrative level 2 contains 66 feature(s).
 These administrative boundaries were established in:  2018
 
 Recommended cartographic projection:  Oceania""",6,66,,
-VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Venezuela,"""Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset.
+VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Venezuela,"Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2018
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in February 2024.  The COD-AB does not require any update.
 
@@ -2854,20 +3550,38 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 25 feature(s).
+Administrative level 1 contains 25 feature(s).  The normal administrative level 1 feature type is """"State"""".
 
-Administrative level 2 contains 335 feature(s).
+Administrative level 2 contains 335 feature(s).  The normal administrative level 2 feature type is """"Municipality"""".
 
-These administrative boundaries were established in:  2018
+Administrative level 3 contains 1,134 feature(s).  The normal administrative level 3 feature type is """"Parish (estados, municipios, parroquias)"""".
 
-Recommended cartographic projection:  South America Albers Equal Area Conic""",25,335,1134,
-VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Viet Nam administrative level 0 (country), 1 (province), and 2 (district) boundaries
+Recommended cartographic projection:  South America Albers Equal Area Conic
 
-27 October 2020 update:  All instances of ""Thura Thien Hue"" [VN411] have been corrected to ""Thua Thien Hue"".  This affects administrative levels 1 and 2 in the shapefiles, geodatabase, and the gazetteer. 
+This metadata was last updated on January 13, 2025.",25,335,1134,
+VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Viet Nam administrative level 0-2 boundaries (COD-AB) dataset.
 
-Vetting and live service provision by [Information Technology Outreach Services (ITOS)](https://www.uga.edu/) with funding from USAID.
+These administrative boundaries were established in:  2023
 
-The boundaries are suitable for database or GIS linkage to the [Viet Nam - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-vnm) tables.",63,708,,
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from Government of Viet Nam
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Viet Nam [COD-PS](https://data.humdata.org/dataset/cod-ps-vnm).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 63 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+
+Administrative level 2 contains 708 feature(s).  The normal administrative level 2 feature type is """"District"""".
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",63,708,,
 VGB,https://data.humdata.org/dataset/cod-ab-vgb,cod-standard,OCHA Field Information Services Section (FISS),"""British Virgin Islands administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2986,15 +3700,26 @@ Administrative level 3 contains 1,961 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",10,91,1961,
-VIR,https://data.humdata.org/dataset/cod-ab-vir,cod-standard,OCHA Field Information Services Section (FISS),"United States Virgin Islands administrative level 0 (nation), 1 (district), and 2 (sub-district) boundaries
+VIR,https://data.humdata.org/dataset/cod-ab-vir,cod-standard,OCHA Field Information Services Section (FISS),"United States Virgin Islands administrative level 0-2 boundaries (COD-AB) dataset.
 
-These boundaries are suitable for database or GIS linkage to the [United States Virgin Islands administrative level 0-2 disaggregated population statistics](https://data.humdata.org/dataset/cod-ps-vir) tables.
+The date that these administrative boundaries were established is unknown.
 
-Version history:
+This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
 
+Sourced from GADM
 
-4 November 2019
-P-codes added to conform to COD-PS.  Lines shapefile added,
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
-9 September 2017
-Initial upload",3,20,,
+This COD-AB is suitable for database or GIS linkage to the United States Virgin Islands [COD-PS](https://data.humdata.org/dataset/cod-ps-vir).
+
+As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"District"""".
+
+Administrative level 2 contains 20 feature(s).  The normal administrative level 2 feature type is """"Sub-district"""".
+
+Recommended cartographic projection:  North America Albers Equal Area Conic
+
+This metadata was last updated on January 13, 2025.",3,20,,

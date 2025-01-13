@@ -165,13 +165,10 @@ REFERENCE YEAR:  2017
 The gazetteer includes an administrative level 3 (commune) table for which no statistics are available.
 
 The CSV files are suitable for database or GIS linkage to the [Comoros - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-com) administrative level 0, 1, and 2 shapefiles.",3,,,
-COD,https://data.humdata.org/dataset/cod-ps-cod,cod-standard,OCHA Democratic Republic of the Congo (DRC),"Democratic Republic of the Congo administrative level 0 (country), 1 (province), 2 (district) sex and age disaggregated 2019 and 2020 population statistics
+COD,https://data.humdata.org/dataset/cod-ps-cod,cod-standard,OCHA Democratic Republic of the Congo (DRC),"Democratic Republic of the Congo administrative level 0 (country), 1 (province), 2 (district) sex and age disaggregated population statistics by year.
+These tables are suitable for database or GIS linkage to the [RDC - Administrative Boundaries (levels 0 - 2)](https://data.humdata.org/dataset/cod-ab-cod).
 
-REFERENCE YEAR:  2020
-
-See caveats
-
-These tables are suitable for database or GIS linkage to the [RDC - Administrative Boundaries (levels 0 - 2)](https://data.humdata.org/dataset/cod-ab-cod).",26,189,,
+For year 2019 and 2020, please see caveats.",26,189,,
 CRI,https://data.humdata.org/dataset/cod-ps-cri,cod-enhanced,UNFPA,"Costa Rica administrative level 0-3 sex and age disaggregated 2021 projected population statistics
 
 These tables are suitable for database or GIS linkage to the [Costa Rica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cri) layers.",7,81,478,
