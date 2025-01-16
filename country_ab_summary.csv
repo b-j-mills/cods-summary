@@ -3538,8 +3538,35 @@ Administrative level 4 contains 2,084 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",6,24,264,2084
-TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-enhanced,Regional IM Working Group - Europe,"Türkiye - Administrative Boundaries (Levels 0, 1, 2
-Included Admin 1 and 2 central points.",81,973,49662,43412
+TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-4 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2024
+
+NOTE:  This dataset was derived in January 2025 from a version now named 'Türkiye - Subnational Administrative Boundaries - RIMWGE' developed but since neglected by the Regional IM Working Group - Europe.  This dataset was modified for compatibility by OCHA FIS.  LIVE GEOSERVICES WILL BE UPDATED SHORTLY.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+
+Sourced from General Command of Mapping
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+This COD-AB is suitable for database or GIS linkage to the Türkiye [COD-PS](https://data.humdata.org/dataset/cod-ps-tur).
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 81 feature(s).  The normal administrative level 1 feature type is 'Province (İl)'.
+
+Administrative level 2 contains 973 feature(s).  The normal administrative level 2 feature type is 'District (İlçe)'.
+
+Administrative level 3 contains 49,662 feature(s).  The normal administrative level 3 feature type is 'Neighbourhood/Village (Mahalle/KOY)'.
+
+Administrative level 4 contains 43,412 feature(s).  The normal administrative level 4 feature type is 'currently not known'.
+
+Recommended cartographic projection:  Asia South Albers Equal Area Conic
+
+This metadata was last updated on January 16, 2025.",81,973,,
 TCA,https://data.humdata.org/dataset/cod-ab-tca,cod-standard,OCHA Field Information Services Section (FISS),"""Turks and Caicos Islands administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
