@@ -1382,7 +1382,31 @@ Administrative level 2 contains 260 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",16,260,,
-GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,Regional IM Working Group - Europe,"Administrative Boundary dataset (shapefiles and spreadsheets) for Greece (levels 0,1,2 & Sea Areas)",8,14,,
+GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,OCHA Field Information Services Section (FISS),"""Greece administrative level 0-2 boundaries (COD-AB) dataset.
+
+These administrative boundaries were established in:  2010
+
+NOTE:  This dataset was derived in January 2025 from a version now named 'Greece- Subnational Administrative Boundaries - RIMWGE' developed but since neglected by the Regional IM Working Group - Europe.  This dataset was modified for compatibility by OCHA FIS.  LIVE GEOSERVICES WILL BE UPDATED SHORTLY.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+
+Sourced from EuroGeoGraphics
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is 'Decentralized Administration or Monastic Community'.
+
+Administrative level 2 contains 14 feature(s).  The normal administrative level 2 feature type is 'Region'.
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 17, 2025.""",8,14,,
 GRD,https://data.humdata.org/dataset/cod-ab-grd,cod-enhanced,OCHA Field Information Services Section (FISS),"Grenada administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -3538,7 +3562,7 @@ Administrative level 4 contains 2,084 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",6,24,264,2084
-TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-4 boundaries (COD-AB) dataset.
+TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2024
 
@@ -3546,7 +3570,7 @@ NOTE:  This dataset was derived in January 2025 from a version now named 'Türki
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
-Sourced from General Command of Mapping
+Sourced from General Command of Mapping (obtained by Regional IM Working Group - Europe)
 
 Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
@@ -3560,13 +3584,9 @@ Administrative level 1 contains 81 feature(s).  The normal administrative level 
 
 Administrative level 2 contains 973 feature(s).  The normal administrative level 2 feature type is 'District (İlçe)'.
 
-Administrative level 3 contains 49,662 feature(s).  The normal administrative level 3 feature type is 'Neighbourhood/Village (Mahalle/KOY)'.
-
-Administrative level 4 contains 43,412 feature(s).  The normal administrative level 4 feature type is 'currently not known'.
-
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 16, 2025.",81,973,,
+This metadata was last updated on January 17, 2025.",81,973,,
 TCA,https://data.humdata.org/dataset/cod-ab-tca,cod-standard,OCHA Field Information Services Section (FISS),"""Turks and Caicos Islands administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
