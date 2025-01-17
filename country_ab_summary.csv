@@ -17,13 +17,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is 'Province'.
 
-Administrative level 2 contains 401 feature(s).  The normal administrative level 2 feature type is """"District"""".
+Administrative level 2 contains 401 feature(s).  The normal administrative level 2 feature type is 'District'.
 
 Recommended cartographic projection:  Asia
 
-This metadata was last updated on January 9, 2025.",34,401,,
+This metadata was last updated on January 17, 2025.",34,401,,
 ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Information Services Section (FISS),"Albania administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2015
@@ -44,13 +44,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is """"County"""".
+Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is 'County'.
 
-Administrative level 2 contains 61 feature(s).  The normal administrative level 2 feature type is """"Municipality"""".
+Administrative level 2 contains 61 feature(s).  The normal administrative level 2 feature type is 'Municipality'.
+
+Administrative level 3 contains 374 feature(s).  The normal administrative level 3 feature type is 'Administrative Unit'.
 
 Recommended cartographic projection:  Europe Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",12,61,374,
+This metadata was last updated on January 17, 2025.",12,61,374,
 DZA,https://data.humdata.org/dataset/cod-ab-dza,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Algeria administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -91,15 +93,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'Province'.
 
-Administrative level 2 contains 161 feature(s).  The normal administrative level 2 feature type is """"Municipality"""".
+Administrative level 2 contains 161 feature(s).  The normal administrative level 2 feature type is 'Municipality'.
 
-Administrative level 3 contains 539 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 539 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",18,161,539,
+This metadata was last updated on January 17, 2025.",18,161,539,
 AIA,https://data.humdata.org/dataset/cod-ab-aia,cod-standard,OCHA Field Information Services Section (FISS),"Anguilla administrative level 0 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1980
@@ -120,7 +122,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",,,,
+This metadata was last updated on January 17, 2025.",,,,
 ATG,https://data.humdata.org/dataset/cod-ab-atg,cod-standard,OCHA Field Information Services Section (FISS),"Antigua and Barbuda administrative level 0 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -141,7 +143,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",,,,
+This metadata was last updated on January 17, 2025.",,,,
 ARG,https://data.humdata.org/dataset/cod-ab-arg,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Argentina administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -157,18 +159,18 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 24 feature(s).  The normal administrative level 1 feature type is """"province"""".
+Administrative level 1 contains 24 feature(s).  The normal administrative level 1 feature type is 'province'.
 
-Administrative level 2 contains 525 feature(s).  The normal administrative level 2 feature type is """"department (partidos in Buenos Aries province, commun in Buenos Aries city)"""".
+Administrative level 2 contains 525 feature(s).  The normal administrative level 2 feature type is 'department (partidos in Buenos Aries province, commun in Buenos Aries city)'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",24,525,,
+This metadata was last updated on January 17, 2025.",24,525,,
 ARM,https://data.humdata.org/dataset/cod-ab-arm,cod-enhanced,OCHA Field Information Services Section (FISS),"Armenia administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
-NOTE:  ADM2 level is unoffical but sometimes used by government.  COD-AB live services established October 2023.
+NOTE:  ADM2 level is unofficial but sometimes used by government.  COD-AB live services established October 2023.
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in January 2024.  The COD-AB does not require any update.
 
@@ -182,15 +184,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is 'Province'.
 
-Administrative level 2 contains 38 feature(s).  The normal administrative level 2 feature type is """"Community"""".
+Administrative level 2 contains 38 feature(s).  The normal administrative level 2 feature type is 'Community'.
 
-Administrative level 3 contains 805 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 805 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",11,38,805,
+This metadata was last updated on January 17, 2025.",11,38,805,
 ABW,https://data.humdata.org/dataset/cod-ab-abw,cod-standard,OCHA Field Information Services Section (FISS),"Aruba administrative level 0 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1986
@@ -211,7 +213,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",,,,
+This metadata was last updated on January 17, 2025.",,,,
 AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -230,11 +232,11 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 74 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 74 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",74,,,
+This metadata was last updated on January 17, 2025.",74,,,
 BHS,https://data.humdata.org/dataset/cod-ab-bhs,cod-standard,OCHA Field Information Services Section (FISS),"Bahamas administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -251,11 +253,11 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 32 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 32 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",32,,,
+This metadata was last updated on January 17, 2025.",32,,,
 BHR,https://data.humdata.org/dataset/cod-ab-bhr,cod-standard,OCHA Middle East and North Africa (ROMENA),"Bahrain administrative level 0 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -274,7 +276,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",,,,
+This metadata was last updated on January 17, 2025.",,,,
 BGD,https://data.humdata.org/dataset/cod-ab-bgd,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Bangladesh administrative level 0-4 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2022
@@ -293,13 +295,17 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is """"Division"""".
+Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is 'Division'.
 
-Administrative level 2 contains 64 feature(s).  The normal administrative level 2 feature type is """"District (Zila)"""".
+Administrative level 2 contains 64 feature(s).  The normal administrative level 2 feature type is 'District (Zila)'.
+
+Administrative level 3 contains 544 feature(s).  The normal administrative level 3 feature type is 'upazila (subdistrict) or thana'.
+
+Administrative level 4 contains 5,160 feature(s).  The normal administrative level 4 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",8,64,544,5160
+This metadata was last updated on January 17, 2025.",8,64,544,5160
 BRB,https://data.humdata.org/dataset/cod-ab-brb,cod-standard,OCHA Field Information Services Section (FISS),"Barbados administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -317,11 +323,11 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 11 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",11,,,
+This metadata was last updated on January 17, 2025.",11,,,
 BLR,https://data.humdata.org/dataset/cod-ab-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"Belarus administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1960
@@ -340,13 +346,13 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Europe Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",7,119,,
+This metadata was last updated on January 17, 2025.",7,119,,
 BLZ,https://data.humdata.org/dataset/cod-ab-blz,cod-enhanced,OCHA Field Information Services Section (FISS),"Belize administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -363,11 +369,11 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",6,,,
+This metadata was last updated on January 17, 2025.",6,,,
 BEN,https://data.humdata.org/dataset/cod-ab-ben,cod-enhanced,OCHA West and Central Africa (ROWCA),"Benin administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -384,20 +390,20 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 77 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 77 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 These administrative boundaries became out of date in:  2021
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",12,77,,
+This metadata was last updated on January 17, 2025.",12,77,,
 BMU,https://data.humdata.org/dataset/cod-ab-bmu,cod-standard,OCHA Field Information Services Section (FISS),"Bermuda administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
 NOTE:  See COD-AB caveats about ADM2, and 'Hamilton' features.
-This COD-AB has NOT been reviewed for accuracy and necessary in the last 12 months.
+This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
 
 Sourced from www.gadm.org
 
@@ -409,13 +415,13 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"Parish"""".
+Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is 'Parish'.
 
-Administrative level 2 contains 9 feature(s).  The normal administrative level 2 feature type is """"Municipality"""".
+Administrative level 2 contains 9 feature(s).  The normal administrative level 2 feature type is 'Municipality'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",9,9,,
+This metadata was last updated on January 17, 2025.",9,9,,
 BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Bhutan administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2020
@@ -432,13 +438,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 20 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 20 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 205 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 205 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",20,205,,
+This metadata was last updated on January 17, 2025.",20,205,,
 BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Field Information Services Section (FISS),"Bolivia (Plurinational State of) administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -457,15 +463,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 113 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 113 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
-Administrative level 3 contains 343 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 343 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",9,113,343,
+This metadata was last updated on January 17, 2025.",9,113,343,
 BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"Bonaire, Sint Eustatius and Saba administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -483,11 +489,11 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 13, 2025.",3,,,
+This metadata was last updated on January 17, 2025.",3,,,
 BWA,https://data.humdata.org/dataset/cod-ab-bwa,cod-standard,OCHA Field Information Services Section (FISS),"Botswana administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -503,15 +509,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 28 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 28 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
-Administrative level 3 contains 519 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 519 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",17,28,519,
+This metadata was last updated on January 17, 2025.",17,28,519,
 BRA,https://data.humdata.org/dataset/cod-ab-bra,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Brazil administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -527,13 +533,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 5,572 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 5,572 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",27,5572,,
+This metadata was last updated on January 17, 2025.",27,5572,,
 BGR,https://data.humdata.org/dataset/cod-ab-bgr,cod-enhanced,OCHA Field Information Services Section (FISS),"Bulgaria administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1999
@@ -552,13 +558,13 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 28 feature(s).  The normal administrative level 1 feature type is """"province (oblast) or metropolitan capital province"""".
+Administrative level 1 contains 28 feature(s).  The normal administrative level 1 feature type is 'province (oblast) or metropolitan capital province'.
 
-Administrative level 2 contains 265 feature(s).  The normal administrative level 2 feature type is """"municipality"""".
+Administrative level 2 contains 265 feature(s).  The normal administrative level 2 feature type is 'municipality'.
 
 Recommended cartographic projection:  Europe Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",28,265,,
+This metadata was last updated on January 17, 2025.",28,265,,
 BFA,https://data.humdata.org/dataset/cod-ab-bfa,cod-enhanced,OCHA Burkina Faso,"Burkina Faso administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2012
@@ -577,15 +583,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is """"Région"""".
+Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is 'Région'.
 
-Administrative level 2 contains 45 feature(s).  The normal administrative level 2 feature type is """"Province"""".
+Administrative level 2 contains 45 feature(s).  The normal administrative level 2 feature type is 'Province'.
 
-Administrative level 3 contains 351 feature(s).  The normal administrative level 3 feature type is """"Commune"""".
+Administrative level 3 contains 351 feature(s).  The normal administrative level 3 feature type is 'Commune'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",13,45,351,
+This metadata was last updated on January 17, 2025.",13,45,351,
 BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),"Burundi administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -604,13 +610,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'Province'.
 
-Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is """"Commune"""".
+Administrative level 2 contains 119 feature(s).  The normal administrative level 2 feature type is 'Commune'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",18,119,,
+This metadata was last updated on January 17, 2025.",18,119,,
 KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2018
@@ -654,15 +660,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is """"Region (Région)"""".
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is 'Region (Région)'.
 
-Administrative level 2 contains 58 feature(s).  The normal administrative level 2 feature type is """"Department (Département)"""".
+Administrative level 2 contains 58 feature(s).  The normal administrative level 2 feature type is 'Department (Département)'.
 
-Administrative level 3 contains 360 feature(s).  The normal administrative level 3 feature type is """"Arrondissement"""".
+Administrative level 3 contains 360 feature(s).  The normal administrative level 3 feature type is 'Arrondissement'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",10,58,360,
+This metadata was last updated on January 18, 2025.",10,58,360,
 CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-enhanced,OCHA West and Central Africa (ROWCA),"Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -681,13 +687,13 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 22 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 22 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",22,32,,
+This metadata was last updated on January 18, 2025.",22,32,,
 CYM,https://data.humdata.org/dataset/cod-ab-cym,cod-standard,OCHA Field Information Services Section (FISS),"Cayman Islands administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -703,11 +709,11 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is """"District"""".
+Administrative level 1 contains 6 feature(s).  The normal administrative level 1 feature type is 'District'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",6,,,
+This metadata was last updated on January 18, 2025.",6,,,
 CAF,https://data.humdata.org/dataset/cod-ab-caf,cod-enhanced,OCHA Central African Republic,"Central African Republic administrative level 0-4 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2020
@@ -726,17 +732,17 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is """"Prefecture"""".
+Administrative level 1 contains 17 feature(s).  The normal administrative level 1 feature type is 'Prefecture'.
 
-Administrative level 2 contains 72 feature(s).  The normal administrative level 2 feature type is """"Sub-prefecture"""".
+Administrative level 2 contains 72 feature(s).  The normal administrative level 2 feature type is 'Sub-prefecture'.
 
-Administrative level 3 contains 175 feature(s).  The normal administrative level 3 feature type is """"Commune"""".
+Administrative level 3 contains 175 feature(s).  The normal administrative level 3 feature type is 'Commune'.
 
-Administrative level 4 contains 860 feature(s).  The normal administrative level 4 feature type is """"Locality"""".
+Administrative level 4 contains 860 feature(s).  The normal administrative level 4 feature type is 'Locality'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",17,72,175,860
+This metadata was last updated on January 17, 2025.",17,72,175,860
 TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Chad,"Chad administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2012
@@ -781,15 +787,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 56 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 56 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
-Administrative level 3 contains 345 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 345 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",16,56,345,
+This metadata was last updated on January 17, 2025.",16,56,345,
 CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"China administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -812,9 +818,31 @@ Administrative level 1 contains 34 feature(s).  The normal administrative level 
 
 Administrative level 2 contains 361 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
 
+""China administrative level 0-2 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  COD-AB source is unofficial.  COD-AB reflects Chinese and UN recognition of 'Taiwan' as a Chinese ADM1 feature.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
+
+Sourced from publicly available online sources
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
+
+Administrative level 2 contains 361 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
+
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",34,361,,
+This metadata was last updated on January 18, 2025.",34,361,,
 COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Colombia administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2019
@@ -834,13 +862,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is """"Departement"""".
+Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is 'Departement'.
 
-Administrative level 2 contains 1,122 feature(s).  The normal administrative level 2 feature type is """"Municipality (municipio or distrito)"""".
+Administrative level 2 contains 1,122 feature(s).  The normal administrative level 2 feature type is 'Municipality (municipio or distrito)'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",33,1122,,
+This metadata was last updated on January 18, 2025.",33,1122,,
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Comoros administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -856,15 +884,15 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 3 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 17 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 17 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
-Administrative level 3 contains 55 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 55 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",3,17,55,
+This metadata was last updated on January 18, 2025.",3,17,55,
 COG,https://data.humdata.org/dataset/cod-ab-cog,cod-enhanced,OCHA West and Central Africa (ROWCA),"Congo administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -881,13 +909,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is """"Department"""".
+Administrative level 1 contains 12 feature(s).  The normal administrative level 1 feature type is 'Department'.
 
-Administrative level 2 contains 89 feature(s).  The normal administrative level 2 feature type is """"District"""".
+Administrative level 2 contains 89 feature(s).  The normal administrative level 2 feature type is 'District'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",12,89,,
+This metadata was last updated on January 18, 2025.",12,89,,
 COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Democratic Republic of the Congo (DRC),"Democratic Republic of the Congo administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -906,13 +934,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 26 feature(s).  The normal administrative level 1 feature type is """" Province"""".
+Administrative level 1 contains 26 feature(s).  The normal administrative level 1 feature type is ' Province'.
 
-Administrative level 2 contains 189 feature(s).  The normal administrative level 2 feature type is """"Territory / Territorie"""".
+Administrative level 2 contains 189 feature(s).  The normal administrative level 2 feature type is 'Territory / Territorie'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",26,189,,
+This metadata was last updated on January 18, 2025.",26,189,,
 CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-standard,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2022
@@ -931,15 +959,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 84 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 84 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
-Administrative level 3 contains 492 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 492 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",7,84,492,
+This metadata was last updated on January 18, 2025.",7,84,492,
 CIV,https://data.humdata.org/dataset/cod-ab-civ,cod-enhanced,OCHA West and Central Africa (ROWCA),"Côte d'Ivoire administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -956,15 +984,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is """"District, Autonomous City"""".
+Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is 'District, Autonomous City'.
 
-Administrative level 2 contains 108 feature(s).  The normal administrative level 2 feature type is """"Region"""".
+Administrative level 2 contains 108 feature(s).  The normal administrative level 2 feature type is 'Region'.
 
-Administrative level 3 contains 510 feature(s).  The normal administrative level 3 feature type is """"Department"""".
+Administrative level 3 contains 510 feature(s).  The normal administrative level 3 feature type is 'Department'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",33,108,510,
+This metadata was last updated on January 18, 2025.",33,108,510,
 CUB,https://data.humdata.org/dataset/cod-ab-cub,cod-standard,OCHA Field Information Services Section (FISS),"Cuba administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -981,13 +1009,13 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 16 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
-Administrative level 2 contains 168 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 168 feature(s).  The normal administrative level 2 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",16,168,,
+This metadata was last updated on January 18, 2025.",16,168,,
 CUW,https://data.humdata.org/dataset/cod-ab-cuw,cod-standard,OCHA Field Information Services Section (FISS),"Curaçao administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1003,11 +1031,11 @@ As this is an island country, no edge-matched (COD-EM) version of this COD-AB is
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 66 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 66 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",66,,,
+This metadata was last updated on January 18, 2025.",66,,,
 DJI,https://data.humdata.org/dataset/cod-ab-dji,cod-standard,OCHA Field Information Services Section (FISS),"Djibouti administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -1990,7 +2018,33 @@ Administrative level 2 contains 22 feature(s).  The normal administrative level 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",3,22,,
-MKD,https://data.humdata.org/dataset/cod-ab-mkd,cod-standard,Regional IM Working Group - Europe,Spreadsheets and Shapefiles of Administrative levels,1,,8,84
+MKD,https://data.humdata.org/dataset/cod-ab-mkd,cod-standard,OCHA Field Information Services Section (FISS),"North Macedonia administrative level 0-4 boundaries (COD-AB) dataset.
+
+The date that these administrative boundaries were established is unknown.
+
+NOTE:  COD-AB omits MH0609 feature contained in COD-PS.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
+
+Sourced from EuroGeographics and NTES (Nomenclature of Territorial Units for Statistics - Republic of Macedonia State Statistical Office)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+
+There is no suitable population statistics dataset (COD-PS) for linkage to this COD-AB..
+
+No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
+
+Please see the [COD Portal](https://cod.unocha.org/).
+
+Administrative level 1 contains 1 feature(s).  The normal administrative level 1 feature type is 'currently not known'.
+
+Administrative level 3 contains 8 feature(s).  The normal administrative level 3 feature type is 'currently not known'.
+
+Administrative level 4 contains 84 feature(s).  The normal administrative level 4 feature type is 'currently not known'.
+
+Recommended cartographic projection:  Europe Albers Equal Area Conic
+
+This metadata was last updated on January 17, 2025.",8,80,,
 MDG,https://data.humdata.org/dataset/cod-ab-mdg,cod-standard,OCHA Field Information Services Section (FISS),"Madagascar administrative level 0-4 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -2901,7 +2955,7 @@ Please see the [COD Portal](https://cod.unocha.org/).
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",,,,
+This metadata was last updated on January 17, 2025.",,,,
 KNA,https://data.humdata.org/dataset/cod-ab-kna,cod-standard,OCHA Field Information Services Section (FISS),"""Saint Kitts and Nevis administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
@@ -3684,11 +3738,11 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is """"Emirate"""".
+Administrative level 1 contains 7 feature(s).  The normal administrative level 1 feature type is 'Emirate'.
 
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",7,,,
+This metadata was last updated on January 17, 2025.",7,,,
 URY,https://data.humdata.org/dataset/cod-ab-ury,cod-standard,OCHA Field Information Services Section (FISS),"Uruguay administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
