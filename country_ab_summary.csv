@@ -1410,7 +1410,7 @@ Administrative level 2 contains 260 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",16,260,,
-GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,OCHA Field Information Services Section (FISS),"""Greece administrative level 0-2 boundaries (COD-AB) dataset.
+GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,OCHA Field Information Services Section (FISS),"Greece administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2010
 
@@ -1434,7 +1434,7 @@ Administrative level 2 contains 14 feature(s).  The normal administrative level 
 
 Recommended cartographic projection:  Europe Albers Equal Area Conic
 
-This metadata was last updated on January 17, 2025.""",8,14,,
+This metadata was last updated on January 17, 2025.",8,14,,
 GRD,https://data.humdata.org/dataset/cod-ab-grd,cod-enhanced,OCHA Field Information Services Section (FISS),"Grenada administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
