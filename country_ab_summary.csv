@@ -3232,11 +3232,9 @@ Administrative level 3 contains 183 feature(s).  The normal administrative level
 Recommended cartographic projection:  Oceania
 
 This metadata was last updated on January 13, 2025.",10,50,183,
-SOM,https://data.humdata.org/dataset/cod-ab-som,cod-enhanced,OCHA Field Information Services Section (FISS),"Somalia administrative level 0-2 boundaries (COD-AB) dataset.
+SOM,https://data.humdata.org/dataset/cod-ab-som,cod-enhanced,OCHA Field Information Services Section (FISS),"Somalia administrative level 0-2 boundaries (COD-AB) dataset.Boundaries established:    1984
 
-These administrative boundaries were established in:  1984
-
-NOTE:  In addition to administrative levels 0-2, this dataset includes """"level 1 Operational Zones"""" (OPZ1) and """"level 2 Operational Zones"""" (OPZ2).  17 OPZ1 features within the Banadir administrative level 1 feature are now (as of the January 2025 update) coincident with individual administrative level 2 features.  Two further OPZ1 features within the Banadir administrative level 1 polygon are excluded from the administrative structure and must be named and P-coded as 'unspecified'.  All Operational Zones are not administrative boundaries and are not identified as administrative level 3 features.  The six Federal member states (Somaliland, Puntland, Galmudug, Hirshabelle, South West, and Jubaland) are NOT integrated into the administrative structure.  (Their boundaries cannot be constructed even from administrative level 2 features.)  The edge-matched administrative boundaries COD (COD-EM) will be updated shortly.
+NOTE:  In addition to administrative levels 0-2, this dataset includes """"level 1 Operational Zones"""" (OPZ1) and """"level 2 Operational Zones"""" (OPZ2).  17 OPZ1 features within the Banadir administrative level 1 feature are now (as of the January 2025 update) coincident with individual administrative level 2 features.  Two further OPZ1 features within the Banadir administrative level 1 polygon are excluded from the administrative structure and must be named and P-coded as 'unspecified'.  All Operational Zones are not administrative boundaries and are not identified as administrative level 3 features.  The six Federal member states (Somaliland, Puntland, Galmudug, Hirshabelle, South West, and Jubaland) are NOT integrated into the administrative structure.  (Their boundaries cannot be constructed even from administrative level 2 features.)
 
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB does not require any update.
@@ -3251,13 +3249,13 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"Region"""".
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'Region'.
 
-Administrative level 2 contains 91 feature(s).  The normal administrative level 2 feature type is """"District"""".
+Administrative level 2 contains 91 feature(s).  The normal administrative level 2 feature type is 'District'.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 15, 2025.",18,91,,
+This metadata was last updated on January 23, 2025.",18,91,,
 ZAF,https://data.humdata.org/dataset/cod-ab-zaf,cod-enhanced,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"South Africa administrative level 0-4 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.

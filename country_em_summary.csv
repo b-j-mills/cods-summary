@@ -312,11 +312,11 @@ COD-EM datasets do not replace the authoritative [COD-AB available here](https:/
 These layers are suitable for database or GIS linkage to the [Slovakia - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-svk) tables.
 
 Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",8,79,,
-SOM,https://data.humdata.org/dataset/cod-em-som,cod-enhanced,OCHA Field Information Services Section (FISS),"Somali administrative level 0-2, state, and operational zone level 1 and 2 geodatabase, gazetteer and geoservices
+SOM,https://data.humdata.org/dataset/cod-em-som,cod-enhanced,OCHA Field Information Services Section (FISS),"Somali administrative level 0-2, state, and operational zone level 1 and 2 edge-matched shapefiles, EMF files, geodatabase and gazetteer.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-som); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
 
-Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",18,74,,
+Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID.",18,91,,
 TGO,https://data.humdata.org/dataset/cod-em-tgo,cod-enhanced,OCHA Field Information Services Section (FISS),"Togo administrative level 0-3 edge-matched gazetteer, shapefiles, geodatabase, and geoservice.
 
 COD-EM datasets do not replace the authoritative [COD-AB available here](https://data.humdata.org/dataset/cod-ab-tgo); however COD-EM datasets may be preferred for cartographic purposes.  See caveats.
