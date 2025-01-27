@@ -3689,13 +3689,11 @@ Administrative level 4 contains 1,520 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",4,135,208,1520
-UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
+UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Boundaries established:    Jan 2024
 
-These administrative boundaries were established in:  2024
+NOTE:  The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only.  Subsequent attribute changes are tabulated in the attached 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' spreadsheet which doucments attribute changes affecting administrative levels 2, 3, and 3.  The population statistics common operational dataset (COD-PS-UKR) is only available via special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.
 
-NOTE:  The population statistics common operatioanl dataset (COD-PS-UKR) is only available vis special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.  The COD-AB boundaries were adjusted at the ADM3 (hromadas) in early 2024.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
 Sourced from State Scientific Production Enterprise “Kartographia”
 
@@ -3707,17 +3705,17 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is """"Oblast"""".
+Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is 'Oblast'.
 
-Administrative level 2 contains 139 feature(s).  The normal administrative level 2 feature type is """"Region (raion)"""".
+Administrative level 2 contains 139 feature(s).  The normal administrative level 2 feature type is 'Region (raion)'.
 
-Administrative level 3 contains 1,769 feature(s).  The normal administrative level 3 feature type is """"Hromada"""".
+Administrative level 3 contains 1,769 feature(s).  The normal administrative level 3 feature type is 'Hromada'.
 
-Administrative level 4 contains 29,707 feature(s).  The normal administrative level 4 feature type is """"Populated Place"""".
+Administrative level 4 contains 29,707 feature(s).  The normal administrative level 4 feature type is 'Populated Place or Settlement'.
 
 Recommended cartographic projection:  Europe Albers Equal Area Conic
 
-This metadata was last updated on January 13, 2025.",27,139,1769,29707
+This metadata was last updated on January 27, 2025.",27,139,1769,29707
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
