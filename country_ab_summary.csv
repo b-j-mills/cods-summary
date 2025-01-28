@@ -3689,33 +3689,63 @@ Administrative level 4 contains 1,520 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",4,135,208,1520
-UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Boundaries established:    Jan 2024
+UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"DATASET METADATA
+================
 
-NOTE:  The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only.  Subsequent attribute changes are tabulated in the attached 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' spreadsheet which doucments attribute changes affecting administrative levels 2, 3, and 3.  The population statistics common operational dataset (COD-PS-UKR) is only available via special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.
+- Ukraine administrative level 0-4 boundaries (COD-AB) dataset.
+- Boundaries established:    Jan 2024
+- The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only.  
+- In September and October 2024, the Parliament of Ukraine renamed over 300 settlements, some of which are capitals of administrative level 2 (raions) or hromadas.
+- The attached 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx'reference table was developed to reflect these changes and provide a tool for incorporating them into the UKR COD-AB dataset prior to its annual update, scheduled for later in 2025.  See the layer-specific description below for further detail.
+- NOTE that the attribute layers in this dataset incorrectly use 'UA' to represent the Ukrainian language.  The correct language code is 'UK'
+- This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr).  However, the population statistics common operational dataset (COD-PS-UKR) is only available via special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.
+- This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
+- Sourced from State Scientific Production Enterprise “Kartographia”
+- Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+- An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-ukr).  
+- Please see the [COD Portal](https://cod.unocha.org/).
+- Recommended cartographic projection:  Europe Albers Equal Area Conic
+- This metadata was last updated on January 27, 2025.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
-Sourced from State Scientific Production Enterprise “Kartographia”
 
-Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+ADMINISTRATIVE LEVEL 0 (ADM0) METADATA
+======================================
 
-This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr).
+- ADM0 is not affected by the September-October 2024 settlement renaming.
 
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-ukr).  
 
-Please see the [COD Portal](https://cod.unocha.org/).
+ADMINISTRATIVE LEVEL 1 (ADM1) METADATA
+======================================
+- ADM1 contains 27 features.
+- The normal ADM1 feature type is 'Oblast'.  See the 'ADM1_TYPE' and 'Remark' fields in the ADM1 feature attribute table for exceptions.
+- ADM1 is not affected by the September-October 2024 settlement renaming.
+- The number of child (ADM2), grandchild (ADM3) and greatgrandchild (ADM4) features for each ADM1 feature is provided in the ADM2_COUNT, ADM3_COUNT, and ADM4_COUNT fields of the feature attribute table.
 
-Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is 'Oblast'.
+ADMINISTRATIVE LEVEL 2 (ADM2) METADATA
+======================================
+- ADM2 contains 139 features.  
+- The normal ADM2 feature type is 'Region (raion)'.  See the 'ADM2_STATU' and 'Remark' fields in the ADM2 feature attribute table for oblast capital status information.
+- 4 ADM2 'raion' features were affected by the September-October 2024 settlement renaming.  Details are provided in the 'ADM2' tab of the attached 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table.  The COD-AB ADM2 boundary attributes for this COD-AB have not been adjusted.
+- For the Ukrainian name of feature “Кам’янський” [UA1204] the round apostrophe was replaced with a straight apostrophe.
+- The number of child (ADM3) and grandchild (ADM4) features for each ADM2 feature is provided in the ADM3_COUNT and ADM4_COUNT fields in the feature attribute table.
 
-Administrative level 2 contains 139 feature(s).  The normal administrative level 2 feature type is 'Region (raion)'.
 
-Administrative level 3 contains 1,769 feature(s).  The normal administrative level 3 feature type is 'Hromada'.
+ADMINISTRATIVE LEVEL 3 (ADM3) METADATA
+======================================
+- ADM3 contains 1,769 features.
+- The normal ADM3 feature type is 'Hromada'.
+- 27 ADM3 'hromada' features names were adjusted in the September-October 2024 settlement renaming.  NOTE as of January 2025, there are no legislative regulations that officially define the renaming of hromadas following the renaming of their capitals. Technically, such hromadas still retain their old names, even though their capitals now have new ones. However, the draft law (https://mtu.gov.ua/news/36152.html) has already been prepared to address this collision. It is expected that the hromadas' names will soon be aligned with the new names of their capitals. Therefore, the supposed new names of hromadas are reflected in the attached'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table.  The COD-AB ADM3 boundary attributes for this COD-AB have not been adjusted.
+- The number of child (ADM4) features for each ADM3 feature is provided in the ADM4_COUNT feature attribute table.
 
-Administrative level 4 contains 29,707 feature(s).  The normal administrative level 4 feature type is 'Populated Place or Settlement'.
 
-Recommended cartographic projection:  Europe Albers Equal Area Conic
+ADMINISTRATIVE LEVEL 4 (ADM4) METADATA
+======================================
+- ADM4 contains 29,707 features.  ADM4 features do not   
+- The normal administrative level 4 feature type is 'Populated Place or Settlement'.  See the 'ADM4_TYPE' field in the ADM4 feature attribute table for particulars.  (Values are 'Rural settlement' or 'City'.)
+- 329 ADM4 'settlement' features were adjusted in the September-October 2024 settlement renaming.  Details are provided in the 'ADM4' tab of the attached 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table.  The COD-AB ADM4 boundary attributes for this COD-AB have not been adjusted.
 
-This metadata was last updated on January 27, 2025.",27,139,1769,29707
+",27,139,1769,29707
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
