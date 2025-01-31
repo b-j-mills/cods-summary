@@ -421,11 +421,11 @@ Dataset renamed
 
 7 March 2018
 Initial upload",9,50,701,
-MHL,https://data.humdata.org/dataset/cod-ps-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative levels 0 (country), 1 (atoll), and 2 (EA) 2011 population statistics and gazetteer.
+MHL,https://data.humdata.org/dataset/cod-ps-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative level 0 sex and age disaggregated population statistics
 
-REFERENCE YEAR:  2011
+REFERENCE YEAR:  2021
 
-These .CSV tables are suitable for database or GIS linkage to the [Marshall Islands administrative level 0-2 boundaries](https://data.humdata.org/dataset/cod-ab-mhl) shapefiles.",25,153,,
+This .CSV table is suitable for database or GIS linkage to the [Marshall Islands - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mhl) administrative level 0 shapefile using the ADM0_PCODE field.",,,,
 MTQ,https://data.humdata.org/dataset/cod-ps-mtq,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Martinique administrative level 0 (territory), 1 (arrondissement), and 2 (commune) 2016 sex and age dissaggregated population statistics
 
 REFERENCE YEAR:  2016
