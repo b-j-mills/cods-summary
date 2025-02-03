@@ -521,7 +521,10 @@ This metadata was last updated on January 17, 2025.",17,28,519,
 BRA,https://data.humdata.org/dataset/cod-ab-bra,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Brazil administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
-This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
+
+NOTE:  The COD-PS does not include records for the uninhabited water features """"Lagoa Mirim"""" and """"Lagoa dos Patos"""".  
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
 Sourced from Instituto Brasileiro de Geografia e Estatística (IBGE)
 
@@ -539,7 +542,7 @@ Administrative level 2 contains 5,572 feature(s).  The normal administrative lev
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 17, 2025.",27,5572,,
+This metadata was last updated on February 03, 2025.",27,5572,,
 BGR,https://data.humdata.org/dataset/cod-ab-bgr,cod-enhanced,OCHA Field Information Services Section (FISS),"Bulgaria administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  1999
@@ -2687,7 +2690,8 @@ PAN,https://data.humdata.org/dataset/cod-ab-pan,cod-enhanced,OCHA Field Informat
 The date that these administrative boundaries were established is unknown.
 
 NOTE:  Adapted from source data fitted to 12 ADM1 features.
-This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
 Sourced from www.gadm.org
 
@@ -2699,15 +2703,15 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is """"province or indigenous territory (provincia o comarca comarca indígena)"""".
+Administrative level 1 contains 13 feature(s).  The normal administrative level 1 feature type is 'province or indigenous territory (provincia o comarca comarca indígena)'.
 
-Administrative level 2 contains 76 feature(s).  The normal administrative level 2 feature type is """"district or indigenous territory (distrito o comarca indígena)"""".
+Administrative level 2 contains 76 feature(s).  The normal administrative level 2 feature type is 'district or indigenous territory (distrito o comarca indígena)'.
 
-Administrative level 3 contains 594 feature(s).  The normal administrative level 3 feature type is """"municpiality (corregimiento)"""".
+Administrative level 3 contains 594 feature(s).  The normal administrative level 3 feature type is 'municpiality (corregimiento)'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",13,76,594,
+This metadata was last updated on February 03, 2025.",13,76,594,
 PNG,https://data.humdata.org/dataset/cod-ab-png,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Papua New Guinea administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2019
@@ -2738,7 +2742,10 @@ This metadata was last updated on January 13, 2025.",22,87,326,
 PRY,https://data.humdata.org/dataset/cod-ab-pry,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Paraguay administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
-This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
+
+NOTE:  New government boundary sources, including a new ADM3 layer, have been identified and will be incorporated into a future COD-AB update.
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB requires improvements.
 
 Sourced from Dirección General de Estadísticas, Encuestas y Censos (DGEEC)
 
@@ -2750,13 +2757,13 @@ No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'department (departamento)'.
 
-Administrative level 2 contains 250 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 250 feature(s).  The normal administrative level 2 feature type is 'distrtict (distrito)'.
 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",18,250,,
+This metadata was last updated on February 03, 2025.",18,250,,
 PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Peru administrative level 0-3 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
