@@ -3696,32 +3696,49 @@ Administrative level 4 contains 1,520 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.""",4,135,208,1520
-UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Boundaries established:    Jan 2024
+UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"The actual boundaries were most recently adjusted in:  January 2025.  
+Boundary information source:  State Scientific Production Enterprise “Kartographia”.  
+Contributor:  OCHA Field Information Services Section (FISS).  
+COD-AB quality level:  cod-enhanced (geometry and attributes verified and standardized) and live services available.  
+Most recent COD-AB review conclusion:  The COD-AB does not require any update.  
+An edge-matched (COD-EM) dataset is available  
+COD-EM HDX link:  https://data.humdata.org/dataset/cod-em-ukr.  
+OCHA country status:  Operational (country office).  
+Most recent COD-AB review date:  January 2025.  
+Deepest administrative level:  ADM4.  
+COD-PS HDX URL:  https://data.humdata.org/dataset/cod-ps-ukr.  
+Live featureserver:  https://codgis.itos.uga.edu/arcgis/rest/services/COD_External/UKR_pcode/FeatureServer.  
+Deepest administrative level with complete coverage:  ADM3.  
+Administrative level required by humanitarian community:  ADM2.  
+Note:  The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85].  
+Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85]. This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula.  
+Note:  Some administrative feature names were adjusted in a September/October 2024 administratrive feature renaming exercise.  See reference table at https://data.humdata.org/dataset/cod-ab-ukr.  
+Note:  The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only.  
+Note:  The population statistics common operational dataset (COD-PS-UKR) is only available via special request.  See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr).  Users should use the 'Request Data' button.  
+Note:  Limitations of the Ukrainian-to-Russian transliteration method mean that more than one Ukrainian name may be represented by a single Russian feature name.  
+Note:  Feature name attribute fields in this dataset incorrectly use 'UA' to represent the Ukrainian language.  The correct language code is 'UK'.  This will be resolved in 2026.  
+Note:  ADM0 is not affected by the September/October 2024 administrative feature renaming exercise.  
+Typical feature type:  oblast (region) with three exceptions.  
+P-code format:  UAnn.  
+COD-PS compatibility:  ADM0, ADM1, ADM2.  
+OCHA region:  Europe.  
+Feature count:  27.  
+The ADM1 layer can be linked by P-CODE to the ADM1 Population statistics.  
+Note:  Kyiv (city) [UA80] and Sevastopol [UA85] are each a 'city with special status' rather than an 'oblast'.  
+Note:  Crimea [UA01] is an 'autonomous republic' rather than an 'oblast'.  
+Note:  However, Ukraine Population Statistics are only available on special request.  
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
-
-Sourced from State Scientific Production Enterprise “Kartographia”
-
-Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Ukraine [COD-PS](https://data.humdata.org/dataset/cod-ps-ukr).
-
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-ukr).  
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 27 feature(s).  The normal administrative level 1 feature type is 'oblast (region) with three exceptions'.
-
-Administrative level 2 contains 139 feature(s).  The normal administrative level 2 feature type is 'raion (district) with three exceptions'.
-
-Administrative level 3 contains 1,769 feature(s).  The normal administrative level 3 feature type is 'hromada (community)'.
-
-Administrative level 4 contains 29,707 feature(s).  The normal administrative level 4 feature type is 'populated place, settlement, or village'.
-These administrative boundaries became out of date in:  2024
-
-Recommended cartographic projection:  WGS84 Web Mercator
-
-This metadata was last updated on January 31, 2025.",27,139,1769,29707
+ADMINISTRATIVE LEVEL 4 metadata:
+Typical feature type:  ADM4 features may be of 'city', 'settlement', or 'village' type.  However, all 'village' features are currently categorized in the 'ADM4_TYPE' as a 'settlement'.  This is expected to be resolved in 2026.  
+P-code format:  UAnnnnnnnnnn.  
+Feature count:  29707.  
+COD-PS compatibility:  no ADM4 population statistics are available.  
+COD-PS HDX URL:  https://data.humdata.org/dataset/cod-ps-ukr.  
+Note:  329 ADM4 features were affected by the September/October 2024 administrative feature renaming excercise.  
+Specific details are provided in the 'ADM4' tab of the 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table available on the HDX dataset [Ukraine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr).  
+Note:  The COD-AB ADM4 boundary attributes for this COD-AB have not been adjusted.  
+The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85].  
+Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85].  This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula.  ",27,139,1769,29707
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
