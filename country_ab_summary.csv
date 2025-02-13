@@ -746,17 +746,27 @@ Administrative level 4 contains 860 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 17, 2025.",17,72,175,860
-TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Chad,"Chad administrative level 0-3 boundaries (COD-AB) dataset.
+TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Field Information Services Section (FISS),"Chad administrative level 0-2 boundaries (COD-AB) dataset.
 
-These administrative boundaries were established in:  2012
+Boundaries established:    2023
 
-NOTE:  Information suggests that the Chad administrative structure may have changed or be in the process of changing.  Currently the humanitarian community continues to use the existing COD-AB structure, which was established in September 2012.
+NOTE:  USERS SHOULD BE ADVISED:  This (February 2025) update has NOT been and MAY NOT be reflected in the live geoservices provided by ITOS on behalf of the American People.   The February 2025 update reassigned ADM2 feature """"Abdi"""" now [TCD2102] from """"Ouaddai"""" province to """"Sila"""" province, and  """"Djourouf al Ahmarwas"""" now [now TCD1402] reassigned in the opposite direction.  NOTE also that the Chad P-code prefix will be updated from """"TD"""" to """"TCD"""" in accordance with the local Information Management Working Group preference.
 
-This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB requires improvements.
+Apparently substantial Administrative level 2 boundary alterations:
+""""Dagana' [TCD0501] in ADM1 feature """"Hadjer Lamis' and """"Wayi' [TCD0702] in ADM1 feature """"Lac"""".
+""""Bahr Koh"""" [TCD1301] in ADM1 feature """"Moyen Chari"""" and """"Loug Chari"""" in ADM1 feature """"Chari Baguirmi"""".
+""""Tandjile Centre"""" [TCD1603] and """"Tandjile Ouest"""" [TCD1602] in ADM1 feature """"Tandjilé"""".
+""""Barh-El-Gazel Ouest"""" [TCD1903] and """"Barh-El-Gazel Sud"""" [TCD1901] in ADM1 feature """"Barh-El-Gazel"""".
+""""Amdjarass"""" [TCD2001] and """"Wadi Hawar"""" [TCD2992] in ADM1 feature """"Ennedi Est"""" [TCD20].
+""""Mourtcha"""" [TCD2302] and 'Fada"""" [TCD2301] has changed substantially.
+""""Kobé"""" [TCD1703] and """"Megri"""" [TCD1704].
+
+
+This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB does not require any update.
 
 Sourced from Institut National de la Statistique, des Etudes Economiques et Démographiques du Tchad
 
-Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  USERS SHOULD BE AWARE that changes to COD-AB datasets on HDX since February 2025 will NOT be reflected in the live geoservices.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Chad [COD-PS](https://data.humdata.org/dataset/cod-ps-tcd).
 
@@ -764,15 +774,15 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 23 feature(s).  The normal administrative level 1 feature type is """"Province"""".
+Administrative level 1 contains 23 feature(s).  The normal administrative level 1 feature type is 'Province'.
 
-Administrative level 2 contains 70 feature(s).  The normal administrative level 2 feature type is """"Departement"""".
+Administrative level 2 contains 70 feature(s).  The normal administrative level 2 feature type is 'Departement'.
 
-Administrative level 3 contains 10 feature(s).  The normal administrative level 3 feature type is """"Sous Prefecture"""".
+Administrative level 3 contains 10 feature(s).  The normal administrative level 3 feature type is ''.
 
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",23,70,10,
+This metadata was last updated on February 13, 2025.",23,70,,
 CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Chile administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2018
