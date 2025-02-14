@@ -114,9 +114,10 @@ KHM,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,"Cambodia adm
 REFERENCE YEAR:  2024
 
 These CSV tables are suitable for database or GIS linkage to the [Cambodia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-khm) shapefiles using the ADM0 and ADM1_PCODE fields.",25,,,
-CMR,https://data.humdata.org/dataset/cod-ps-cmr,cod-standard,UNFPA,"Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2023 population statistics
+CMR,https://data.humdata.org/dataset/cod-ps-cmr,cod-standard,UNFPA,"Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2024 population statistics.
+This dataset also contains historical data for: 2023.
 
-REFERENCE YEAR 2023
+REFERENCE YEAR 2024
 
 These tables are suitable for database or GIS linkage to the [Cameroon - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cmr) and [Cameroon - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-cmr) layers using the ADM0, and ADM1_PCODE fields.",10,,,
 CPV,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,"Cabo Verde  administrative level 0-1 and island sex and age disaggregated 2021 projected population statistics
@@ -516,15 +517,15 @@ REFERENCE YEAR:  2020
 These are updated tables that are no longer compatible at administrative level 2 for database or GIS linkage to the [Nicaragua - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-nic) or [Nicaragua - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-nic).
 
 ",17,153,,
-NER,https://data.humdata.org/dataset/cod-ps-ner,cod-enhanced,UNFPA,"Niger administrative level 0-3 sex disaggregated 2023 population statistics
+NER,https://data.humdata.org/dataset/cod-ps-ner,cod-enhanced,UNFPA,"Niger administrative level 0-3 sex disaggregated 2024 population statistics
+This dataset also contains historical data for: 2022, 2023.
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 These CSV tables are suitable for database or GIS linkage to the [Niger - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ner) using the ADM0, ADM1, and ADM2_PCODE fields.
 
 NOTE  The COD-AB live geoservices will be updated to be compatible in January 2024.
-
-The 2022 reference year version is provided for reference.",8,67,266,
+",8,67,266,
 NGA,https://data.humdata.org/dataset/cod-ps-nga,cod-enhanced,UNFPA,"Nigeria administrative level 0-1 sex and age disaggregated 2022 population statistics projected from 2006 Census.
 
 REFERENCE YEAR:  2022
