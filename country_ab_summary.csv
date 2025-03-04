@@ -1093,12 +1093,13 @@ DOM,https://data.humdata.org/dataset/cod-ab-dom,cod-enhanced,OCHA Field Informat
 
 The date that these administrative boundaries were established is unknown.
 
-NOTE:  COD-PS extends only to ADM2
-This COD-AB has NOT been reviewed for accuracy and necessary changes in the last 12 months.
+NOTE:  This COD-AB was updated by OCHA FIS in March 2025 without the most complete quality control processes.  The live geoservices have not been similarly updated.  The accompanying COD-EM has not been similarly updated.  The COD-PS extends only to ADM2
 
-Sourced from Oficina Nacional de Estadística
+This COD-AB was most recently reviewed for accuracy and necessary changes in February 2025.  The COD-AB does not require any update.
 
-Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
+Sourced from OCHA Field Information Services Section (FISS)
+
+Live geoservices (provided by Information Technology Outreach Services (ITOS) with funding from USAID) are available for this COD-AB.  USERS SHOULD BE AWARE that changes to COD-AB datasets on HDX since February 2025 will NOT be reflected in the live geoservices.  Please see [COD_External](https://codgis.itos.uga.edu/arcgis/rest/services/COD_External).  (For any earlier versions please see [here](https://codgis.itos.uga.edu/arcgis/rest/services/V00_0), [here](https://codgis.itos.uga.edu/arcgis/rest/services/V1_00), and [here](https://codgis.itos.uga.edu/arcgis/rest/services/V2_00).)  Vetting, configuration, and geoservices provision by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Dominican Republic [COD-PS](https://data.humdata.org/dataset/cod-ps-dom).
 
@@ -1106,17 +1107,17 @@ An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https
 
 Please see the [COD Portal](https://cod.unocha.org/).
 
-Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
+Administrative level 1 contains 10 feature(s).  The normal administrative level 1 feature type is 'region'.
 
-Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
+Administrative level 2 contains 32 feature(s).  The normal administrative level 2 feature type is 'province or national district (distrito nacional)'.
 
-Administrative level 3 contains 155 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
+Administrative level 3 contains 158 feature(s).  The normal administrative level 3 feature type is 'municipio'.
 
-Administrative level 4 contains 386 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
+Administrative level 4 contains 383 feature(s).  The normal administrative level 4 feature type is 'dm(?)'.
 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
-This metadata was last updated on January 9, 2025.",10,32,155,386
+This metadata was last updated on March 04, 2025.",10,32,158,393
 ECU,https://data.humdata.org/dataset/cod-ab-ecu,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Ecuador administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2017
