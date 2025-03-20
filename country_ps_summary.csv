@@ -763,7 +763,7 @@ REFERENCE YEAR:  2011
 INTERIM version combining Tobago parishes into one municipality (P-code TT90) for compatibility with the COD-AB.
 
 These CSV tables are suitable for database or GIS linkage to the [Trinidad and Tobago administrative level 0-1 boundaries](https://data.humdata.org/dataset/cod-ab-tto) shapefiles.",15,,,
-TUN,https://data.humdata.org/dataset/cod-ps-tun,cod-enhanced,UNFPA,"Tunisia administrative level 0-2 sex and age disaggregated 2020 projected population statistics
+TUN,https://data.humdata.org/dataset/cod-ps-tun,cod-enhanced,UNFPA,"Tunisia administrative level 0-2 sex and age disaggregated 2020 projected population statistics.
 
 These tables are suitable for database or GIS linkage to the [Tunisia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-tun) administrative level 0-2 layers using the ADM0, ADM1, and ADM2_PCODE fields.
 
