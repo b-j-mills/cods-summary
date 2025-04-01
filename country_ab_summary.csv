@@ -2461,8 +2461,6 @@ MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-standard,OCHA Field Informat
 
 The date that these administrative boundaries were established is unknown.
 
-NOTE:  THIS COD-AB was specially developed from the various existing Myanmar Information Management Unit (MIMU) 'v9.4' HDX datasets that are understood to be the last or final MIMU versions expected.  These have been assembled into this COD-AB dataset without corrections to existing errors.  Existing errors are documented in the 'MMR COD-AB ITOS error documentation.pdf' document ncluded with this dataset.  Administrative level 5 covers urban areas only, and is not represented in the 'mmr_polbndl_adm01234_250k_mimu_itos_20240215' lines layer.
-
 This COD-AB was most recently reviewed for accuracy and necessary changes in March 2024.  The COD-AB requires improvements.
 
 Sourced from Myanmar Information Management Unit (MIMU)
