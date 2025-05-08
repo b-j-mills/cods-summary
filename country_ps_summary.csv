@@ -672,13 +672,13 @@ REFERENCE YEAR:  2023
 Suitable for GIS or database linkage to the [Solomon Islands - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-slb) Common Operational Dataset using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",10,50,183,
 SOM,https://data.humdata.org/dataset/cod-ps-som,cod-standard,OCHA Somalia,"The United Nations Population Fund (UNFPA) partnered with donors and UN agencies and took up the lead role to support the Somali authorities in undertaking the Population Estimation Survey (PESS) for Somalia in October 2013- March 2014.
 
-REFERENCE YEAR:  2014
-
 UNFPA investigated replacement or projection of this dataset in 2021.  Only ADM0 (national) data was available.  No better alternative is currently available.
 
 PESS gathered basic critical information on the Somalis living in urban, rural and nomadic areas (interviewed at water points during the peak of the long, dry season), and in settlements for internally displaced persons. One standard questionnaire was used in selected enumeration areas or pre-identified areas. Data was collected in three main phases: cartographic field mapping, household listing in the sampled areas, and the interviewing of households using the standard questionnaire.
 
 PESS report by UNFPA had only the population estimate at regional level (Admin level 1). With the demand to get this data disaggregated to district level to enhance assessment and in particular assessments of people in food insecure by FAO-FSNAU, the district data was interpolated using FSNAU livelihood information embedded in the 2005 UNDP district level population data
+
+The data collected in 2024 has now been endorsed for use.
 ",18,74,,
 ZAF,https://data.humdata.org/dataset/cod-ps-zaf,cod-enhanced,UNFPA,"South Africa administrative levels 0 (country), 1 (province), 2 (district), and 3 (local municipality) population statistics.
 
