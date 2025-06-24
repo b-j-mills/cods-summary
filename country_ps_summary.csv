@@ -175,7 +175,7 @@ CRI,https://data.humdata.org/dataset/cod-ps-cri,cod-enhanced,UNFPA,"Costa Rica a
 These tables are suitable for database or GIS linkage to the [Costa Rica - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cri) layers.",7,81,478,
 CIV,https://data.humdata.org/dataset/cod-ps-civ,cod-standard,OCHA West and Central Africa (ROWCA),"Côte d'Ivoire administrative level 0 (country), 1 (district / autonomous city), 2 (region), and 3 (department) 2019 projected population statistics
 
-These tables are suitable for database or GIS linkage to the [Côte d'Ivoire administrative level 0-3 boundary polygons, lines, and points shapefiles, geodatbase, KMZ files, and live services, and gazetteer](https://data.humdata.org/dataset/cod-ab-civ) boundaries.",33,108,510,
+These tables are suitable for database or GIS linkage to the [Côte d'Ivoire administrative level 0-3 boundary polygons, lines, and points shapefiles, geodatabase, KMZ files, and gazetteer](https://data.humdata.org/dataset/cod-ab-civ) boundaries.",33,108,510,
 CUB,https://data.humdata.org/dataset/cod-ps-cub,cod-enhanced,UNFPA,"Cuba administrative level 0-1 sex and age disaggregated 2024 projected population statistics
 
 REFERENCE YEAR:  2024
