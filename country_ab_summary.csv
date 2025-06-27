@@ -953,7 +953,7 @@ Administrative level 2 contains 189 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 18, 2025.",26,189,,
-CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-standard,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset.
+CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-enhanced,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2022
 
@@ -3055,8 +3055,7 @@ Administrative level 2 contains 13 feature(s).  The normal administrative level 
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",6,13,,
-STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"
-Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset.
+STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
 
@@ -3551,7 +3550,7 @@ Administrative level 3 contains 373 feature(s).  The normal administrative level
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",5,40,373,
-TON,https://data.humdata.org/dataset/cod-ab-ton,cod-standard,OCHA Office of the Pacific Islands,"Tonga administrative level 0-3 boundaries (COD-AB) dataset.
+TON,https://data.humdata.org/dataset/cod-ab-ton,cod-enhanced,OCHA Office of the Pacific Islands,"Tonga administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2021
 
@@ -3628,7 +3627,7 @@ Administrative level 4 contains 2,084 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",6,24,264,2084
-TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-standard,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-2 boundaries (COD-AB) dataset.
+TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-enhanced,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-2 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2024
 
