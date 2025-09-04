@@ -1,15 +1,11 @@
 ISO,COD-AB URL,COD-AB level,COD-AB contributor,COD-AB description,COD-AB ADM1 units,COD-AB ADM2 units,COD-AB ADM3 units,COD-AB ADM4 units
 AFG,https://data.humdata.org/dataset/cod-ab-afg,cod-enhanced,OCHA Field Information Services Section (FISS),"Afghanistan administrative level 0-2 boundaries (COD-AB) dataset.
 
-These administrative boundaries were established in:  2019
-
-NOTE:  Only the gazetteer the the P-code geoservices are generally available. Humanitarian responders who want the administrative boundary files should click 'Contact the contributor' button (below) and include:  A) the following declaration: """"I agree not to share the data with any third party or publish it online without prior permission from AGCHO. As per the agreement, the datasets are for humanitarian use only.""""; B) name; C) organization or cluster; D) email address.  The user will then receive a link to the boundary files, which may only be used according to the above restriction.
+These administrative boundaries were established in: 2019
 
 This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
 
 Sourced from Afghanistan Geodesy and Cartography Head Office (AGCHO)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
 
 This COD-AB is suitable for database or GIS linkage to the Afghanistan [COD-PS](https://data.humdata.org/dataset/cod-ps-afg).
 
