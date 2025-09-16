@@ -491,15 +491,10 @@ MOZ,https://data.humdata.org/dataset/cod-ps-moz,cod-enhanced,UNFPA,"Mozambique a
 REFERENCE YEAR:  2023
 
 These tables are suitable for database or GIS linkage to the [Mozambique - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-moz) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.",11,159,,
-MMR,https://data.humdata.org/dataset/cod-ps-mmr,cod-enhanced,UNFPA,"Myanmar subnational projected population statistics at administrative level 0-3, sex and age disaggregated for 2023. This dataset also contains historical data for: 2022. 
-
-REFERENCE YEAR:  2023
-
-These population statistics are suitable for database or GIS linkage to the [Myanmar - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-mmr) or the [Myanamar - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-mmr) administrative level 0-3 layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.
-
-The COD-AB and COD-EM layers manages both 15-feature and 18-feature administrative level 1.  These COD-PS tables conform to the 18-feature system.
-
-See caveats for further information.",18,80,330,
+MMR,https://data.humdata.org/dataset/cod-ps-mmr,,OCHA Regional Office for Asia and the Pacific (ROAP),"Myanmar subnational projected population statistics at administrative level 0-3, gender and age disaggregated.
+Baseline Population Year	2014;
+COD-PS Reference Year	2025
+",,,,
 NAM,https://data.humdata.org/dataset/cod-ps-nam,cod-enhanced,UNFPA,"Namibia administrative level 0-2 sex and age disaggregated 2023 population statistic projections
 
 REFERENCE YEAR:  2023
