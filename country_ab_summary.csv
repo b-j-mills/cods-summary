@@ -1,25 +1,19 @@
 ISO,COD-AB URL,COD-AB level,COD-AB contributor,COD-AB description,COD-AB ADM1 units,COD-AB ADM2 units,COD-AB ADM3 units,COD-AB ADM4 units
-AFG,https://data.humdata.org/dataset/cod-ab-afg,cod-enhanced,OCHA Field Information Services Section (FISS),"Afghanistan administrative level 0-2 boundaries (COD-AB) dataset.
-
-These administrative boundaries were established in: 2019
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in July 2024.  The COD-AB does not require any update.
-
-Sourced from Afghanistan Geodesy and Cartography Head Office (AGCHO)
-
-This COD-AB is suitable for database or GIS linkage to the Afghanistan [COD-PS](https://data.humdata.org/dataset/cod-ps-afg).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is 'Province'.
-
-Administrative level 2 contains 401 feature(s).  The normal administrative level 2 feature type is 'District'.
-
-Recommended cartographic projection:  Asia
-
-This metadata was last updated on January 17, 2025.",34,401,,
+AFG,https://data.humdata.org/dataset/cod-ab-afg,cod-enhanced,OCHA Field Information Services Section (FISS),"Afghanistan administrative level 0-2 boundaries (COD-AB) dataset.  
+  
+This dataset is structured into 2 levels:  
+- Admin 1: 34 Provinces  
+- Admin 2: 401 Districts  
+  
+  
+Dates associated with this dataset:  
+- 22 October 2019: boundaries created by the source  
+- 22 October 2019: last edit to the dataset before publishing  
+- 17 November 2021: valid for use by the humanitarian community  
+- 30 July 2024: dataset reviewed for accuracy and completeness  
+- 22 October 2025: this metadata updated  
+  
+Quality assured, configured, and published by HDX and OCHA Field Information Services Section (FISS).",34,401,,
 ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Information Services Section (FISS),"Albania administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2015
@@ -3857,29 +3851,20 @@ Administrative level 3 contains 1,134 feature(s).  The normal administrative lev
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",25,335,1134,
-VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Viet Nam administrative level 0-2 boundaries (COD-AB) dataset.
-
-These administrative boundaries were established in:  2023
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
-
-Sourced from Government of Viet Nam
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Viet Nam [COD-PS](https://data.humdata.org/dataset/cod-ps-vnm).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 63 feature(s).  The normal administrative level 1 feature type is """"Province"""".
-
-Administrative level 2 contains 708 feature(s).  The normal administrative level 2 feature type is """"District"""".
-
-Recommended cartographic projection:  Asia South Albers Equal Area Conic
-
-This metadata was last updated on January 13, 2025.",63,708,,
+VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Viet Nam administrative level 0-1 boundaries (COD-AB) dataset.  
+  
+This dataset is structured into 1 level:  
+- Admin 1: 34 Provinces  
+  
+  
+Dates associated with this dataset:  
+- 01 July 2025: boundaries created by the source  
+- 25 September 2025: last edit to the dataset before publishing  
+- 25 September 2025: valid for use by the humanitarian community  
+- 25 September 2025: dataset reviewed for accuracy and completeness  
+- 25 September 2025: this metadata updated  
+  
+Quality assured, configured, and published by HDX and OCHA Field Information Services Section (FISS).",34,,,
 VGB,https://data.humdata.org/dataset/cod-ab-vgb,cod-standard,OCHA Field Information Services Section (FISS),"British Virgin Islands administrative level 0-1 boundaries (COD-AB) dataset.
 
 The date that these administrative boundaries were established is unknown.
