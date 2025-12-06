@@ -3131,35 +3131,23 @@ Administrative level 4 contains 4,392 feature(s).  The normal administrative lev
 Recommended cartographic projection:  Africa Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.",9,52,213,4392
-LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Sri Lanka administrative level 0-4 boundaries (COD-AB) dataset.
-
-These administrative boundaries were established in:  2022
-
-NOTE:  COD-AB contains one lake polygon which is not represented int the COD-PS.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
-
-Sourced from Survey Department of Sri Lanka (http://www.survey.gov.lk)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Sri Lanka [COD-PS](https://data.humdata.org/dataset/cod-ps-lka).
-
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
-
-Administrative level 2 contains 25 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
-
-Administrative level 3 contains 339 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
-
-Administrative level 4 contains 14,043 feature(s).  The normal administrative level 4 feature type is """"currently not known"""".
-
-Recommended cartographic projection:  Asia South Albers Equal Area Conic
-
-This metadata was last updated on January 13, 2025.",9,25,339,14043
+LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Sri Lanka administrative level 0-4 boundaries (COD-AB) dataset version 03.  
+  
+This dataset is structured into 4 levels:  
+- Admin 1: 9   
+- Admin 2: 25   
+- Admin 3: 339   
+- Admin 4: 14043   
+  
+  
+Dates associated with this dataset:  
+- 02 August 2022: boundaries created by the source  
+- 02 August 2022: last edit to the dataset before publishing  
+- 16 August 2022: valid for use by the humanitarian community  
+- 31 October 2024: dataset reviewed for accuracy and completeness  
+- 22 October 2025: this metadata updated  
+  
+Quality assured, configured, and published by HDX and OCHA Field Information Services (FIS).",9,25,339,14043
 SSD,https://data.humdata.org/dataset/cod-ab-ssd,cod-enhanced,OCHA South Sudan,"South Sudan administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2020
