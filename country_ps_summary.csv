@@ -686,7 +686,7 @@ LKA,https://data.humdata.org/dataset/cod-ps-lka,cod-enhanced,UNFPA,"Sri Lanka ad
 REFERENCE YEAR:  2023
 
 These tables are suitable for database or GIS linkage to the [Sri Lanka - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-lka) using the ADM0, ADM1, and ADM2_PCODE fields.",9,25,,
-SSD,https://data.humdata.org/dataset/cod-ps-ssd,cod-standard,OCHA South Sudan,"South Sudan administrative level 0-2 2023 population estimates.
+SSD,https://data.humdata.org/dataset/cod-ps-ssd,cod-standard,UNFPA,"South Sudan administrative level 0-2 2023 population estimates.
 
 SEE CAVEATS
 
@@ -699,8 +699,12 @@ Dataset updated by OCHA 2020.
 
 This population statistics Common Operational Database (COD-PS) was endorsed the Government and South Sudan National Bureau of Statistics in November 2020.
 
+
+Sudan administrative level 0-2 sex and age disaggregated 2025 projected population statistics.
+
+
 These tables are suitable for database or GIS link to the [South Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ssd).
-",10,78,,
+",18,188,,
 SDN,https://data.humdata.org/dataset/cod-ps-sdn,cod-enhanced,UNFPA,"Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics
 
 These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sdn) layers using the ADM0 and ADM1_PCODE fields.  (See Caveats about the  Abyei region.)",18,188,,
