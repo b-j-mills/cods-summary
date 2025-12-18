@@ -1,11 +1,11 @@
 ISO,COD-PS URL,COD-PS level,COD-PS contributor,COD-PS description,COD-PS ADM1 units,COD-PS ADM2 units,COD-PS ADM3 units,COD-PS ADM4 units
-AFG,https://data.humdata.org/dataset/cod-ps-afg,cod-standard,OCHA Afghanistan,"Afghanistan administrative levels 0 (country), and 1 (province) population statistics.
+AFG,https://data.humdata.org/dataset/cod-ps-afg,cod-standard,OCHA Afghanistan,"Afghanistan administrative levels 0 (country), 1 (province) and 2 (district) population statistics.
 
 REFERENCE YEAR: 2021 estimates based on 2017 study conducted by Flowminder/UNFPA.
 
-Dataset updated by OCHA in 2021.
+Dataset updated by OCHA in 2025.
 
-The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)",34,,,
+The gazetteer is compatible with the Afghanistan - Subnational Administrative Boundaries gazetteer. (COD-AB boundaries are unavailable.)",34,401,,
 ALB,https://data.humdata.org/dataset/cod-ps-alb,cod-enhanced,UNFPA,"Albania administrative level 0-1 2021 sex and age disaggregated population statistics.
 
 These tables are suitable for database or GIS linkage using P-codes to the [Albania - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-alb) administrative level 0-1 layers.",12,,,
