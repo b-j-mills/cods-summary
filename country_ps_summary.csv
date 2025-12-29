@@ -705,9 +705,13 @@ Sudan administrative level 0-2 sex and age disaggregated 2025 projected populati
 
 These tables are suitable for database or GIS link to the [South Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ssd).
 ",10,78,,
-SDN,https://data.humdata.org/dataset/cod-ps-sdn,cod-enhanced,UNFPA,"Sudan administrative level 0-2 sex and age disaggregated 2024 projected population statistics
+SDN,https://data.humdata.org/dataset/cod-ps-sdn,cod-enhanced,UNFPA,"Sudan population statistics disaggregated by administrative levels (0-2), sex and age, projected for the year 2025. The dataset also includes historical data.
 
-These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-sdn) layers using the ADM0 and ADM1_PCODE fields.  (See Caveats about the  Abyei region.)",18,188,,
+The data is split into multiple files: one excel for all administrative levels, individual csv for individual administrative levels, and explanatory notes as .pdf. 
+
+These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-sdn) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.
+
+Reference year: 2025",18,188,,
 SUR,https://data.humdata.org/dataset/cod-ps-sur,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Suriname administrative level 0 (country), 1 (district), and 2 (resort) integrated sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2012
