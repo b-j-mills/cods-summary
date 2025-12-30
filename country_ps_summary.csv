@@ -114,12 +114,11 @@ KHM,https://data.humdata.org/dataset/cod-ps-khm,cod-enhanced,UNFPA,"Cambodia adm
 REFERENCE YEAR:  2024
 
 These CSV tables are suitable for database or GIS linkage to the [Cambodia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-khm) shapefiles using the ADM0 and ADM1_PCODE fields.",25,,,
-CMR,https://data.humdata.org/dataset/cod-ps-cmr,cod-enhanced,UNFPA,"Cameroon administrative level 0-1 and major metropolises sex and age disaggregated projected 2024 population statistics.
-This dataset also contains historical data for: 2023.
+CMR,https://data.humdata.org/dataset/cod-ps-cmr,cod-enhanced,UNFPA,"Cameroon population statistics disaggregated by administrative levels (0-2), sex and age, projected for the year 2025. The dataset also includes historical data.
 
-REFERENCE YEAR 2024
+REFERENCE YEAR 2025
 
-These tables are suitable for database or GIS linkage to the [Cameroon - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cmr) and [Cameroon - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-cmr) layers using the ADM0, and ADM1_PCODE fields.",10,,,
+These tables are suitable for database or GIS linkage to the [Cameroon - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-cmr) and [Cameroon - Subnational Edge-matched Administrative Boundaries](https://data.humdata.org/dataset/cod-em-cmr) layers using the ADM0, and ADM1_PCODE fields.",10,2,,
 CPV,https://data.humdata.org/dataset/cod-ps-cpv,cod-enhanced,UNFPA,"Cabo Verde  administrative level 0-1 and island sex and age disaggregated 2021 projected population statistics
 
 UPDATED 24 January 2023 to correctly assign ADM1 feature ""São Salvador do Mundo"" [CV19] to island ""Santiago"" [CV6].
@@ -154,9 +153,11 @@ CHL,https://data.humdata.org/dataset/cod-ps-chl,cod-enhanced,UNFPA,"Chile admini
 REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Chile - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-chl) layers using the ADM0, ADM1, ADM2, and ADM3_PCODE fields.",16,56,346,
-COL,https://data.humdata.org/dataset/cod-ps-col,cod-enhanced,UNFPA,"Colombia administrative level 0-2 projected 2024 sex and age disaggregated population statistics
+COL,https://data.humdata.org/dataset/cod-ps-col,cod-enhanced,UNFPA,"Colombia population statistics disaggregated by administrative levels (0-2), sex and age, projected for the year 2025 (reference year). The dataset also includes historical data.
 
-REFERENCE YEAR:  2024
+The data is split into multiple files: one excel for all administrative levels, individual csv for individual administrative levels, and explanatory notes as .pdf. 
+
+REFERENCE YEAR:  2025
 
 These tables are suitable for database or GIS linkage to the [Colombia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-col) layers using the ADM0, ADM1, and ADM2_PCODE fields.",33,1122,,
 COM,https://data.humdata.org/dataset/cod-ps-com,cod-enhanced,UNFPA,"Comoros administrative level 0-1 sex and age disaggregated 2017 population statistics
@@ -709,9 +710,9 @@ SDN,https://data.humdata.org/dataset/cod-ps-sdn,cod-enhanced,UNFPA,"Sudan popula
 
 The data is split into multiple files: one excel for all administrative levels, individual csv for individual administrative levels, and explanatory notes as .pdf. 
 
-These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-sdn) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.
+Reference year: 2025
 
-Reference year: 2025",18,188,,
+These tables are suitable for database or GIS linkage to the [Sudan - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-sdn) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.",18,188,,
 SUR,https://data.humdata.org/dataset/cod-ps-sur,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Suriname administrative level 0 (country), 1 (district), and 2 (resort) integrated sex and age disaggregated population statistics
 
 REFERENCE YEAR:  2012

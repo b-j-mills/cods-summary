@@ -747,31 +747,24 @@ Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/o
 Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",12,89,,
-COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Democratic Republic of the Congo (DRC),"Democratic Republic of the Congo administrative level 0-2 boundaries (COD-AB) dataset.
-
-The date that these administrative boundaries were established is unknown.
-
-NOTE:  See COD-AB caveats.  COD-PS Sex and age disaggregation only from ADM1 ratios and shold be viewed as unreliable.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in December 2024.  The COD-AB requires improvements.
-
-Sourced from Referenciel Géographique Commun
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Democratic Republic of the Congo [COD-PS](https://data.humdata.org/dataset/cod-ps-cod).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 26 feature(s).  The normal administrative level 1 feature type is ' Province'.
-
-Administrative level 2 contains 189 feature(s).  The normal administrative level 2 feature type is 'Territory / Territorie'.
-
-Recommended cartographic projection:  Africa Albers Equal Area Conic
-
-This metadata was last updated on January 18, 2025.",26,189,,
+COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Field Information Services Section (FISS),"Democratic Republic of the Congo administrative level 0-3 boundaries (COD-AB) dataset version 01.  
+  
+This dataset is structured into 3 levels:  
+- Admin 1: 26  Province  
+- Admin 2: 189 Territory / Territorie  
+- Admin 3: 519 Health zone / Zone de santé, partial coverage  
+  
+  
+Dates associated with this dataset:  
+- 20 December 2024: dataset reviewed for accuracy and completeness  
+- 11 September 2019: valid for use by the humanitarian community  
+- 12 September 2019: last edit to the dataset before publishing  
+- 12 September 2019: boundaries created by the source  
+  
+Contributed by [OCHA Democratic Republic of the Congo (DRC)](https://data.humdata.org/organization/ocha-dr-congo).  
+Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",26,189,519,
 CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-enhanced,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
@@ -2982,25 +2975,31 @@ Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](ht
 Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,135,208,1520
-UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset version 04.  
+UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset version 05.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 27 oblast (region) with three exceptions  
-- Admin 2: 139 raion (district) with three exceptions  
-- Admin 3: 1769 hromada (community)  
-- Admin 4: 29707 populated place, settlement, or village, partial coverage  
+- Admin 1: 27 Oblast (Region)  
+- Admin 2: 139 Raion (District)  
+- Admin 3: 1769 Hromada (Community)  
+- Admin 4: 29706 Settlement, partial coverage  
+  
+  
+Note: This dataset is structured into 4 levels:
+- Admin 1: 27 oblast (region) with three exceptions
+- Admin 2: 139 raion (district) with three exceptions
+- Admin 3: 1769 hromada (community) with three exceptions
+- Admin 4: 29706 populated place (city, settlement or village), partial coverage  
   
   
 Dates associated with this dataset:  
-- 21 January 2025: dataset reviewed for accuracy and completeness  
-- 16 April 2024: valid for use by the humanitarian community  
-- 01 January 2024: last edit to the dataset before publishing  
-- 01 January 2024: boundaries created by the source  
+- 18 December 2025: dataset reviewed for accuracy and completeness  
+- 01 September 2025: valid for use by the humanitarian community  
+- 01 September 2025: last edit to the dataset before publishing  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
+Contributed by [OCHA Ukraine](https://data.humdata.org/organization/ocha-ukraine).  
 Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",27,139,1769,29707
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",27,139,1769,29706
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
