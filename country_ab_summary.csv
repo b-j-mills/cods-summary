@@ -12,8 +12,7 @@ Dates associated with this dataset:
 - 22 October 2019: last edit to the dataset before publishing  
 - 22 October 2019: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",34,401,,
 ALB,https://data.humdata.org/dataset/cod-ab-alb,cod-standard,OCHA Field Information Services Section (FISS),"Albania administrative level 0-3 boundaries (COD-AB) dataset.
@@ -48,8 +47,8 @@ This metadata was last updated on January 17, 2025.",12,61,374,
 DZA,https://data.humdata.org/dataset/cod-ab-dza,cod-enhanced,OCHA Field Information Services Section (FISS),"Algeria administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 48   
-- Admin 2: 1541   
+- Admin 1: 48 nan  
+- Admin 2: 1541 nan  
   
   
 Dates associated with this dataset:  
@@ -59,7 +58,7 @@ Dates associated with this dataset:
 - 28 April 2020: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",48,1541,,
 AGO,https://data.humdata.org/dataset/cod-ab-ago,cod-enhanced,OCHA Field Information Services Section (FISS),"Angola administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -67,7 +66,7 @@ AGO,https://data.humdata.org/dataset/cod-ab-ago,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 18 Province  
 - Admin 2: 161 Municipality  
-- Admin 3: 539   
+- Admin 3: 539 nan  
   
   
 Dates associated with this dataset:  
@@ -77,7 +76,7 @@ Dates associated with this dataset:
 - 30 August 2018: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,161,539,
 AIA,https://data.humdata.org/dataset/cod-ab-aia,cod-standard,OCHA Field Information Services Section (FISS),"Anguilla administrative level 0 boundaries (COD-AB) dataset.
@@ -157,8 +156,7 @@ Dates associated with this dataset:
 - 01 October 2014: last edit to the dataset before publishing  
 - 01 October 2014: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,39,,
 ABW,https://data.humdata.org/dataset/cod-ab-abw,cod-standard,OCHA Field Information Services Section (FISS),"Aruba administrative level 0 boundaries (COD-AB) dataset.
@@ -185,7 +183,7 @@ This metadata was last updated on January 17, 2025.",,,,
 AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 74   
+- Admin 1: 74 nan  
   
   
 Dates associated with this dataset:  
@@ -194,8 +192,7 @@ Dates associated with this dataset:
 - 24 November 2020: last edit to the dataset before publishing  
 - 24 November 2020: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",74,,,
 BHS,https://data.humdata.org/dataset/cod-ab-bhs,cod-standard,OCHA Field Information Services Section (FISS),"Bahamas administrative level 0-1 boundaries (COD-AB) dataset.
@@ -256,7 +253,7 @@ Dates associated with this dataset:
 - 01 January 2010: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,64,507,
 BRB,https://data.humdata.org/dataset/cod-ab-brb,cod-standard,OCHA Field Information Services Section (FISS),"Barbados administrative level 0-1 boundaries (COD-AB) dataset.
@@ -284,8 +281,8 @@ This metadata was last updated on January 17, 2025.",11,,,
 BLR,https://data.humdata.org/dataset/cod-ab-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"Belarus administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 7   
-- Admin 2: 119   
+- Admin 1: 7 nan  
+- Admin 2: 119 nan  
   
   
 Dates associated with this dataset:  
@@ -294,14 +291,13 @@ Dates associated with this dataset:
 - 30 July 2019: last edit to the dataset before publishing  
 - 30 July 2019: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,119,,
 BLZ,https://data.humdata.org/dataset/cod-ab-blz,cod-enhanced,OCHA Field Information Services Section (FISS),"Belize administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6   
+- Admin 1: 6 nan  
   
   
 Dates associated with this dataset:  
@@ -310,15 +306,14 @@ Dates associated with this dataset:
 - 08 September 2017: last edit to the dataset before publishing  
 - 08 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,,,
 BEN,https://data.humdata.org/dataset/cod-ab-ben,cod-enhanced,OCHA Field Information Services Section (FISS),"Benin administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 12   
-- Admin 2: 77   
+- Admin 1: 12 nan  
+- Admin 2: 77 nan  
   
   
 Dates associated with this dataset:  
@@ -328,7 +323,7 @@ Dates associated with this dataset:
 - 07 August 2015: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",12,77,,
 BMU,https://data.humdata.org/dataset/cod-ab-bmu,cod-standard,OCHA Field Information Services Section (FISS),"Bermuda administrative level 0-2 boundaries (COD-AB) dataset.
@@ -358,8 +353,8 @@ This metadata was last updated on January 17, 2025.",9,9,,
 BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Field Information Services Section (FISS),"Bhutan administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 20   
-- Admin 2: 205   
+- Admin 1: 20 nan  
+- Admin 2: 205 nan  
   
   
 Dates associated with this dataset:  
@@ -369,15 +364,15 @@ Dates associated with this dataset:
 - 01 January 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",20,205,,
 BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Field Information Services Section (FISS),"Bolivia (Plurinational State of) administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 9   
-- Admin 2: 112   
-- Admin 3: 339   
+- Admin 1: 9 nan  
+- Admin 2: 112 nan  
+- Admin 3: 339 nan  
   
   
 Dates associated with this dataset:  
@@ -386,8 +381,7 @@ Dates associated with this dataset:
 - 01 January 2013: last edit to the dataset before publishing  
 - 01 January 2013: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,112,339,
 BES,https://data.humdata.org/dataset/cod-ab-bes,cod-standard,OCHA Field Information Services Section (FISS),"Bonaire, Sint Eustatius and Saba administrative level 0-1 boundaries (COD-AB) dataset.
@@ -474,8 +468,7 @@ Dates associated with this dataset:
 - 18 October 2022: last edit to the dataset before publishing  
 - 18 October 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",28,265,,
 BFA,https://data.humdata.org/dataset/cod-ab-bfa,cod-enhanced,OCHA Field Information Services Section (FISS),"Burkina Faso administrative level 0-3 boundaries (COD-AB) dataset version 03.  
@@ -492,7 +485,7 @@ Dates associated with this dataset:
 - 23 March 2020: boundaries created by the source  
   
 Contributed by [OCHA Burkina Faso](https://data.humdata.org/organization/ocha-burkina).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",17,47,351,
 BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),"Burundi administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -508,16 +501,15 @@ Dates associated with this dataset:
 - 26 March 2015: last edit to the dataset before publishing  
 - 26 March 2015: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,119,,
 KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Field Information Services Section (FISS),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 25   
-- Admin 2: 197   
-- Admin 3: 1633   
+- Admin 1: 25 nan  
+- Admin 2: 197 nan  
+- Admin 3: 1633 nan  
   
   
 Dates associated with this dataset:  
@@ -527,7 +519,7 @@ Dates associated with this dataset:
 - 01 January 2018: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",25,197,1633,
 CMR,https://data.humdata.org/dataset/cod-ab-cmr,cod-enhanced,OCHA Field Information Services Section (FISS),"Cameroon administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -545,14 +537,14 @@ Dates associated with this dataset:
 - 22 August 1987: boundaries created by the source  
   
 Contributed by [OCHA Cameroon](https://data.humdata.org/organization/ocha-cameroon).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,58,360,
 CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-enhanced,OCHA Field Information Services Section (FISS),"Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 22   
-- Admin 2: 32   
+- Admin 1: 22 nan  
+- Admin 2: 32 nan  
   
   
 Dates associated with this dataset:  
@@ -562,7 +554,7 @@ Dates associated with this dataset:
 - 27 December 2017: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,32,,
 CYM,https://data.humdata.org/dataset/cod-ab-cym,cod-standard,OCHA Field Information Services Section (FISS),"Cayman Islands administrative level 0-1 boundaries (COD-AB) dataset.
@@ -601,7 +593,7 @@ Dates associated with this dataset:
 - 31 December 2020: boundaries created by the source  
   
 Contributed by [OCHA Central African Republic](https://data.humdata.org/organization/ocha-car).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",17,72,175,202
 TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Field Information Services Section (FISS),"Chad administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -617,16 +609,15 @@ Dates associated with this dataset:
 - 04 September 2012: last edit to the dataset before publishing  
 - 04 September 2012: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",23,70,,
 CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Field Information Services Section (FISS),"Chile administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 16   
-- Admin 2: 56   
-- Admin 3: 345   
+- Admin 1: 16 nan  
+- Admin 2: 56 nan  
+- Admin 3: 345 nan  
   
   
 Dates associated with this dataset:  
@@ -636,7 +627,7 @@ Dates associated with this dataset:
 - 05 September 2018: boundaries created by the source  
   
 Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,56,345,
 CHN,https://data.humdata.org/dataset/cod-ab-chn,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"China administrative level 0-2 boundaries (COD-AB) dataset.
@@ -715,19 +706,18 @@ This metadata was last updated on January 18, 2025.",33,1122,,
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Field Information Services Section (FISS),"Comoros administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 3   
-- Admin 2: 17   
-- Admin 3: 55   
+- Admin 1: 3 nan  
+- Admin 2: 17 nan  
+- Admin 3: 55 nan  
   
   
 Dates associated with this dataset:  
 - 28 January 2025: dataset reviewed for accuracy and completeness  
 - 05 December 2019: valid for use by the humanitarian community  
-- 28 December 2018: last edit to the dataset before publishing  
-- 28 December 2018: boundaries created by the source  
+- 05 December 2019: last edit to the dataset before publishing  
+- 05 December 2019: boundaries created by the source  
   
-Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",3,17,55,
 COG,https://data.humdata.org/dataset/cod-ab-cog,cod-enhanced,OCHA Field Information Services Section (FISS),"Congo administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -744,7 +734,7 @@ Dates associated with this dataset:
 - 06 July 2017: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",12,89,,
 COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Field Information Services Section (FISS),"Democratic Republic of the Congo administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -762,15 +752,15 @@ Dates associated with this dataset:
 - 12 September 2019: boundaries created by the source  
   
 Contributed by [OCHA Democratic Republic of the Congo (DRC)](https://data.humdata.org/organization/ocha-dr-congo).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",26,189,519,
 CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-enhanced,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 7   
-- Admin 2: 84   
-- Admin 3: 492   
+- Admin 1: 7 nan  
+- Admin 2: 84 nan  
+- Admin 3: 492 nan  
   
   
 Dates associated with this dataset:  
@@ -779,8 +769,7 @@ Dates associated with this dataset:
 - 21 June 2022: last edit to the dataset before publishing  
 - 21 June 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,84,492,
 CIV,https://data.humdata.org/dataset/cod-ab-civ,cod-enhanced,OCHA Field Information Services Section (FISS),"Côte d'Ivoire administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -798,7 +787,7 @@ Dates associated with this dataset:
 - 06 August 2018: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",33,108,510,
 CUB,https://data.humdata.org/dataset/cod-ab-cub,cod-enhanced,OCHA Field Information Services Section (FISS),"Cuba administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -808,14 +797,16 @@ This dataset is structured into 2 levels:
 - Admin 2: 168 municipio  
   
   
+Note: nan  
+  
+  
 Dates associated with this dataset:  
 - 21 June 2019: dataset reviewed for accuracy and completeness  
 - 21 June 2019: valid for use by the humanitarian community  
 - 21 June 2019: last edit to the dataset before publishing  
 - 07 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,168,,
 CUW,https://data.humdata.org/dataset/cod-ab-cuw,cod-standard,OCHA Field Information Services Section (FISS),"Curaçao administrative level 0-1 boundaries (COD-AB) dataset.
@@ -895,8 +886,7 @@ Dates associated with this dataset:
 - 06 September 2017: last edit to the dataset before publishing  
 - 06 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,32,155,386
 ECU,https://data.humdata.org/dataset/cod-ab-ecu,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Ecuador administrative level 0-3 boundaries (COD-AB) dataset.
@@ -931,7 +921,7 @@ EGY,https://data.humdata.org/dataset/cod-ab-egy,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 27 Governorate  
 - Admin 2: 365 Region  
-- Admin 3: 5716 , partial coverage  
+- Admin 3: 5716 nan, partial coverage  
   
   
 Dates associated with this dataset:  
@@ -941,7 +931,7 @@ Dates associated with this dataset:
 - 14 August 2017: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",27,365,5716,
 SLV,https://data.humdata.org/dataset/cod-ab-slv,cod-enhanced,OCHA Field Information Services Section (FISS),"El Salvador administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -958,15 +948,14 @@ Dates associated with this dataset:
 - 29 May 2020: last edit to the dataset before publishing  
 - 29 May 2020: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",14,48,266,
 GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA Field Information Services Section (FISS),"Equatorial Guinea administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 7   
-- Admin 2: 32   
+- Admin 1: 7 nan  
+- Admin 2: 32 nan  
   
   
 Dates associated with this dataset:  
@@ -976,7 +965,7 @@ Dates associated with this dataset:
 - 27 July 2021: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,32,,
 ERI,https://data.humdata.org/dataset/cod-ab-eri,cod-enhanced,OCHA Field Information Services Section (FISS),"Eritrea administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -993,7 +982,7 @@ Dates associated with this dataset:
 - 29 April 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,58,,
 ETH,https://data.humdata.org/dataset/cod-ab-eth,cod-enhanced,OCHA Field Information Services Section (FISS),"Ethiopia administrative level 0-3 boundaries (COD-AB) dataset version 03.  
@@ -1011,7 +1000,7 @@ Dates associated with this dataset:
 - 23 November 2021: boundaries created by the source  
   
 Contributed by [OCHA Ethiopia](https://data.humdata.org/organization/ocha-ethiopia).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,92,1082,
 FJI,https://data.humdata.org/dataset/cod-ab-fji,cod-standard,OCHA Field Information Services Section (FISS),"Fiji administrative level 0-3 boundaries (COD-AB) dataset.
@@ -1090,9 +1079,9 @@ This metadata was last updated on January 9, 2025.",9,48,,
 GMB,https://data.humdata.org/dataset/cod-ab-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 8   
-- Admin 2: 49   
-- Admin 3: 115   
+- Admin 1: 8 nan  
+- Admin 2: 49 nan  
+- Admin 3: 115 nan  
   
   
 Dates associated with this dataset:  
@@ -1101,8 +1090,7 @@ Dates associated with this dataset:
 - 17 August 2022: last edit to the dataset before publishing  
 - 17 August 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,49,115,
 GEO,https://data.humdata.org/dataset/cod-ab-geo,cod-enhanced,OCHA Field Information Services Section (FISS),"Georgia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -1119,14 +1107,14 @@ Dates associated with this dataset:
 - 28 August 2019: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,70,,
 GHA,https://data.humdata.org/dataset/cod-ab-gha,cod-enhanced,OCHA Field Information Services Section (FISS),"Ghana administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16   
-- Admin 2: 260   
+- Admin 1: 16 nan  
+- Admin 2: 260 nan  
   
   
 Dates associated with this dataset:  
@@ -1136,7 +1124,7 @@ Dates associated with this dataset:
 - 10 March 2021: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,260,,
 GRC,https://data.humdata.org/dataset/cod-ab-grc,cod-standard,OCHA Field Information Services Section (FISS),"Greece administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1176,8 +1164,7 @@ Dates associated with this dataset:
 - 08 September 2017: last edit to the dataset before publishing  
 - 08 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,,,
 GLP,https://data.humdata.org/dataset/cod-ab-glp,cod-standard,OCHA Field Information Services Section (FISS),"Guadeloupe administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1207,8 +1194,8 @@ This metadata was last updated on January 9, 2025.",2,32,,
 GTM,https://data.humdata.org/dataset/cod-ab-gtm,cod-enhanced,OCHA Field Information Services Section (FISS),"Guatemala administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 22   
-- Admin 2: 342   
+- Admin 1: 22 nan  
+- Admin 2: 342 nan  
   
   
 Dates associated with this dataset:  
@@ -1217,8 +1204,7 @@ Dates associated with this dataset:
 - 15 February 2019: last edit to the dataset before publishing  
 - 15 February 2019: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,342,,
 GIN,https://data.humdata.org/dataset/cod-ab-gin,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -1236,14 +1222,14 @@ Dates associated with this dataset:
 - 03 August 2017: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,34,340,
 GNB,https://data.humdata.org/dataset/cod-ab-gnb,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea-Bissau administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 9   
-- Admin 2: 39   
+- Admin 1: 9 nan  
+- Admin 2: 39 nan  
   
   
 Dates associated with this dataset:  
@@ -1252,8 +1238,7 @@ Dates associated with this dataset:
 - 14 June 2021: last edit to the dataset before publishing  
 - 14 June 2021: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,39,,
 GUY,https://data.humdata.org/dataset/cod-ab-guy,cod-standard,OCHA Field Information Services Section (FISS),"Guyana administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1296,14 +1281,14 @@ Dates associated with this dataset:
 - 29 March 1987: boundaries created by the source  
   
 Contributed by [OCHA Haiti](https://data.humdata.org/organization/ocha-haiti).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,140,570,
 HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Field Information Services Section (FISS),"Honduras administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 18   
-- Admin 2: 298   
+- Admin 1: 18 nan  
+- Admin 2: 298 nan  
   
   
 Dates associated with this dataset:  
@@ -1313,14 +1298,14 @@ Dates associated with this dataset:
 - 25 June 2015: boundaries created by the source  
   
 Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,298,,
 HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),"Hungary administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 20   
-- Admin 2: 197   
+- Admin 1: 20 nan  
+- Admin 2: 197 nan  
   
   
 Dates associated with this dataset:  
@@ -1329,8 +1314,7 @@ Dates associated with this dataset:
 - 09 March 2022: last edit to the dataset before publishing  
 - 09 March 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",20,197,,
 IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Indonesia administrative level 0-3 boundaries (COD-AB) dataset.
@@ -1374,7 +1358,7 @@ Dates associated with this dataset:
 - 20 May 2019: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",31,429,,
 IRQ,https://data.humdata.org/dataset/cod-ab-irq,cod-enhanced,OCHA Field Information Services Section (FISS),"Iraq administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -1392,15 +1376,15 @@ Dates associated with this dataset:
 - 05 June 2019: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,101,294,
 JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-enhanced,OCHA Field Information Services Section (FISS),"Jamaica administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 14   
-- Admin 2: 131   
-- Admin 3: 775   
+- Admin 1: 14 nan  
+- Admin 2: 131 nan  
+- Admin 3: 775 nan  
   
   
 Dates associated with this dataset:  
@@ -1409,8 +1393,7 @@ Dates associated with this dataset:
 - 09 September 2017: last edit to the dataset before publishing  
 - 09 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",14,131,775,
 KAZ,https://data.humdata.org/dataset/cod-ab-kaz,cod-standard,OCHA Field Information Services Section (FISS),"Kazakhstan administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1441,8 +1424,8 @@ This metadata was last updated on January 13, 2025.",20,218,,
 KEN,https://data.humdata.org/dataset/cod-ab-ken,cod-enhanced,OCHA Field Information Services Section (FISS),"Kenya administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 47   
-- Admin 2: 290   
+- Admin 1: 47 nan  
+- Admin 2: 290 nan  
   
   
 Dates associated with this dataset:  
@@ -1452,7 +1435,7 @@ Dates associated with this dataset:
 - 03 July 2018: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",47,290,,
 KIR,https://data.humdata.org/dataset/cod-ab-kir,cod-standard,OCHA Office of the Pacific Islands,"Kiribati administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1494,13 +1477,13 @@ Dates associated with this dataset:
 - 01 January 2008: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,179,,
 KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Field Information Services Section (FISS),"Kuwait administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6   
+- Admin 1: 6 nan  
   
   
 Dates associated with this dataset:  
@@ -1510,7 +1493,7 @@ Dates associated with this dataset:
 - 30 November 2015: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,,,
 KGZ,https://data.humdata.org/dataset/cod-ab-kgz,cod-enhanced,OCHA Field Information Services Section (FISS),"Kyrgyzstan administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -1528,7 +1511,7 @@ Dates associated with this dataset:
 - 21 November 2018: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,53,737,
 LAO,https://data.humdata.org/dataset/cod-ab-lao,cod-enhanced,OCHA Field Information Services Section (FISS),"Lao People's Democratic Republic administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -1545,7 +1528,7 @@ Dates associated with this dataset:
 - 01 January 2019: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,148,,
 LBN,https://data.humdata.org/dataset/cod-ab-lbn,cod-enhanced,OCHA Field Information Services Section (FISS),"Lebanon administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -1562,8 +1545,7 @@ Dates associated with this dataset:
 - 02 May 2014: last edit to the dataset before publishing  
 - 02 May 2014: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,26,1626,
 LSO,https://data.humdata.org/dataset/cod-ab-lso,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"Lesotho administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1593,8 +1575,8 @@ This metadata was last updated on January 9, 2025.",10,78,,
 LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA Field Information Services Section (FISS),"Liberia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 15   
-- Admin 2: 136   
+- Admin 1: 15 nan  
+- Admin 2: 136 nan  
   
   
 Dates associated with this dataset:  
@@ -1604,7 +1586,7 @@ Dates associated with this dataset:
 - 27 December 2017: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",15,136,,
 LBY,https://data.humdata.org/dataset/cod-ab-lby,cod-enhanced,OCHA Field Information Services Section (FISS),"Libya administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -1621,7 +1603,7 @@ Dates associated with this dataset:
 - 13 November 2018: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",3,22,,
 MKD,https://data.humdata.org/dataset/cod-ab-mkd,cod-standard,OCHA Field Information Services Section (FISS),"North Macedonia administrative level 0-4 boundaries (COD-AB) dataset.
@@ -1684,9 +1666,9 @@ This metadata was last updated on January 13, 2025.",22,119,1579,17465
 MWI,https://data.humdata.org/dataset/cod-ab-mwi,cod-enhanced,OCHA Field Information Services Section (FISS),"Malawi administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 3   
-- Admin 2: 32   
-- Admin 3: 433   
+- Admin 1: 3 nan  
+- Admin 2: 32 nan  
+- Admin 3: 433 nan  
   
   
 Dates associated with this dataset:  
@@ -1695,15 +1677,14 @@ Dates associated with this dataset:
 - 22 October 2018: last edit to the dataset before publishing  
 - 22 October 2018: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",3,32,433,
 MYS,https://data.humdata.org/dataset/cod-ab-mys,cod-enhanced,OCHA Field Information Services Section (FISS),"Malaysia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16   
-- Admin 2: 144   
+- Admin 1: 16 nan  
+- Admin 2: 144 nan  
   
   
 Dates associated with this dataset:  
@@ -1713,14 +1694,14 @@ Dates associated with this dataset:
 - 01 January 2021: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,144,,
 MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Field Information Services Section (FISS),"Maldives administrative level 0-2 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 21   
-- Admin 2: 1556   
+- Admin 1: 21 nan  
+- Admin 2: 1556 nan  
   
   
 Dates associated with this dataset:  
@@ -1730,7 +1711,7 @@ Dates associated with this dataset:
 - 01 January 2024: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",21,1556,,
 MLI,https://data.humdata.org/dataset/cod-ab-mli,cod-enhanced,OCHA Field Information Services Section (FISS),"Mali administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -1745,8 +1726,7 @@ Dates associated with this dataset:
 - 20 December 2021: valid for use by the humanitarian community  
 - 01 January 2016: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,53,701,
 MHL,https://data.humdata.org/dataset/cod-ab-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1797,8 +1777,8 @@ This metadata was last updated on January 9, 2025.",4,34,,
 MRT,https://data.humdata.org/dataset/cod-ab-mrt,cod-enhanced,OCHA Field Information Services Section (FISS),"Mauritania administrative level 0-2 boundaries (COD-AB) dataset version 03.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 15   
-- Admin 2: 63   
+- Admin 1: 15 nan  
+- Admin 2: 63 nan  
   
   
 Dates associated with this dataset:  
@@ -1807,8 +1787,7 @@ Dates associated with this dataset:
 - 31 October 2024: last edit to the dataset before publishing  
 - 31 October 2024: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",15,63,238,
 MUS,https://data.humdata.org/dataset/cod-ab-mus,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Mauritius administrative level 0-1 boundaries (COD-AB) dataset.
@@ -1836,8 +1815,8 @@ This metadata was last updated on January 9, 2025.",12,,,
 MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Field Information Services Section (FISS),"Mexico administrative level 0-2 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 32   
-- Admin 2: 2457   
+- Admin 1: 32 nan  
+- Admin 2: 2457 nan  
   
   
 Dates associated with this dataset:  
@@ -1847,7 +1826,7 @@ Dates associated with this dataset:
 - 23 June 2020: boundaries created by the source  
   
 Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",32,2457,,
 FSM,https://data.humdata.org/dataset/cod-ab-fsm,cod-standard,OCHA Office of the Pacific Islands,"Micronesia (Federated States of) administrative level 0-2 boundaries (COD-AB) dataset.
@@ -1876,7 +1855,7 @@ This metadata was last updated on January 13, 2025.",4,75,,
 MDA,https://data.humdata.org/dataset/cod-ab-mda,cod-enhanced,OCHA Field Information Services Section (FISS),"Republic of Moldova administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 37   
+- Admin 1: 37 nan  
   
   
 Dates associated with this dataset:  
@@ -1885,8 +1864,7 @@ Dates associated with this dataset:
 - 13 May 2022: last edit to the dataset before publishing  
 - 13 May 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",37,,,
 MNG,https://data.humdata.org/dataset/cod-ab-mng,cod-enhanced,OCHA Field Information Services Section (FISS),"Mongolia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -1903,7 +1881,7 @@ Dates associated with this dataset:
 - 26 October 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,339,,
 MSR,https://data.humdata.org/dataset/cod-ab-msr,cod-standard,OCHA Field Information Services Section (FISS),"Montserrat administrative level 0-1 boundaries (COD-AB) dataset.
@@ -1931,8 +1909,8 @@ This metadata was last updated on January 9, 2025.",3,,,
 MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-enhanced,OCHA Field Information Services Section (FISS),"Morocco administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 10   
-- Admin 2: 69   
+- Admin 1: 10 nan  
+- Admin 2: 69 nan  
   
   
 Dates associated with this dataset:  
@@ -1941,8 +1919,7 @@ Dates associated with this dataset:
 - 26 September 2023: last edit to the dataset before publishing  
 - 26 September 2023: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,69,,
 MOZ,https://data.humdata.org/dataset/cod-ab-moz,cod-enhanced,OCHA Field Information Services Section (FISS),"Mozambique administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -1960,7 +1937,7 @@ Dates associated with this dataset:
 - 20 October 1954: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,159,411,
 MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-enhanced,OCHA Field Information Services Section (FISS),"Myanmar administrative level 0-5 boundaries (COD-AB) dataset version 01.  
@@ -1979,8 +1956,7 @@ Dates associated with this dataset:
 - 11 March 2024: last edit to the dataset before publishing  
 - 11 March 2024: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,80,330,14174
 NAM,https://data.humdata.org/dataset/cod-ab-nam,cod-enhanced,OCHA Field Information Services Section (FISS),"Namibia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -1996,16 +1972,15 @@ Dates associated with this dataset:
 - 01 January 2011: last edit to the dataset before publishing  
 - 01 January 2011: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",14,107,,
 NPL,https://data.humdata.org/dataset/cod-ab-npl,cod-enhanced,OCHA Field Information Services Section (FISS),"Nepal administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 7   
-- Admin 2: 77   
-- Admin 3: 775   
+- Admin 1: 7 nan  
+- Admin 2: 77 nan  
+- Admin 3: 775 nan  
   
   
 Dates associated with this dataset:  
@@ -2014,8 +1989,7 @@ Dates associated with this dataset:
 - 01 January 2024: last edit to the dataset before publishing  
 - 01 January 2024: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,77,775,
 NIC,https://data.humdata.org/dataset/cod-ab-nic,cod-enhanced,OCHA Field Information Services Section (FISS),"Nicaragua administrative level 0-2 boundaries (COD-AB) dataset version 02.  
@@ -2031,8 +2005,7 @@ Dates associated with this dataset:
 - 11 October 2017: last edit to the dataset before publishing  
 - 11 October 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",17,153,,
 NER,https://data.humdata.org/dataset/cod-ab-ner,cod-enhanced,OCHA Field Information Services Section (FISS),"Niger administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -2050,7 +2023,7 @@ Dates associated with this dataset:
 - 01 January 2006: boundaries created by the source  
   
 Contributed by [OCHA Niger](https://data.humdata.org/organization/ocha-niger).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,67,266,
 NGA,https://data.humdata.org/dataset/cod-ab-nga,cod-enhanced,OCHA Field Information Services Section (FISS),"Nigeria administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -2068,14 +2041,14 @@ Dates associated with this dataset:
 - 01 October 1996: boundaries created by the source  
   
 Contributed by [OCHA Nigeria](https://data.humdata.org/organization/ocha-nigeria).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",37,774,714,
 OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Field Information Services Section (FISS),"Oman administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 11   
-- Admin 2: 49   
+- Admin 1: 11 nan  
+- Admin 2: 49 nan  
   
   
 Dates associated with this dataset:  
@@ -2085,7 +2058,7 @@ Dates associated with this dataset:
 - 04 June 2021: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,49,,
 PAK,https://data.humdata.org/dataset/cod-ab-pak,cod-enhanced,OCHA Field Information Services Section (FISS),"Pakistan administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -2102,8 +2075,7 @@ Dates associated with this dataset:
 - 02 September 2022: last edit to the dataset before publishing  
 - 02 September 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,160,577,
 PSE,https://data.humdata.org/dataset/cod-ab-pse,cod-enhanced,OCHA Field Information Services Section (FISS),"State of Palestine administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -2120,7 +2092,7 @@ Dates associated with this dataset:
 - 28 September 1995: boundaries created by the source  
   
 Contributed by [OCHA occupied Palestinian territory (oPt)](https://data.humdata.org/organization/ocha-opt).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",2,16,,
 PAN,https://data.humdata.org/dataset/cod-ab-pan,cod-enhanced,OCHA Field Information Services Section (FISS),"Panama administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -2137,8 +2109,7 @@ Dates associated with this dataset:
 - 15 June 2020: last edit to the dataset before publishing  
 - 15 June 2020: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,76,594,
 PNG,https://data.humdata.org/dataset/cod-ab-png,cod-enhanced,OCHA Field Information Services Section (FISS),"Papua New Guinea administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -2156,7 +2127,7 @@ Dates associated with this dataset:
 - 10 May 2019: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,87,326,
 PRY,https://data.humdata.org/dataset/cod-ab-pry,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Paraguay administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2187,9 +2158,9 @@ This metadata was last updated on February 03, 2025.",18,250,,
 PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Field Information Services Section (FISS),"Peru administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 25   
-- Admin 2: 196   
-- Admin 3: 1873   
+- Admin 1: 25 nan  
+- Admin 2: 196 nan  
+- Admin 3: 1873 nan  
   
   
 Dates associated with this dataset:  
@@ -2199,7 +2170,7 @@ Dates associated with this dataset:
 - 24 July 2015: boundaries created by the source  
   
 Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",25,196,1873,
 PHL,https://data.humdata.org/dataset/cod-ab-phl,cod-enhanced,OCHA Philippines,"Philippines administrative level 0-4 boundaries (COD-AB) dataset.
@@ -2234,8 +2205,8 @@ This metadata was last updated on January 13, 2025.",17,88,1642,42048
 POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16   
-- Admin 2: 380   
+- Admin 1: 16 nan  
+- Admin 2: 380 nan  
   
   
 Dates associated with this dataset:  
@@ -2244,8 +2215,7 @@ Dates associated with this dataset:
 - 19 April 2022: last edit to the dataset before publishing  
 - 19 April 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,380,,
 QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Qatar administrative level 0-3 boundaries (COD-AB) dataset.
@@ -2276,8 +2246,8 @@ This metadata was last updated on January 9, 2025.",8,91,781,
 ROU,https://data.humdata.org/dataset/cod-ab-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 8   
-- Admin 2: 42   
+- Admin 1: 8 nan  
+- Admin 2: 42 nan  
   
   
 Dates associated with this dataset:  
@@ -2286,8 +2256,7 @@ Dates associated with this dataset:
 - 09 March 2022: last edit to the dataset before publishing  
 - 09 March 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,42,,
 RUS,https://data.humdata.org/dataset/cod-ab-rus,cod-standard,OCHA Field Information Services Section (FISS),"Russian Federation administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2426,7 +2395,7 @@ Recommended cartographic projection:  North America Albers Equal Area Conic",,,,
 VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6   
+- Admin 1: 6 nan  
   
   
 Dates associated with this dataset:  
@@ -2435,8 +2404,7 @@ Dates associated with this dataset:
 - 21 September 2017: last edit to the dataset before publishing  
 - 21 September 2017: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,,,
 STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2465,7 +2433,7 @@ This metadata was last updated on January 13, 2025.",2,8,,
 SAU,https://data.humdata.org/dataset/cod-ab-sau,cod-enhanced,OCHA Field Information Services Section (FISS),"Saudi Arabia administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 13   
+- Admin 1: 13 nan  
   
   
 Dates associated with this dataset:  
@@ -2475,7 +2443,7 @@ Dates associated with this dataset:
 - 30 November 2015: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,,,
 SEN,https://data.humdata.org/dataset/cod-ab-sen,cod-enhanced,OCHA Field Information Services Section (FISS),"Senegal administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -2493,7 +2461,7 @@ Dates associated with this dataset:
 - 30 April 2019: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",14,46,125,
 SYC,https://data.humdata.org/dataset/cod-ab-syc,cod-standard,OCHA Regional Office for Southern and Eastern Africa (ROSEA),"""Seychelles administrative level 0-3 boundaries (COD-AB) dataset.
@@ -2523,10 +2491,10 @@ This metadata was last updated on January 9, 2025.""",4,8,27,
 SLE,https://data.humdata.org/dataset/cod-ab-sle,cod-enhanced,OCHA Field Information Services Section (FISS),"Sierra Leone administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 5   
-- Admin 2: 16   
-- Admin 3: 167   
-- Admin 4: 1316   
+- Admin 1: 5 nan  
+- Admin 2: 16 nan  
+- Admin 3: 167 nan  
+- Admin 4: 1316 nan  
   
   
 Dates associated with this dataset:  
@@ -2536,13 +2504,13 @@ Dates associated with this dataset:
 - 16 August 2017: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",5,16,167,1316
 SXM,https://data.humdata.org/dataset/cod-ab-sxm,cod-enhanced,OCHA Field Information Services Section (FISS),"Sint Maarten (Dutch part) administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 8   
+- Admin 1: 8 nan  
   
   
 Dates associated with this dataset:  
@@ -2551,15 +2519,14 @@ Dates associated with this dataset:
 - 14 September 2018: last edit to the dataset before publishing  
 - 14 September 2018: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,,,
 SVK,https://data.humdata.org/dataset/cod-ab-svk,cod-enhanced,OCHA Field Information Services Section (FISS),"Slovakia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 8   
-- Admin 2: 79   
+- Admin 1: 8 nan  
+- Admin 2: 79 nan  
   
   
 Dates associated with this dataset:  
@@ -2568,8 +2535,7 @@ Dates associated with this dataset:
 - 09 March 2022: last edit to the dataset before publishing  
 - 09 March 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,79,,
 SLB,https://data.humdata.org/dataset/cod-ab-slb,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Solomon Islands administrative level 0-3 boundaries (COD-AB) dataset.
@@ -2610,8 +2576,7 @@ Dates associated with this dataset:
 - 23 June 1984: last edit to the dataset before publishing  
 - 23 June 1984: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,91,,
 ZAF,https://data.humdata.org/dataset/cod-ab-zaf,cod-enhanced,OCHA Field Information Services Section (FISS),"South Africa administrative level 0-4 boundaries (COD-AB) dataset version 01.  
@@ -2620,7 +2585,7 @@ This dataset is structured into 4 levels:
 - Admin 1: 9 Province  
 - Admin 2: 52 District  
 - Admin 3: 213 Local municipality  
-- Admin 4: 4392   
+- Admin 4: 4392 nan  
   
   
 Dates associated with this dataset:  
@@ -2630,16 +2595,16 @@ Dates associated with this dataset:
 - 27 December 2018: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,52,213,4392
 LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Field Information Services Section (FISS),"Sri Lanka administrative level 0-4 boundaries (COD-AB) dataset version 03.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 9   
-- Admin 2: 25   
-- Admin 3: 339   
-- Admin 4: 14043   
+- Admin 1: 9 nan  
+- Admin 2: 25 nan  
+- Admin 3: 339 nan  
+- Admin 4: 14043 nan  
   
   
 Dates associated with this dataset:  
@@ -2649,7 +2614,7 @@ Dates associated with this dataset:
 - 02 August 2022: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,25,339,14043
 SSD,https://data.humdata.org/dataset/cod-ab-ssd,cod-enhanced,OCHA South Sudan,"South Sudan administrative level 0-3 boundaries (COD-AB) dataset.
@@ -2699,7 +2664,7 @@ Dates associated with this dataset:
 - 13 August 2013: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",19,189,,
 SUR,https://data.humdata.org/dataset/cod-ab-sur,cod-standard,OCHA Field Information Services Section (FISS),"Suriname administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2730,8 +2695,8 @@ This metadata was last updated on January 13, 2025.",10,62,,
 SWZ,https://data.humdata.org/dataset/cod-ab-swz,cod-enhanced,OCHA Field Information Services Section (FISS),"Eswatini administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 4   
-- Admin 2: 55   
+- Admin 1: 4 nan  
+- Admin 2: 55 nan  
   
   
 Dates associated with this dataset:  
@@ -2741,7 +2706,7 @@ Dates associated with this dataset:
 - 13 May 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,55,,
 SYR,https://data.humdata.org/dataset/cod-ab-syr,cod-enhanced,OCHA Field Information Services Section (FISS),"Syrian Arab Republic administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -2759,7 +2724,7 @@ Dates associated with this dataset:
 - 01 January 1960: boundaries created by the source  
   
 Contributed by [OCHA Syria](https://data.humdata.org/organization/ocha-rosc).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",14,62,272,
 TJK,https://data.humdata.org/dataset/cod-ab-tjk,cod-standard,OCHA Middle East and North Africa (ROMENA),"Tajikistan administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2807,15 +2772,15 @@ Dates associated with this dataset:
 - 01 January 2022: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",77,928,7425,
 TLS,https://data.humdata.org/dataset/cod-ab-tls,cod-enhanced,OCHA Field Information Services Section (FISS),"Timor-Leste administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 13   
-- Admin 2: 65   
-- Admin 3: 442   
+- Admin 1: 13 nan  
+- Admin 2: 65 nan  
+- Admin 3: 442 nan  
   
   
 Dates associated with this dataset:  
@@ -2825,7 +2790,7 @@ Dates associated with this dataset:
 - 01 January 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,65,442,
 TGO,https://data.humdata.org/dataset/cod-ab-tgo,cod-enhanced,OCHA Field Information Services Section (FISS),"Togo administrative level 0-3 boundaries (COD-AB) dataset version 02.  
@@ -2833,7 +2798,7 @@ TGO,https://data.humdata.org/dataset/cod-ab-tgo,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 5 Region  
 - Admin 2: 40 Prefecture  
-- Admin 3: 373   
+- Admin 3: 373 nan  
   
   
 Dates associated with this dataset:  
@@ -2843,7 +2808,7 @@ Dates associated with this dataset:
 - 12 January 2020: boundaries created by the source  
   
 Contributed by [OCHA West and Central Africa (ROWCA)](https://data.humdata.org/organization/ocha-rowca).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",5,40,373,
 TON,https://data.humdata.org/dataset/cod-ab-ton,cod-enhanced,OCHA Office of the Pacific Islands,"Tonga administrative level 0-3 boundaries (COD-AB) dataset.
@@ -2899,10 +2864,10 @@ This metadata was last updated on January 13, 2025.",15,,,
 TUN,https://data.humdata.org/dataset/cod-ab-tun,cod-enhanced,OCHA Field Information Services Section (FISS),"Tunisia administrative level 0-4 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 6   
-- Admin 2: 24   
-- Admin 3: 264   
-- Admin 4: 2084   
+- Admin 1: 6 nan  
+- Admin 2: 24 nan  
+- Admin 3: 264 nan  
+- Admin 4: 2084 nan  
   
   
 Dates associated with this dataset:  
@@ -2911,8 +2876,7 @@ Dates associated with this dataset:
 - 15 August 2022: last edit to the dataset before publishing  
 - 15 August 2022: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,24,264,2084
 TUR,https://data.humdata.org/dataset/cod-ab-tur,cod-enhanced,OCHA Field Information Services Section (FISS),"Türkiye administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -2928,8 +2892,7 @@ Dates associated with this dataset:
 - 30 March 2014: last edit to the dataset before publishing  
 - 30 March 2014: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",81,973,,
 TCA,https://data.humdata.org/dataset/cod-ab-tca,cod-standard,OCHA Field Information Services Section (FISS),"""Turks and Caicos Islands administrative level 0-2 boundaries (COD-AB) dataset.
@@ -2962,7 +2925,7 @@ This dataset is structured into 4 levels:
 - Admin 1: 4 Region  
 - Admin 2: 135 District  
 - Admin 3: 208 Sub-county, parish, village  
-- Admin 4: 1520   
+- Admin 4: 1520 nan  
   
   
 Dates associated with this dataset:  
@@ -2972,7 +2935,7 @@ Dates associated with this dataset:
 - 11 June 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,135,208,1520
 UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset version 05.  
@@ -2997,7 +2960,7 @@ Dates associated with this dataset:
 - 01 September 2025: last edit to the dataset before publishing  
   
 Contributed by [OCHA Ukraine](https://data.humdata.org/organization/ocha-ukraine).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",27,139,1769,29706
 ARE,https://data.humdata.org/dataset/cod-ab-are,cod-enhanced,OCHA Field Information Services Section (FISS),"United Arab Emirates administrative level 0-1 boundaries (COD-AB) dataset version 01.  
@@ -3012,8 +2975,7 @@ Dates associated with this dataset:
 - 19 May 2023: last edit to the dataset before publishing  
 - 19 May 2023: boundaries created by the source  
   
-Contributed by [OCHA Field Information Services Section (FISS)](https://data.humdata.org/organization/ocha-fiss).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,,,
 URY,https://data.humdata.org/dataset/cod-ab-ury,cod-standard,OCHA Field Information Services Section (FISS),"Uruguay administrative level 0-2 boundaries (COD-AB) dataset.
@@ -3066,8 +3028,8 @@ This metadata was last updated on January 13, 2025.",14,199,,
 VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Field Information Services Section (FISS),"Vanuatu administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 6   
-- Admin 2: 66   
+- Admin 1: 6 nan  
+- Admin 2: 66 nan  
   
   
 Dates associated with this dataset:  
@@ -3077,7 +3039,7 @@ Dates associated with this dataset:
 - 31 October 2017: boundaries created by the source  
   
 Contributed by [OCHA Office of the Pacific Islands](https://data.humdata.org/organization/ocha-rop).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,66,,
 VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Field Information Services Section (FISS),"Venezuela (Bolivarian Republic of) administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -3095,7 +3057,7 @@ Dates associated with this dataset:
 - 02 May 2018: boundaries created by the source  
   
 Contributed by [OCHA Venezuela](https://data.humdata.org/organization/ochavenezuela).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",25,335,1134,
 VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Field Information Services Section (FISS),"Viet Nam administrative level 0-1 boundaries (COD-AB) dataset version 02.  
@@ -3111,7 +3073,7 @@ Dates associated with this dataset:
 - 01 July 2025: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",34,,,
 VGB,https://data.humdata.org/dataset/cod-ab-vgb,cod-standard,OCHA Field Information Services Section (FISS),"British Virgin Islands administrative level 0-1 boundaries (COD-AB) dataset.
@@ -3137,7 +3099,7 @@ This metadata was last updated on January 9, 2025.",6,,,
 ESH,https://data.humdata.org/dataset/cod-ab-esh,cod-enhanced,OCHA Field Information Services Section (FISS),"Western Sahara administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 4   
+- Admin 1: 4 nan  
   
   
 Dates associated with this dataset:  
@@ -3147,7 +3109,7 @@ Dates associated with this dataset:
 - 08 April 2021: boundaries created by the source  
   
 Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,,,
 YEM,https://data.humdata.org/dataset/cod-ab-yem,cod-enhanced,OCHA Field Information Services Section (FISS),"Yemen administrative level 0-2 boundaries (COD-AB) dataset version 01.  
@@ -3164,16 +3126,16 @@ Dates associated with this dataset:
 - 09 October 2023: boundaries created by the source  
   
 Contributed by [OCHA Yemen](https://data.humdata.org/organization/ocha-yemen).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,335,,
 ZMB,https://data.humdata.org/dataset/cod-ab-zmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Zambia administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 10   
-- Admin 2: 116   
-- Admin 3: 156   
-- Admin 4: 1853   
+- Admin 1: 10 nan  
+- Admin 2: 116 nan  
+- Admin 3: 156 nan  
+- Admin 4: 1853 nan  
   
   
 Dates associated with this dataset:  
@@ -3183,7 +3145,7 @@ Dates associated with this dataset:
 - 26 November 2020: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,116,156,1853
 ZWE,https://data.humdata.org/dataset/cod-ab-zwe,cod-enhanced,OCHA Field Information Services Section (FISS),"Zimbabwe administrative level 0-3 boundaries (COD-AB) dataset version 01.  
@@ -3201,7 +3163,7 @@ Dates associated with this dataset:
 - 31 August 2018: boundaries created by the source  
   
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
-Quality assured, configured, and published by [OCHA Information Systems Section (ISS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,91,1961,
 VIR,https://data.humdata.org/dataset/cod-ab-vir,cod-standard,OCHA Field Information Services Section (FISS),"United States Virgin Islands administrative level 0-2 boundaries (COD-AB) dataset.
