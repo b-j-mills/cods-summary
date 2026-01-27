@@ -1714,21 +1714,25 @@ Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://da
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",21,1556,,
-MLI,https://data.humdata.org/dataset/cod-ab-mli,cod-enhanced,OCHA Field Information Services Section (FISS),"Mali administrative level 0-3 boundaries (COD-AB) dataset version 02.  
+MLI,https://data.humdata.org/dataset/cod-ab-mli,cod-enhanced,OCHA Field Information Services Section (FISS),"Mali administrative level 0-2 boundaries (COD-AB) dataset version 03.  
   
-This dataset is structured into 3 levels:  
-- Admin 1: 10 Region  
-- Admin 2: 53 Cercle  
-- Admin 3: 701 Arrondissement  
+This dataset is structured into 2 levels:  
+- Admin 1: 20 Région  
+- Admin 2: 160 Cercle  
+  
+  
+Note: The normal administrative level 2 feature type(s) are region (20 features) and cercle (160units).  
   
   
 Dates associated with this dataset:  
-- 20 December 2021: valid for use by the humanitarian community  
-- 01 January 2016: boundaries created by the source  
+- 10 June 2025: dataset reviewed for accuracy and completeness  
+- 04 September 2025: valid for use by the humanitarian community  
+- 13 May 2025: last edit to the dataset before publishing  
+- 20 February 2025: boundaries created by the source  
   
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,53,701,
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",20,160,,
 MHL,https://data.humdata.org/dataset/cod-ab-mhl,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Marshall Islands administrative level 0-2 boundaries (COD-AB) dataset.
 
 NOTE:  WARNING:  The geoservices are not scaled correctly.  Users are advised to rely on the shapefiles or geodatabase.  The COD-AB omits MH0609 feature contained in COD-PS.  The disbursed nature of this archipelago country does not make it suitable for EMF mapping.
