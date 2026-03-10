@@ -577,25 +577,23 @@ Administrative level 1 contains 6 feature(s).  The normal administrative level 1
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 18, 2025.",6,,,
-CAF,https://data.humdata.org/dataset/cod-ab-caf,cod-enhanced,OCHA Field Information Services Section (FISS),"Central African Republic administrative level 0-4 boundaries (COD-AB) dataset version 01.  
+CAF,https://data.humdata.org/dataset/cod-ab-caf,cod-enhanced,OCHA Field Information Services Section (FISS),"Central African Republic administrative level 0-2 boundaries (COD-AB) dataset version 02.  
   
-This dataset is structured into 4 levels:  
-- Admin 1: 17 Prefecture  
-- Admin 2: 72 Sub-prefecture  
-- Admin 3: 175 Commune  
-- Admin 4: 202 Locality, partial coverage  
+This dataset is structured into 2 levels:  
+- Admin 1: 20 Préfecture  
+- Admin 2: 85 Sous-préfecture  
   
   
 Dates associated with this dataset:  
-- 04 March 2024: dataset reviewed for accuracy and completeness  
-- 15 June 2015: valid for use by the humanitarian community  
-- 31 December 2020: last edit to the dataset before publishing  
-- 31 December 2020: boundaries created by the source  
+- 06 March 2026: dataset reviewed for accuracy and completeness  
+- 30 May 2024: valid for use by the humanitarian community  
+- 01 January 2023: last edit to the dataset before publishing  
+- 01 January 2003: boundaries created by the source  
   
 Contributed by [OCHA Central African Republic](https://data.humdata.org/organization/ocha-car).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",17,72,175,202
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",20,85,,
 TCD,https://data.humdata.org/dataset/cod-ab-tcd,cod-enhanced,OCHA Field Information Services Section (FISS),"Chad administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
@@ -677,32 +675,24 @@ Administrative level 2 contains 361 feature(s).  The normal administrative level
 Recommended cartographic projection:  Asia South Albers Equal Area Conic
 
 This metadata was last updated on January 18, 2025.",34,361,,
-COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Latin America and the Caribbean (ROLAC),"Colombia administrative level 0-2 boundaries (COD-AB) dataset.
-
-These administrative boundaries were established in:  2019
-
-NOTE:  COD-PS updated August 2024.  The metadata dates reflect that the most recent administrative structure change was the creation of ADM2 feature """"Barrancominas"""" [CO94343] in 2019.
-
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in November 2024.  The COD-AB does not require any update.
-
-Sourced from Departamento Administrativo Nacional de Estadística (DANE)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Colombia [COD-PS](https://data.humdata.org/dataset/cod-ps-col).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 33 feature(s).  The normal administrative level 1 feature type is 'Departement'.
-
-Administrative level 2 contains 1,122 feature(s).  The normal administrative level 2 feature type is 'Municipality (municipio or distrito)'.
-
-Recommended cartographic projection:  South America Albers Equal Area Conic
-
-This metadata was last updated on January 18, 2025.",33,1122,,
+COL,https://data.humdata.org/dataset/cod-ab-col,cod-enhanced,OCHA Field Information Services Section (FISS),"Colombia administrative level 0-3 boundaries (COD-AB) dataset version 02.  
+  
+This dataset is structured into 3 levels:  
+- Admin 1: 33 Departement  
+- Admin 2: 1122 Municipality (municipio or distrito)  
+- Admin 3: 31880 corregimiento or comuna, partial coverage  
+  
+  
+Dates associated with this dataset:  
+- 20 November 2024: dataset reviewed for accuracy and completeness  
+- 16 April 2020: valid for use by the humanitarian community  
+- 01 December 2019: last edit to the dataset before publishing  
+- 01 December 2019: boundaries created by the source  
+  
+Contributed by [OCHA Latin America and the Caribbean (ROLAC)](https://data.humdata.org/organization/ocha-rolac).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",33,1122,,
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Field Information Services Section (FISS),"Comoros administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
