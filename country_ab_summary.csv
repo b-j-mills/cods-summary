@@ -975,24 +975,26 @@ Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](ht
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,58,,
-ETH,https://data.humdata.org/dataset/cod-ab-eth,cod-enhanced,OCHA Field Information Services Section (FISS),"Ethiopia administrative level 0-3 boundaries (COD-AB) dataset version 03.  
+ETH,https://data.humdata.org/dataset/cod-ab-eth,cod-enhanced,OCHA Field Information Services Section (FISS),"Ethiopia administrative level 0-3 boundaries (COD-AB) dataset version 04.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 13 Region  
-- Admin 2: 92 Zone  
-- Admin 3: 1082 Woreda  
+- Admin 1: 15 Region  
+- Admin 2: 107 Zone  
+- Admin 3: 1148 Woreda  
+  
+  
+Note: Addis Ababa serves as the national capital and admin1 capital for Addis Ababa and Oromia regions.  
   
   
 Dates associated with this dataset:  
-- 19 December 2024: dataset reviewed for accuracy and completeness  
-- 14 December 2021: valid for use by the humanitarian community  
-- 23 November 2021: last edit to the dataset before publishing  
-- 23 November 2021: boundaries created by the source  
+- 01 December 2025: dataset reviewed for accuracy and completeness  
+- 01 January 2025: valid for use by the humanitarian community  
+- 01 November 2025: last edit to the dataset before publishing  
+- 01 August 2023: boundaries created by the source  
   
-Contributed by [OCHA Ethiopia](https://data.humdata.org/organization/ocha-ethiopia).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",13,92,1082,
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",15,107,1148,
 FJI,https://data.humdata.org/dataset/cod-ab-fji,cod-standard,OCHA Field Information Services Section (FISS),"Fiji administrative level 0-3 boundaries (COD-AB) dataset.
 
 These administrative boundaries were established in:  2017
