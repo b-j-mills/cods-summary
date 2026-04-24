@@ -480,6 +480,7 @@ This dataset is structured into 3 levels:
   
   
 Dates associated with this dataset:  
+- 16 December 2025: dataset reviewed for accuracy and completeness  
 - 01 August 2025: valid for use by the humanitarian community  
 - 01 July 2025: last edit to the dataset before publishing  
 - 23 March 2020: boundaries created by the source  
@@ -731,8 +732,11 @@ COD,https://data.humdata.org/dataset/cod-ab-cod,cod-enhanced,OCHA Field Informat
   
 This dataset is structured into 3 levels:  
 - Admin 1: 26  Province  
-- Admin 2: 189 Territory / Territorie  
-- Admin 3: 519 Health zone / Zone de santé, partial coverage  
+- Admin 2: 164 Territory / Territorie  
+- Admin 3: 519 Health zone / Zone de santé  
+  
+  
+Note: Officially, there are 145 administrative units. However, to align with the admin3 level—which in practice represents health district areas rather than administrative boundaries—19 admin2 units corresponding to the main cities have been created.  
   
   
 Dates associated with this dataset:  
