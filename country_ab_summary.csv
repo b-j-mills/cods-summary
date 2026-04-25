@@ -1,17 +1,21 @@
 ISO,COD-AB URL,COD-AB level,COD-AB contributor,COD-AB description,COD-AB ADM1 units,COD-AB ADM2 units,COD-AB ADM3 units,COD-AB ADM4 units
-AFG,https://data.humdata.org/dataset/cod-ab-afg,cod-enhanced,OCHA Field Information Services Section (FISS),"Afghanistan administrative level 0-2 boundaries (COD-AB) dataset version 02.  
+AFG,https://data.humdata.org/dataset/cod-ab-afg,cod-enhanced,OCHA Field Information Services Section (FISS),"Afghanistan administrative level 0-2 boundaries (COD-AB) dataset version 03.  
   
 This dataset is structured into 2 levels:  
 - Admin 1: 34 Province  
 - Admin 2: 401 District  
   
   
-Dates associated with this dataset:  
-- 30 July 2024: dataset reviewed for accuracy and completeness  
-- 17 November 2021: valid for use by the humanitarian community  
-- 22 October 2019: last edit to the dataset before publishing  
-- 22 October 2019: boundaries created by the source  
+Note: Admin 2 notes: although the de-facto authority in Afghanistan have designated 457 admin 2 units, the humanitarian community is using 401 units due to lack of boundary data for 2026  
   
+  
+Dates associated with this dataset:  
+- 01 June 2025: dataset reviewed for accuracy and completeness  
+- 01 June 2025: valid for use by the humanitarian community  
+- 25 March 2026: last edit to the dataset before publishing  
+- 01 May 2019: boundaries created by the source  
+  
+Contributed by [OCHA Afghanistan](https://data.humdata.org/organization/ocha-afghanistan).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",34,401,,
