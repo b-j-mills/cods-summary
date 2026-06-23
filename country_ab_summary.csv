@@ -51,8 +51,8 @@ This metadata was last updated on January 17, 2025.",12,61,374,
 DZA,https://data.humdata.org/dataset/cod-ab-dza,cod-enhanced,OCHA Field Information Services Section (FISS),"Algeria administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 48 nan  
-- Admin 2: 1541 nan  
+- Admin 1: 48   
+- Admin 2: 1541   
   
   
 Dates associated with this dataset:  
@@ -70,7 +70,7 @@ AGO,https://data.humdata.org/dataset/cod-ab-ago,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 18 Province  
 - Admin 2: 161 Municipality  
-- Admin 3: 539 nan  
+- Admin 3: 539   
   
   
 Dates associated with this dataset:  
@@ -187,7 +187,7 @@ This metadata was last updated on January 17, 2025.",,,,
 AZE,https://data.humdata.org/dataset/cod-ab-aze,cod-enhanced,OCHA Field Information Services Section (FISS),"Azerbaijan administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 74 nan  
+- Admin 1: 74   
   
   
 Dates associated with this dataset:  
@@ -285,8 +285,8 @@ This metadata was last updated on January 17, 2025.",11,,,
 BLR,https://data.humdata.org/dataset/cod-ab-blr,cod-enhanced,OCHA Field Information Services Section (FISS),"Belarus administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 7 nan  
-- Admin 2: 119 nan  
+- Admin 1: 7   
+- Admin 2: 119   
   
   
 Dates associated with this dataset:  
@@ -301,7 +301,7 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 BLZ,https://data.humdata.org/dataset/cod-ab-blz,cod-enhanced,OCHA Field Information Services Section (FISS),"Belize administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6 nan  
+- Admin 1: 6   
   
   
 Dates associated with this dataset:  
@@ -316,8 +316,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 BEN,https://data.humdata.org/dataset/cod-ab-ben,cod-enhanced,OCHA Field Information Services Section (FISS),"Benin administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 12 nan  
-- Admin 2: 77 nan  
+- Admin 1: 12   
+- Admin 2: 77   
   
   
 Dates associated with this dataset:  
@@ -357,8 +357,8 @@ This metadata was last updated on January 17, 2025.",9,9,,
 BTN,https://data.humdata.org/dataset/cod-ab-btn,cod-enhanced,OCHA Field Information Services Section (FISS),"Bhutan administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 20 nan  
-- Admin 2: 205 nan  
+- Admin 1: 20   
+- Admin 2: 205   
   
   
 Dates associated with this dataset:  
@@ -374,9 +374,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 BOL,https://data.humdata.org/dataset/cod-ab-bol,cod-enhanced,OCHA Field Information Services Section (FISS),"Bolivia (Plurinational State of) administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 9 nan  
-- Admin 2: 112 nan  
-- Admin 3: 339 nan  
+- Admin 1: 9   
+- Admin 2: 112   
+- Admin 3: 339   
   
   
 Dates associated with this dataset:  
@@ -512,9 +512,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Field Information Services Section (FISS),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 25 nan  
-- Admin 2: 197 nan  
-- Admin 3: 1633 nan  
+- Admin 1: 25   
+- Admin 2: 197   
+- Admin 3: 1633   
   
   
 Dates associated with this dataset:  
@@ -548,8 +548,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 CPV,https://data.humdata.org/dataset/cod-ab-cpv,cod-enhanced,OCHA Field Information Services Section (FISS),"Cabo Verde administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 22 nan  
-- Admin 2: 32 nan  
+- Admin 1: 22   
+- Admin 2: 32   
   
   
 Dates associated with this dataset:  
@@ -618,9 +618,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 CHL,https://data.humdata.org/dataset/cod-ab-chl,cod-enhanced,OCHA Field Information Services Section (FISS),"Chile administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 16 nan  
-- Admin 2: 56 nan  
-- Admin 3: 345 nan  
+- Admin 1: 16   
+- Admin 2: 56   
+- Admin 3: 345   
   
   
 Dates associated with this dataset:  
@@ -701,9 +701,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 COM,https://data.humdata.org/dataset/cod-ab-com,cod-enhanced,OCHA Field Information Services Section (FISS),"Comoros administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 3 nan  
-- Admin 2: 17 nan  
-- Admin 3: 55 nan  
+- Admin 1: 3   
+- Admin 2: 17   
+- Admin 3: 55   
   
   
 Dates associated with this dataset:  
@@ -756,9 +756,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 CRI,https://data.humdata.org/dataset/cod-ab-cri,cod-enhanced,OCHA Field Information Services Section (FISS),"Costa Rica administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 7 nan  
-- Admin 2: 84 nan  
-- Admin 3: 492 nan  
+- Admin 1: 7   
+- Admin 2: 84   
+- Admin 3: 492   
   
   
 Dates associated with this dataset:  
@@ -919,7 +919,7 @@ EGY,https://data.humdata.org/dataset/cod-ab-egy,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 27 Governorate  
 - Admin 2: 365 Region  
-- Admin 3: 5716 nan, partial coverage  
+- Admin 3: 5716 , partial coverage  
   
   
 Dates associated with this dataset:  
@@ -952,8 +952,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 GNQ,https://data.humdata.org/dataset/cod-ab-gnq,cod-enhanced,OCHA Field Information Services Section (FISS),"Equatorial Guinea administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 7 nan  
-- Admin 2: 32 nan  
+- Admin 1: 7   
+- Admin 2: 32   
   
   
 Dates associated with this dataset:  
@@ -1079,9 +1079,9 @@ This metadata was last updated on January 9, 2025.",9,48,,
 GMB,https://data.humdata.org/dataset/cod-ab-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 8 nan  
-- Admin 2: 49 nan  
-- Admin 3: 115 nan  
+- Admin 1: 8   
+- Admin 2: 49   
+- Admin 3: 115   
   
   
 Dates associated with this dataset:  
@@ -1113,8 +1113,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 GHA,https://data.humdata.org/dataset/cod-ab-gha,cod-enhanced,OCHA Field Information Services Section (FISS),"Ghana administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16 nan  
-- Admin 2: 260 nan  
+- Admin 1: 16   
+- Admin 2: 260   
   
   
 Dates associated with this dataset:  
@@ -1194,8 +1194,8 @@ This metadata was last updated on January 9, 2025.",2,32,,
 GTM,https://data.humdata.org/dataset/cod-ab-gtm,cod-enhanced,OCHA Field Information Services Section (FISS),"Guatemala administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 22 nan  
-- Admin 2: 342 nan  
+- Admin 1: 22   
+- Admin 2: 342   
   
   
 Dates associated with this dataset:  
@@ -1228,8 +1228,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 GNB,https://data.humdata.org/dataset/cod-ab-gnb,cod-enhanced,OCHA Field Information Services Section (FISS),"Guinea-Bissau administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 9 nan  
-- Admin 2: 39 nan  
+- Admin 1: 9   
+- Admin 2: 39   
   
   
 Dates associated with this dataset:  
@@ -1287,8 +1287,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 HND,https://data.humdata.org/dataset/cod-ab-hnd,cod-enhanced,OCHA Field Information Services Section (FISS),"Honduras administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 18 nan  
-- Admin 2: 298 nan  
+- Admin 1: 18   
+- Admin 2: 298   
   
   
 Dates associated with this dataset:  
@@ -1304,8 +1304,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 HUN,https://data.humdata.org/dataset/cod-ab-hun,cod-enhanced,OCHA Field Information Services Section (FISS),"Hungary administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 20 nan  
-- Admin 2: 197 nan  
+- Admin 1: 20   
+- Admin 2: 197   
   
   
 Dates associated with this dataset:  
@@ -1317,33 +1317,25 @@ Dates associated with this dataset:
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",20,197,,
-IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Indonesia administrative level 0-3 boundaries (COD-AB) dataset.
-
-These administrative boundaries were established in:  2020
-
-NOTE:  COD-AB includes 17 uninhabited features that are excluded from COD-PS.  See COD-PS caveats for further details.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
-
-Sourced from Badan Pusat Statistik (BPS - Statistics Indonesia)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Indonesia [COD-PS](https://data.humdata.org/dataset/cod-ps-idn).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 34 feature(s).  The normal administrative level 1 feature type is """"province (provinsi)"""".
-
-Administrative level 2 contains 522 feature(s).  The normal administrative level 2 feature type is """"city, district, regency (kota, kabupaten)"""".
-
-Administrative level 3 contains 7,069 feature(s).  The normal administrative level 3 feature type is """"currently not known"""".
-
-Recommended cartographic projection:  Asia South Albers Equal Area Conic
-
-This metadata was last updated on January 13, 2025.",34,522,7069,
+IDN,https://data.humdata.org/dataset/cod-ab-idn,cod-enhanced,OCHA Field Information Services Section (FISS),"Indonesia administrative level 0-4 boundaries (COD-AB) dataset version 01.  
+  
+This dataset is structured into 4 levels:  
+- Admin 1: 34 province (provinsi)  
+- Admin 2: 522 city, district, regency (kota, kabupaten)  
+- Admin 3: 7069   
+- Admin 4: 81912   
+  
+  
+Dates associated with this dataset:  
+- 30 October 2025: dataset reviewed for accuracy and completeness  
+- 01 April 2020: valid for use by the humanitarian community  
+- 08 April 2020: last edit to the dataset before publishing  
+- 08 April 2020: boundaries created by the source  
+  
+Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://data.humdata.org/organization/ocha-roap).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",34,522,7069,81912
 IRN,https://data.humdata.org/dataset/cod-ab-irn,cod-enhanced,OCHA Field Information Services Section (FISS),"Iran (Islamic Republic of) administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
@@ -1382,9 +1374,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 JAM,https://data.humdata.org/dataset/cod-ab-jam,cod-enhanced,OCHA Field Information Services Section (FISS),"Jamaica administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 14 nan  
-- Admin 2: 131 nan  
-- Admin 3: 775 nan  
+- Admin 1: 14   
+- Admin 2: 131   
+- Admin 3: 775   
   
   
 Dates associated with this dataset:  
@@ -1424,8 +1416,8 @@ This metadata was last updated on January 13, 2025.",20,218,,
 KEN,https://data.humdata.org/dataset/cod-ab-ken,cod-enhanced,OCHA Field Information Services Section (FISS),"Kenya administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 47 nan  
-- Admin 2: 290 nan  
+- Admin 1: 47   
+- Admin 2: 290   
   
   
 Dates associated with this dataset:  
@@ -1483,7 +1475,7 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 KWT,https://data.humdata.org/dataset/cod-ab-kwt,cod-enhanced,OCHA Field Information Services Section (FISS),"Kuwait administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6 nan  
+- Admin 1: 6   
   
   
 Dates associated with this dataset:  
@@ -1575,8 +1567,8 @@ This metadata was last updated on January 9, 2025.",10,78,,
 LBR,https://data.humdata.org/dataset/cod-ab-lbr,cod-enhanced,OCHA Field Information Services Section (FISS),"Liberia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 15 nan  
-- Admin 2: 136 nan  
+- Admin 1: 15   
+- Admin 2: 136   
   
   
 Dates associated with this dataset:  
@@ -1666,9 +1658,9 @@ This metadata was last updated on January 13, 2025.",22,119,1579,17465
 MWI,https://data.humdata.org/dataset/cod-ab-mwi,cod-enhanced,OCHA Field Information Services Section (FISS),"Malawi administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 3 nan  
-- Admin 2: 32 nan  
-- Admin 3: 433 nan  
+- Admin 1: 3   
+- Admin 2: 32   
+- Admin 3: 433   
   
   
 Dates associated with this dataset:  
@@ -1683,8 +1675,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 MYS,https://data.humdata.org/dataset/cod-ab-mys,cod-enhanced,OCHA Field Information Services Section (FISS),"Malaysia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16 nan  
-- Admin 2: 144 nan  
+- Admin 1: 16   
+- Admin 2: 144   
   
   
 Dates associated with this dataset:  
@@ -1700,8 +1692,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 MDV,https://data.humdata.org/dataset/cod-ab-mdv,cod-enhanced,OCHA Field Information Services Section (FISS),"Maldives administrative level 0-2 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 21 nan  
-- Admin 2: 1556 nan  
+- Admin 1: 21   
+- Admin 2: 1556   
   
   
 Dates associated with this dataset:  
@@ -1781,8 +1773,8 @@ This metadata was last updated on January 9, 2025.",4,34,,
 MRT,https://data.humdata.org/dataset/cod-ab-mrt,cod-enhanced,OCHA Field Information Services Section (FISS),"Mauritania administrative level 0-2 boundaries (COD-AB) dataset version 03.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 15 nan  
-- Admin 2: 63 nan  
+- Admin 1: 15   
+- Admin 2: 63   
   
   
 Dates associated with this dataset:  
@@ -1819,8 +1811,8 @@ This metadata was last updated on January 9, 2025.",12,,,
 MEX,https://data.humdata.org/dataset/cod-ab-mex,cod-enhanced,OCHA Field Information Services Section (FISS),"Mexico administrative level 0-2 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 32 nan  
-- Admin 2: 2457 nan  
+- Admin 1: 32   
+- Admin 2: 2457   
   
   
 Dates associated with this dataset:  
@@ -1859,7 +1851,7 @@ This metadata was last updated on January 13, 2025.",4,75,,
 MDA,https://data.humdata.org/dataset/cod-ab-mda,cod-enhanced,OCHA Field Information Services Section (FISS),"Republic of Moldova administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 37 nan  
+- Admin 1: 37   
   
   
 Dates associated with this dataset:  
@@ -1913,8 +1905,8 @@ This metadata was last updated on January 9, 2025.",3,,,
 MAR,https://data.humdata.org/dataset/cod-ab-mar,cod-enhanced,OCHA Field Information Services Section (FISS),"Morocco administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 10 nan  
-- Admin 2: 69 nan  
+- Admin 1: 10   
+- Admin 2: 69   
   
   
 Dates associated with this dataset:  
@@ -1926,24 +1918,25 @@ Dates associated with this dataset:
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",10,69,,
-MOZ,https://data.humdata.org/dataset/cod-ab-moz,cod-enhanced,OCHA Field Information Services Section (FISS),"Mozambique administrative level 0-3 boundaries (COD-AB) dataset version 01.  
+MOZ,https://data.humdata.org/dataset/cod-ab-moz,cod-enhanced,OCHA Field Information Services Section (FISS),"Mozambique administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
-This dataset is structured into 3 levels:  
-- Admin 1: 11 Province  
-- Admin 2: 159 District  
-- Admin 3: 411 Posto  
+This dataset is structured into 4 levels:  
+- Admin 1: 11 província  
+- Admin 2: 161 distrito  
+- Admin 3: 457 posto  
+- Admin 4: 1712 localidade  
   
   
 Dates associated with this dataset:  
-- 24 March 2024: dataset reviewed for accuracy and completeness  
-- 07 June 2019: valid for use by the humanitarian community  
-- 20 October 1954: last edit to the dataset before publishing  
-- 20 October 1954: boundaries created by the source  
+- 10 March 2026: dataset reviewed for accuracy and completeness  
+- 01 January 2025: valid for use by the humanitarian community  
+- 10 March 2026: last edit to the dataset before publishing  
+- 01 January 2017: boundaries created by the source  
   
-Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
+Contributed by [OCHA Mozambique](https://data.humdata.org/organization/ocha-mozambique-hat).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,159,411,
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",11,161,457,1712
 MMR,https://data.humdata.org/dataset/cod-ab-mmr,cod-enhanced,OCHA Field Information Services Section (FISS),"Myanmar administrative level 0-5 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 5 levels:  
@@ -1982,9 +1975,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 NPL,https://data.humdata.org/dataset/cod-ab-npl,cod-enhanced,OCHA Field Information Services Section (FISS),"Nepal administrative level 0-3 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 7 nan  
-- Admin 2: 77 nan  
-- Admin 3: 775 nan  
+- Admin 1: 7   
+- Admin 2: 77   
+- Admin 3: 775   
   
   
 Dates associated with this dataset:  
@@ -2051,8 +2044,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 OMN,https://data.humdata.org/dataset/cod-ab-omn,cod-enhanced,OCHA Field Information Services Section (FISS),"Oman administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 11 nan  
-- Admin 2: 49 nan  
+- Admin 1: 11   
+- Admin 2: 49   
   
   
 Dates associated with this dataset:  
@@ -2162,9 +2155,9 @@ This metadata was last updated on February 03, 2025.",18,250,,
 PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Field Information Services Section (FISS),"Peru administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 25 nan  
-- Admin 2: 196 nan  
-- Admin 3: 1873 nan  
+- Admin 1: 25   
+- Admin 2: 196   
+- Admin 3: 1873   
   
   
 Dates associated with this dataset:  
@@ -2199,8 +2192,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 POL,https://data.humdata.org/dataset/cod-ab-pol,cod-enhanced,OCHA Field Information Services Section (FISS),"Poland administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 16 nan  
-- Admin 2: 380 nan  
+- Admin 1: 16   
+- Admin 2: 380   
   
   
 Dates associated with this dataset:  
@@ -2240,8 +2233,8 @@ This metadata was last updated on January 9, 2025.",8,91,781,
 ROU,https://data.humdata.org/dataset/cod-ab-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 8 nan  
-- Admin 2: 42 nan  
+- Admin 1: 8   
+- Admin 2: 42   
   
   
 Dates associated with this dataset:  
@@ -2368,28 +2361,24 @@ Administrative level 2 contains 547 feature(s).  The normal administrative level
 Recommended cartographic projection:  North America Albers Equal Area Conic
 
 This metadata was last updated on January 13, 2025.",10,547,,
-MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Martin (French part) administrative level 0 boundaries (COD-AB) dataset.
-
-NOTE:  COD-AB provides only ADM0 polygon.  COD-PS extends to ADM1.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in December 2023.  The COD-AB does not require any update.
-
-Sourced from www.gadm.org
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Saint Martin (French part) [COD-PS](https://data.humdata.org/dataset/cod-ps-maf).
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-maf).  
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-The date that these administrative boundaries were established is unknown.
-
-Recommended cartographic projection:  North America Albers Equal Area Conic",,,,
+MAF,https://data.humdata.org/dataset/cod-ab-maf,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Martin (French part) administrative level 0 boundaries (COD-AB) dataset version 01.  
+  
+This dataset contains the national boundary only (admin level 0).  
+  
+  
+Dates associated with this dataset:  
+- 07 November 2024: dataset reviewed for accuracy and completeness  
+- 26 January 2024: valid for use by the humanitarian community  
+- 22 February 2007: last edit to the dataset before publishing  
+- 22 February 2007: boundaries created by the source  
+  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",,,,
 VCT,https://data.humdata.org/dataset/cod-ab-vct,cod-enhanced,OCHA Field Information Services Section (FISS),"Saint Vincent and the Grenadines administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 6 nan  
+- Admin 1: 6   
   
   
 Dates associated with this dataset:  
@@ -2401,33 +2390,28 @@ Dates associated with this dataset:
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",6,,,
-STP,https://data.humdata.org/dataset/cod-ab-stp,cod-standard,OCHA West and Central Africa (ROWCA),"Sao Tome and Principe administrative level 0-2 boundaries (COD-AB) dataset.
-
-The date that these administrative boundaries were established is unknown.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
-
-Sourced from www.gadm.org
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Sao Tome and Principe [COD-PS](https://data.humdata.org/dataset/cod-ps-stp).
-
-As this is an island country, no edge-matched (COD-EM) version of this COD-AB is required.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 2 feature(s).  The normal administrative level 1 feature type is """"Province"""".
-
-Administrative level 2 contains 8 feature(s).  The normal administrative level 2 feature type is """"District"""".
-
-Recommended cartographic projection:  Africa Albers Equal Area Conic
-
-This metadata was last updated on January 13, 2025.",2,8,,
+STP,https://data.humdata.org/dataset/cod-ab-stp,cod-enhanced,OCHA Field Information Services Section (FISS),"Sao Tome and Principe administrative level 0-1 boundaries (COD-AB) dataset version 01.  
+  
+This dataset is structured into 1 level:  
+- Admin 1: 7 Province  
+  
+  
+Note: São Tomé and Príncipe comprises two provinces (São Tomé and Príncipe) at Admin 1, subdivided into 7 districts at Admin 2. Six districts are located on São Tomé island (Água Grande, Cantagalo, Caué, Lembá, Lobata, Mé-Zóchi) and one (Pagué) covers Príncipe island. The island of Príncipe has held autonomous region status since 1995.  
+  
+  
+Dates associated with this dataset:  
+- 01 June 2026: dataset reviewed for accuracy and completeness  
+- 01 June 2026: valid for use by the humanitarian community  
+- 01 June 2026: last edit to the dataset before publishing  
+- 17 August 2020: boundaries created by the source  
+  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",7,,,
 SAU,https://data.humdata.org/dataset/cod-ab-sau,cod-enhanced,OCHA Field Information Services Section (FISS),"Saudi Arabia administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 13 nan  
+- Admin 1: 13   
   
   
 Dates associated with this dataset:  
@@ -2485,10 +2469,10 @@ This metadata was last updated on January 9, 2025.""",4,8,27,
 SLE,https://data.humdata.org/dataset/cod-ab-sle,cod-enhanced,OCHA Field Information Services Section (FISS),"Sierra Leone administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 5 nan  
-- Admin 2: 16 nan  
-- Admin 3: 167 nan  
-- Admin 4: 1316 nan  
+- Admin 1: 5   
+- Admin 2: 16   
+- Admin 3: 167   
+- Admin 4: 1316   
   
   
 Dates associated with this dataset:  
@@ -2504,7 +2488,7 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 SXM,https://data.humdata.org/dataset/cod-ab-sxm,cod-enhanced,OCHA Field Information Services Section (FISS),"Sint Maarten (Dutch part) administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 8 nan  
+- Admin 1: 8   
   
   
 Dates associated with this dataset:  
@@ -2519,8 +2503,8 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 SVK,https://data.humdata.org/dataset/cod-ab-svk,cod-enhanced,OCHA Field Information Services Section (FISS),"Slovakia administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 8 nan  
-- Admin 2: 79 nan  
+- Admin 1: 8   
+- Admin 2: 79   
   
   
 Dates associated with this dataset:  
@@ -2579,7 +2563,7 @@ This dataset is structured into 4 levels:
 - Admin 1: 9 Province  
 - Admin 2: 52 District  
 - Admin 3: 213 Local municipality  
-- Admin 4: 4392 nan  
+- Admin 4: 4392   
   
   
 Dates associated with this dataset:  
@@ -2595,10 +2579,10 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 LKA,https://data.humdata.org/dataset/cod-ab-lka,cod-enhanced,OCHA Field Information Services Section (FISS),"Sri Lanka administrative level 0-4 boundaries (COD-AB) dataset version 03.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 9 nan  
-- Admin 2: 25 nan  
-- Admin 3: 339 nan  
-- Admin 4: 14043 nan  
+- Admin 1: 9   
+- Admin 2: 25   
+- Admin 3: 339   
+- Admin 4: 14043   
   
   
 Dates associated with this dataset:  
@@ -2617,9 +2601,6 @@ This dataset is structured into 3 levels:
 - Admin 1: 10 State  
 - Admin 2: 79 County  
 - Admin 3: 512 Payam  
-  
-  
-Note: nan  
   
   
 Dates associated with this dataset:  
@@ -2677,8 +2658,8 @@ This metadata was last updated on January 13, 2025.",10,62,,
 SWZ,https://data.humdata.org/dataset/cod-ab-swz,cod-enhanced,OCHA Field Information Services Section (FISS),"Eswatini administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 4 nan  
-- Admin 2: 55 nan  
+- Admin 1: 4   
+- Admin 2: 55   
   
   
 Dates associated with this dataset:  
@@ -2760,9 +2741,9 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 TLS,https://data.humdata.org/dataset/cod-ab-tls,cod-enhanced,OCHA Field Information Services Section (FISS),"Timor-Leste administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
-- Admin 1: 13 nan  
-- Admin 2: 65 nan  
-- Admin 3: 442 nan  
+- Admin 1: 13   
+- Admin 2: 65   
+- Admin 3: 442   
   
   
 Dates associated with this dataset:  
@@ -2780,7 +2761,7 @@ TGO,https://data.humdata.org/dataset/cod-ab-tgo,cod-enhanced,OCHA Field Informat
 This dataset is structured into 3 levels:  
 - Admin 1: 5 Region  
 - Admin 2: 40 Prefecture  
-- Admin 3: 373 nan  
+- Admin 3: 373   
   
   
 Dates associated with this dataset:  
@@ -2846,10 +2827,10 @@ This metadata was last updated on January 13, 2025.",15,,,
 TUN,https://data.humdata.org/dataset/cod-ab-tun,cod-enhanced,OCHA Field Information Services Section (FISS),"Tunisia administrative level 0-4 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 6 nan  
-- Admin 2: 24 nan  
-- Admin 3: 264 nan  
-- Admin 4: 2084 nan  
+- Admin 1: 6   
+- Admin 2: 24   
+- Admin 3: 264   
+- Admin 4: 2084   
   
   
 Dates associated with this dataset:  
@@ -2907,7 +2888,7 @@ This dataset is structured into 4 levels:
 - Admin 1: 4 Region  
 - Admin 2: 135 District  
 - Admin 3: 208 Sub-county, parish, village  
-- Admin 4: 1520 nan  
+- Admin 4: 1520   
   
   
 Dates associated with this dataset:  
@@ -3010,8 +2991,8 @@ This metadata was last updated on January 13, 2025.",14,199,,
 VUT,https://data.humdata.org/dataset/cod-ab-vut,cod-enhanced,OCHA Field Information Services Section (FISS),"Vanuatu administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
-- Admin 1: 6 nan  
-- Admin 2: 66 nan  
+- Admin 1: 6   
+- Admin 2: 66   
   
   
 Dates associated with this dataset:  
@@ -3081,7 +3062,7 @@ This metadata was last updated on January 9, 2025.",6,,,
 ESH,https://data.humdata.org/dataset/cod-ab-esh,cod-enhanced,OCHA Field Information Services Section (FISS),"Western Sahara administrative level 0-1 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 1 level:  
-- Admin 1: 4 nan  
+- Admin 1: 4   
   
   
 Dates associated with this dataset:  
@@ -3114,10 +3095,10 @@ Part of the dataset: [Global Subnational Administrative Boundaries](https://data
 ZMB,https://data.humdata.org/dataset/cod-ab-zmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Zambia administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 4 levels:  
-- Admin 1: 10 nan  
-- Admin 2: 116 nan  
-- Admin 3: 156 nan  
-- Admin 4: 1853 nan  
+- Admin 1: 10   
+- Admin 2: 116   
+- Admin 3: 156   
+- Admin 4: 1853   
   
   
 Dates associated with this dataset:  
