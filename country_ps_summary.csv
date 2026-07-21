@@ -218,9 +218,9 @@ ERI,https://data.humdata.org/dataset/cod-ps-eri,cod-standard,OCHA Regional Offic
 REFERENCE YEAR:  2001
 
 These tables are suitable for database or GIS linkage to the [Eritrea - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-eri).",6,58,,
-ETH,https://data.humdata.org/dataset/cod-ps-eth,cod-standard,OCHA Ethiopia,"Ethiopia administrative level 0-3 sex and age disaggregated projected 2022 population statistics.
+ETH,https://data.humdata.org/dataset/cod-ps-eth,cod-standard,OCHA Ethiopia,"Ethiopia administrative level 0-3 sex and age disaggregated projected 2026 population statistics.
 
-REFERENCE YEAR:  2022
+REFERENCE YEAR:  2025
 
 These tables are suitable for database or GIS linkage to the [Ethiopia - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-eth).",13,92,1084,
 FJI,https://data.humdata.org/dataset/cod-ps-fji,cod-standard,OCHA Regional Office for Asia and the Pacific (ROAP),"Fiji administrative level 0 (country), 1 (division), 2 (province), and 3 (tikina) 2017 population statistics
