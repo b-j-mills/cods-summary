@@ -2194,31 +2194,24 @@ Dates associated with this dataset:
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",16,380,,
-QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Middle East and North Africa (ROMENA),"Qatar administrative level 0-3 boundaries (COD-AB) dataset.
-
-The date that these administrative boundaries were established is unknown.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in April 2024.  The COD-AB does not require any update.
-
-Sourced from Qatar planning and statistics authority
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Qatar [COD-PS](https://data.humdata.org/dataset/cod-ps-qat).
-
-An edge-matched (COD-EM) version of this COD-AB is available on [HDX here](https://data.humdata.org/dataset/cod-em-qat).  
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 8 feature(s).  The normal administrative level 1 feature type is """"Municipality"""".
-
-Administrative level 2 contains 91 feature(s).  The normal administrative level 2 feature type is """"Zone"""".
-
-Administrative level 3 contains 781 feature(s).  The normal administrative level 3 feature type is """"District"""".
-
-Recommended cartographic projection:  Asia South Albers Equal Area Conic
-
-This metadata was last updated on January 9, 2025.",8,91,781,
+QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Field Information Services Section (FISS),"Qatar administrative level 0-3 boundaries (COD-AB) dataset version 02.  
+  
+This dataset is structured into 3 levels:  
+- Admin 1: 8 Municipality  
+- Admin 2: 87 Zone, partial coverage  
+- Admin 3: 718 District, partial coverage  
+  
+  
+Dates associated with this dataset:  
+- 30 April 2024: dataset reviewed for accuracy and completeness  
+- 27 June 2024: valid for use by the humanitarian community  
+- 30 November 2015: last edit to the dataset before publishing  
+- 30 November 2015: boundaries created by the source  
+  
+Contributed by [OCHA Middle East and North Africa (ROMENA)](https://data.humdata.org/organization/ocha-romena).  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",8,91,781,
 ROU,https://data.humdata.org/dataset/cod-ab-rou,cod-enhanced,OCHA Field Information Services Section (FISS),"Romania administrative level 0-2 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 2 levels:  
@@ -2998,20 +2991,20 @@ VEN,https://data.humdata.org/dataset/cod-ab-ven,cod-enhanced,OCHA Field Informat
   
 This dataset is structured into 3 levels:  
 - Admin 1: 25 State  
-- Admin 2: 335 Municipality  
-- Admin 3: 1134 Parish (estados, municipios, parroquias)  
+- Admin 2: 336 Municipality  
+- Admin 3: 1135 Parish (estados, municipios, parroquias)  
   
   
 Dates associated with this dataset:  
 - 17 January 2025: dataset reviewed for accuracy and completeness  
 - 23 February 2021: valid for use by the humanitarian community  
-- 02 May 2018: last edit to the dataset before publishing  
+- 07 August 2026: last edit to the dataset before publishing  
 - 02 May 2018: boundaries created by the source  
   
 Contributed by [OCHA Venezuela](https://data.humdata.org/organization/ochavenezuela).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",25,335,1134,
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",25,336,1135,
 VNM,https://data.humdata.org/dataset/cod-ab-vnm,cod-enhanced,OCHA Field Information Services Section (FISS),"Viet Nam administrative level 0-1 boundaries (COD-AB) dataset version 02.  
   
 This dataset is structured into 1 level:  
