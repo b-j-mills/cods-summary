@@ -2198,8 +2198,8 @@ QAT,https://data.humdata.org/dataset/cod-ab-qat,cod-enhanced,OCHA Field Informat
   
 This dataset is structured into 3 levels:  
 - Admin 1: 8 Municipality  
-- Admin 2: 87 Zone, partial coverage  
-- Admin 3: 718 District, partial coverage  
+- Admin 2: 87 Zone  
+- Admin 3: 718 District  
   
   
 Dates associated with this dataset:  
