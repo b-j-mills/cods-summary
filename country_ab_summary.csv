@@ -493,22 +493,28 @@ Contributed by [OCHA Burkina Faso](https://data.humdata.org/organization/ocha-bu
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",17,47,351,
-BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),"Burundi administrative level 0-2 boundaries (COD-AB) dataset version 01.  
+BDI,https://data.humdata.org/dataset/cod-ab-bdi,cod-enhanced,OCHA Field Information Services Section (FISS),"Burundi administrative level 0-4 boundaries (COD-AB) dataset version 02.  
   
-This dataset is structured into 2 levels:  
-- Admin 1: 18 Province  
-- Admin 2: 119 Commune  
+This dataset is structured into 4 levels:  
+- Admin 1: 5 Province  
+- Admin 2: 42 Commune  
+- Admin 3: 462 Zone  
+- Admin 4: 3067 Colline/Quartier  
+  
+  
+Note: The dataset contains 462 ADM3 and 3,067 ADM4 features, compared with the 451 ADM3 and 3,044 ADM4 administrative units established by the Government of Burundi’s LOI. The difference results from the inclusion of 11 protected-area polygons at ADM3 and 23 at ADM4, including two Parc de la Kibira polygons added as protected areas in ADM4. These protected areas are spatial features and do not represent additional official administrative units.  
   
   
 Dates associated with this dataset:  
-- 23 December 2024: dataset reviewed for accuracy and completeness  
-- 03 November 2017: valid for use by the humanitarian community  
-- 26 March 2015: last edit to the dataset before publishing  
-- 26 March 2015: boundaries created by the source  
+- 07 July 2026: dataset reviewed for accuracy and completeness  
+- 07 July 2026: valid for use by the humanitarian community  
+- 07 July 2026: last edit to the dataset before publishing  
+- 07 July 2026: boundaries created by the source  
   
+Contributed by [OCHA Burundi](https://data.humdata.org/organization/ocha-burundi).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,119,,
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",5,42,462,3067
 KHM,https://data.humdata.org/dataset/cod-ab-khm,cod-enhanced,OCHA Field Information Services Section (FISS),"Cambodia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
