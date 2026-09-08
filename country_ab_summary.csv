@@ -1057,31 +1057,21 @@ Administrative level 2 contains 22 feature(s).  The normal administrative level 
 Recommended cartographic projection:  South America Albers Equal Area Conic
 
 This metadata was last updated on January 9, 2025.",2,22,,
-GAB,https://data.humdata.org/dataset/cod-ab-gab,cod-standard,OCHA West and Central Africa (ROWCA),"Gabon administrative level 0-2 boundaries (COD-AB) dataset.
-
-The date that these administrative boundaries were established is unknown.
-
-NOTE:  See COD-PS caveats about Libreville data.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in October 2024.  The COD-AB does not require any update.
-
-Sourced from Second Administrative Level Boundaries (SALB)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Gabon [COD-PS](https://data.humdata.org/dataset/cod-ps-gab).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 9 feature(s).  The normal administrative level 1 feature type is """"currently not known"""".
-
-Administrative level 2 contains 48 feature(s).  The normal administrative level 2 feature type is """"currently not known"""".
-
-Recommended cartographic projection:  Africa Albers Equal Area Conic
-
-This metadata was last updated on January 9, 2025.",9,48,,
+GAB,https://data.humdata.org/dataset/cod-ab-gab,cod-enhanced,OCHA Field Information Services Section (FISS),"Gabon administrative level 0-2 boundaries (COD-AB) dataset version 01.  
+  
+This dataset is structured into 2 levels:  
+- Admin 1: 9 Province  
+- Admin 2: 48 Departement  
+  
+  
+Dates associated with this dataset:  
+- 01 June 2026: dataset reviewed for accuracy and completeness  
+- 01 June 2026: valid for use by the humanitarian community  
+- 01 June 2026: last edit to the dataset before publishing  
+  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",9,48,,
 GMB,https://data.humdata.org/dataset/cod-ab-gmb,cod-enhanced,OCHA Field Information Services Section (FISS),"Gambia administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
