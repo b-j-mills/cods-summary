@@ -2112,31 +2112,24 @@ Contributed by [OCHA Regional Office for Asia and the Pacific (ROAP)](https://da
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
 Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",22,87,326,
-PRY,https://data.humdata.org/dataset/cod-ab-pry,cod-standard,OCHA Latin America and the Caribbean (ROLAC),"Paraguay administrative level 0-2 boundaries (COD-AB) dataset.
-
-The date that these administrative boundaries were established is unknown.
-
-NOTE:  New government boundary sources, including a new ADM3 layer, have been identified and will be incorporated into a future COD-AB update.
-
-This COD-AB was most recently reviewed for accuracy and necessary changes in January 2025.  The COD-AB requires improvements.
-
-Sourced from Dirección General de Estadísticas, Encuestas y Censos (DGEEC)
-
-Vetting by Information Technology Outreach Services (ITOS) with funding from USAID.
-
-This COD-AB is suitable for database or GIS linkage to the Paraguay [COD-PS](https://data.humdata.org/dataset/cod-ps-pry).
-
-No edge-matched (COD-EM) version of this COD-AB has yet been prepared.
-
-Please see the [COD Portal](https://cod.unocha.org/).
-
-Administrative level 1 contains 18 feature(s).  The normal administrative level 1 feature type is 'department (departamento)'.
-
-Administrative level 2 contains 250 feature(s).  The normal administrative level 2 feature type is 'distrtict (distrito)'.
-
-Recommended cartographic projection:  South America Albers Equal Area Conic
-
-This metadata was last updated on February 03, 2025.",18,250,,
+PRY,https://data.humdata.org/dataset/cod-ab-pry,cod-enhanced,OCHA Field Information Services Section (FISS),"Paraguay administrative level 0-4 boundaries (COD-AB) dataset version 01.  
+  
+This dataset is structured into 4 levels:  
+- Admin 1: 18 Departamento  
+- Admin 2: 263 Distrito  
+- Admin 3: 7994 Barrio/Localidad  
+- Admin 4: 105952 Manzana, partial coverage  
+  
+  
+Dates associated with this dataset:  
+- 09 July 2026: dataset reviewed for accuracy and completeness  
+- 29 July 2026: valid for use by the humanitarian community  
+- 29 July 2026: last edit to the dataset before publishing  
+- 01 January 2022: boundaries created by the source  
+  
+Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
+  
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",18,263,7994,105952
 PER,https://data.humdata.org/dataset/cod-ab-per,cod-enhanced,OCHA Field Information Services Section (FISS),"Peru administrative level 0-3 boundaries (COD-AB) dataset version 01.  
   
 This dataset is structured into 3 levels:  
