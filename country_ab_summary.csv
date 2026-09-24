@@ -2858,12 +2858,12 @@ UGA,https://data.humdata.org/dataset/cod-ab-uga,cod-enhanced,OCHA Field Informat
 This dataset is structured into 4 levels:  
 - Admin 1: 4 Region  
 - Admin 2: 135 District  
-- Admin 3: 208 Sub-county, parish, village  
+- Admin 3: 203 Sub-county, parish, village  
 - Admin 4: 1520   
   
   
 Dates associated with this dataset:  
-- 28 January 2025: dataset reviewed for accuracy and completeness  
+- 21 September 2026: dataset reviewed for accuracy and completeness  
 - 24 August 2020: valid for use by the humanitarian community  
 - 11 June 2020: last edit to the dataset before publishing  
 - 11 June 2020: boundaries created by the source  
@@ -2871,7 +2871,7 @@ Dates associated with this dataset:
 Contributed by [OCHA Regional Office for Southern and Eastern Africa (ROSEA)](https://data.humdata.org/organization/ocha-rosea).  
 Quality assured, configured, and published by [OCHA Field Information Services (FIS)](https://data.humdata.org/organization/ocha-fiss) and [HDX](https://data.humdata.org/organization/hdx).  
   
-Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,135,208,1520
+Part of the dataset: [Global Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-global)",4,135,203,1520
 UKR,https://data.humdata.org/dataset/cod-ab-ukr,cod-enhanced,OCHA Field Information Services Section (FISS),"Ukraine administrative level 0-4 boundaries (COD-AB) dataset version 05.  
   
 This dataset is structured into 4 levels:  
