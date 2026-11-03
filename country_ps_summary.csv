@@ -122,7 +122,7 @@ REFERENCE YEAR:  2022
 These tables are suitable for database or GIS linkage to the [Brazil - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bra) layers using the ADM0, ADM1, and ADM2_PCODE fields.",27,5570,,
 BFA,https://data.humdata.org/dataset/cod-ps-bfa,cod-enhanced,UNFPA,"Burkina Faso  administrative level 0-2 sex and age disaggregated 2023 projected population statistics (with five-year intervals) and 2020-2035 projected population statistics (with single-year intervals).
 
-REFERENCE YEAR:  2023
+REFERENCE YEAR:  2024
 
 The CSV tables are suitable for database or GIS linkage to the administrative level 0-3 [Burkina Faso - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-bfa) boundaries using the ADM0, ADM1, and ADM2_PCODE fields.",13,45,,
 BDI,https://data.humdata.org/dataset/cod-ps-bdi,cod-enhanced,UNFPA,"Burundi administrative level 0-2 sex and age disaggregated 2022 projections with standard and special age categories
