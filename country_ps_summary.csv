@@ -515,7 +515,7 @@ MOZ,https://data.humdata.org/dataset/cod-ps-moz,cod-enhanced,UNFPA,"Mozambique a
 REFERENCE YEAR:  2023
 
 These tables are suitable for database or GIS linkage to the [Mozambique - Subnational Administrative Divisions](https://data.humdata.org/dataset/cod-ab-moz) at levels 0-2 using the ADM0, ADM1, and ADM2_PCODE fields.",11,159,,
-MMR,https://data.humdata.org/dataset/cod-ps-mmr,,OCHA Regional Office for Asia and the Pacific (ROAP),"Myanmar subnational projected population statistics at administrative level 0-3, gender and age disaggregated.
+MMR,https://data.humdata.org/dataset/cod-ps-mmr,cod-enhanced,OCHA Regional Office for Asia and the Pacific (ROAP),"Myanmar subnational projected population statistics at administrative level 0-3, gender and age disaggregated.
 Baseline Population Year	2014;
 COD-PS Reference Year	2025
 ",,,,
@@ -746,6 +746,9 @@ SWZ,https://data.humdata.org/dataset/cod-ps-swz,cod-enhanced,UNFPA,"Kingdom of E
 REFERENCE YEAR:  2022
 
 These tables are suitable for database or GIS linkage to the [Kingdom of Eswatini - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-swz).",4,,,
+SYR,https://data.humdata.org/dataset/cod-ps-syr,cod-standard,OCHA Syria,"This dataset contains information on the total population in the Syrian Arab Republic, disaggregated by sex and age, as well as administrative levels 1 through 4. 
+
+This dataset was last updated in August 2025, and given the recent humanitarian structure transition in Syria, we do not have a specific date for the next updates. This data is currently confidential. It is intended for operational and programmatic use only and cannot be shared for academic or research purposes.",,,,
 TJK,https://data.humdata.org/dataset/cod-ps-tjk,cod-enhanced,UNFPA,Tajikistan administrative level 0-1 sex and age disaggregated 2019 projected population statistics.  See caveat.,5,,,
 TZA,https://data.humdata.org/dataset/cod-ps-tza,cod-enhanced,UNFPA,"United Republic of Tanzania administrative level 0-2 sex and age disaggregated 2020 population projections
 
